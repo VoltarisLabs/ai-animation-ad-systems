@@ -4,8 +4,8 @@ Which videos from each channel have been read in full and folded into the creato
 
 | Channel | Long-form | Shorts | Read |
 |---|---|---|---|
-| [Stefan Georgi](https://www.youtube.com/@StefanGeorgi1) ([file](../03-modern-creators/stefan-georgi.md)) | 182 | 1 | 79 |
-| [Sabri Suby](https://www.youtube.com/@SabriSubyOfficial) ([file](../03-modern-creators/sabri-suby.md)) | 470 | 336 | 568 |
+| [Stefan Georgi](https://www.youtube.com/@StefanGeorgi1) ([file](../03-modern-creators/stefan-georgi.md)) | 182 | 1 | 87 |
+| [Sabri Suby](https://www.youtube.com/@SabriSubyOfficial) ([file](../03-modern-creators/sabri-suby.md)) | 470 | 336 | 584 |
 
 ## Videos read
 
@@ -45,6 +45,7 @@ Which videos from each channel have been read in full and folded into the creato
 | Stefan Georgi | video | [2,216 Word Chat GPT “Mega-Prompt” Generates Endless Ad Hooks](https://www.youtube.com/watch?v=9SpnpoqoAMo) | read, used |
 | Stefan Georgi | video | [#1 Mistake Copywriters Make with GPT4](https://www.youtube.com/watch?v=RCM4B4QEYu0) | read, used |
 | Stefan Georgi | video | [Trick ChatGPT into Writing Great Ads](https://www.youtube.com/watch?v=ZBVWIoUfNHs) | read, used |
+| Stefan Georgi | video | [How to Use OpenAI to Generate Endless Facebook Ads for Your Business](https://www.youtube.com/watch?v=p0MenvsguiM) | read, used |
 | Stefan Georgi | video | [How to use Open AI to Write a Sales Letter Lead in Less than 10 minutes.](https://www.youtube.com/watch?v=QxIUjcQW44A) | read, used |
 | Stefan Georgi | video | [Psychology of Marketing Using Dopamine, Emotions, and Curiosity to Sell](https://www.youtube.com/watch?v=6RhpgY_w8kA) | read, used |
 | Stefan Georgi | video | [Curiosity and Riddles In Your Sales Copy (Part I)](https://www.youtube.com/watch?v=UPA1rZU_aN0) | read, used |
@@ -55,6 +56,7 @@ Which videos from each channel have been read in full and folded into the creato
 | Stefan Georgi | video | [Facebook Ads vs YouTube Ads Compliance Showdown: Which One Is Better To Use For Compliance?](https://www.youtube.com/watch?v=5NaYHXq_qwk) | read, used |
 | Stefan Georgi | video | [How To Attract More Leads and Close Clients Through Instagram DMs In 2021](https://www.youtube.com/watch?v=bahWDZzPnYk) | read, off-topic |
 | Stefan Georgi | video | [Best Place To Put Your BUY NOW Button On Any Landing Page, Shopify Site or ClickFunnel Page](https://www.youtube.com/watch?v=ZLQDwKDgzYE) | read, used |
+| Stefan Georgi | video | [How To Get More Clients Without Upwork For Freelancers and Copywriters](https://www.youtube.com/watch?v=tRs78SmLJ8I) | read, off-topic |
 | Stefan Georgi | video | [Understanding Email Marketing Open & Click Rates (Double Your Email Open Rates and CTRs)](https://www.youtube.com/watch?v=RUUD9gTLGCE) | read, used |
 | Stefan Georgi | video | [Best Facebook Ad Opening One Liners - Write Wildly Profitable Facebook Ads 💵](https://www.youtube.com/watch?v=igQnL-O4ipw) | read, used |
 | Stefan Georgi | video | [Close a $10,000+ Copywriting Client - How To Find Clients and Close More Deals As a Copywriter](https://www.youtube.com/watch?v=_iv-2YjBOLE) | read, off-topic |
@@ -65,6 +67,7 @@ Which videos from each channel have been read in full and folded into the creato
 | Stefan Georgi | video | [Writing Sales Copy For International Markets To Convert More Customers On Paid Ads 💵](https://www.youtube.com/watch?v=TU6RLMMjt8Q) | read, used |
 | Stefan Georgi | video | [Is ‘Curiosity’ and ‘Corruption’ The 2 Biggest Keys of The Mechanism When Writing a Sales Letter 📝](https://www.youtube.com/watch?v=MnPOo_o-BC4) | read, used |
 | Stefan Georgi | video | [How To Reveal The Price In a Sales Letter Like a Pro - Writing The Perfect Sales Pitch and Close 💵](https://www.youtube.com/watch?v=Hh0NivgwuVM) | read, used |
+| Stefan Georgi | video | [Will RMBC Ever Get Too Saturated? What To Know Becoming a Direct Response Copywriter In 2021](https://www.youtube.com/watch?v=nE8lES_kDjA) | read, used |
 | Stefan Georgi | video | [Critiquing Facebook Ads LIVE - What Makes a Facebook Ad High Converting? - Follow These 3 Steps](https://www.youtube.com/watch?v=0NCG7L_CiCY) | read, used |
 | Stefan Georgi | video | [Use Storytelling To Write Better Sales Copy - Create Landing Pages That Convert 💸](https://www.youtube.com/watch?v=-VFq8J5ZzgY) | read, used |
 | Stefan Georgi | video | [If You're Niched Down Too Small, Here's How To Scale Any Offer Online With Social Media Marketing 💵](https://www.youtube.com/watch?v=00lZCUJnXbY) | read, used |
@@ -75,10 +78,15 @@ Which videos from each channel have been read in full and folded into the creato
 | Stefan Georgi | video | [How To Create Successful Facebook Video Ads - Follow These 3 Steps To 100% More Conversions 💵](https://www.youtube.com/watch?v=NaeqHLUsgAs) | read, used |
 | Stefan Georgi | video | [Advanced Facebook Ad Targeting Strategies - Facebook Ads In 2021 - Decrease Your Ad Spend Costs](https://www.youtube.com/watch?v=0g2rCBE2A4E) | read, used |
 | Stefan Georgi | video | [How To Write Better Facebook Ad Copy That Actually CONVERTS and SELLS - Facebook Ads For Beginners](https://www.youtube.com/watch?v=2mPA2f-6fpg) | read, used |
+| Stefan Georgi | video | [Copywriting 101 - How Much to Charge as a BEGINNER Copywriter In 2021](https://www.youtube.com/watch?v=pnBHHWQ7OtI) | read, off-topic |
 | Stefan Georgi | video | [Hiring a Copywriter For Your SMMA Agency - How To Hire a Freelance Writer or Copywriter 📝](https://www.youtube.com/watch?v=ANAciQULkDc) | read, off-topic |
+| Stefan Georgi | video | [How To Write Facebook Ad Copy That CONVERTS and SELLS While Being Compliant and No Ad Account Bans](https://www.youtube.com/watch?v=sf5zug5SyDs) | read, used |
+| Stefan Georgi | video | [To Make More Money As a Copywriter, Should I Be Managing Email Lists or Writing Long Form Copy? 🤔](https://www.youtube.com/watch?v=rIKMHg_A3BY) | read, off-topic |
 | Stefan Georgi | video | [3 Tips To Become a 7-Figure Marketer In 2021 By Tapping Into The Brain's 'Marketing Radar' 🤔](https://www.youtube.com/watch?v=jWI4iCmNEgc) | read, used |
 | Stefan Georgi | video | [How To Successfully Promote Your Product Launch or Offer Online With These 3 Easy Steps 💻](https://www.youtube.com/watch?v=aQenQkL7qnQ) | read, used |
 | Stefan Georgi | video | [Writing Daily Emails That Actually SELL For Ecom, Digital Products & Courses - Email Marketing 2021](https://www.youtube.com/watch?v=R_GHH18uf1A) | read, off-topic |
+| Stefan Georgi | video | [Creating Scarcity Without a Timer or Deadline When Selling Ecom or Digital Products Online In 2021](https://www.youtube.com/watch?v=sVQm1LZBIxM) | read, used |
+| Stefan Georgi | video | [How To Turn Your Long Form Sales Page Into Daily Emails To Make More Money From Your E-Mail List 📧](https://www.youtube.com/watch?v=mElmwRcTTCE) | read, used |
 | Stefan Georgi | video | [Handwriting Copy and Analyzing Sales Copy The Best Way To Be More Productive Copywriting? 📝🤔](https://www.youtube.com/watch?v=Ypt55clUnn0) | read, used |
 | Stefan Georgi | video | [As a Beginner Copywriter, Should I Write Copy For Multiple Niches or Dominate a Single Niche?](https://www.youtube.com/watch?v=KtuRZ0kHXJc) | read, off-topic |
 | Stefan Georgi | video | [How To Overcome Imposter Syndrome For Entrepreneurs and Freelancers (Copywriting For Beginners) 👍](https://www.youtube.com/watch?v=g8OIOuSBKWw) | read, off-topic |
@@ -91,6 +99,7 @@ Which videos from each channel have been read in full and folded into the creato
 | Stefan Georgi | video | [Married Copywriters Drink White Claw and Dissect A Sales Letter](https://www.youtube.com/watch?v=QeqtWgnaxr4) | read, used |
 | Stefan Georgi | short | [Bruce Buffer introducing Stefan Georgi at Joel Marion and Dan Fleyshman’s 100MME Mastermind in LA](https://www.youtube.com/watch?v=uPtPMew3nXo) | read, used |
 | Sabri Suby | video | [How to Go From $0 to $100k/day with Meta Ads](https://www.youtube.com/watch?v=qHA2c15T58w) | read, used |
+| Sabri Suby | video | [How i use ai inside my business to print $750k/week](https://www.youtube.com/watch?v=ga007xcum6A) | read, used |
 | Sabri Suby | video | [The New Era of Meta Ads Has Just Begun](https://www.youtube.com/watch?v=-ICL-axeBQY) | read, used |
 | Sabri Suby | video | [Digital Marketing Isn't Hard, It's Misunderstood](https://www.youtube.com/watch?v=JEnO3a87RwQ) | read, used |
 | Sabri Suby | video | [$300m of Meta Ads Hacks in Under 22 mins](https://www.youtube.com/watch?v=QN_LVgvik-k) | read, used |
@@ -119,18 +128,21 @@ Which videos from each channel have been read in full and folded into the creato
 | Sabri Suby | video | [6 Dark Marketing Tactics That Force You To Buy](https://www.youtube.com/watch?v=E3KFx1a2pNI) | read, used |
 | Sabri Suby | video | [Get Rich in 2026: Don't Start a Personal Brand](https://www.youtube.com/watch?v=ND_VR0obMlE) | read, used |
 | Sabri Suby | video | [95% of People Are Still Using AI Wrong in Business](https://www.youtube.com/watch?v=gFaR8BQhqsE) | read, used |
+| Sabri Suby | video | [if you want more money in 2026 DO THIS NOW](https://www.youtube.com/watch?v=c18KjQOVSbk) | read, used |
 | Sabri Suby | video | [I Tried 536+ AI Tools, These 7 Will Explode Your Business in 2026](https://www.youtube.com/watch?v=5sPhgU29oyo) | read, used |
 | Sabri Suby | video | [How To Grow Your Business 8x Faster Than The Competition](https://www.youtube.com/watch?v=x8ySPZ2teq8) | read, used |
 | Sabri Suby | video | [In 16 minutes you'll have the plan to make $1,000,000](https://www.youtube.com/watch?v=u52Oj2n90fw) | read, off-topic |
 | Sabri Suby | video | [This ONE Psychological Hack Gets Clients to Chase You](https://www.youtube.com/watch?v=wWzYb1sJgyg) | read, used |
 | Sabri Suby | video | [How To Build a $200m VSL (FULL GUIDE)](https://www.youtube.com/watch?v=Zv6SD4EVSHk) | read, used |
 | Sabri Suby | video | [How to Grow Your Business SO Fast it Feels Like CHEATING](https://www.youtube.com/watch?v=8CiwgPVwREk) | read, used |
+| Sabri Suby | video | [Top 10 Super Bowl Ads (Full Breakdown)](https://www.youtube.com/watch?v=vCqw8Zb3clw) | read, used |
 | Sabri Suby | video | [18 Years of Copywriting Advice in 93 Minutes](https://www.youtube.com/watch?v=bFR1y5_kAB4) | read, used |
 | Sabri Suby | video | [Facebook Ads Tutorial - 2026 FREE COURSE for Beginners](https://www.youtube.com/watch?v=Ea1hFxPx3JA) | read, used |
 | Sabri Suby | video | [How Credit Cards Brainwash You To Buy](https://www.youtube.com/watch?v=O1o-4WY7TtE) | read, used |
 | Sabri Suby | video | [I let AI find the business. Make the ads. I print $10k/day. (this feels illegal)](https://www.youtube.com/watch?v=MJQFfZkuqS4) | read, used |
 | Sabri Suby | video | [How To 2-3x Sales of Any Business (Step-By-Step)](https://www.youtube.com/watch?v=yr5DnEE2kyI) | read, used |
 | Sabri Suby | video | [How To ACTUALLY Build a Funnel That Makes Millions](https://www.youtube.com/watch?v=bgrrqzMl5sw) | read, used |
+| Sabri Suby | video | [11 Micro Habits That Made Me a Millionaire](https://www.youtube.com/watch?v=q65axLH9nAE) | read, off-topic |
 | Sabri Suby | video | [How To Become Better Than 99% Of Marketers](https://www.youtube.com/watch?v=MoV6OAqRBMA) | read, used |
 | Sabri Suby | video | [Being 'Realistic' Is Killing Your Business (Become Delusional)](https://www.youtube.com/watch?v=1OyozDcJhEw) | read, off-topic |
 | Sabri Suby | video | [Laziest Way To Make Money With AI ($2500/day+)](https://www.youtube.com/watch?v=SXcpRdGObuQ) | read, off-topic |
@@ -185,12 +197,15 @@ Which videos from each channel have been read in full and folded into the creato
 | Sabri Suby | video | [How to Get Ahead of 99% of People (What it Takes to Win)](https://www.youtube.com/watch?v=eRXXSR7TEVY) | read, used |
 | Sabri Suby | video | [Top 5 Super Bowl Ads 2024 (Full Breakdown)](https://www.youtube.com/watch?v=GkLf67EkrYU) | read, used |
 | Sabri Suby | video | [How I'd make $10k per month if my life depended on it](https://www.youtube.com/watch?v=YWXSCd_D1gQ) | read, used |
+| Sabri Suby | video | [Millionaire "Reverse" Goal Setting Framework (Get Rich In 2024)](https://www.youtube.com/watch?v=nuMfVu-3rAg) | read, off-topic |
 | Sabri Suby | video | [THIS is the #1 Skill To Get RICH in 2024](https://www.youtube.com/watch?v=TeuVlBAMK3o) | read, used |
 | Sabri Suby | video | [My $100 Million Sales Process (4x Your Profits)](https://www.youtube.com/watch?v=TOlEkLKSbFM) | read, used |
 | Sabri Suby | video | [I Built MrBeast a $500 Million Sales MACHINE](https://www.youtube.com/watch?v=fzC_-0snfAs) | read, used |
 | Sabri Suby | video | [How To Brainwash Yourself to Make Millions (8 Minute Training)](https://www.youtube.com/watch?v=J2ASNvEyfTs) | read, used |
 | Sabri Suby | video | [I made $7.8 Billion with this E-commerce Strategy](https://www.youtube.com/watch?v=eIniIRdbae4) | read, used |
 | Sabri Suby | video | [$7.8 Billion Marketer Destroys Sh*tty Funnel (Funnel Review)](https://www.youtube.com/watch?v=siXAqkkfKoo) | read, used |
+| Sabri Suby | video | [This Viral Product Dominated Shark Tank! (Here’s How)](https://www.youtube.com/watch?v=8w-9CPCwCR4) | read, off-topic |
+| Sabri Suby | video | [24 hours in the life of a Shark on Shark Tank](https://www.youtube.com/watch?v=C_Xvo60nUik) | read, off-topic |
 | Sabri Suby | video | [How Tinder Can Make You a Million Dollar Copywriter](https://www.youtube.com/watch?v=9OV788GwfX8) | read, used |
 | Sabri Suby | video | [How I turned $50 into $100,000,000](https://www.youtube.com/watch?v=Rl1Ne1hKgIc) | read, used |
 | Sabri Suby | video | [$0 Business Ideas to Make $10k Per Month ASAP](https://www.youtube.com/watch?v=QbYhqLgcGn0) | read, off-topic |
@@ -200,7 +215,9 @@ Which videos from each channel have been read in full and folded into the creato
 | Sabri Suby | video | [Secret Science Of Making Millions With Storytelling](https://www.youtube.com/watch?v=_gfQLB1wqRw) | read, used |
 | Sabri Suby | video | [Sell Like Crazy: Stop Praying To The Internet Gods](https://www.youtube.com/watch?v=JF4rjHOZbLo) | read, used |
 | Sabri Suby | video | [How to Crush Facebook Ads in 2023!](https://www.youtube.com/watch?v=PD3fuXYKqPA) | read, used |
+| Sabri Suby | video | [Closing $100,000,000 in Sales LIVE (and how you can do it too!)](https://www.youtube.com/watch?v=i_DjvKG4584) | read, off-topic |
 | Sabri Suby | video | [How To 2-3X Conversions Of ANY Ecommerce Funnel (Step-By-Step Funnel Review)](https://www.youtube.com/watch?v=7Z_v4qikND0) | read, used |
+| Sabri Suby | video | [This Sales Hack Generated $80m+ in Sales!](https://www.youtube.com/watch?v=weEBb6hoKe8) | read, off-topic |
 | Sabri Suby | video | [THIS killed webinar funnels (I spent $50,000,000 testing it)](https://www.youtube.com/watch?v=mMnLQ1GRipo) | read, off-topic |
 | Sabri Suby | video | [8-Figure Facebook Ads Meeting (We Scaled 1562+ Clients With This)](https://www.youtube.com/watch?v=MItX4oFmv4c) | read, used |
 | Sabri Suby | video | [Step-By-Step Email Marketing Secrets (28-Min Training) 2024](https://www.youtube.com/watch?v=ZrEsoTXM7mo) | read, used |
@@ -217,14 +234,17 @@ Which videos from each channel have been read in full and folded into the creato
 | Sabri Suby | video | [The Difference Between Good & GREAT Sellers](https://www.youtube.com/watch?v=3t2xn_om57k) | read, off-topic |
 | Sabri Suby | video | [How To Reach Your Target Audience (NEW Content Marketing Strategy For 2022)](https://www.youtube.com/watch?v=R_bXTwtqmwQ) | read, used |
 | Sabri Suby | video | [Do This In Your Marketing To Flood Your Business With New Customers, Clients And Sales](https://www.youtube.com/watch?v=prp7CYTwRUE) | read, used |
+| Sabri Suby | video | [How To Handle The #1 Sales Objection—"I Need To Think About It" (Hint: They're Hiding Something)](https://www.youtube.com/watch?v=SDeXtCWEqZk) | read, off-topic |
 | Sabri Suby | video | [How To Handle Objections About PRICE (Live Role-Play Sales Training )](https://www.youtube.com/watch?v=wmhOGd1Cp7Q) | read, off-topic |
 | Sabri Suby | video | [How I Went From $50 To Starting #1 Fastest Growing Digital Marketing Agency](https://www.youtube.com/watch?v=eI25xjgAwF8) | read, off-topic |
 | Sabri Suby | video | [How To Write Throat Grabbing Facebook Ad Copy (Real-life Scenario)](https://www.youtube.com/watch?v=4J-5lHwYyWc) | read, used |
+| Sabri Suby | video | [Dirty Little Tricks To Look Out For When Choosing A Marketing Agency](https://www.youtube.com/watch?v=G7-ViGJjHzQ) | read, off-topic |
 | Sabri Suby | video | [The ‘Lost’ Millionaire Secret To Nurturing Leads](https://www.youtube.com/watch?v=hu5n9C2MZuc) | read, used |
 | Sabri Suby | video | [Automated Webinars, Live Webinars, VSL—What's The Best Funnel For Coaches & Consultants?](https://www.youtube.com/watch?v=JfFxZaPo7SU) | read, used |
 | Sabri Suby | video | [How To Fix Your Landing Page To Increase Conversion (Real Funnel Review)](https://www.youtube.com/watch?v=USZ2iBkmJXQ) | read, used |
 | Sabri Suby | video | [How To Create DEMAND For Your Service In Your Market Place #HEYSABRI](https://www.youtube.com/watch?v=ijhgQfMB6Sc) | read, used |
 | Sabri Suby | video | [🔥The Ultimate Step-By-Step Landing Page Guide🔥(My $1.33 Billion Secret Selling System REVEALED)](https://www.youtube.com/watch?v=zpTsCrOvGao) | read, used |
+| Sabri Suby | video | [What Every Entrepreneur & Business Owner Needs To Know In 2022 (How To Make Millions Per Month)](https://www.youtube.com/watch?v=e2OLmn3kLgQ) | read, off-topic |
 | Sabri Suby | video | [How To Convert More Customers Online (WITHOUT Spending Extra Money) #HEYSABRI](https://www.youtube.com/watch?v=zw-wST8rFr8) | read, used |
 | Sabri Suby | video | [Do This NOW To Drastically Improve Your Landing Page & Website 💻 (Funnel Review)](https://www.youtube.com/watch?v=8-JgwNzUeiQ) | read, used |
 | Sabri Suby | video | [How To Fix Your Funnels & Landing Pages To Convert Like CRAZY (Full Breakdown)](https://www.youtube.com/watch?v=K9kYwUWUjLc) | read, used |
@@ -275,6 +295,7 @@ Which videos from each channel have been read in full and folded into the creato
 | Sabri Suby | video | [Where To Advertise: How To Choose a Marketing Platform - Facebook or Google?](https://www.youtube.com/watch?v=nkZqgRQZjNE) | read, used |
 | Sabri Suby | video | [How To Build An Email List Fast! 🔥  (Secrets To List Building On Steroids)](https://www.youtube.com/watch?v=NP2nRnAIEIU) | read, used |
 | Sabri Suby | video | [How To Build A Winning Company Culture ( Leadership Philosophy )](https://www.youtube.com/watch?v=yzq3eTNF1vw) | read, off-topic |
+| Sabri Suby | video | [What To Do When You Have A Rough Sales Month (Not What You Think)](https://www.youtube.com/watch?v=4p-FOuz4BmQ) | read, off-topic |
 | Sabri Suby | video | [Email Marketing: How To Increase Email Engagement ( Email List Secrets )](https://www.youtube.com/watch?v=7_PZCs7t4Jw) | read, off-topic |
 | Sabri Suby | video | [Don't Write Off 2020 (Sales Motivation) / How To Deal with a Bad Sales Month](https://www.youtube.com/watch?v=Oe4QF_cYUAI) | read, off-topic |
 | Sabri Suby | video | [The BEST Cold Call Opening Lines / Killer Cold Call Openers](https://www.youtube.com/watch?v=kGKC0VEYkj0) | read, used |
@@ -283,6 +304,7 @@ Which videos from each channel have been read in full and folded into the creato
 | Sabri Suby | video | [How To Know If An Agency Is Legit / Techniques To Hire a Digital Marketing Agency](https://www.youtube.com/watch?v=jeVX8If96As) | read, off-topic |
 | Sabri Suby | video | [How Tesla Spends NOTHING On Advertising](https://www.youtube.com/watch?v=tDnHYOYV8-Q) | read, used |
 | Sabri Suby | video | [How To Craft a Best-Selling Product](https://www.youtube.com/watch?v=Z4lCWzpVh1k) | read, used |
+| Sabri Suby | video | [How To Become A Clean Thinker (And Solve Even The Most Complex Of Problems)](https://www.youtube.com/watch?v=zFRZNU76y-E) | read, used |
 | Sabri Suby | video | [What Are Better? Instagram Or Facebook Ads: Photo or Video? (More Here)](https://www.youtube.com/watch?v=puCdEg0e61k) | read, used |
 | Sabri Suby | video | [How To Write Facebook & Instagram Ads That Suck In Sales Like Crazy (Extremely Potent)](https://www.youtube.com/watch?v=jgrdV2e6Zko) | read, used |
 | Sabri Suby | video | [How To Sell An Expensive Product Against Cheap Competition](https://www.youtube.com/watch?v=OvlLgjxjKpk) | read, used |
@@ -306,6 +328,7 @@ Which videos from each channel have been read in full and folded into the creato
 | Sabri Suby | video | [The Marketing Knowledge Millennials Need - Dan Lok and Sabri Suby](https://www.youtube.com/watch?v=Lf_bk3F7KgI) | read, used |
 | Sabri Suby | video | [Chatbot VS Email? #HEYSABRI](https://www.youtube.com/watch?v=4yK66ROi1GQ) | read, used |
 | Sabri Suby | video | [#1 Hack To Create Unstoppable Motivation (So Nothing Can Stop you!)](https://www.youtube.com/watch?v=OedjMP7qZS8) | read, used |
+| Sabri Suby | video | [How To Craft a Halo Strategy](https://www.youtube.com/watch?v=w2JBaxG6GWg) | read, used |
 | Sabri Suby | video | [Growth Hacking Your Business Through Mathematics](https://www.youtube.com/watch?v=6u8cjrqleS0) | read, used |
 | Sabri Suby | video | ["I Need To Think About It" Objection Crusher (What Your Prospect Is Hiding)](https://www.youtube.com/watch?v=ARN1c5FSdyY) | read, off-topic |
 | Sabri Suby | video | [How To Get Your First Clients (Without a Portfolio!) #HEYSABRI](https://www.youtube.com/watch?v=GcEs7MGdr2o) | read, used |
@@ -320,6 +343,7 @@ Which videos from each channel have been read in full and folded into the creato
 | Sabri Suby | video | [🔥Wild Details Emerge About Grant Cardone And Sabri Suby](https://www.youtube.com/watch?v=g-XfR26XdS0) | read, off-topic |
 | Sabri Suby | video | [The #1 Reason Why Businesses Fail (How To Avoid Business Failure)](https://www.youtube.com/watch?v=UcuYAjdxwik) | read, used |
 | Sabri Suby | video | [Role Play: The Underrated Key To Success in Sales](https://www.youtube.com/watch?v=f5_wl-SDRIw) | read, used |
+| Sabri Suby | video | [The Inner Workings Of King Kong [Office Tour]](https://www.youtube.com/watch?v=jRYwahQJqU0) | read, off-topic |
 | Sabri Suby | video | [How To Stay Motivated When Everyone Says No (Powerful)](https://www.youtube.com/watch?v=9ZTKQUgBWow) | read, off-topic |
 | Sabri Suby | video | [Tonality: How To Build 'Master Level Authority' On a Sales Call](https://www.youtube.com/watch?v=Z_H08RpYKgg) | read, used |
 | Sabri Suby | short | [Blind ranking lead generation](https://www.youtube.com/watch?v=IkgnfHXD1mk) | read, used |

@@ -90,6 +90,16 @@ Score the ad out of 10 and give the 3 highest-leverage fixes, most important fir
 [paste ad script / text + page copy]
 ```
 
+## 1b. Objection Obliterator (Sabri, `c18KjQOVSbk`, `ga007xcum6A`)
+Gather sales-call transcripts plus your own and competitors' reviews (Google, Trustpilot) into one document.
+```
+From the material below, list the 5-12 most repeated objections, each with 2 exact quotes and how often it appears.
+Then check this ad and landing page against the list: which objections are answered, which are ignored,
+and write one plain, true line that answers each ignored one.
+[paste reviews + transcripts] [paste ad + page]
+```
+His full pipeline from there: objections plus proven headline patterns, then 5 ad angles, then 20 headlines each, test, then expand the winner into a longer video.
+
 ## 9a. Pre-mortem and skeptic (Sabri, `gFaR8BQhqsE`)
 LLMs tend to agree with whatever you show them. Force the opposite:
 ```

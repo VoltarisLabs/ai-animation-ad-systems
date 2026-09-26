@@ -2,7 +2,7 @@
 
 **Who:** Direct-response copywriter (reports about $700M in sales from his own copy), creator of the RMBC method, runs Copy Accelerator / CA Pro.
 **Source:** his YouTube channel, youtube.com/@StefanGeorgi1 (182 videos). This file is built from full transcripts, scanned 2026-09-26.
-**Coverage so far:** 79 of 182 videos read in full. Updated as more are read; see [../transcripts/youtube-channel-scan-log.md](../transcripts/youtube-channel-scan-log.md).
+**Coverage so far:** 87 of 182 videos read in full. Updated as more are read; see [../transcripts/youtube-channel-scan-log.md](../transcripts/youtube-channel-scan-log.md).
 **Core idea:** Pair curiosity with a concrete promise, make every pain and benefit specific enough to see, and write to the awareness level the audience is actually at.
 
 Video IDs below are `youtube.com/watch?v=<id>`.
@@ -101,6 +101,9 @@ Ask an AI for a raw first-person entry, then have it switched to "you." Mine it 
 15. **Don't hide what you're selling too long, and cut absolute claims you can't prove** (e.g., "100% natural") (`QeqtWgnaxr4`).
 16. **Report testimonials honestly.** Survey everyone, including flat or negative results, and show the real spread (`JZkPNiTqlCA`).
 17. **Hand editors a two-column storyboard** (words on the left, visuals on the right), not a flat script (`NaeqHLUsgAs`).
+
+18. **Honest scarcity:** say a real but uncertain limit plainly. Invented scarcity gets smelled "from a mile away" (`sVQm1LZBIxM`).
+19. **Agitate in the third person or through a founder story** to stay within ad policy while keeping the feeling (`sf5zug5SyDs`).
 
 ## 3. Psychological triggers
 - **Curiosity gap:** always paired with a promise (matches the triggers index).

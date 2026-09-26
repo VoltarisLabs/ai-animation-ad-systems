@@ -102,6 +102,7 @@ Every line has one job: get the next line read (Sugarman).
 - [ ] 5-second test: can a stranger say what you offer and what to do next?
 
 ## Step 8. Compliance
+- [ ] **Agitate the pain safely** (Georgi, `sf5zug5SyDs`). Tell it in the third person or as a founder or customer story ("When my mom's house sat empty..."), not as "you have [problem]." It carries the same feeling without calling out a personal attribute.
 - [ ] No fake urgency, invented testimonials or results you can't back up.
 - [ ] Name the situation, not the person: never "you are / you have" + a sensitive trait (health, money, age, identity).
 - [ ] No before/after or timed results for health, weight, beauty or income.

@@ -14,6 +14,12 @@ For vertical short-form: Meta Reels and Stories, TikTok, YouTube Shorts. Spoken 
 9. **End card (last 2-3s):** the CTA as text + spoken, plus the offer or a reason to act now. Keep the logo small.
 10. **Make hook variants.** Every script ships with 3 alternate first-3-seconds. Keep the body the same, so the test isolates the hook.
 
+11. **Lessons from Super Bowl ad teardowns** (Sabri, `vCqw8Zb3clw`):
+   - Who it's from and what it is should land in about 2 seconds with the sound off.
+   - Show the most common real use, not an edge case.
+   - One audience per ad.
+   - The CTA shouldn't swerve in tone from the rest of the ad.
+
 ## On-screen text rules
 - 3 to 5 words per text pop. One idea per pop.
 - Leave each pop on screen at least 1.5 seconds per 5 words.

@@ -2,7 +2,7 @@
 
 **Who:** Founder of King Kong (digital agency), author of *Sell Like Crazy* (2019), Shark Tank Australia investor. Reports $300M+ of Meta ad spend managed.
 **Source:** his YouTube channel, youtube.com/@SabriSubyOfficial (470 videos + 336 shorts). This file is built from full transcripts, scanned 2026-09-26.
-**Coverage so far:** 237 of 470 long-form videos and 331 of 336 shorts read in full. Updated as more are read; see [../transcripts/youtube-channel-scan-log.md](../transcripts/youtube-channel-scan-log.md).
+**Coverage so far:** 253 of 470 long-form videos and 331 of 336 shorts read in full. Updated as more are read; see [../transcripts/youtube-channel-scan-log.md](../transcripts/youtube-channel-scan-log.md).
 **Core idea:** An ad's only job is to sell the click. Win it with a pattern interrupt, burning intrigue and a big specific benefit, then let an offer that is hard to refuse do the selling.
 
 Video IDs below are `youtube.com/watch?v=<id>`. Numbers he quotes (split-test ratios, lifts) are his own claims, not independent evidence.
@@ -185,6 +185,10 @@ Swap "free appraisal" for a no-contact price guide, then offer the call with no 
 39. **Founders tire of a winner before the market does** (`6E3th4NIoNk`).
 40. **Ignore the platform's optimization suggestions** (`wv3NxhGSA2w`).
 41. **Delivery:** use a downward inflection, pauses, and bullet points rather than a word-for-word script (`k9vfmiklBDc`).
+
+42. **Objection Obliterator:** mine call transcripts and reviews for the top recurring objections, then check the ad and page against them. The prompt is in [../prompts/copy-prompts.md](../prompts/copy-prompts.md) (`c18KjQOVSbk`, `ga007xcum6A`).
+43. **Diagnose from first principles, not by analogy.** "I tried Facebook once and it didn't work" is analogy. Instead ask: are people clicking, converting on the page, converting on the call? And "nobody else sells this here" is usually a red flag about the channel, not an opportunity (`zFRZNU76y-E`).
+44. **Super Bowl ad lessons:** the brand lands in 2 seconds with the sound off, show the most common real use, one audience per ad, no tonal swerve at the CTA (`vCqw8Zb3clw`).
 
 ## 3. Psychological triggers
 - **Curiosity gap + benefit** (matches "Curiosity gap").

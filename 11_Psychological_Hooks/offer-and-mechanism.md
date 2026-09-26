@@ -53,6 +53,9 @@ He says refund rates usually stay low (his claim). Only offer what you'll honour
 - **Payment plans** (`HF9k-BhCrF0`): the same total split into instalments often lifts the yes rate, because money today feels worth more than money later.
 - **Plain limits next to real proof read as honest.** Say clearly what the offer does **not** include.
 
+### Honest scarcity wording (Georgi team, `sVQm1LZBIxM`)
+Their line: people can smell false scarcity "from a mile away." If a limit is real but uncertain, say so plainly ("we may raise the price," "stock does run out") rather than inventing a precise low number or a countdown.
+
 ## 3. Radical transparency: say the catch first
 Name the drawback before they can raise it. Early honesty about a negative makes everything else more believable. This matches the "Damaging admission" trigger in [triggers-index.md](triggers-index.md).
 - "It's not the cheapest. It's the one you won't have to replace."
