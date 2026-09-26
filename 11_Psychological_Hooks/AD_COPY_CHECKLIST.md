@@ -1,76 +1,94 @@
 # Ad Copy Checklist
 
-Run every ad script through this checklist before it goes to voice or video. It condenses everything in this folder into one routine. The research files explain the reasons behind each step.
+A universal routine for any product, service, audience or platform. Run every ad script through it before it goes to voice, design or video. The research files in this folder explain why each step works.
 
-Examples use the cash home-seller audience (see `04_Audience_Research/`).
+Fill in the `[brackets]`. Examples rotate across industries to show the pattern, not one niche.
 
 ---
 
+## Step 0. Fill in the brief (2 minutes)
+```
+Product/offer:        [what you sell]
+Audience:             [who, in one specific situation]
+Their #1 pain:        [in their words]
+Their #1 want:        [the result, in their words]
+Their #1 worry:       [the reason they won't buy]
+Awareness level:      [Unaware / Problem / Solution / Product / Most aware]
+Proof we have:        [numbers, reviews, results, credentials]
+Offer + first step:   [the smallest yes]
+```
+
 ## Step 1. Pick who, and how aware they are
-- **Hungry audience first.** Target people already in the situation: inherited house, behind on taxes, tired landlord, relocating. The audience matters more than the wording (Halbert).
-- **Label the awareness level** and write for it (Schwartz, UPSYD):
+- **Hungry audience first.** Target people already in the situation and already looking. The audience matters more than the wording (Halbert).
+- **Match the opening to awareness** (Schwartz, UPSYD):
 
-| Level | Seller thinks | Open with |
-|---|---|---|
-| Unaware | "I'll deal with the house someday" | Story or identity: "My aunt left me a house I never wanted." |
-| Problem-aware | "This house is a burden" | The pain: "Paying taxes on a house nobody lives in?" |
-| Solution-aware | "Maybe I should sell it" | The result: "Sold as-is, no repairs, no showings." |
-| Product-aware | "I've seen cash-buyer ads" | Proof and difference: "Why sellers pick us over the 'We Buy Houses' signs." |
-| Most aware | "I'm ready to sell" | The offer: "Cash offer in 24 hours. You pick the closing date." |
+| Level | They think | Open with | Template |
+|---|---|---|---|
+| Unaware | Nothing yet | Story or identity | "I was a [identity] who [relatable moment]..." |
+| Problem-aware | "I have this problem" | The pain | "Still [pain] every [time period]?" |
+| Solution-aware | "I want the result" | The result | "[Result] without [thing they hate]." |
+| Product-aware | "I've seen options like you" | Proof and difference | "Why [audience] switch from [alternative] to [you]." |
+| Most aware | "I'm ready" | The offer | "[Offer]. [Deadline or bonus]. [CTA]." |
 
-## Step 2. Take the words from sellers
-- Pull phrases from real seller SMS replies, call notes and reviews (Wiebe's review mining). Their exact words beat ours.
-- Sort the phrases into **pains, wants and worries**. The hooks come from pains. The body answers worries.
+Examples: "Still waking up at 3am worried about payroll?" (problem-aware, B2B). "Clear skin in 30 days without harsh acids." (solution-aware, skincare). "Why dentists switch from Yelp ads to us." (product-aware, agency).
+
+## Step 2. Take the words from customers
+- Mine reviews (yours and competitors'), comments, DMs, sales calls, support tickets and Reddit threads (Wiebe's review mining). Their exact words beat yours.
+- Sort the phrases into **pains, wants and worries**. The hooks come from pains and wants. The body answers worries.
 
 ## Step 3. One big idea (Rule of One)
 One reader, one promise, one offer. Pick the angle (Furr):
-- **Problem:** "That empty house is costing you $X a month."
-- **Opportunity:** "Sell without repairs, agents or showings."
-- **Prediction:** "Taxes and insurance go up again in January."
+- **Problem:** "[Pain] is costing you [specific cost]."
+- **Opportunity:** "A new way to [result] without [sacrifice]."
+- **Prediction:** "[Coming change] is about to [affect them]. Here's how to be ready."
+
+In a crowded market where everyone makes the same claim, lead with **how it works differently** (a new mechanism) or with **who it's for** (identity) (Schwartz).
 
 ## Step 4. Write 10 hooks, keep 3
 Score each hook 1 to 4 on each item below. **Keep hooks that score 20 or more out of 28.**
 
 | Check | Question |
 |---|---|
-| Useful | Does it promise something the seller wants? |
+| Useful | Does it promise something they want? (Include how big the payoff is.) |
 | Urgent | Is there a real reason to act now? |
 | Unique | Could a competitor run this exact line? (If yes, score low.) |
-| Ultra-specific | Numbers, places, situations instead of adjectives? |
-| New | Does it feel fresh, like a new way or new information? (NESB) |
-| Easy | Does it sound simple for the seller? |
-| Safe | Does it lower the seller's fear or risk? |
+| Ultra-specific | Numbers, names, situations instead of adjectives? |
+| New | Does it feel fresh, like a new way or new information? |
+| Easy | Does getting the result sound simple? |
+| Safe | Does it lower their fear or risk? |
 
-The seventh item, Big (is the payoff large?), is included in Useful.
+Hook types to rotate: question, bold claim, number, story open, "how to," call-out ("[Audience], stop [mistake]"), myth-bust, before/after, curiosity *paired with* a benefit (curiosity alone tests weak, per Caples).
 
 ## Step 5. Body copy: the slippery slide
 Every line has one job: get the next line read (Sugarman).
 - [ ] First line under 8 words.
-- [ ] Specifics instead of adjectives: "closed in 11 days" beats "fast closing."
-- [ ] Give a **reason why** for the offer: why we pay cash, and why as-is works for us.
-- [ ] **Raise the top worry yourself** and answer it: "Will you lowball me? Here's how we price."
-- [ ] One **honest admission**: "We won't pay full retail. Here's what you get instead."
-- [ ] Proof that is **local and similar**: "Bought 3 houses on the east side this month."
+- [ ] Specifics instead of adjectives: "set up in 11 minutes" beats "quick setup."
+- [ ] Give a **reason why** the offer exists or the price is what it is.
+- [ ] **Raise the top worry yourself** and answer it.
+- [ ] One **honest admission**: "It's not for [wrong fit]. It is for [right fit]."
+- [ ] Proof **similar to the reader**: same role, same city, same problem.
 - [ ] Frame the cost of waiting as a **loss**, only when accurate.
+- [ ] Pick the structure by awareness: see [frameworks.md](frameworks.md).
 
 ## Step 6. CTA: the smallest possible step
-- [ ] One action only. Make it a tiny step: "Text us the address."
-- [ ] Make the first step free or low-risk: a free offer, no obligation (Fogg, Ariely's zero-price effect).
+- [ ] One action only, and as small as possible: "Get my quote," "Take the 30-second quiz," "Start free."
+- [ ] Make the first step free or low-risk (Fogg, Ariely's zero-price effect).
 - [ ] Put the CTA right after the proof, when motivation is highest.
 - [ ] Scarcity only if it is true. No fake timers.
 
 ## Step 7. Edit
-- [ ] Read it out loud. Rewrite anything you would not say to a neighbor (Medhora).
+- [ ] Read it out loud. Rewrite anything you wouldn't say to a friend (Medhora).
 - [ ] Cut adverbs, passive voice, jargon and "we are proud to."
-- [ ] Message match: the landing page or text reply continues the ad's exact promise.
-- [ ] 5-second test: can a stranger say what we offer and what to do next?
+- [ ] Message match: the landing page continues the ad's exact promise.
+- [ ] 5-second test: can a stranger say what you offer and what to do next?
 
 ## Step 8. Compliance
-- [ ] No fake urgency, no invented testimonials, no guaranteed-price claims we can't keep.
-- [ ] No text baked into image or video prompts. Captions go in the editor (repo rule).
+- [ ] No fake urgency, invented testimonials or results you can't back up.
+- [ ] Check the platform's rules for your category (health, finance, housing, employment and credit have extra restrictions on Meta and Google).
+- [ ] No text baked into AI image or video prompts. Captions go in the editor.
 
 ## Step 9. Test like Hopkins and Caples
 - Change **one thing at a time**, and test the hook first. Hooks move results the most.
-- Build an **Ad Grid**: avatars (heir, landlord, behind on taxes) across angles (problem, opportunity, prediction). One ad per cell.
-- Judge by **cost per lead and cost per contract**, not views.
-- Log the winners and losers in this folder so the next script starts from what worked.
+- Build an **Ad Grid**: audience segments down the side, angles (problem, opportunity, prediction) across the top. One ad per cell.
+- Judge by **cost per lead and cost per sale**, not views or likes.
+- Log the winners and losers, and start the next script from what worked.

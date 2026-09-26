@@ -1,6 +1,6 @@
 # Copywriting Frameworks: Quick Reference
 
-Each entry: structure, when to use it, and a one-line skeleton. Examples use a roofing offer for consistency.
+Each entry: structure, when to use it, a fill-in template, and an example. Examples rotate across industries so the pattern is clear for any product.
 
 | Framework | Structure | Best for |
 |---|---|---|
@@ -18,16 +18,27 @@ Each entry: structure, when to use it, and a one-line skeleton. Examples use a r
 ## Skeletons
 
 **AIDA**
-> Storm hit last week? (A) Most hail damage is invisible from the ground. (I) Get it fixed before your insurance window closes, often at little or no out-of-pocket cost. (D) Book a free 15-minute roof check. (A)
+> Template: [Attention-grabbing question or claim]. [Surprising fact that builds interest]. [The result they get, made vivid]. [One small action].
+>
+> Example (fitness app): Tired of workouts you quit by week 2? (A) Most people quit because the plan is too long, not because they're lazy. (I) 12-minute sessions built around your schedule, so you actually finish. (D) Start your free week. (A)
 
 **PAS**
-> Small roof leak? (P) It's soaking your insulation and rotting the decking every time it rains, and a $400 fix becomes a $14,000 one. (A) We find and seal it in one visit. (S)
+> Template: [Problem in their words]. [What it's costing them, and how it gets worse]. [Your solution as the way out].
+>
+> Example (bookkeeping service): Receipts piling up in a shoebox? (P) Every month you wait, tax season gets more expensive and missed write-offs pile up. (A) We sort, categorize and reconcile it all in 7 days. (S)
 
 **BAB**
-> Before: buckets in the attic every storm. After: a dry, quiet house and a 25-year warranty. Bridge: our one-day replacement.
+> Template: Before: [life with the problem]. After: [life with the result]. Bridge: [your product].
+>
+> Example (skincare): Before: hiding breakouts under heavy makeup. After: going out bare-faced. Bridge: a 3-step routine made for sensitive skin.
 
 **4 Us headline check.** Score each 1 to 4. Rewrite anything under 12.
-> "Free hail-damage check for Akron homes this week, only 20 slots" = useful, urgent, unique to the area, specific.
+> Template: "[Specific result] for [specific audience] in [timeframe], [real limit]"
+>
+> Example (local dentist): "Free whitening consult for new patients this month, 20 spots" = useful, urgent, unique, specific.
+
+**4 Ps**
+> Example (online course): Picture yourself landing your first client this month. (Picture) This course gets you there in 30 days. (Promise) 1,200 students, with their results shown. (Prove) Enroll by Friday for the bonus templates. (Push)
 
 ## Which framework when (using Schwartz's awareness levels)
 | Awareness | Use |

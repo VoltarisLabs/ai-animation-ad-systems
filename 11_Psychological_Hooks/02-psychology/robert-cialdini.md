@@ -11,11 +11,11 @@ The original six are from *Influence*. Unity was introduced in *Pre-Suasion* and
 |---|---|---|
 | **Reciprocity** | We feel obliged to return a favor | Give real value first: free inspection, checklist, audit |
 | **Commitment / Consistency** | We act consistently with what we already said or did | Small first step (quiz, 1-question form) before the big ask |
-| **Social Proof** | We copy people like us, especially when unsure | "Chosen by 312 homeowners in Akron," local reviews, UGC |
+| **Social Proof** | We copy people like us, especially when unsure | "Used by 312 [people like the reader]," local or niche reviews, UGC |
 | **Authority** | We defer to credible experts | Licenses, years, certifications, expert face on camera |
 | **Liking** | We say yes to people we like and who are like us | Real owner on camera, similarity to the audience, compliments |
 | **Scarcity** | Things seem more valuable when rare or going away | Real limits only: slots per week, deadline, limited stock |
-| **Unity** | We favor people we see as "one of us" | Shared identity: "fellow Clevelanders," "from one landlord to another" |
+| **Unity** | We favor people we see as "one of us" | Shared identity: "from one nurse to another," "for [city] locals," "built by founders, for founders" |
 
 **Pre-suasion:** What someone is focused on right before the message changes how they react to it. Set the frame (for example, a question about safety) before the pitch.
 

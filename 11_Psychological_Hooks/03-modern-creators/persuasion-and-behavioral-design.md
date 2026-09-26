@@ -23,7 +23,7 @@ Checked against sources on 2026-09-26.
 **Evidence warning:** The "croc brain" idea rests on MacLean's triune brain model, which modern neuroscience considers outdated. See Cesario, Johnson and Eisthen (2020), "Your Brain Is Not an Onion With a Tiny Reptile Inside." Use the tactics as practical sales craft and the brain story only as a metaphor.
 **Sources:** tobysinclair.com/post/summary-pitch-anything-by-oren-klaff ; neurosciencemarketing.com/blog/articles/pitch-anything-by-oren-klaff.htm ; journals.sagepub.com/doi/10.1177/0963721420917687
 
-**Ad copy use:** A prize frame in copy sounds like "We only take 12 roofs a month, and here's who we say no to." It must be true.
+**Ad copy use:** A prize frame in copy sounds like "We only take 5 new clients a month, and here's who we say no to." It must be true.
 
 ---
 

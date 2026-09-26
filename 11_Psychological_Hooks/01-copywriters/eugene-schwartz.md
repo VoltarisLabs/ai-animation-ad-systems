@@ -52,7 +52,8 @@ Every product rides on a desire that already exists in the market. Judge it by *
 Existing desire, self-identification, belief-building by small agreements, novelty of mechanism, and future-self identity.
 
 ## 4. Examples
-- A tired diet or roofing market ("save money," "best quality") is Stage 4 to 5. Winning angles are a new mechanism ("the 2-layer inspection most roofers skip") or identity ("for homeowners who want it done once").
+- Weight loss, supplements and "make money online" are Stage 4 to 5 markets: every claim has been made. Winning angles are a new mechanism ("the [named method] that works while you sleep") or identity ("for busy moms who've tried everything").
+- A brand-new category (the first product of its kind) is Stage 1: just state the claim plainly.
 - Retargeting audiences are Product-Aware to Most Aware. Show the offer and proof, not education.
 
 ## Apply it

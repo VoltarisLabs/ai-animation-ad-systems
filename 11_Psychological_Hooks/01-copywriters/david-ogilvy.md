@@ -34,4 +34,4 @@
 
 ## Apply it (paid ads)
 - Test 5 to 10 headlines before touching body copy or visuals.
-- Replace every adjective in a draft with a fact: "fast" becomes "roof replaced in 1 day."
+- Replace every adjective in a draft with a fact: "fast" becomes "delivered in 48 hours" or "set up in 11 minutes."
