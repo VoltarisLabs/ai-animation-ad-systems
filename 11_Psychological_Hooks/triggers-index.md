@@ -33,6 +33,8 @@ Evidence: **Strong** = widely replicated. **Moderate** = supported but context-d
 | Testable self-proof | Stefan Georgi (hook type 15) | Practitioner | A check the viewer can do right now on their own situation |
 | Emotional-temperature congruence | Stefan Georgi | Practitioner | Landing page and first reply open at the same heat as the ad |
 | Dimensionalization | Stefan Georgi | Practitioner, supported (specificity) | Turn the category word into the exact scene |
+| Pattern interrupt / pattern match | Sabri Suby | Practitioner | Strange visual to stop the scroll, or a familiar one that says "this is for you" |
+| Benefit-first framing | Sabri Suby | Practitioner (his split tests) | Lead with the gain; keep pain agitation for the body |
 | Social priming (e.g., words that "make you walk slower") | Kahneman (ch. 4) | **Weak, failed replication** | Do not rely on it |
 
 ## Compliance guardrails
