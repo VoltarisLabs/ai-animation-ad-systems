@@ -87,6 +87,9 @@ Meta floods anyone who clicks with every competitor in the category, so they wil
 - **Steal the structure, never the words** (Georgi). Borrow structures from unrelated niches too ("translocate"): a supplement ad's structure can carry a home-services offer.
 - Save anything that "winks at you" into [swipe-file.md](swipe-file.md) with one line on why it works (Sabri).
 
+## Output: the script and scene breakdown
+Research ends in a deliverable. Fill in Part A (the research card) of [templates/script-and-scene-breakdown.md](templates/script-and-scene-breakdown.md) from this worksheet. Every line in the script breakdown must trace back to a quote, scene or rule on that card, and the scene breakdown puts the dimensionalized scenes on screen.
+
 ## Done when
 - [ ] A worksheet per audience, full of pasted phrases.
 - [ ] An awareness level and a bullseye desire per audience.

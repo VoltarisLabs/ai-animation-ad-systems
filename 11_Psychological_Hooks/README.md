@@ -5,7 +5,7 @@ How we write direct-response ads that convert: short-form video, statics and fun
 ## How to use it (in order)
 1. **Research** ([research-playbook.md](research-playbook.md)): paste the market's exact words, map their awareness level, dimensionalize the pain, pick one bullseye desire, and check the second click.
 2. **Offer** ([offer-and-mechanism.md](offer-and-mechanism.md)): the mechanism in three questions, an honest offer stack, the catch said first, a low-friction first ask, the funnel shape.
-3. **Write** ([AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md)): 20 hooks across different types from [hook-formulas.md](hook-formulas.md), kill checks, the 7-point score, then a template from [templates/](templates/).
+3. **Write** ([AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md)): 20 hooks across different types from [hook-formulas.md](hook-formulas.md), kill checks, the 7-point score, then a structure from [templates/video-scripts.md](templates/video-scripts.md). **Deliver it as a [script and scene breakdown](templates/script-and-scene-breakdown.md).**
 4. **Test** ([testing-and-iteration.md](testing-and-iteration.md)): hook first, hook rate, 7-day data, funnel triage, retarget by objection, log winners in [swipe-file.md](swipe-file.md).
 5. **Speed up with AI** ([prompts/copy-prompts.md](prompts/copy-prompts.md)): research miner, Objection Obliterator, hook generator, copy chief, pre-mortem, teardown.
 
@@ -29,7 +29,7 @@ From the Georgi and Suby channel scans, confirmed across dozens of videos:
 | [research-playbook.md](research-playbook.md) | Get the market's exact words into the lines: worksheet, awareness gap, dimensionalization, second-click check |
 | [offer-and-mechanism.md](offer-and-mechanism.md) | Mechanism (why it works), honest offer stack, radical transparency, funnel shape, follow-up |
 | [testing-and-iteration.md](testing-and-iteration.md) | Volume and curation, kill checks, test order, reading results, the AI workflow, teardown order |
-| [templates/](templates/) | 13 short-form video templates (`video-scripts.md`), static and carousel templates (`static-ads.md`) |
+| [templates/](templates/) | **[script-and-scene-breakdown.md](templates/script-and-scene-breakdown.md): the deliverable every ad ships as (research card, script breakdown, scene breakdown, checks).** Plus 13 short-form video templates (`video-scripts.md`), static and carousel templates (`static-ads.md`) |
 | [hook-formulas.md](hook-formulas.md) | 70 universal fill-in hooks plus 11 fascination types, by type and awareness |
 | [copy-banks.md](copy-banks.md) | CTA bank, primary text openers, headline formulas, objection bank, risky vs. safe lines, editing drills |
 | [swipe-file.md](swipe-file.md) | Annotated example ads across 8 industries |

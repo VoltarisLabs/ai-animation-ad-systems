@@ -66,6 +66,9 @@ This is the only hook score used in this folder. Score each hook 1 to 4 on each 
 
 Hook types to rotate: question, bold claim, number, story open, "how to," call-out ("[Audience], stop [mistake]"), myth-bust, before/after (not for health, weight, beauty or money results on Meta or TikTok), curiosity *paired with* a benefit (curiosity alone tests weak, per Caples). Full list: [hook-formulas.md](hook-formulas.md).
 
+## Step 4b. Deliver as a breakdown
+Write the ad into [templates/script-and-scene-breakdown.md](templates/script-and-scene-breakdown.md): the research card, the script breakdown (each line's job and source), the scene breakdown (shot, b-roll, text, sound, image), and the checks. Production works from the scene breakdown only.
+
 ## Step 5. Body copy: the slippery slide
 Every line has one job: get the next line read (Sugarman).
 - [ ] First line 8 words or fewer.
