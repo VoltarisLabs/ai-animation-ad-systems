@@ -2,7 +2,7 @@
 
 **Who:** Founder of King Kong (digital agency), author of *Sell Like Crazy* (2019), Shark Tank Australia investor. Reports $300M+ of Meta ad spend managed.
 **Source:** his YouTube channel, youtube.com/@SabriSubyOfficial (470 videos + 336 shorts). This file is built from full transcripts, scanned 2026-09-26.
-**Coverage so far:** 42 of 470 long-form videos read in full. Updated as more are read; see [../transcripts/youtube-channel-scan-log.md](../transcripts/youtube-channel-scan-log.md).
+**Coverage so far:** 96 of 470 long-form videos read in full (21 off-topic). Updated as more are read; see [../transcripts/youtube-channel-scan-log.md](../transcripts/youtube-channel-scan-log.md).
 **Core idea:** An ad's only job is to sell the click. Win it with a pattern interrupt, burning intrigue and a big specific benefit, then let an offer that is hard to refuse do the selling.
 
 Video IDs below are `youtube.com/watch?v=<id>`. Numbers he quotes (split-test ratios, lifts) are his own claims, not independent evidence.
@@ -73,6 +73,43 @@ Call out the audience → big-benefit headline → sub-headline that backs it up
 ### Barbell creative (`QN_LVgvik-k`)
 Run ultra-raw "ghetto statics" (unedited phone photos) at one end and occasional big productions at the other. Skip the crowded middle of templated UGC and branded statics, which he says is where returns collapse.
 
+### Trust engineering: the second click (`-ICL-axeBQY`, `TeuVlBAMK3o`, `JEnO3a87RwQ`)
+After an interesting ad, people run a "sniff test": they search the brand on Google, TikTok or YouTube before trusting the page. If that search returns nothing, or one bad review, the ad is wasted. He calls today a "trust recession."
+1. Seed plenty of organic posts from ordinary customers before scaling ads.
+2. Make sure a search of the brand returns dense proof that feels third-party.
+3. Only then scale the funnel.
+
+### Dog-whistle copy (`JEnO3a87RwQ`)
+Long, hyper-specific body copy doubles as targeting data. The more specific the words, the more signal the platform has to find the right person. Broad targeting plus long, narrow copy beats interest targeting plus short copy (his claim).
+
+### NUEPH (`9OV788GwfX8`)
+Copy should be **New, Unique, Exciting, Predictable** (a specific, believable outcome) and **Huge**. Anything that feels "seen before" gets filtered out.
+
+### Two-step funnel (`wpv_0fU2BtE`)
+1. Offer real value up front (a guide, a cheat sheet, a video) so the large majority who are "in the market but not ready" raise their hand.
+2. Then make the offer, and keep nurturing the rest.
+
+He says cold traffic sent straight to "get a quote" is the most common structural mistake he sees.
+
+### Spectacle stacking (`xGilvI7Oq38`)
+Build a visual moment into the product itself that people want to film. Find the category's boring default and do the opposite. Stack two or three such moments, then test small before scaling.
+
+### His teardown order (used in about 7 live funnel reviews)
+1. Headline: is it a big benefit plus intrigue, or about the company?
+2. Scent: does the angle hold from ad to headline to body?
+3. CTA: is it repeated throughout?
+4. Proof density: is it enough for the price?
+5. Upsells.
+6. Only then button colours and other small conversion tweaks.
+
+### AI UGC pipeline (`ehRzwCPzZy4`)
+1. Build an avatar that closely matches the buyer's age and setting.
+2. Transcribe already-viral organic videos in the niche into a swipe file. Never write from a blank prompt.
+3. Generate script variations from that swipe file.
+4. Feed the video tool short chunks, not the whole script.
+5. Keep the edit raw.
+6. Test on an unbranded organic account before paying to promote.
+
 ## 2. Actionable rules
 1. **Sell the click, not the product.** Trying to close inside the ad is the "cardinal sin" (`PB6Z96hTQWk`, `NTmWqnPIb2s`).
 2. **If it looks like an ad, it's dead on arrival.** Native, personal, phone-camera looks beat polish (`NTmWqnPIb2s`, `QN_LVgvik-k`).
@@ -91,6 +128,17 @@ Run ultra-raw "ghetto statics" (unedited phone photos) at one end and occasional
 15. **Obsess over people, not algorithms.** Platforms change and psychology doesn't (`PB6Z96hTQWk`).
 16. **80% of copywriting is knowing what to say, 20% is how to say it** (`EdTar2tmqfw`).
 
+17. **Open on their situation, never on you.** "Hi, I'm X from Y" is the opener he tears down most often. Your own story comes later, if at all (`4f6EIKa0Ewg`, `8-JgwNzUeiQ`, `siXAqkkfKoo`).
+18. **Don't accuse the reader.** "You don't track your sales" makes people defensive. Present it as news about most people instead, and only with a real statistic (`jgrdV2e6Zko`).
+19. **The ad must give value on its own.** A "blind sell" gets low engagement, and the algorithm then charges more (his claim) (`jgrdV2e6Zko`).
+20. **Don't reveal the whole mechanism in the ad.** If the reader can solve it without clicking (his saffron-tea example), they won't click (`UxfAPwonpZU`).
+21. **One bullseye desire per ad or page.** Pitching sleep, focus and weight loss at once dilutes all three (`7Z_v4qikND0`).
+22. **Admit the drawback before they raise it** ("radical transparency"). Early honesty about a negative makes everything else more believable (`c3ONXyktruw`).
+23. **Stack many small proofs rather than one big claim** ("bullets, not bombs"). With no proof yet, the offer has to carry more of the weight (`ND_VR0obMlE`).
+24. **Follow up far more.** In his own tracking, the most valuable buyers converted 90+ days after first contact (his claim) (`v6DZbjnQqwU`).
+25. **Weekly headline iteration.** Ask an LLM for 10 variations of your best headline: visceral, ultra-specific, direct, each with a big benefit and burning intrigue, under 45 characters (`9PFwIHaWquk`).
+26. **Test creative organically first** on an unbranded account, then promote the winners (`ehRzwCPzZy4`, `ND_VR0obMlE`).
+
 ## 3. Psychological triggers
 - **Curiosity gap + benefit** (matches "Curiosity gap").
 - **Pattern interrupt / pattern match.** NEW (practitioner).
@@ -101,6 +149,11 @@ Run ultra-raw "ghetto statics" (unedited phone photos) at one end and occasional
 - **Confident price statement:** state the price calmly, then stay silent (`SBkY-hQyY2U`, `rsgvkkpNg7Y`).
 - **Tribe and identity:** ownership as a signal of who you are (matches "Identity / future self") (source video not logged).
 
+- **Radical transparency:** disclose the catch first (matches "Damaging admission").
+- **Endowment:** a free trial or return window makes giving it up feel like a loss. Ethical only when the thing is genuinely good.
+
+His "6 dark marketing tactics" video (`E3KFx1a2pNI`), which he labels manipulation himself, is also **not used**: drip pricing, fake "only 2 left," decoy tiers, loss-leader "hook then squeeze" offers, and cost-of-inaction dollar figures.
+
 Luxury-brand tactics he documents but that **we do not use**, because they rely on deception or pressure: invented stock shortages (Rolex, Lamborghini), deliberately rude staff (McLaren), hiding prices to control the conversation, and "missing piece" upsells that create the pain first (Apple) (`ZCw6BhJVe3k`, `WKbh5AQoqaE`, `SBkY-hQyY2U`, `0eHXAcHpakY`). He himself says scarcity has to be real.
 
 ## 4. Examples and teardowns
@@ -109,6 +162,13 @@ Luxury-brand tactics he documents but that **we do not use**, because they rely 
 - **A HiSmile ad reads like tabloid gossip** ("She was skeptical. Wait until you see her results.") and uses an awkward mid-use product shot instead of the category's default smiling face (`Ea1hFxPx3JA`).
 - **Weak vs fixed, from a funnel teardown** (`K9kYwUWUjLc`): "Grow your first 100k followers" has no mechanism, no timeframe and nothing different. The fix leads with an unusual credential and a specific, provable, first-person result.
 - **Trojan story** (`QN_LVgvik-k`): unrelated human drama earns the read, then bridges to the product. It's a technique, **not** one to use on painful real situations such as losing a home.
+
+- **Rewrites from his live teardowns:**
+  - A VSL opening on the presenter's name and title became an opening on why the viewer is watching: they want more clients (`4f6EIKa0Ewg`).
+  - "Drink saffron tea before bed" gave the whole mechanism away. His rewrite teases a new way to get the best sleep of your life and withholds the how (`UxfAPwonpZU`).
+  - "How we built a store on [platform] in 16 weeks" named a platform nobody cares about. His rewrite names a person and a concrete buy-low, sell-high mechanism (`siXAqkkfKoo`).
+- **Specific plus absurd stakes:** a cookie brand pairs "crafted over a three-day process" with a joke that they're so good your grandmother will disown you (`9OV788GwfX8`).
+- **Recombining the client's own words:** he pulled scattered phrases from a coffee brand's site into a "forbidden coffee once reserved for warriors" line tied to deep focus (`7Z_v4qikND0`).
 
 ## Apply it (example: local home-buyer ads)
 Use only terms you can confirm. No numbers, speed claims or scarcity you can't back up.
@@ -119,3 +179,8 @@ Use only terms you can confirm. No numbers, speed claims or scarcity you can't b
 - **Look native.** A calm person on a phone camera, on a personal-looking page. No broker-style graphics.
 - **Soft CTA:** "Learn More," or "See what we'd offer. No obligation." That is also the most literally accurate wording.
 - **Short and direct for searchers** (red ocean). **Story and explanation for heirs** who haven't started looking yet (blue ocean).
+- **Fix the second click before scaling.** A seller who likes the ad will search the company name. A working website, a Google Business Profile with real closing photos, and plain answers to "how does this work" have to be there first.
+- **Radical transparency:** "Yes, you can leave the furniture. Yes, there's really no obligation." Admit the real catch too: a cash offer is lower than a fixed-up retail sale.
+- **Hold one confirmed term back as the payoff** instead of listing every term in the hook.
+- **Don't accuse** ("your house is a mess"). Describe the situation the way they would.
+- **Two-step for heirs:** a no-ask guide first ("what actually happens when you inherit a house nobody lives in"), then the offer.
