@@ -39,6 +39,20 @@ Draft the most generous version you can imagine, then wind it back to what you c
 
 **Proof and offer trade off** (Sabri): with little proof, the offer has to carry more of the weight. As proof builds, the offer can relax.
 
+### Guarantee strength (Sabri, `bFR1y5_kAB4`), weakest to strongest
+1. Money back if it doesn't do what it says.
+2. A change-of-mind refund within a set window.
+3. A conditional guarantee: do the steps, and if you don't get the result, get your money back.
+4. "We keep working, free, until you get the result."
+
+He says refund rates usually stay low (his claim). Only offer what you'll honour every time. For a free service, the honest guarantee is "no obligation": walking away costs nothing.
+
+### More offer levers
+- **Painkiller first** (`YVDtJNu7b48`): lead with the single fastest, narrowest relief, not the whole multi-step solution. Painkillers beat vitamins, and vitamins beat candy.
+- **Reframe the category** (Sabri's HexClad teardown, `REu7Z4E0oPQ`): leave a commodity category where you're compared on price, and position yourself in a new one.
+- **Payment plans** (`HF9k-BhCrF0`): the same total split into instalments often lifts the yes rate, because money today feels worth more than money later.
+- **Plain limits next to real proof read as honest.** Say clearly what the offer does **not** include.
+
 ## 3. Radical transparency: say the catch first
 Name the drawback before they can raise it. Early honesty about a negative makes everything else more believable. This matches the "Damaging admission" trigger in [triggers-index.md](triggers-index.md).
 - "It's not the cheapest. It's the one you won't have to replace."

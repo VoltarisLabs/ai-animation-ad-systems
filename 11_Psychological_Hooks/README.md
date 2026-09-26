@@ -10,7 +10,7 @@ Hook scripts built with psychology, plus the research behind them: copywriting f
 | [offer-and-mechanism.md](offer-and-mechanism.md) | Mechanism (why it works), honest offer stack, radical transparency, funnel shape, follow-up |
 | [testing-and-iteration.md](testing-and-iteration.md) | Volume and curation, kill checks, test order, reading results, the AI workflow, teardown order |
 | [templates/](templates/) | Short-form video templates (`video-scripts.md`), static and carousel templates (`static-ads.md`) |
-| [hook-formulas.md](hook-formulas.md) | 60 universal fill-in hooks, by type and awareness |
+| [hook-formulas.md](hook-formulas.md) | 66 universal fill-in hooks, by type and awareness |
 | [copy-banks.md](copy-banks.md) | CTA bank, primary text openers, headline formulas, objection bank, risky vs. safe lines, editing drills |
 | [swipe-file.md](swipe-file.md) | Annotated example ads across 8 industries |
 | [Property_Abundance_Nested_Loop_Hooks_v1.md](Property_Abundance_Nested_Loop_Hooks_v1.md) | Client-specific example (real estate): nested-loop hook scripts |

@@ -60,6 +60,16 @@ Gross profit per customer = AOV - CPA - COGS; LTV sits on top of that. His four 
 
 Doubling the conversion rate halves the CPA.
 
+### Five-point pre-publish check (`pZ82pzVoAZo`)
+1. Grabs attention instantly (a hook, curiosity or a contrarian idea).
+2. Answers "what's in it for me" at once.
+3. Names the specific pain and promises a solution.
+4. Uses story.
+5. Sounds like a conversation.
+
+### Light prompt for volume (`ZBVWIoUfNHs`)
+Paste three proven ads, ask the model only to confirm it has read them, then ask for new ones. Use it when you want volume off proven examples rather than the full hook-type prompt.
+
 ## 2. Actionable rules
 1. **Dimensionalize every pain and benefit.** Turn the category word into the scene. "Low energy" becomes the morning they can barely get out of bed. This is his most repeated rule, in almost every video.
 2. **Never open by announcing the video or product** ("OK, yesterday I tried..."). The first 2 to 3 seconds need a pattern interrupt, a bold claim or a paradox (`nRQP4zlAv1s`).

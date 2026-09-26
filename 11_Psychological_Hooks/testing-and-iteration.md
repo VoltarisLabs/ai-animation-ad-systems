@@ -34,6 +34,8 @@ Run these on every hook before it's scored in Step 4 of the checklist. A single 
 **Test organically first when budget is tight** (Sabri). Post variants on an unbranded account and put paid spend behind the ones that hold attention.
 
 ## 4. Read results correctly
+- **Hook rate is the first number to check** (Sabri): 3-second video views ÷ impressions. He calls 20-30% good and 30-40%+ exceptional (his benchmarks). When an ad fades, **re-shoot only the hook** before rebuilding the whole ad.
+- **Test 3 to 5 headlines at a time,** not every variation at once, to control spend (Sabri).
 - **Use 7-day rolling data,** never a single day (Sabri).
 - **A fading ad isn't dead until you've checked** frequency (under about 3 is usually not fatigue) and whether costs rose across the whole account (season, news). Then refresh in order: the creative, then the headline, then the body copy (Sabri).
 - **Always have at least 3 tests running** (Sabri).
@@ -63,5 +65,8 @@ Use it on your own work and on competitors', in this order. Small conversion twe
 5. Offer strength: see [offer-and-mechanism.md](offer-and-mechanism.md).
 6. Only then colours, buttons and layout.
 
-## 8. Log what wins
+## 8. Get feedback from buyers, not friends
+Show drafts to people in the target market. Friends, receptionists and "normies" judge length and tone wrongly, because they were never going to buy (Sabri). Check reading level with the Hemingway App and aim for grade 5 to 6.
+
+## 9. Log what wins
 Put every winner in [swipe-file.md](swipe-file.md) with the numbers, the audience, the awareness level and **one line on why it won**. The log is how the team's judgment compounds.

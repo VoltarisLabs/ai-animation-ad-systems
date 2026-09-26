@@ -73,6 +73,10 @@ Every line has one job: get the next line read (Sugarman).
 - [ ] **Dimensionalized:** every pain and benefit is a scene they can picture (a place, an object, a moment), not a category word (Georgi).
 - [ ] Opens on **their** situation, never on you or your company (Sabri).
 - [ ] One bullseye desire per ad.
+- [ ] **You vs. we:** count the pronouns. Aim for about 80% "you" and 20% "we" (Sabri).
+- [ ] **One intensifier per headline.** "Weird secret ancient formula" is three hooks fighting each other (Sabri).
+- [ ] **Every claim has proof right next to it.** In crowded markets, more proof beats a louder claim (Sabri).
+- [ ] Features become benefits: write two benefits for each feature, then keep only the benefits (Sabri).
 - [ ] Give a **reason why** the offer exists or the price is what it is.
 - [ ] **Raise the top worry yourself** and answer it.
 - [ ] One **honest admission**: "It's not for [wrong fit]. It is for [right fit]."
@@ -81,6 +85,7 @@ Every line has one job: get the next line read (Sugarman).
 - [ ] Pick the structure by awareness: see [frameworks.md](frameworks.md).
 
 ## Step 6. CTA: the smallest possible step
+- [ ] Never send paid traffic to a homepage. Use one page, one CTA, matched to the ad (Sabri).
 - [ ] One action only, and as small as possible: "Get my quote," "Take the 30-second quiz," "Start free." More in [copy-banks.md](copy-banks.md).
 - [ ] Make the first step free or low-risk (Fogg, Ariely's zero-price effect).
 - [ ] Put the CTA right after the proof, when motivation is highest.

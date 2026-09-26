@@ -2,7 +2,7 @@
 
 **Who:** Founder of King Kong (digital agency), author of *Sell Like Crazy* (2019), Shark Tank Australia investor. Reports $300M+ of Meta ad spend managed.
 **Source:** his YouTube channel, youtube.com/@SabriSubyOfficial (470 videos + 336 shorts). This file is built from full transcripts, scanned 2026-09-26.
-**Coverage so far:** 96 of 470 long-form videos read in full (21 off-topic). Updated as more are read; see [../transcripts/youtube-channel-scan-log.md](../transcripts/youtube-channel-scan-log.md).
+**Coverage so far:** 140 of 470 long-form videos and 331 of 336 shorts read in full. Updated as more are read; see [../transcripts/youtube-channel-scan-log.md](../transcripts/youtube-channel-scan-log.md).
 **Core idea:** An ad's only job is to sell the click. Win it with a pattern interrupt, burning intrigue and a big specific benefit, then let an offer that is hard to refuse do the selling.
 
 Video IDs below are `youtube.com/watch?v=<id>`. Numbers he quotes (split-test ratios, lifts) are his own claims, not independent evidence.
@@ -110,6 +110,28 @@ Build a visual moment into the product itself that people want to film. Find the
 5. Keep the edit raw.
 6. Test on an unbranded organic account before paying to promote.
 
+### Line-level detail for the 17 steps (`bFR1y5_kAB4`)
+- **Eyebrow line** above or below the headline, only to load curiosity.
+- **Floodlight the pain** so precisely the reader assumes you must have the answer. He calls it copy "under the fingernail."
+- **Name each alternative they tried** and why each one specifically failed.
+- **Two benefits per feature,** then talk only about the benefits.
+- **CTA as an instruction** ("Click the button below"), not a request.
+- **P.S.:** what happens if they don't act, then what happens if they do.
+
+### Ad-angle menu (`MJQFfZkuqS4`)
+Hero ad · weird authority · secret piece of information · commitment and consistency · ancient story · crush the competition · problem-agitate-solve · timeline. Use it as a brief for generating angles, then split-test 3 to 5 headlines at a time.
+
+### The exposé short (about 25 shorts)
+1. A price or "impossible to buy" hook.
+2. Walk in and ask.
+3. The stall.
+4. Escalate.
+5. The reveal ("it's a tactic").
+6. The lesson for your business.
+7. A soft CTA.
+
+The honest version (no deception at the stall) is template 12 in [../templates/video-scripts.md](../templates/video-scripts.md).
+
 ## 2. Actionable rules
 1. **Sell the click, not the product.** Trying to close inside the ad is the "cardinal sin" (`PB6Z96hTQWk`, `NTmWqnPIb2s`).
 2. **If it looks like an ad, it's dead on arrival.** Native, personal, phone-camera looks beat polish (`NTmWqnPIb2s`, `QN_LVgvik-k`).
@@ -139,6 +161,16 @@ Build a visual moment into the product itself that people want to film. Find the
 25. **Weekly headline iteration.** Ask an LLM for 10 variations of your best headline: visceral, ultra-specific, direct, each with a big benefit and burning intrigue, under 45 characters (`9PFwIHaWquk`).
 26. **Test creative organically first** on an unbranded account, then promote the winners (`ehRzwCPzZy4`, `ND_VR0obMlE`).
 
+27. **Your product is a barrier, not the point.** They want the result without you. Sell the removal of the barrier (`bgrrqzMl5sw`, `bFR1y5_kAB4`).
+28. **Hook rate first:** 3-second views ÷ impressions. He calls 20-30% good and 30-40%+ exceptional (his benchmarks). Re-shoot only the hook when an ad fades (`KpGg9WN3xc8`).
+29. **80/20 pronouns:** about 80% "you," 20% "we" (`bgrrqzMl5sw`).
+30. **Claims quieter than proof.** In a crowded market, back every claim with proof instead of shouting a bigger one (`bgrrqzMl5sw`).
+31. **One intensifier per headline.** Stacked hooks fight each other (`USZ2iBkmJXQ`).
+32. **Never send paid traffic to a homepage.** Use one page and one CTA. Host sales videos off YouTube so recommended videos don't pull people away (`yr5DnEE2kyI`).
+33. **Show drafts to buyers, not friends** (`bFR1y5_kAB4`).
+34. **Reuse proven material.** He re-cuts winning openers and his origin story almost word for word for years.
+35. **Conviction closes.** Certainty in the delivery matters more than the closing line (`VDWtD8bS9TU`). Direct the voice-over accordingly.
+
 ## 3. Psychological triggers
 - **Curiosity gap + benefit** (matches "Curiosity gap").
 - **Pattern interrupt / pattern match.** NEW (practitioner).
@@ -151,6 +183,8 @@ Build a visual moment into the product itself that people want to film. Find the
 
 - **Radical transparency:** disclose the catch first (matches "Damaging admission").
 - **Endowment:** a free trial or return window makes giving it up feel like a loss. Ethical only when the thing is genuinely good.
+
+Also **not used**: removing price tags above a threshold to force a status conversation (Disney, Van Cleef), and health-product "research purposes only" disclaimers used for credibility (`YVDtJNu7b48`).
 
 His "6 dark marketing tactics" video (`E3KFx1a2pNI`), which he labels manipulation himself, is also **not used**: drip pricing, fake "only 2 left," decoy tiers, loss-leader "hook then squeeze" offers, and cost-of-inaction dollar figures.
 

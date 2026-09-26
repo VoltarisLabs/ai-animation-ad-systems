@@ -106,6 +106,16 @@ From Sabri's agency ad.
 
 Never name a competitor unless legal has cleared it. Attack the common approach, not a company.
 
+## 12. The honest exposé (30-45s)
+Sabri's undercover-shopper format (about 25 shorts), minus the deception.
+| Beat | Template |
+|---|---|
+| 0-3s | What everyone assumes: "Everyone thinks [common belief about the category]." |
+| 3-10s | Put it to the test: show the real situation or the dreaded moment |
+| 10-20s | The reveal: what's actually true (a real fact or a confirmed term) |
+| 20-30s | The lesson, in the viewer's terms: "So if you're [situation], [what that means for you]." |
+| Last 3-5s | Soft CTA |
+
 ---
 
 ## Script QA before recording

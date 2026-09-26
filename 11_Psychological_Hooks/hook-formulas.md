@@ -97,5 +97,14 @@ From [stefan-georgi.md](03-modern-creators/stefan-georgi.md) and [sabri-suby.md]
 59. **Specific plus absurd stakes:** a concrete detail plus a playful, exaggerated consequence. "Crafted over three days. Your grandmother will disown you." (Sabri's cookie example.)
 60. **Benefit-led twin:** for every pain hook you write, write its benefit version and test them head to head. "Stop cleaning it out" → "Sell it with everything still inside."
 
+61. **Exposé / "let's put it to the test":** "Everyone says [common belief about the category]. Let's find out." Then show what's actually true. Sabri's most repeated shorts format; the reveal must be real.
+62. **Price or number shock:** "[Thing] costs [real, surprising number]. Here's why." Use only a real, sourced number.
+63. **"Give me [X] seconds":** "Give me [X] seconds and I'll show you [specific benefit], even if [objection]."
+64. **"This found you":** "If you're [A] who [situation], this found you at the right time." (Identity call-out.)
+65. **Forced-choice question:** "[Option A], [option B] or [option C]: which one [does R]?" People answer in the comments.
+66. **Attention call-out headline:** "Attention [A] who want [benefit one] and [benefit two]."
+
+**Reuse proven openers.** Sabri reposts his winning openers and origin story nearly word for word for years. Once a hook wins, re-cut it rather than replacing it (`-1TLb3FjG1s`, `97TGWKw4q7Q`).
+
 ## Hooks by awareness level
 See the master table in [AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md) (Step 1).
