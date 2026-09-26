@@ -9,7 +9,7 @@
 - **Seeds of curiosity.** End paragraphs with a short line that pulls into the next one ("But there's more." / "Here's why.").
 - **Selling a concept, not a product.** People buy the idea and feeling. The product is how they get there.
 - **Psychological triggers** (he catalogued about 30). A selection useful for ads:
-  consistency, involvement/ownership, honesty, credibility, proof of value, justify the purchase, greed, authority, satisfaction guarantee, linking to something familiar, hope, guilt, specificity, storytelling, desire to belong, desire to collect, urgency, fear, instant gratification, exclusivity, simplicity, raising objections.
+  consistency, involvement/ownership, honesty, credibility, proof of value, justify the purchase, greed, authority, satisfaction conviction, linking, familiarity, hope, guilt, specificity, storytelling, desire to belong, desire to collect, urgency, fear, instant gratification, exclusivity, simplicity, raising objections.
 
 ## 2. Actionable rules
 1. Make the first sentence very short, so it is easy to start reading.

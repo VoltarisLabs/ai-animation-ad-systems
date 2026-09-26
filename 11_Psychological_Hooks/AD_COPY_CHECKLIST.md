@@ -1,6 +1,6 @@
 # Ad Copy Checklist
 
-A universal routine for any product, service, audience or platform. Run every ad script through it before it goes to voice, design or video. The research files in this folder explain why each step works.
+A universal routine for short-form video and static ads, for any product or audience. Run every ad through it before it goes to voice, design or video. The research files in this folder explain why each step works.
 
 Fill in the `[brackets]`. Examples rotate across industries to show the pattern, not one niche.
 
@@ -20,17 +20,19 @@ Offer + first step:   [the smallest yes]
 
 ## Step 1. Pick who, and how aware they are
 - **Hungry audience first.** Target people already in the situation and already looking. The audience matters more than the wording (Halbert).
-- **Match the opening to awareness** (Schwartz, UPSYD):
+- **Match everything to awareness** (Schwartz, UPSYD). This is the master table; other files link here.
 
-| Level | They think | Open with | Template |
-|---|---|---|---|
-| Unaware | Nothing yet | Story or identity | "I was a [identity] who [relatable moment]..." |
-| Problem-aware | "I have this problem" | The pain | "Still [pain] every [time period]?" |
-| Solution-aware | "I want the result" | The result | "[Result] without [thing they hate]." |
-| Product-aware | "I've seen options like you" | Proof and difference | "Why [audience] switch from [alternative] to [you]." |
-| Most aware | "I'm ready" | The offer | "[Offer]. [Deadline or bonus]. [CTA]." |
+| Level | They think | Open with | Hook types ([hook-formulas.md](hook-formulas.md)) | Framework ([frameworks.md](frameworks.md)) | Video template | Static layout |
+|---|---|---|---|---|---|---|
+| Unaware | Nothing yet | Story, identity, pattern interrupt | Story, curiosity + benefit, contrarian, visual | Star-Story-Solution, BAB | #3 founder story, #8 street interview | #6 notes app, #10 POV |
+| Problem-aware | "I have this problem" | The pain, in their words | Pain, call-out, question | PAS | #1 workhorse, #6 listicle | #7 call-out, #8 question |
+| Solution-aware | "I want the result" | The result or the mechanism | Result, how-to, proof | AIDA, BAB | #4 demo, #2 UGC testimonial | #1 big claim, #5 big number |
+| Product-aware | "I've seen options like you" | Proof and difference | Us vs. them, objection, proof | FAB | #5 us vs. them, #7 objection-buster | #3 testimonial, #4 us vs. them |
+| Most aware | "I'm ready" | The offer | Offer, urgency, bonus | Offer + CTA only | 6-10s offer cut | #9 offer card |
 
-Examples: "Still waking up at 3am worried about payroll?" (problem-aware, B2B). "Clear skin in 30 days without harsh acids." (solution-aware, skincare). "Why dentists switch from Yelp ads to us." (product-aware, agency).
+Templates: [templates/video-scripts.md](templates/video-scripts.md), [templates/static-ads.md](templates/static-ads.md).
+
+Examples: "Still waking up at 3am worried about payroll?" (problem-aware, B2B). "Skincare for sensitive skin, without harsh acids." (solution-aware). "Why dentists switch from Yelp ads to us." (product-aware, agency).
 
 ## Step 2. Take the words from customers
 - Mine reviews (yours and competitors'), comments, DMs, sales calls, support tickets and Reddit threads (Wiebe's review mining). Their exact words beat yours.
@@ -45,7 +47,7 @@ One reader, one promise, one offer. Pick the angle (Furr):
 In a crowded market where everyone makes the same claim, lead with **how it works differently** (a new mechanism) or with **who it's for** (identity) (Schwartz).
 
 ## Step 4. Write 10 hooks, keep 3
-Score each hook 1 to 4 on each item below. **Keep hooks that score 20 or more out of 28.**
+This is the only hook score used in this folder. Score each hook 1 to 4 on each item. **Keep hooks that score 20 or more out of 28.** For Unaware hooks (story, curiosity), score Urgent as N/A and keep at **17 or more out of 24**.
 
 | Check | Question |
 |---|---|
@@ -57,11 +59,11 @@ Score each hook 1 to 4 on each item below. **Keep hooks that score 20 or more ou
 | Easy | Does getting the result sound simple? |
 | Safe | Does it lower their fear or risk? |
 
-Hook types to rotate: question, bold claim, number, story open, "how to," call-out ("[Audience], stop [mistake]"), myth-bust, before/after, curiosity *paired with* a benefit (curiosity alone tests weak, per Caples).
+Hook types to rotate: question, bold claim, number, story open, "how to," call-out ("[Audience], stop [mistake]"), myth-bust, before/after (not for health, weight, beauty or money results on Meta or TikTok), curiosity *paired with* a benefit (curiosity alone tests weak, per Caples). Full list: [hook-formulas.md](hook-formulas.md).
 
 ## Step 5. Body copy: the slippery slide
 Every line has one job: get the next line read (Sugarman).
-- [ ] First line under 8 words.
+- [ ] First line 8 words or fewer.
 - [ ] Specifics instead of adjectives: "set up in 11 minutes" beats "quick setup."
 - [ ] Give a **reason why** the offer exists or the price is what it is.
 - [ ] **Raise the top worry yourself** and answer it.
@@ -71,24 +73,25 @@ Every line has one job: get the next line read (Sugarman).
 - [ ] Pick the structure by awareness: see [frameworks.md](frameworks.md).
 
 ## Step 6. CTA: the smallest possible step
-- [ ] One action only, and as small as possible: "Get my quote," "Take the 30-second quiz," "Start free."
+- [ ] One action only, and as small as possible: "Get my quote," "Take the 30-second quiz," "Start free." More in [copy-banks.md](copy-banks.md).
 - [ ] Make the first step free or low-risk (Fogg, Ariely's zero-price effect).
 - [ ] Put the CTA right after the proof, when motivation is highest.
 - [ ] Scarcity only if it is true. No fake timers.
 
 ## Step 7. Edit
 - [ ] Read it out loud. Rewrite anything you wouldn't say to a friend (Medhora).
-- [ ] Cut adverbs, passive voice, jargon and "we are proud to."
+- [ ] Cut adverbs, passive voice, jargon and "we are proud to." Run the editing drills in [copy-banks.md](copy-banks.md).
 - [ ] Message match: the landing page continues the ad's exact promise.
 - [ ] 5-second test: can a stranger say what you offer and what to do next?
 
 ## Step 8. Compliance
 - [ ] No fake urgency, invented testimonials or results you can't back up.
-- [ ] Check the platform's rules for your category (health, finance, housing, employment and credit have extra restrictions on Meta and Google).
-- [ ] No text baked into AI image or video prompts. Captions go in the editor.
+- [ ] Name the situation, not the person: never "you are / you have" + a sensitive trait (health, money, age, identity).
+- [ ] No before/after or timed results for health, weight, beauty or income.
+- [ ] Check the platform's rules for your category (health, finance, housing, employment and credit have extra restrictions on Meta and TikTok).
+- [ ] Add all words in the editor or Canva, never inside the AI image or video generation prompt.
+- [ ] Run the risky vs. safe table in [copy-banks.md](copy-banks.md).
 
 ## Step 9. Test like Hopkins and Caples
-- Change **one thing at a time**, and test the hook first. Hooks move results the most.
-- Build an **Ad Grid**: audience segments down the side, angles (problem, opportunity, prediction) across the top. One ad per cell.
-- Judge by **cost per lead and cost per sale**, not views or likes.
-- Log the winners and losers, and start the next script from what worked.
+- Test the hook first, one variable at a time. Hooks move results the most.
+- Add winners to the bottom of [swipe-file.md](swipe-file.md) with a note on why they won.

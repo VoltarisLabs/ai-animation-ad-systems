@@ -1,7 +1,7 @@
 # Gary Halbert
 
 **Who:** Direct-mail copywriter known as the "Prince of Print." His long-form sales letters are credited with very large sales.
-**Key works:** *The Boron Letters* (letters to his son Bond, written in the 1980s), *The Gary Halbert Letter* newsletter.
+**Key works:** *The Boron Letters* (25 letters to his son Bond, written in 1984 from Boron Federal Prison Camp), *The Gary Halbert Letter* newsletter.
 **Core idea:** Who you sell to matters more than what you say. Find a starving crowd first.
 
 ## 1. Frameworks

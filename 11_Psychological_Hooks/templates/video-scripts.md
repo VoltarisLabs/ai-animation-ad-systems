@@ -3,16 +3,23 @@
 For vertical short-form: Meta Reels and Stories, TikTok, YouTube Shorts. Spoken pace is about 2.5 words per second, so 30 seconds is roughly 75 words.
 
 ## Short-form rules (every video)
-1. **Three-layer hook in the first 1-2 seconds.** The *visual* (what's on screen), the *spoken line* and the *on-screen text* all hit at once. Each one should work on its own.
+1. **Three-layer hook.** The *visual* (what's on screen), the *spoken line* and the *on-screen text* all land by 2 seconds. The hook beat can run 0-3s, but all three layers are there by 2s. Each one should work on its own.
 2. **The first frame is the thumbnail.** Make it interesting as a still: a face showing emotion, the result, the problem object, or motion already in progress. No logo intros, no "Hey guys."
 3. **Design for sound off.** Burned-in captions on every spoken line, added in the editor. The story still makes sense muted.
 4. **Change something every 1-3 seconds:** a cut, a zoom, a new b-roll shot, a text pop. Still frames lose people.
 5. **One idea, one CTA.** If you need a second idea, make a second ad.
-6. **Keep text in the safe zone.** On Reels and Stories, keep the top 14%, bottom 35% and 6% on each side clear. On TikTok, use their overlay template.
+6. **Keep text in the safe zone.** Reels: keep the top 14%, bottom 35% and 6% on each side clear. Stories: keep the top and bottom 14% clear. TikTok: use their overlay template (it changes with caption length). This is the one place safe zones are listed; the static template links here.
 7. **Look native, not like an ad.** Phone-shot, a real person, natural light and platform-style text usually beat polished brand video on short-form. Test both.
 8. **Length:** start with 15-30s versions. Build a 6-10s cut of every winner for Stories and retargeting.
 9. **End card (last 2-3s):** the CTA as text + spoken, plus the offer or a reason to act now. Keep the logo small.
 10. **Make hook variants.** Every script ships with 3 alternate first-3-seconds. Keep the body the same, so the test isolates the hook.
+
+## On-screen text rules
+- 3 to 5 words per text pop. One idea per pop.
+- Leave each pop on screen at least 1.5 seconds per 5 words.
+- Echo the spoken line, don't transcribe it. Captions are separate and carry the full words.
+- The hook text states the benefit or the pain even with the sound off.
+- Sentence case, no periods, high contrast, inside the safe zone.
 
 ## Script sheet format
 | Time | Visual / b-roll | Spoken line | On-screen text |
@@ -79,5 +86,5 @@ Ask strangers the problem question, show the reactions, reveal the product or an
 - [ ] First frame is visually interesting on its own.
 - [ ] One idea, one CTA.
 - [ ] Word count fits the length (about 2.5 words per second).
-- [ ] Captions are planned in the editor, not baked into AI generations.
+- [ ] All words (captions and text pops) are added in the editor, never inside the AI image or video generation prompt.
 - [ ] Passes [../AD_COPY_CHECKLIST.md](../AD_COPY_CHECKLIST.md).

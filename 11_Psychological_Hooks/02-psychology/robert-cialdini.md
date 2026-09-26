@@ -23,15 +23,15 @@ The original six are from *Influence*. Unity was introduced in *Pre-Suasion* and
 1. Social proof works best when the crowd is similar to the reader. Specific, local numbers beat generic ones.
 2. Never showcase that "many people fail to do X." That normalizes the bad behavior. Show that most people *do* the right thing.
 3. Scarcity must be true. Fake countdowns destroy trust and can break ad rules and consumer law.
-4. Loss framing ("what you'll lose") often beats gain framing for the same fact.
-5. Give a reason. Even a thin "because" raises compliance on small requests.
+4. Loss framing ("what you'll lose") can beat gain framing for the same fact, but meta-analyses show the effect is inconsistent. Test both.
+5. Give a reason. Even a thin "because" raises compliance on small requests; for bigger requests the reason has to be real.
 6. Make the first commitment tiny and active (click, answer, tap).
 
 ## 3. Key studies (useful teardowns)
 - **Hotel towels (Goldstein, Cialdini & Griskevicius, 2008):** "Most guests in this hotel reuse towels" beat a generic environmental message. The most local version, "guests who stayed in *this room*," did better still.
 - **Cookie jar (Worchel et al., 1975):** The same cookies were rated more desirable when the jar held 2 instead of 10, and even more when the supply had just gone down.
 - **Foot-in-the-door (Freedman & Fraser, 1966):** People who first agreed to a small request were much more likely to later accept a large one (a big yard sign).
-- **"Because" (Langer et al., 1978):** Asking to cut in line at a copier got more compliance when any reason was given.
+- **"Because" (Langer, Blank & Chanowitz, 1978):** For a small request (copying 5 pages), even an empty reason ("because I have to make copies") raised compliance from 60% to 93%, almost as much as a real reason. For a larger request (20 pages), only a real reason helped.
 
 ## Evidence note
 Reciprocity, social proof and commitment are well replicated. Individual effect sizes vary by context. Treat the principles as hypotheses to A/B test, not guarantees.

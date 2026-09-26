@@ -4,14 +4,14 @@ Each entry: structure, when to use it, a fill-in template, and an example. Examp
 
 | Framework | Structure | Best for |
 |---|---|---|
-| **AIDA** (attributed to E. St. Elmo Lewis, 1898) | Attention -> Interest -> Desire -> Action | General ads, emails, cold traffic |
+| **AIDA** (credited to E. St. Elmo Lewis, 1898; Action added later) | Attention -> Interest -> Desire -> Action | General ads, emails, cold traffic |
 | **PAS** | Problem -> Agitate -> Solution | Problem-aware audiences, short ads |
 | **BAB** | Before -> After -> Bridge | Transformation offers, testimonials |
 | **FAB** | Features -> Advantages -> Benefits | Product-aware buyers comparing options |
-| **4 Ps** (Henry Hoke) | Picture -> Promise -> Prove -> Push | Sales pages, longer ads |
-| **4 Us** | Useful, Urgent, Unique, Ultra-specific | Scoring headlines and hooks |
-| **PASTOR** (Ray Edwards) | Problem, Amplify, Story, Transformation, Offer, Response | Long-form sales pages |
-| **QUEST** (Michel Fortin) | Qualify, Understand, Educate, Stimulate, Transition | Sales letters, VSLs |
+| **4 Ps** (Henry Hoke Sr.) | Picture -> Promise -> Prove -> Push | Sales pages, longer ads |
+| **4 Us** (Michael Masterson, AWAI) | Useful, Urgent, Unique, Ultra-specific | Scoring headlines and hooks |
+| **PASTOR** (Ray Edwards) | Problem, Amplify, Story, Transformation, Offer, Response | Long-form only; listed for reference |
+| **QUEST** (Michel Fortin) | Qualify, Understand, Educate, Stimulate, Transition | Long-form only; listed for reference |
 | **Star-Story-Solution** | Character -> their story -> how the product solved it | Story ads, UGC scripts |
 | **Hook -> Problem -> Agitate -> Solution -> CTA** | Video ad script built on PAS with a hook first | Meta, TikTok, YouTube ads |
 
@@ -30,23 +30,17 @@ Each entry: structure, when to use it, a fill-in template, and an example. Examp
 **BAB**
 > Template: Before: [life with the problem]. After: [life with the result]. Bridge: [your product].
 >
-> Example (skincare): Before: hiding breakouts under heavy makeup. After: going out bare-faced. Bridge: a 3-step routine made for sensitive skin.
+> Example (skincare): Before: a 10-step routine that stings. After: 3 steps that don't. Bridge: [product], made for sensitive skin.
 
-**4 Us headline check.** Score each 1 to 4. Rewrite anything under 12.
+**4 Us** (the origin of our hook score). Useful, Urgent, Unique, Ultra-specific. We score hooks with the extended 7-point check in [AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md) Step 4, which adds New, Easy and Safe.
 > Template: "[Specific result] for [specific audience] in [timeframe], [real limit]"
 >
 > Example (local dentist): "Free whitening consult for new patients this month, 20 spots" = useful, urgent, unique, specific.
 
 **4 Ps**
-> Example (online course): Picture yourself landing your first client this month. (Picture) This course gets you there in 30 days. (Promise) 1,200 students, with their results shown. (Prove) Enroll by Friday for the bonus templates. (Push)
+> Example (online course): Picture sending your first client pitch this week. (Picture) This course walks you through it step by step. (Promise) 1,200 students, with their pitches shown. (Prove) Enroll by Friday for the bonus templates. (Push)
 
-## Which framework when (using Schwartz's awareness levels)
-| Awareness | Use |
-|---|---|
-| Unaware | Star-Story-Solution, BAB (lead with identity or story) |
-| Problem-aware | PAS, Hook-PAS-CTA |
-| Solution-aware | AIDA, 4 Ps |
-| Product-aware | FAB, proof-heavy 4 Ps |
-| Most aware | Offer + deadline + CTA only |
+## Which framework when
+See the master awareness table in [AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md) (Step 1). It maps each awareness level to its opening, hook types, framework, video template and static layout.
 
 See [triggers-index.md](triggers-index.md) for which psychological trigger to add at each step.

@@ -27,7 +27,7 @@ Match messages to markets in a grid: avatars down one side, angles across the to
 ### UPSYD (Keith Krance, Perpetual Traffic)
 Target ads by awareness: **U**naware, **P**roblem-aware, **S**olution-aware, **Y**our-solution aware, **D**eal-aware. It adapts Schwartz's awareness levels for paid traffic.
 
-### Video ad script template (industry standard)
+### Video ad script template (common practice; no single source)
 **Hook -> Problem -> Agitate -> Solution -> CTA.** This is PAS with a thumb-stopping hook in the first 1 to 3 seconds.
 
 **Rules**

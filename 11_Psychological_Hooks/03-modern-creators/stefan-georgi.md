@@ -1,6 +1,6 @@
 # Stefan Georgi
 
-**Who:** Direct-response copywriter (reports $700M+ in client sales), creator of the RMBC method, runs Copy Accelerator / CA Pro.
+**Who:** Direct-response copywriter (reports about $700M in sales from his own copy), creator of the RMBC method, runs Copy Accelerator / CA Pro.
 **Source:** his YouTube channel, youtube.com/@StefanGeorgi1 (182 videos). This file is built from full transcripts, scanned 2026-09-26.
 **Coverage so far:** 32 of 182 videos read in full (19 useful, 13 off-topic). Updated as more are read; see [../transcripts/youtube-channel-scan-log.md](../transcripts/youtube-channel-scan-log.md).
 **Core idea:** Pair curiosity with a concrete promise, make every pain and benefit specific enough to see, and write to the awareness level the audience is actually at.
@@ -10,7 +10,7 @@ Video IDs below are `youtube.com/watch?v=<id>`.
 ## 1. Frameworks
 
 ### RMBC: Research, Mechanism, Brief, Copy
-The pipeline he teaches (RMBC II overview `PgfTYAngaTQ`, 2025 state-of-copy talk `MH_fU3JOP3M`).
+The pipeline he teaches (RMBC II overview `PgfTYAngaTQ`, a public course-overview video; 2025 state-of-copy talk `MH_fU3JOP3M`).
 1. **Research.** Four parts merged into one research document: product and market awareness, competitors (their claims, what buyers like and dislike about them), psychographics (hopes, fears, what they would never say out loud), and supporting studies where claims need them.
 2. **Mechanism.** Find the unique mechanism (below). Generate several candidates, then score them against a rubric before picking one.
 3. **Brief.** One ~25-field document every asset is written from: demographics, psychographics, pain points, big promise, what life feels like once the pain is solved, existing solutions and why they fail, the mechanism and its nickname, proof, credibility, story, objections and answers, offer, guarantee, and hooks to test.
@@ -32,7 +32,8 @@ Schwartz's five levels (see [../01-copywriters/eugene-schwartz.md](../01-copywri
 ### Curiosity hook + promise hook
 His lead formula: an open loop (curiosity) fused with a specific, often nicknamed, benefit (promise). Either alone is weaker. The promise has to be something the body can actually pay off (`3gw-MX5eGrc`, `9SpnpoqoAMo`, `Z2YgDXm9bEo`).
 
-### The 18 hook types (Mario Castelli's hook mega-prompt, demoed in `9SpnpoqoAMo`)
+### 18 hook types (from a hook prompt demoed in `9SpnpoqoAMo`)
+Categories paraphrased; the prompt itself is not reproduced.
 Personal claim or story · authority or government angle · curiosity number · mechanism + benefit · strong claim or guarantee · contrarian advice · associative state (tap an emotion they are already in) · binding statement (a truth they nod along to) · shocking fact · physical demonstration · credible quote · the secret of a privileged group · quiz with a surprising answer · timely or news angle · testable proof (a check they can do on themselves right now) · common mistake that causes a bad outcome · burning question · mocking the "obvious" solution.
 
 How the prompt runs:
@@ -77,7 +78,7 @@ Doubling the conversion rate halves the CPA.
 ## 3. Psychological triggers
 - **Curiosity gap:** always paired with a promise (matches the triggers index).
 - **Specificity / dimensionalization:** vivid scenes activate recognition (matches "Specificity").
-- **Disgust + loss on money already spent:** his AI reviewer's summary of what top hooks share: "create disgust, fascination, trigger loss aversion on money already spent, offer a specific contrast" (`h2NkUelrD00`). NEW: disgust.
+- **Disgust + loss on money already spent:** his AI reviewer found that top hooks share disgust, fascination, loss aversion over money already spent, and a specific contrast (`h2NkUelrD00`). NEW: disgust.
 - **New mechanism:** a named reason why (matches the triggers index).
 - **Testable self-proof:** a check the viewer can do right now. NEW.
 - **Emotional-temperature congruence:** keeping the feeling consistent across the journey. NEW (practitioner).
@@ -91,11 +92,11 @@ Unverified: his theory that Meta charges a higher CPA when a funnel adds upsells
 - **Flat opener rewritten** (`nRQP4zlAv1s`): "Yesterday I tried X" became a relatable metaphor about having too many browser tabs open in your head, and the gross visual moved to the first frame.
 - **One brief, several registers** (`Z2YgDXm9bEo`): the same offer written as aggressive exposé, doctor empathy, and a family scene opened mid-moment. Test registers, not just word swaps.
 
-## Apply it (Property Abundance)
-These run through the repo's gates: no numbers, speed claims or urgency, and only the confirmed terms (as-is, belongings can stay, no fees or commission, seller picks the date, no obligation).
+## Apply it (example: local home-buyer ads)
+Use only terms you can confirm (for example: as-is, belongings can stay, no fees, seller picks the date, no obligation). No numbers, speed claims or urgency you can't back up.
 - **Label each avatar's awareness level first.** The heir is problem aware but often not solution aware: they may not know "sell it as-is, leave the belongings" is an option, so teach the option. The tired landlord is solution or product aware and has heard every cash buyer pitch, so the hook's job is to stand apart and lower the risk.
-- **Dimensionalize our generic lines.** "Needs repairs" becomes the roof quote read twice and put in a drawer. "Inherited house" becomes the fourth drive this month to a house nobody lives in.
+- **Dimensionalize generic lines.** "Needs repairs" becomes the roof quote read twice and put in a drawer. "Inherited house" becomes the fourth drive this month to a house nobody lives in.
 - **Curiosity + promise.** For example: "Most people cleaning out a parent's house never ask this one question." The payoff is the confirmed term that the belongings can stay.
 - **Hook types that fit without breaking the gates:** contrarian ("Don't clean it out before you sell"), common mistake, testable self-check, mocking the obvious solution ("Everyone says fix it first").
-- **Keep the temperature the same from the ad to the first text reply and the landing page.** Our landing page still returns HTTP 403 and has to be fixed first.
+- **Keep the temperature the same from the ad to the first text reply and the landing page.**
 - **Test the CTA wording the way he tested the checkout button.** Plain, low-pressure wording is likely to win.

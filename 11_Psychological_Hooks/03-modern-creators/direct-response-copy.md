@@ -9,7 +9,7 @@ Checked against sources on 2026-09-26. Anything we could not confirm is marked *
 
 **Frameworks**
 - **Emotional Buyer's Journey.** A buyer should feel five things in order: Understood -> Safe -> Empowered -> Excited -> Committed.
-- **5 Ps.** Problem -> Pain -> Prescription -> Pivot (why you are qualified) -> Positioning (why yours is best).
+- **5 Ps.** Problem -> Pain -> Prescription -> Pivot (why you are qualified) -> Positioning (why yours is best). **Unverified**: not confirmed in a second source.
 - Her sales-page formula taught in *Write & Ignite* is paywalled: **unverified**.
 
 **Rules**
@@ -52,7 +52,7 @@ Checked against sources on 2026-09-26. Anything we could not confirm is marked *
 
 **Rules**
 - Write the way you speak, in your own personality.
-- If an idea takes more than 3 sentences to explain, it is too long.
+- If an idea takes more than 3 sentences to explain, it is too long. (**Unverified** in a primary source.)
 - Cut buzzwords that make the reader stop and decode.
 - Draft several headlines and pick the best one.
 
@@ -72,7 +72,7 @@ Checked against sources on 2026-09-26. Anything we could not confirm is marked *
 
 **Rules:** Check every headline and lead against NESB. If one of the four is missing, add it. Write conversationally.
 **Triggers:** Novelty, ease, safety/risk reversal, size of payoff.
-**Claimed results (self-reported):** $7.1M and 51K customers from his copy in 2018. As copy chief he reportedly helped grow a financial publisher from $11M to $50M+.
+**Claimed results (self-reported):** $7.1M and 51K customers from his copy in 2018. As copy chief at WealthPress (2019) he reportedly helped grow a small publisher into a $50M company.
 **Sources:** Kyle Milligan LinkedIn NESB post; geniusesofcopywriting.com/kyle-milligan/ ; kylethewriter.com
 **Confidence:** High on NESB.
 

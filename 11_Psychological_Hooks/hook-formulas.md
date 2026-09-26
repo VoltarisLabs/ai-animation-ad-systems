@@ -3,11 +3,13 @@
 Fill-in hooks, grouped by type. Write 10, score them with the 7-point check in [AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md) (Step 4), and keep the top 3.
 `[A]` = audience, `[P]` = pain, `[R]` = result, `[T]` = time, `[X]` = product or mechanism.
 
+**Policy rule for every hook:** name the situation, not the person. Never "you are / you have" + a sensitive trait (health, money trouble, age, body, identity). "Behind on property taxes?" is a situation; "Are you broke?" is a personal attribute and gets rejected on Meta.
+
 ## Call-out (who it's for)
 1. "[A], stop [common mistake]."
 2. "If you're a [A] who [P], watch this."
 3. "This is for [A] who are tired of [P]."
-4. "[A] over [age/stage]: [surprising truth]."
+4. "What changes about [topic] after [life stage or milestone]."
 
 ## Pain / problem
 5. "Still [P] every [time period]?"
@@ -23,9 +25,9 @@ Fill-in hooks, grouped by type. Write 10, score them with the 7-point check in [
 
 ## Curiosity + benefit (never curiosity alone)
 13. "The [number]-minute [habit/trick] that [R]."
-14. "Nobody talks about this [R] shortcut."
+14. "The [number]-second check that tells you if [P] is coming."
 15. "I tried [X] for [T]. Here's what happened to [metric]."
-16. "The weird reason [A] who [R] all do [X]."
+16. "What [A] who [R] do differently on [day or moment]."
 
 ## Contrarian / myth-bust
 17. "[Common advice] is wrong. Here's why."
@@ -55,14 +57,26 @@ Fill-in hooks, grouped by type. Write 10, score them with the 7-point check in [
 ## Visual / pattern-interrupt (video)
 32. Start mid-action on the result, with no intro.
 33. Show an object tied to the pain (a pile of bills, a broken product, an empty calendar) and ask "Sound familiar?"
-34. A split screen: before on the left, after on the right.
+34. A split screen: before on the left, after on the right. (Not for health, weight, beauty or income results.)
 35. Put text on screen that contradicts what the person is saying (irony hook).
 
+## How-to
+36. "How to [R] without [X they hate]."
+37. "[A]: here's how to [R] in [T]."
+
+## Us vs. them
+38. "Most [alternatives] [flaw]. We [fix]."
+39. "[Alternative] gives you [weak output]. This gives you [strong output]."
+
+## Objection-buster
+40. "'[Objection in their words]?' Fair question."
+41. "The #1 reason people don't [act]: [objection]. Here's the truth."
+
+## Offer / urgency / bonus (most aware)
+42. "[Offer]. Until [real date]."
+43. "Get [bonus] free when you [action] by [date]."
+44. "[Number] spots left for [month]. Here's why we cap it."
+45. "Last call: [offer] ends [day]."
+
 ## Hooks by awareness level
-| Level | Best hook types |
-|---|---|
-| Unaware | Story, curiosity + benefit, visual pattern-interrupt, contrarian |
-| Problem-aware | Pain, call-out, "it's not your fault" |
-| Solution-aware | Result, proof/numbers, how-to |
-| Product-aware | Us vs. them, objection-buster, proof |
-| Most aware | Offer, urgency, bonus |
+See the master table in [AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md) (Step 1).

@@ -7,10 +7,11 @@ Hook scripts built with psychology, plus the research behind them: copywriting f
 |---|---|
 | **[AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md)** | **Start here. The routine every ad script goes through.** |
 | [templates/](templates/) | Short-form video templates (`video-scripts.md`), static and carousel templates (`static-ads.md`) |
-| [hook-formulas.md](hook-formulas.md) | 35 universal fill-in hooks, by type and awareness |
+| [hook-formulas.md](hook-formulas.md) | 45 universal fill-in hooks, by type and awareness |
+| [copy-banks.md](copy-banks.md) | CTA bank, primary text openers, headline formulas, objection bank, risky vs. safe lines, editing drills |
 | [swipe-file.md](swipe-file.md) | Annotated example ads across 8 industries |
-| [Property_Abundance_Nested_Loop_Hooks_v1.md](Property_Abundance_Nested_Loop_Hooks_v1.md) | Nested-loop hook scripts (A->B->C, closes in reverse) |
-| [Property_Abundance_Ad16_JMSN_Hook_Bank_v1.md](Property_Abundance_Ad16_JMSN_Hook_Bank_v1.md) | Ad 16 JMSN hook bank |
+| [Property_Abundance_Nested_Loop_Hooks_v1.md](Property_Abundance_Nested_Loop_Hooks_v1.md) | Client-specific example (real estate): nested-loop hook scripts |
+| [Property_Abundance_Ad16_JMSN_Hook_Bank_v1.md](Property_Abundance_Ad16_JMSN_Hook_Bank_v1.md) | Client-specific example (real estate): Ad 16 hook bank |
 | [frameworks.md](frameworks.md) | AIDA, PAS, BAB, FAB, 4 Ps, 4 Us, PASTOR, QUEST, and which to use at each awareness level |
 | [triggers-index.md](triggers-index.md) | Every psychological trigger turned into copy: how to write it, example lines, how it backfires, evidence strength |
 | [01-copywriters/](01-copywriters/) | Ogilvy, Schwartz, Halbert, Sugarman, Hopkins and Caples |

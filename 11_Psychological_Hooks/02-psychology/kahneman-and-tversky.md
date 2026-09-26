@@ -25,9 +25,9 @@
 6. Put everything needed to decide inside the ad. People do not go looking for missing facts.
 
 ## 3. Key studies
-- **Wheel of fortune anchoring (1974):** A rigged wheel landing on 10 or 65 shifted people's estimates of how many UN members are African countries.
+- **Wheel of fortune anchoring (1974):** A rigged wheel landing on 10 or 65 shifted people's estimates of the percentage of UN members that are African countries (median answers of 25% vs. 45%).
 - **"Asian disease" framing (1981):** Identical outcomes framed as "lives saved" or "lives lost" flipped the majority choice.
-- **Colonoscopy (Redelmeier & Kahneman, 1996):** Adding a less painful extra period to the end of a procedure made patients remember it as less bad overall.
+- **Colonoscopy (Redelmeier & Kahneman, 1996; trial by Redelmeier, Katz & Kahneman, 2003):** Patients' memories tracked the worst moment and the end, not the length. In the 2003 trial, adding a short, milder period at the end made patients rate the whole procedure as less unpleasant.
 
 ## Evidence note
 Loss aversion, anchoring and framing are among the best-replicated findings in the field, although the "2x" loss ratio varies by context. The social priming studies in *Thinking, Fast and Slow* (chapter 4) did not replicate well, and Kahneman publicly acknowledged relying on them too heavily. Don't build ads on priming claims.

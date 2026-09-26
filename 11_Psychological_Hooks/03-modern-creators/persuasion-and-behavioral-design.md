@@ -9,7 +9,7 @@ Checked against sources on 2026-09-26.
 
 **Frameworks**
 - **STRONG method:** **S**et the frame -> **T**ell the story -> **R**eveal the intrigue -> **O**ffer the prize -> **N**ail the hookpoint -> **G**et a decision.
-- **Frames:** Intrigue, Prize, Time and Moral Authority frames (confirmed). He also describes the opposing frames a buyer uses, such as power and analyst frames (not confirmed in sources).
+- **Frames:** The opposing frames you meet from buyers are the power, time and analyst frames. You counter with power-busting, intrigue, prize, time and moral authority frames. Klaff's frame stack: Intrigue -> Prize -> Time -> Moral Authority -> Hookpoint.
 - **Prizing.** Position yourself as the prize the buyer has to earn, not the other way around.
 
 **Rules**
@@ -28,7 +28,7 @@ Checked against sources on 2026-09-26.
 ---
 
 ## The Decision Lab
-**What it is:** A free, applied behavioral-science library. Its **Biases index** has about 116 cognitive biases in A to Z order. Each is framed as a "Why do we...?" question (for example, loss aversion: "Why do we buy insurance?") and links to a detail page.
+**What it is:** A free, applied behavioral-science library. Its **Biases index** is a large A-to-Z list of cognitive biases (the count changes as they add more). Each is framed as a "Why do we...?" question (for example, loss aversion: "Why do we buy insurance?") and links to a detail page.
 
 **How to use it:** When you name a trigger in a transcript extraction, link to its Decision Lab page as the plain-English reference. Our [triggers-index.md](../triggers-index.md) is the short list for ads. The Decision Lab is the full catalog.
 **Sources:** thedecisionlab.com/biases ; thedecisionlab.com/biases-index

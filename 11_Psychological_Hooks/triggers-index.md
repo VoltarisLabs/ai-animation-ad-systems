@@ -24,12 +24,12 @@ Example lines are original and rotate across industries. `[brackets]` = fill in.
 > "Salon owners with empty Tuesday chairs:"
 > "Inherited a house you don't want to deal with?"
 
-**Backfires when:** It calls out a sensitive personal attribute ("Are you in debt?"). Meta can reject ads that do this.
+**Backfires when:** It calls out a sensitive personal attribute ("Are you in debt?"). Meta can reject ads that do this. Name the situation, not the person. For hard life events, name the task, not the tragedy: never mention death, illness or divorce directly.
 
 ### Pattern interrupt / novelty (Practitioner: Schwartz, Sugarman)
 **Why:** The brain filters out what's expected and notices what isn't.
 **Write it:** Contradict a common belief, or open with a strange specific detail.
-> "Stop drinking 8 glasses of water a day."
+> "Stop sending follow-ups on Monday morning."
 > "Our best customer found us in a parking lot."
 
 **Backfires when:** The contrarian claim can't be backed up.
@@ -37,7 +37,7 @@ Example lines are original and rotate across industries. `[brackets]` = fill in.
 ### Cognitive ease (Strong: Kahneman)
 **Why:** Text that's easy to read feels more true and gets read more.
 **Write it:** Short words, one idea per line, high contrast, no jargon.
-> "Clear skin. No harsh acids. 30 days." instead of "Our dermatologically formulated solution..."
+> "Gentle on sensitive skin. No harsh acids." instead of "Our dermatologically formulated solution..."
 
 **Backfires when:** Simple turns into vague. Keep it specific.
 
@@ -78,12 +78,12 @@ Example lines are original and rotate across industries. `[brackets]` = fill in.
 **Backfires when:** The flaw is a real deal-breaker.
 
 ### Reason why / "because" (Moderate: Langer study; Practitioner: Hopkins)
-**Why:** A request with a reason gets more yeses, even when the reason is small.
+**Why:** A request with a reason gets more yeses. In Langer's copier study (1978), even an empty reason worked for a small request (60% to 93% compliance), but for a bigger request only a real reason helped.
 **Write it:** Explain why the offer, price or deadline exists.
 > "We're opening 20 spots because we just hired two new techs."
 > "We can pay cash because we buy with our own money, not a bank's."
 
-**Backfires when:** The reason is obviously invented.
+**Backfires when:** The reason is obviously invented. Empty reasons only work for tiny asks; for anything bigger, the reason must be real.
 
 ### Mechanism (Practitioner: Schwartz)
 **Why:** In crowded markets, people stop believing results but still believe *how* something works.
@@ -106,14 +106,14 @@ Example lines are original and rotate across industries. `[brackets]` = fill in.
 ## WANT: make the result feel necessary
 
 ### Loss aversion (Strong: Kahneman and Tversky)
-**Why:** Losses feel about twice as strong as equal gains.
+**Why:** Losses feel stronger than equal gains (roughly 2x in lab studies; the size varies by context).
 **Write it:** Frame the cost of waiting or doing nothing, and make it accurate.
 > "Every month you wait costs you about $300 in missed write-offs."
 > "That small leak is rotting the wood every time it rains."
 
 **Backfires when:** It's exaggerated. Fear that's too strong gets ads rejected and makes readers tune out.
 
-### Identity / future self (Practitioner: Schwartz; Moderate: Cialdini)
+### Identity / future self (Practitioner: Schwartz; related to Cialdini's unity and consistency)
 **Why:** People buy who they want to become, not the product.
 **Write it:** Describe the person they become, not the features.
 > "For the parent who wants to be the one who keeps up at the park."
@@ -137,13 +137,13 @@ Example lines are original and rotate across industries. `[brackets]` = fill in.
 
 **Backfires when:** The anchor is fake. False "regular prices" violate consumer law.
 
-### Contrast (Moderate: Ariely's decoy effect)
-**Why:** People judge options by comparing them, not in isolation.
+### Contrast (Moderate: comparative judgment)
+**Why:** People judge options by comparing them, not in isolation. (The decoy effect, a specific form of this, is less reliable outside the lab.)
 **Write it:** Put a clear before/after or us/them side by side.
 > "Them: a monthly report. Us: booked calls."
 > "Before: buckets in the attic. After: one dry, quiet house."
 
-**Backfires when:** The comparison is unfair or names a competitor without legal clearance.
+**Backfires when:** The comparison is unfair or can't be backed up. Naming a competitor is legal in the US only if the claims are true and substantiated.
 
 ---
 
@@ -181,7 +181,7 @@ Example lines are original and rotate across industries. `[brackets]` = fill in.
 
 **Backfires when:** The "gift" is just a pitch in disguise.
 
-### Commitment / small first step (Moderate to strong: Cialdini; Fogg)
+### Commitment / small first step (Moderate: small, context-dependent effect; Cialdini, Fogg)
 **Why:** People keep acting in line with small steps they've already taken. Easy actions happen more.
 **Write it:** Ask for the smallest possible step, in the first person.
 > "Answer 3 questions to see your price."
@@ -189,9 +189,9 @@ Example lines are original and rotate across industries. `[brackets]` = fill in.
 
 **Backfires when:** The "small step" leads to a long form. Keep the promise.
 
-### Defaults / recommended option (Strong: Thaler)
-**Why:** Most people pick the pre-selected or recommended choice.
-**Write it:** Tell them what most people choose.
+### Defaults / recommended option (Strong for true pre-selection: Thaler; Moderate for "most popular" labels)
+**Why:** Most people keep the pre-selected option. A "most popular" label works more like social proof.
+**Write it:** Pre-select the recommended option on the form or landing page. In the ad, tell them what most people choose.
 > "Most homeowners pick the full inspection."
 > "Our most popular plan: [name]."
 

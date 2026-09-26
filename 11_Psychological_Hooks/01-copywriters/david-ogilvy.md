@@ -29,7 +29,7 @@
 - **Curiosity** from an unresolved visual or headline detail.
 
 ## 4. Examples and teardowns
-- **Rolls-Royce (1958):** "At 60 miles an hour the loudest noise in this new Rolls-Royce comes from the electric clock." This is a single, checkable engineering fact (he credited it to a technical report) that stands in for the whole idea of "quiet luxury." Lesson: dramatize one real fact instead of stacking adjectives.
+- **Rolls-Royce (1958):** "At 60 miles an hour the loudest noise in this new Rolls-Royce comes from the electric clock." This is a single, checkable engineering fact (he took it from the technical editor of *The Motor* magazine) that stands in for the whole idea of "quiet luxury." Lesson: dramatize one real fact instead of stacking adjectives.
 - **Hathaway shirt man:** A model wore an eye patch that was never explained. The unexplained detail gave the ads "story appeal" and made the brand stand out. Lesson: an oddity in the image can get attention without the copy asking for it.
 
 ## Apply it (paid ads)
