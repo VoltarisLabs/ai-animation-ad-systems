@@ -39,7 +39,7 @@ From the Georgi and Suby channel scans, confirmed across dozens of videos:
 | [triggers-index.md](triggers-index.md) | Every psychological trigger turned into copy: how to write it, example lines, how it backfires, evidence strength |
 | [01-copywriters/](01-copywriters/) | Ogilvy, Schwartz, Halbert, Sugarman, Hopkins and Caples |
 | [02-psychology/](02-psychology/) | Cialdini, Kahneman and Tversky, Ariely, Fogg, Thaler |
-| [03-modern-creators/](03-modern-creators/) | Cattoni, Wiebe, Medhora, Milligan, Furr, DigitalMarketer, Backlinko, Neil Patel, Klaff, The Decision Lab, plus full YouTube channel scans: [Stefan Georgi](03-modern-creators/stefan-georgi.md), [Sabri Suby](03-modern-creators/sabri-suby.md) |
+| [03-modern-creators/](03-modern-creators/) | Cattoni, Wiebe, Medhora, Milligan, Furr, DigitalMarketer, Backlinko, Neil Patel, Klaff, The Decision Lab, plus full YouTube channel scans: [Stefan Georgi](03-modern-creators/stefan-georgi.md), [Sabri Suby](03-modern-creators/sabri-suby.md), and [Jeremy Haynes](03-modern-creators/jeremy-haynes.md) (Meta 2027 rules) |
 | [prompts/](prompts/) | [copy-prompts.md](prompts/copy-prompts.md): research miner, Objection Obliterator, brief check, hook generator, register variants, copy chief, headline iteration, kill-check review, teardown, pre-mortem, beat-by-beat. Plus the transcript extraction prompt. |
 | [transcripts/](transcripts/) | The [channel scan log](transcripts/youtube-channel-scan-log.md): 671 videos read (Sabri Suby 253 long-form + 331 shorts, Stefan Georgi 87). Raw transcripts stay local (copyright). |
 

@@ -88,6 +88,9 @@ Meta and TikTok ban ads that assert or imply a personal attribute: health, finan
 
 Landing pages are reviewed too, so this is a way to stay compliant and kind, not a way to hide anything. Check your category's rules (housing, credit and employment are Special Ad Categories on Meta).
 
+### Speed and the gap after the click (Jeremy Haynes)
+Once someone clicks, Meta shows them competitors for days. Shorten the time between the opt-in and the conversation. Make the confirmation page, the first text and the emails **sell**: teach, compare honestly and show the process. Then keep useful content in front of them.
+
 ## 5. Follow-up is part of the offer
 - Sabri's own tracking found his most valuable buyers converted **90+ days** after first contact (his claim). Plan the follow-up before launch.
 - Keep follow-ups around 80% value and 20% ask. Each touch should teach them something true about their situation.

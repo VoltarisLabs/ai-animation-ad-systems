@@ -73,6 +73,14 @@ People who like your ad search your name **before** they trust your page (Sabri'
 
 If the second click is empty, fix it before you spend more. A great ad can't beat an empty search.
 
+## 6b. See yourself from five angles (Jeremy Haynes)
+Meta floods anyone who clicks with every competitor in the category, so they will compare you. Check how you stack up from five views:
+1. Your customers'. Ask happy and unhappy ones.
+2. AI's. Ask ChatGPT and Gemini "who are the best [category] in [city]?" and "what do you know about [brand]?"
+3. The algorithm's. Use a burner account to trigger your own ads and note who appears next to you.
+4. Secret shopping competitors.
+5. Yours, last.
+
 ## 7. Swipe what is scaling now
 - **Meta Ad Library:** search competitors and adjacent brands. An ad that has run for months is almost certainly profitable.
 - **Follow the whole path:** ad, then landing page, then checkout or form. Screenshot each step.
