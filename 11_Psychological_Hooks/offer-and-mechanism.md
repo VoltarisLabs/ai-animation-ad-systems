@@ -69,6 +69,22 @@ Name the drawback before they can raise it. Early honesty about a negative makes
 
 **Congruence rule** (both creators): the next step keeps the ad's exact promise, format and emotional temperature. An article-style ad goes to an article-style page. A raw, emotional hook doesn't land on a cold corporate page.
 
+### Lower the first ask (Sabri's real-estate rewrite, `RPF98q9yDl0`)
+"Book a free appraisal" feels like a salesperson at the door, so cautious people don't raise their hand. He replaced it with a no-contact guide that answers the same question: a local price guide. The appraisal call is offered only after that, with no pressure. Use this any time a legitimate first ask ("get a quote," "book a call") scares off warm but cautious people.
+
+**Naming a lead magnet** (`NP2nRnAIEIU`): promise one narrow outcome, not a category. Use an odd, specific number ("7 things," not "10 tips"). Make one per symptom, not one for the whole category.
+
+**Give a real mini-result inside the ad or page** (Georgi, `Hh0NivgwuVM`): a quick self-check, a calculator, or a real diagnosis of their situation beats any promise of value.
+
+**Name the free alternative out loud** (`h78W9wSnAQg`): "You could [free or DIY option]. Here's why people still choose [us]." Silence about the obvious alternative reads as naive or dishonest.
+
+### Sensitive situations: stay within the platform's rules (Georgi, `0g2rCBE2A4E`)
+Meta and TikTok ban ads that assert or imply a personal attribute: health, finances, relationship status, and similar. For situations like divorce, debt, bereavement or foreclosure:
+- The **ad** speaks to the broader, relatable moment ("Sorting out a house you didn't plan to own?") without saying the person has the condition.
+- The **landing page** then explains the specific situation plainly and helpfully.
+
+Landing pages are reviewed too, so this is a way to stay compliant and kind, not a way to hide anything. Check your category's rules (housing, credit and employment are Special Ad Categories on Meta).
+
 ## 5. Follow-up is part of the offer
 - Sabri's own tracking found his most valuable buyers converted **90+ days** after first contact (his claim). Plan the follow-up before launch.
 - Keep follow-ups around 80% value and 20% ask. Each touch should teach them something true about their situation.

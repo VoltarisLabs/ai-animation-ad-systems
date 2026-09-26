@@ -116,6 +116,14 @@ Sabri's undercover-shopper format (about 25 shorts), minus the deception.
 | 20-30s | The lesson, in the viewer's terms: "So if you're [situation], [what that means for you]." |
 | Last 3-5s | Soft CTA |
 
+## 13. Story-selling VSL (60-180s, Sabri `Zv6SD4EVSHk`)
+Attention (pattern interrupt) → identity (who's speaking, so the viewer sees themselves) → struggle (what they tried, for how long, how it felt) → discovery (the moment the real answer showed up) → value (teach **why** earlier solutions failed) → named mechanism → results (yours, then others', real only) → action (tell, don't ask, and describe the next steps).
+- Cast someone who looks like the audience. Use 5 to 10 word sentences, one thought per line, one honest admission, and one CTA.
+- **Story leads aren't universal** (Georgi, `aPPesd2sWQw`). They suit skeptical markets and big decisions. For fast, low-cost, low-thought offers, curiosity or direct-promise openers win.
+- A story must **turn back to the viewer** ("and if that's where you are right now...") or it stays someone else's monologue.
+
+**Delivery** (Sabri, `k9vfmiklBDc`): a downward inflection at the start sounds authoritative, like a doctor; an upward one sounds like asking permission. Pause after the key line. Speak from bullet points, not a word-for-word script, because over-rehearsed reads as robotic.
+
 ---
 
 ## Script QA before recording

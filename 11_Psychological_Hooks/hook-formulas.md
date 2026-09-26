@@ -104,6 +104,25 @@ From [stefan-georgi.md](03-modern-creators/stefan-georgi.md) and [sabri-suby.md]
 65. **Forced-choice question:** "[Option A], [option B] or [option C]: which one [does R]?" People answer in the comments.
 66. **Attention call-out headline:** "Attention [A] who want [benefit one] and [benefit two]."
 
+67. **Riddle hook** (Georgi, `UPA1rZU_aN0`): "Most people get this one thing backwards when they [situation]. Can you guess it?" The answer is a real, checkable fact tied to your mechanism, revealed after the click. Riddles are one of the most shared short-form formats, and almost nobody builds ads this way.
+68. **Inversion:** flip the expected transaction. Sabri's recycling opener, "I want to pay you to come and collect your trash," doubled his close rate (his claim) (`PU0mSUQiZNI`).
+69. **Open mid-scene:** start inside the moment ("Tears ran down my face as I stepped on the scale"), never "Hi, I'm [name] and I want to share a story" (`8RdjzcknDZA`).
+70. **Hook, bridge, pitch** (Georgi, `jWI4iCmNEgc`): a vivid, unrelated observation, then **one** bridge line linking its pattern to your offer, then the pitch. The bridge line makes almost any topical hook usable.
+
+### Fascinations: small hooks under the big one (Georgi, `eq6adAKY7xM`)
+Write the big promise first, then scatter 3 to 5 fascinations in the first third of the copy or script (**alpha**) to catch the people the main promise missed. Put a few more near the CTA (**omega**) to tease what's inside.
+- **Why:** "Why [A] should never [common action]."
+- **How:** "How [specific outcome] in [short, true timeframe]."
+- **When:** "When to [action], and the sign most people miss."
+- **What:** "What [insider group] knows about [topic] that most people don't."
+- **Secret:** "The real reason [surprising fact]. It has nothing to do with [expected cause]."
+- **List:** "[Odd number] rarely discussed [things] that [benefit]."
+- **Never:** "Never [common action] when [specific condition]."
+- **Contrarian:** "[Common belief]? Here's what actually happens."
+- **Named oddity:** give a real pattern a memorable name, "the [X] effect," and tease what it explains.
+- **Speedy:** attach a short, true timeframe ("the 10-second check that...").
+- **Plus:** add a smaller second benefit ("...plus, [secondary benefit]").
+
 **Reuse proven openers.** Sabri reposts his winning openers and origin story nearly word for word for years. Once a hook wins, re-cut it rather than replacing it (`-1TLb3FjG1s`, `97TGWKw4q7Q`).
 
 ## Hooks by awareness level

@@ -2,7 +2,7 @@
 
 **Who:** Founder of King Kong (digital agency), author of *Sell Like Crazy* (2019), Shark Tank Australia investor. Reports $300M+ of Meta ad spend managed.
 **Source:** his YouTube channel, youtube.com/@SabriSubyOfficial (470 videos + 336 shorts). This file is built from full transcripts, scanned 2026-09-26.
-**Coverage so far:** 140 of 470 long-form videos and 331 of 336 shorts read in full. Updated as more are read; see [../transcripts/youtube-channel-scan-log.md](../transcripts/youtube-channel-scan-log.md).
+**Coverage so far:** 237 of 470 long-form videos and 331 of 336 shorts read in full. Updated as more are read; see [../transcripts/youtube-channel-scan-log.md](../transcripts/youtube-channel-scan-log.md).
 **Core idea:** An ad's only job is to sell the click. Win it with a pattern interrupt, burning intrigue and a big specific benefit, then let an offer that is hard to refuse do the selling.
 
 Video IDs below are `youtube.com/watch?v=<id>`. Numbers he quotes (split-test ratios, lifts) are his own claims, not independent evidence.
@@ -132,6 +132,14 @@ Hero ad · weird authority · secret piece of information · commitment and cons
 
 The honest version (no deception at the stall) is template 12 in [../templates/video-scripts.md](../templates/video-scripts.md).
 
+### Meta scaling ladder (`qHA2c15T58w`)
+1. **Up to about $100 a day:** find one winner using statics only. Headline 45 characters or fewer. A "slippery lead-in" of 11 to 14 words dropped mid-scene. Body at grade 5. CTA "Learn More."
+2. **About $1k to $10k a day:** clone the winner. Change one true word or audience cue, spin variants in the same voice, match the landing headline, and exclude existing customers.
+3. **Above that:** use cost caps near 80% of the maximum you can pay per customer, judge on net cash flow, and sanity-check with total ad spend ÷ total revenue.
+
+### Real-estate two-step (`RPF98q9yDl0`)
+Swap "free appraisal" for a no-contact price guide, then offer the call with no pressure. See [../offer-and-mechanism.md](../offer-and-mechanism.md).
+
 ## 2. Actionable rules
 1. **Sell the click, not the product.** Trying to close inside the ad is the "cardinal sin" (`PB6Z96hTQWk`, `NTmWqnPIb2s`).
 2. **If it looks like an ad, it's dead on arrival.** Native, personal, phone-camera looks beat polish (`NTmWqnPIb2s`, `QN_LVgvik-k`).
@@ -171,6 +179,13 @@ The honest version (no deception at the stall) is template 12 in [../templates/v
 34. **Reuse proven material.** He re-cuts winning openers and his origin story almost word for word for years.
 35. **Conviction closes.** Certainty in the delivery matters more than the closing line (`VDWtD8bS9TU`). Direct the voice-over accordingly.
 
+36. **Retarget by objection,** never by repeating the pitch (`EjgkQHEakr4`).
+37. **Name the free alternative** the reader already knows (`h78W9wSnAQg`).
+38. **Raise customer value to win the ad auction.** A business with a backend can outbid everyone for the same traffic (`7hTOdnmn6N0`, `6u8cjrqleS0`).
+39. **Founders tire of a winner before the market does** (`6E3th4NIoNk`).
+40. **Ignore the platform's optimization suggestions** (`wv3NxhGSA2w`).
+41. **Delivery:** use a downward inflection, pauses, and bullet points rather than a word-for-word script (`k9vfmiklBDc`).
+
 ## 3. Psychological triggers
 - **Curiosity gap + benefit** (matches "Curiosity gap").
 - **Pattern interrupt / pattern match.** NEW (practitioner).
@@ -185,6 +200,8 @@ The honest version (no deception at the stall) is template 12 in [../templates/v
 - **Endowment:** a free trial or return window makes giving it up feel like a loss. Ethical only when the thing is genuinely good.
 
 Also **not used**: removing price tags above a threshold to force a status conversation (Disney, Van Cleef), and health-product "research purposes only" disclaimers used for credibility (`YVDtJNu7b48`).
+
+Also **not used**: the "tier trap," "status engineering" and "illusion of access" from his credit-card teardown (`O1o-4WY7TtE`), and "overpromise, then overdeliver" (`SJoVWzyDO1Q`), which conflicts with only making claims you can prove.
 
 His "6 dark marketing tactics" video (`E3KFx1a2pNI`), which he labels manipulation himself, is also **not used**: drip pricing, fake "only 2 left," decoy tiers, loss-leader "hook then squeeze" offers, and cost-of-inaction dollar figures.
 

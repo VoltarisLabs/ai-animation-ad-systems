@@ -2,7 +2,7 @@
 
 **Who:** Direct-response copywriter (reports about $700M in sales from his own copy), creator of the RMBC method, runs Copy Accelerator / CA Pro.
 **Source:** his YouTube channel, youtube.com/@StefanGeorgi1 (182 videos). This file is built from full transcripts, scanned 2026-09-26.
-**Coverage so far:** 32 of 182 videos read in full (19 useful, 13 off-topic). Updated as more are read; see [../transcripts/youtube-channel-scan-log.md](../transcripts/youtube-channel-scan-log.md).
+**Coverage so far:** 79 of 182 videos read in full. Updated as more are read; see [../transcripts/youtube-channel-scan-log.md](../transcripts/youtube-channel-scan-log.md).
 **Core idea:** Pair curiosity with a concrete promise, make every pain and benefit specific enough to see, and write to the awareness level the audience is actually at.
 
 Video IDs below are `youtube.com/watch?v=<id>`.
@@ -70,6 +70,18 @@ Doubling the conversion rate halves the CPA.
 ### Light prompt for volume (`ZBVWIoUfNHs`)
 Paste three proven ads, ask the model only to confirm it has read them, then ask for new ones. Use it when you want volume off proven examples rather than the full hook-type prompt.
 
+### Fascinations (`eq6adAKY7xM`)
+Small hooks under the big promise: alpha (early) and omega (near the CTA). There are 11 types: why, how, when, what, secret, list, never, contrarian, named oddity, speedy, plus. Full list in [../hook-formulas.md](../hook-formulas.md).
+
+### Riddle hooks (`UPA1rZU_aN0`)
+Pose a real, category-relevant puzzle and reveal the answer after the click. He treats a whole ad or VSL as one riddle. It uses the same reward as curiosity, in a more shareable form.
+
+### Emotion vs. curiosity leads (`6RhpgY_w8kA`)
+These are two different engines. Pick one on purpose, and don't reveal the mechanism before you've built the itch.
+
+### Journal-entry lead method (`QxIUjcQW44A`, `RCM4B4QEYu0`)
+Ask an AI for a raw first-person entry, then have it switched to "you." Mine it for lines, never publish it whole, and never pass it off as a real customer's words.
+
 ## 2. Actionable rules
 1. **Dimensionalize every pain and benefit.** Turn the category word into the scene. "Low energy" becomes the morning they can barely get out of bed. This is his most repeated rule, in almost every video.
 2. **Never open by announcing the video or product** ("OK, yesterday I tried..."). The first 2 to 3 seconds need a pattern interrupt, a bold claim or a paradox (`nRQP4zlAv1s`).
@@ -84,6 +96,11 @@ Paste three proven ads, ask the model only to confirm it has read them, then ask
 11. **Generate in volume, then curate.** AI hooks are a volume and judgment job. Start a fresh chat when the model gets stuck in a style rut, rather than correcting it in the same thread (`9SpnpoqoAMo`).
 12. **Be a "copy thinker."** The writer's job is now the idea, the structure and the judgment, plus fact-checking anything the AI invents (`Xz9rz7joqRU`, `MH_fU3JOP3M`).
 13. **Short beats long for cold traffic now.** Long on-page VSLs are fading. Short, hook-heavy, fast-cut video to an advertorial or product page is what he sees scaling (`Xz9rz7joqRU`, `oSqDaS1k-qc`).
+
+14. **Story leads aren't universal.** They're wrong for fast, low-cost funnels, and a story must turn back to the reader (`aPPesd2sWQw`).
+15. **Don't hide what you're selling too long, and cut absolute claims you can't prove** (e.g., "100% natural") (`QeqtWgnaxr4`).
+16. **Report testimonials honestly.** Survey everyone, including flat or negative results, and show the real spread (`JZkPNiTqlCA`).
+17. **Hand editors a two-column storyboard** (words on the left, visuals on the right), not a flat script (`NaeqHLUsgAs`).
 
 ## 3. Psychological triggers
 - **Curiosity gap:** always paired with a promise (matches the triggers index).

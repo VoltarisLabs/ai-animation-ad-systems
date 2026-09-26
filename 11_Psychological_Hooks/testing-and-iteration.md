@@ -65,8 +65,23 @@ Use it on your own work and on competitors', in this order. Small conversion twe
 5. Offer strength: see [offer-and-mechanism.md](offer-and-mechanism.md).
 6. Only then colours, buttons and layout.
 
-## 8. Get feedback from buyers, not friends
+## 8. Diagnose before you rebuild
+**Three-point funnel triage** (Sabri, `zfHpRulBoSo`, `wwmh366eNPo`). When results drop, check in order:
+1. Are people still clicking (same CTR and CPC)?
+2. Are they still converting on the page?
+3. Is the sales or close step still converting?
+
+Fix only the step that changed.
+
+**Other rules:**
+- **Retarget by objection** (`EjgkQHEakr4`). Never repeat the original pitch to people who already passed. Guess the objection, test 2 to 3 retargeting headlines that each answer a different one, then build the full ad around the winner.
+- **Founders get bored of a winner long before the market does** (`6E3th4NIoNk`). Don't retire a converting angle because *you're* tired of it.
+- **Ignore the platform's "optimize your account" suggestions.** They serve the platform's revenue. Trust your own cost per lead and cost per deal (`wv3NxhGSA2w`).
+- **Scale a winner by cloning it, not just raising its budget** (`qHA2c15T58w`). Change one true word or audience cue (for example, add "for landlords") so the algorithm finds a new pocket. Match the landing page headline to the winning ad's exact angle. Exclude existing customers and leads from cold campaigns and refresh that list regularly. At scale, Sabri uses cost caps near 80% of the maximum you can pay per customer (his method).
+- **Allowable cost per lead ≈ customer value × lead-to-customer rate** (Georgi, `igQnL-O4ipw`). For example, a $1,000 sale at a 1% lead-to-customer rate supports about $10 per lead.
+
+## 9. Get feedback from buyers, not friends
 Show drafts to people in the target market. Friends, receptionists and "normies" judge length and tone wrongly, because they were never going to buy (Sabri). Check reading level with the Hemingway App and aim for grade 5 to 6.
 
-## 9. Log what wins
+## 10. Log what wins
 Put every winner in [swipe-file.md](swipe-file.md) with the numbers, the audience, the awareness level and **one line on why it won**. The log is how the team's judgment compounds.

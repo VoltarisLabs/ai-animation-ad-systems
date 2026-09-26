@@ -90,6 +90,15 @@ Score the ad out of 10 and give the 3 highest-leverage fixes, most important fir
 [paste ad script / text + page copy]
 ```
 
+## 9a. Pre-mortem and skeptic (Sabri, `gFaR8BQhqsE`)
+LLMs tend to agree with whatever you show them. Force the opposite:
+```
+Assume this campaign failed badly after 90 days. List the 5 most likely reasons, most likely first.
+Then argue against this ad and page as the most skeptical person in [audience] would, objection by objection.
+Then grade the copy 1-10 as a top direct-response copywriter and describe exactly what a 10/10 version would contain.
+[paste ad + page + brief]
+```
+
 ## 9. Beat-by-beat check
 ```
 List every claim in this script in order, one per line, as plain statements.

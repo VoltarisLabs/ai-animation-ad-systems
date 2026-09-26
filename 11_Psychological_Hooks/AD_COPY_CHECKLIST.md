@@ -76,6 +76,8 @@ Every line has one job: get the next line read (Sugarman).
 - [ ] **You vs. we:** count the pronouns. Aim for about 80% "you" and 20% "we" (Sabri).
 - [ ] **One intensifier per headline.** "Weird secret ancient formula" is three hooks fighting each other (Sabri).
 - [ ] **Every claim has proof right next to it.** In crowded markets, more proof beats a louder claim (Sabri).
+- [ ] **Name the obvious alternative** (the free, DIY or "do nothing" option) and answer it (Sabri).
+- [ ] If it's a story, does it **turn back to the viewer**? Say plainly what you're offering early enough that they don't wander off (Georgi).
 - [ ] Features become benefits: write two benefits for each feature, then keep only the benefits (Sabri).
 - [ ] Give a **reason why** the offer exists or the price is what it is.
 - [ ] **Raise the top worry yourself** and answer it.

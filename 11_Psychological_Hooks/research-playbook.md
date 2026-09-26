@@ -51,6 +51,17 @@ Georgi's most repeated rule. Take every generic word from your draft and swap in
 
 **Test:** could the reader picture a specific place, object or moment? If not, it isn't dimensionalized yet.
 
+## 4b. Ladder the desire (Sabri, `UsmU7WJ8X1w`)
+Keep asking "why do they really want that?" past the first answer. "Whiter teeth" becomes "to look good," which becomes "to feel attractive, wanted." Write hooks from the root, and test one bold and one soft angle on that same root desire.
+
+## 4c. Pick the lever: emotion or curiosity (Georgi, `6RhpgY_w8kA`)
+Emotion openers work through a remembered or imagined feeling. Curiosity openers work through the itch of a gap. Name which one a hook is pulling before you write it. A mechanism is the payoff of a curiosity itch, so build the itch before you reveal it.
+
+## 4d. Journal-entry method, for raw material only (Georgi, `QxIUjcQW44A`)
+1. Ask an LLM for "a raw, 500-word journal entry from a [person] dealing with [situation], feeling [emotion]. No melodrama."
+2. Ask it to "rewrite with 'I' changed to 'you'."
+3. Mine a few sentences. **Never present the output as a real customer's words or story,** and check every detail against the research worksheet.
+
 ## 5. Find the one bullseye desire
 From the worksheet, pick the single want that shows up most, and phrase it the way they do. One ad or page gets one bullseye (Sabri: pitching three benefits at once dilutes all three). The other wants become other ads.
 
