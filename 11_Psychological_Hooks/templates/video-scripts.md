@@ -8,7 +8,7 @@ For vertical short-form: Meta Reels and Stories, TikTok, YouTube Shorts. Spoken 
 3. **Design for sound off.** Burned-in captions on every spoken line, added in the editor. The story still makes sense muted.
 4. **Change something every 1-3 seconds:** a cut, a zoom, a new b-roll shot, a text pop. Still frames lose people.
 5. **One idea, one CTA.** If you need a second idea, make a second ad.
-6. **Keep text in the safe zone.** On Reels and Stories, keep the top 14%, bottom 35% and 6% on each side clear. On TikTok, use their overlay template. See [../platform-specs.md](../platform-specs.md).
+6. **Keep text in the safe zone.** On Reels and Stories, keep the top 14%, bottom 35% and 6% on each side clear. On TikTok, use their overlay template.
 7. **Look native, not like an ad.** Phone-shot, a real person, natural light and platform-style text usually beat polished brand video on short-form. Test both.
 8. **Length:** start with 15-30s versions. Build a 6-10s cut of every winner for Stories and retargeting.
 9. **End card (last 2-3s):** the CTA as text + spoken, plus the offer or a reason to act now. Keep the logo small.
@@ -80,4 +80,4 @@ Ask strangers the problem question, show the reactions, reveal the product or an
 - [ ] One idea, one CTA.
 - [ ] Word count fits the length (about 2.5 words per second).
 - [ ] Captions are planned in the editor, not baked into AI generations.
-- [ ] Passes [ad-scorecard.md](../ad-scorecard.md).
+- [ ] Passes [../AD_COPY_CHECKLIST.md](../AD_COPY_CHECKLIST.md).

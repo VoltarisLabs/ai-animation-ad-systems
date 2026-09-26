@@ -1,6 +1,6 @@
 # Swipe File: Annotated Example Ads
 
-These are original training examples written for this playbook across different industries, all in our two formats: **short-form video and static**. They are not real campaigns and their numbers are placeholders. Each one is annotated so writers can see *why* it works. Add real winners from `test-log.md` at the bottom.
+These are original training examples written for this playbook across different industries, all in our two formats: **short-form video and static**. They are not real campaigns and their numbers are placeholders. Each one is annotated so writers can see *why* it works. Add real winners at the bottom.
 
 ---
 
@@ -56,7 +56,7 @@ These are original training examples written for this playbook across different 
 
 ---
 
-## Proven winners (from our test log)
+## Proven winners (our own ads)
 | Ad name | Why it won | Link to script |
 |---|---|---|
 | | | |

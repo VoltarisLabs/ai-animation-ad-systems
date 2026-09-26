@@ -1,7 +1,5 @@
 # AI Animation Ad Systems
 
-**Writing an ad? Start at [START_HERE.md](START_HERE.md).**
-
 Production frameworks for AI-generated animated video ads. Five formats, each with its skill/prompt, the course lessons, and notes on running it on our own stack (KIE.ai + ElevenLabs + ffmpeg).
 
 **Private repo — contains verbatim Ad Creators Lab course material. Do not make public.**

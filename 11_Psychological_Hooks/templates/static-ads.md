@@ -1,6 +1,6 @@
 # Static Ad Templates
 
-For single-image and carousel ads on Meta (Feed, Stories, Reels placements) and TikTok. Sizes, character limits and safe zones are in [../platform-specs.md](../platform-specs.md). For layouts, start from `06_Canva_Ad_Templates/`.
+For single-image and carousel ads on Meta (Feed, Stories, Reels placements) and TikTok. For layouts, start from `06_Canva_Ad_Templates/`.
 
 ## Static rules (every image)
 1. **The 1-second test.** Someone scrolling fast should get the point in one second. That means one message and one focal point.
@@ -55,11 +55,5 @@ Line 3: [Offer + CTA]
 - [ ] Text inside the safe zone for every size.
 - [ ] Image text, primary text and headline all tell the same single promise.
 - [ ] 3 variants built, each differing by one element.
-- [ ] Passes [../ad-scorecard.md](../ad-scorecard.md).
+- [ ] Passes [../AD_COPY_CHECKLIST.md](../AD_COPY_CHECKLIST.md).
 
----
-
-## Not in use now (keep for later)
-**Google Search (RSA):** headlines that work in any combination. Mix keyword match, benefit, proof, offer, CTA and objection-buster lines. Four descriptions: benefit + proof, offer + CTA, mechanism, objection + CTA.
-
-**Landing page hero (message match):** headline = the ad's exact promise, subhead = how (mechanism + time + no-effort), proof strip, a first-person CTA button ("Get my free quote"), and a risk reducer under the button.
