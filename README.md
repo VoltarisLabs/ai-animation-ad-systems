@@ -87,3 +87,9 @@ The singing prompt ships without frontmatter — add a `name:` and `description:
 ## Credit safety
 
 Every model call costs real money. Nothing in this repo should be run against a paid API without explicit approval from the account owner. Cost estimates in each folder's README are per-run and exclude retries; budget ~30% headroom.
+
+---
+
+## Copywriting Playbook
+
+[14_Copywriting_Playbook/](./14_Copywriting_Playbook) holds the copywriting frameworks, psychological triggers (with evidence strength), and creator research used to write the ad scripts. Start with its `frameworks.md` and `triggers-index.md`.

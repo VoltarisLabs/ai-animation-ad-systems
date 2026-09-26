@@ -28,6 +28,7 @@ Since 2026-09-21 it is a git repo, pushed to `https://github.com/VoltarisLabs/ai
 | `11_Psychological_Hooks/` | Hook scripts built with psychology (nested loops A→B→C, closes in reverse). The psychology research itself stays in one file: `05_Tutorials/Hook_Psychology_Research_Report.md`. |
 | `12_AI_Characters/` | One subfolder per realistic UGC avatar: the real reference photo with its licence, the prompts, the README and compare sheets. The avatar PNGs made up to 2026-09-25 (JMSN v1, Emily v1 and v4) are still here. New avatar images go in `13_Generated/images/`. |
 | `13_Generated/` | **Every generated image and video.** `images/` and `videos/`. Since 2026-09-25 it also holds the loose media that used to sit at the root, in `C_/` and in `videos_Free/`. Committed to git since 2026-09-26. |
+| `14_Copywriting_Playbook/` | Copywriting research: classic copywriters (Ogilvy, Schwartz, Halbert, Sugarman, Hopkins, Caples), behavioral psychology (Cialdini, Kahneman, Ariely, Fogg, Thaler), modern creators, `frameworks.md`, `triggers-index.md`, and the YouTube transcript extraction prompt. Transcript extractions go in its `transcripts/`. Added 2026-09-26. |
 | `session-chat/` | One `.session.md` per working session. Read these first. |
 
 ## AI UGC pipeline (Kie.ai)
