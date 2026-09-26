@@ -1,10 +1,12 @@
-# Copywriting Playbook
+# Psychological Hooks and Copywriting Playbook
 
-A research-backed reference of copywriting frameworks, actionable rules, and psychological triggers, organized for writing ads and for feeding LLM prompts.
+Hook scripts built with psychology, plus the research behind them: copywriting frameworks, actionable rules and psychological triggers. It is organized for writing ads and for feeding LLM prompts.
 
 ## Structure
 | Path | Contents |
 |---|---|
+| [Property_Abundance_Nested_Loop_Hooks_v1.md](Property_Abundance_Nested_Loop_Hooks_v1.md) | Nested-loop hook scripts (A->B->C, closes in reverse) |
+| [Property_Abundance_Ad16_JMSN_Hook_Bank_v1.md](Property_Abundance_Ad16_JMSN_Hook_Bank_v1.md) | Ad 16 JMSN hook bank |
 | [frameworks.md](frameworks.md) | AIDA, PAS, BAB, FAB, 4 Ps, 4 Us, PASTOR, QUEST, and which to use at each awareness level |
 | [triggers-index.md](triggers-index.md) | Every psychological trigger, its source, evidence strength, and ad use |
 | [01-copywriters/](01-copywriters/) | Ogilvy, Schwartz, Halbert, Sugarman, Hopkins and Caples |
@@ -16,6 +18,7 @@ A research-backed reference of copywriting frameworks, actionable rules, and psy
 Each creator file follows the same four sections: **Frameworks, Actionable rules, Psychological triggers, Examples/teardowns.**
 
 ## Standards
+- The deeper hook psychology report lives in `05_Tutorials/Hook_Psychology_Research_Report.md`.
 - Paraphrase only. No book excerpts or full transcripts.
 - Every claim about a modern creator has a source. Unconfirmed items are marked **unverified**.
 - Evidence notes flag research that failed replication or was retracted (social priming, the retracted 2012 honesty-pledge paper, the triune-brain "croc brain" model).

@@ -92,4 +92,4 @@ Every model call costs real money. Nothing in this repo should be run against a 
 
 ## Copywriting Playbook
 
-[14_Copywriting_Playbook/](./14_Copywriting_Playbook) holds the copywriting frameworks, psychological triggers (with evidence strength), and creator research used to write the ad scripts. Start with its `frameworks.md` and `triggers-index.md`.
+[11_Psychological_Hooks/](./11_Psychological_Hooks) holds the hook scripts plus the copywriting frameworks, psychological triggers (with evidence strength), and creator research used to write the ad scripts. Start with its `frameworks.md` and `triggers-index.md`.
