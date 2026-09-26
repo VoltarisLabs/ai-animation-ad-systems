@@ -29,6 +29,10 @@ Evidence: **Strong** = widely replicated. **Moderate** = supported but context-d
 | Damaging admission | Halbert | Practitioner | Admit a small flaw to earn belief |
 | Identification / identity | Schwartz, Cialdini (Unity) | Practitioner | Speak to who they want to be |
 | New mechanism | Schwartz | Practitioner | Explain *how* it works differently |
+| Disgust / gross reveal | Stefan Georgi | Practitioner | Open on the ugly thing (the hole, the leak), then explain |
+| Testable self-proof | Stefan Georgi (hook type 15) | Practitioner | A check the viewer can do right now on their own situation |
+| Emotional-temperature congruence | Stefan Georgi | Practitioner | Landing page and first reply open at the same heat as the ad |
+| Dimensionalization | Stefan Georgi | Practitioner, supported (specificity) | Turn the category word into the exact scene |
 | Social priming (e.g., words that "make you walk slower") | Kahneman (ch. 4) | **Weak, failed replication** | Do not rely on it |
 
 ## Compliance guardrails

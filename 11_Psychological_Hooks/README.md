@@ -12,9 +12,9 @@ Hook scripts built with psychology, plus the research behind them: copywriting f
 | [triggers-index.md](triggers-index.md) | Every psychological trigger, its source, evidence strength, and ad use |
 | [01-copywriters/](01-copywriters/) | Ogilvy, Schwartz, Halbert, Sugarman, Hopkins and Caples |
 | [02-psychology/](02-psychology/) | Cialdini, Kahneman and Tversky, Ariely, Fogg, Thaler |
-| [03-modern-creators/](03-modern-creators/) | Cattoni, Wiebe, Medhora, Milligan, Furr, DigitalMarketer, Backlinko, Neil Patel, Klaff, The Decision Lab |
+| [03-modern-creators/](03-modern-creators/) | Cattoni, Wiebe, Medhora, Milligan, Furr, DigitalMarketer, Backlinko, Neil Patel, Klaff, The Decision Lab, plus full YouTube channel scans: [Stefan Georgi](03-modern-creators/stefan-georgi.md), Sabri Suby (in progress) |
 | [prompts/](prompts/) | Transcript extraction prompt |
-| [transcripts/](transcripts/) | Extractions from individual YouTube videos |
+| [transcripts/](transcripts/) | Extractions from individual YouTube videos, and the [channel scan log](transcripts/youtube-channel-scan-log.md) |
 
 Each creator file follows the same four sections: **Frameworks, Actionable rules, Psychological triggers, Examples/teardowns.**
 
