@@ -1,0 +1,512 @@
+{
+  "project": "Property Abundance — cash home buying ad",
+  "version": "v7",
+  "built": "2026-09-24",
+  "total_runtime_seconds": 30,
+  "generation_plan": "Three separate generations of 10 seconds each. Generate CLIP_1, then CLIP_2, then CLIP_3. Paste one clip object per request, or the whole file if the tool accepts it.",
+  "output_spec": {
+    "aspect_ratio": "16:9 widescreen landscape",
+    "frame_rate_fps": 24,
+    "audio": "native dialogue, no music"
+  },
+  "READ_THIS_FIRST": {
+    "numbers_rule": "Every number in this file is metadata for the generator. NO number, digit, measurement, label or unit may ever appear inside the picture.",
+    "text_rule": "Nothing in this file may be rendered as visible text. Do not draw prompt words onto paper, walls, signs or the ground.",
+    "duplication_rule": "Each spoken line in spoken_lines_manifest is said exactly ONCE across the whole ad. Never repeat a line in another clip. Never restart a line that a previous clip began.",
+    "character_sheet_rule": "If a character reference sheet or reference images are supplied alongside this prompt, those images are authoritative for the face. This file governs wardrobe, action, framing and speech."
+  },
+  "style_lock": {
+    "render_style": "non-photorealistic stylized 3D animation, like a modern animated feature film",
+    "stylization_anchors": [
+      "matte painted surfaces with no glossy specular highlights",
+      "simplified facial geometry, clean rounded forms",
+      "slightly stylized proportions, head marginally larger than real-world scale",
+      "soft ambient occlusion instead of physically accurate shadowing",
+      "flat clean skin shading with no pore or blemish detail",
+      "hair as a single sculpted shape, not individual strands",
+      "cloth as smooth simplified folds, not simulated fabric weave"
+    ],
+    "must_not_look_like": [
+      "live action footage",
+      "a photorealistic human being",
+      "a real filmed person",
+      "motion-capture realism",
+      "uncanny valley realism",
+      "realistic skin pores, wrinkles, stubble detail or subsurface scattering",
+      "realistic strand-level hair or beard",
+      "photographic depth of field or lens grain"
+    ],
+    "drift_guard": "If any frame starts to read as a real human or as live action, push further toward the animated feature look. Stylized always wins over realistic.",
+    "palette": "muted cream, warm grey, soft navy",
+    "lighting": "warm late-morning daylight from the upper left, soft and even",
+    "depth_of_field": "shallow, background softly blurred",
+    "camera_movement": "every shot is locked off. No push in, no pull out, no zoom, no dolly, no handheld drift, anywhere in the ad."
+  },
+  "character_lock": {
+    "count_in_frame": "exactly one person in every shot",
+    "identity": "one man, Black American, early forties, medium-brown skin, close-cropped hair, short trimmed beard with a few greys at the chin",
+    "manner": "calm, direct, unhurried. An ordinary neighbour, not a salesman, not a model, not a hype marketer.",
+    "wardrobe": "navy henley shirt, sleeves pushed up below the elbow, no logo, no collar, no buttons visible at the cuff, and mid-grey trousers",
+    "wardrobe_lock": "He wears the identical navy henley and mid-grey trousers in every shot of every clip. No polo shirt, no white shirt, no jacket, no tie, no suit, no change of clothing at any point.",
+    "role_lock": "He is the buyer-side host who explains what the company does. He is NEVER presented as a past customer, a seller, or someone giving a testimonial.",
+    "hands": "five fingers on every hand, always"
+  },
+  "location_lock": {
+    "exterior": "one ordinary American residential street in late morning. A single-storey cream house set well back behind a mown front lawn, a bare young tree at frame left, a concrete sidewalk running past.",
+    "exterior_lock": "The same street, the same house and the same light in every exterior shot across all three clips.",
+    "exterior_forbidden": [
+      "parked cars",
+      "moving cars",
+      "street signs",
+      "house numbers",
+      "mailbox lettering",
+      "for-sale signs",
+      "other people",
+      "pedestrians",
+      "pets"
+    ],
+    "interior": "a plain kitchen with a light-oak table, daylight from an unseen window at the left, one plain cream mug on the table, plain cream wall behind. The table top is otherwise completely bare.",
+    "interior_forbidden": [
+      "paper",
+      "clipboard",
+      "notebook",
+      "pen",
+      "laptop",
+      "phone",
+      "calculator",
+      "appliances",
+      "pictures",
+      "clutter"
+    ]
+  },
+  "global_negative": [
+    "no written text of any kind anywhere in the picture",
+    "no numbers, digits, prices, percentages or currency symbols",
+    "no measurements, dimension labels, arrows or diagram markings",
+    "no letters, words, handwriting, printing or signatures",
+    "no captions, subtitles, titles or lower thirds",
+    "no logos, brand marks or watermarks",
+    "no cash, banknotes, coins, cheques or money counters",
+    "no dissolves, wipes, fades or transition effects — hard cuts only",
+    "no music, no whoosh, no sting, no sound effect on any cut",
+    "no extra shots beyond the number specified in each clip",
+    "do not ask questions, do not request a reference image"
+  ],
+  "spoken_lines_manifest": {
+    "note": "Eight lines. Each is spoken exactly once in the whole ad. Check this list against the generated audio before assembling.",
+    "lines": [
+      {
+        "id": "L1",
+        "clip": 1,
+        "text": "Yes, we're one of those cash buyers. Ask us three questions."
+      },
+      {
+        "id": "L2",
+        "clip": 1,
+        "text": "Whose money is it? Ours, in writing."
+      },
+      {
+        "id": "L3",
+        "clip": 1,
+        "text": "Who closes it? Us. Never a stranger."
+      },
+      {
+        "id": "L4",
+        "clip": 2,
+        "text": "How did you get that number? We'll show every line."
+      },
+      {
+        "id": "L5",
+        "clip": 2,
+        "text": "Most of them won't. That's the point."
+      },
+      {
+        "id": "L6",
+        "clip": 2,
+        "text": "We're Property Abundance."
+      },
+      {
+        "id": "L7",
+        "clip": 3,
+        "text": "We take the house as it stands."
+      },
+      {
+        "id": "L8",
+        "clip": 3,
+        "text": "Start there. The offer comes after."
+      }
+    ]
+  },
+  "CLIP_1": {
+    "duration_seconds": 10,
+    "shot_count": 3,
+    "hard_cuts_at_seconds": [
+      4.0,
+      7.0
+    ],
+    "start_frame": "none — this is the opening of the ad",
+    "shots": [
+      {
+        "index": 1,
+        "window_seconds": [
+          0.0,
+          4.0
+        ],
+        "location": "exterior",
+        "framing": "tight close-up on his face filling most of the frame height, centred, the street thrown far out of focus behind him",
+        "camera": "locked off, eye level",
+        "opens_on": "he is already looking straight down the lens, still, before he speaks",
+        "speech": {
+          "starts_at_seconds": 0.2,
+          "line_id": "L1",
+          "text": "Yes, we're one of those cash buyers. Ask us three questions."
+        },
+        "action_on_words": [
+          {
+            "word": "Yes",
+            "does": "one slow deliberate nod, no smile, eyes locked on the lens"
+          },
+          {
+            "word": "those",
+            "does": "a small flat shrug of one shoulder, owning it without apology"
+          },
+          {
+            "word": "Ask",
+            "does": "he leans a touch toward the lens"
+          },
+          {
+            "word": "three",
+            "does": "three fingers rise into the bottom of frame beside his jaw and hold"
+          }
+        ],
+        "sound": "his voice close and clear. Quiet suburban ambience, distant birds, a faint breeze."
+      },
+      {
+        "index": 2,
+        "window_seconds": [
+          4.0,
+          7.0
+        ],
+        "location": "exterior",
+        "framing": "medium shot, he is centred with the house behind him, visible from the waist up",
+        "camera": "locked off, eye level",
+        "opens_on": "hard cut. He is already raising a completely blank cream sheet of paper to chest height, flat and square to the lens",
+        "speech": {
+          "starts_at_seconds": 4.3,
+          "line_id": "L2",
+          "text": "Whose money is it? Ours, in writing."
+        },
+        "action_on_words": [
+          {
+            "word": "Whose",
+            "does": "he turns the blank sheet a little toward the lens, offering it"
+          },
+          {
+            "word": "Ours",
+            "does": "he taps his own chest twice with the flat of his free hand"
+          },
+          {
+            "word": "writing",
+            "does": "he taps the face of the blank sheet twice with two fingers"
+          }
+        ],
+        "sound": "his voice close and clear. One soft paper rustle as the sheet comes up. Quiet street ambience."
+      },
+      {
+        "index": 3,
+        "window_seconds": [
+          7.0,
+          10.0
+        ],
+        "location": "exterior",
+        "framing": "wide shot, he stands in the left third of frame, full body visible",
+        "camera": "locked off, eye level",
+        "staging": "three featureless neutral-grey human silhouettes stand on the sidewalk behind him toward the centre of frame, evenly spaced in a line, adult height, matte and faceless. They read as anonymous placeholders, not as threatening figures. Nothing is written or labelled beside, beneath or on them.",
+        "speech": {
+          "starts_at_seconds": 7.3,
+          "line_id": "L3",
+          "text": "Who closes it? Us. Never a stranger."
+        },
+        "action_on_words": [
+          {
+            "word": "closes",
+            "does": "he points a flat hand down at the ground in front of him"
+          },
+          {
+            "word": "Us",
+            "does": "he brings the same flat hand back to his own chest and holds it there"
+          },
+          {
+            "word": "stranger",
+            "does": "the three silhouettes each take one slow step backward together, away from him, and he turns to the lens with a small flat shrug of one shoulder"
+          }
+        ],
+        "hold": "from 9.7 s he holds the look into the lens and the frame settles",
+        "sound": "his voice close and clear. Quiet street ambience, a soft breeze in the young tree."
+      }
+    ],
+    "paste_as_prose": "Stylized 3D animation like a modern animated feature, not photoreal and never a real human. Muted cream, warm grey and soft navy. Warm late-morning daylight from the upper left. Shallow depth of field. Widescreen landscape, 24 fps. One man, Black American, early forties, medium-brown skin, close-cropped hair, short trimmed beard with a few greys, calm and direct, an ordinary neighbour and not a model. He wears a navy henley with sleeves pushed up below the elbow and mid-grey trousers, identical in every shot, no polo and no white shirt. One ordinary American residential street in late morning, a single-storey cream house set well back behind a mown lawn, a bare young tree at frame left, no parked cars, no street signs, no other people. THREE SHOTS, TWO HARD CUTS at four and seven seconds, all cameras locked off, no push in and no zoom anywhere. SHOT ONE, zero to four seconds, tight close-up on his face filling most of the frame, street far out of focus behind him, already looking down the lens. At zero point two he says: Yes, we're one of those cash buyers. Ask us three questions. On Yes he gives one slow deliberate nod, no smile, eyes locked on the lens. On those he gives a small flat shrug of one shoulder, owning it without apology. On Ask he leans a touch toward the lens. On three, three fingers rise into the bottom of frame beside his jaw and hold. SHOT TWO, four to seven seconds, hard cut to a medium shot, he is centred with the house behind him, already raising a completely blank cream sheet to chest height flat to the lens. At four point three he says: Whose money is it? Ours, in writing. On Whose he turns the blank sheet toward the lens. On Ours he taps his own chest twice. On writing he taps the face of the blank sheet twice. SHOT THREE, seven to ten seconds, hard cut to a wide shot, he stands in the left third, three featureless neutral-grey faceless silhouettes stand on the sidewalk behind him toward centre, evenly spaced, nothing written or labelled anywhere near them. At seven point three he says: Who closes it? Us. Never a stranger. On closes he points a flat hand at the ground in front of him. On Us he brings that hand to his own chest. On stranger the three silhouettes each take one slow step backward together and he turns to the lens with a small flat shrug. From nine point seven he holds the look and the frame settles. Sound: his voice close and clear, calm and level, natural American accent, one soft paper rustle in shot two, quiet suburban ambience and a soft breeze throughout, no music and no whoosh on either cut. NOTHING IS WRITTEN, PRINTED, DRAWN OR LABELLED ANYWHERE IN THE PICTURE: no numbers, no digits, no measurements, no dimension labels, no letters, no words, no handwriting, no captions, no logos, no watermarks. Every sheet of paper is completely blank on both sides. Every surface in the picture is blank. Do not draw anything described in this prompt onto the image. Five fingers on every hand. No cash and no coins. Do not ask questions and do not ask for a reference image."
+  },
+  "CLIP_2": {
+    "duration_seconds": 10,
+    "shot_count": 3,
+    "hard_cuts_at_seconds": [
+      4.2,
+      7.2
+    ],
+    "start_frame": "the last frame of CLIP_1",
+    "continues_from": "an existing clip that ends with this man standing on the sidewalk in a wide shot, looking into the lens. Same man, same navy henley, same street, same animated style.",
+    "shots": [
+      {
+        "index": 1,
+        "window_seconds": [
+          0.0,
+          4.2
+        ],
+        "location": "interior",
+        "framing": "medium shot from across the kitchen table, he is seated, leaning in slightly, elbows resting on the bare table",
+        "camera": "locked off, slightly above seated eye level",
+        "opens_on": "hard cut to the interior. His hands are empty and the table top is bare except for one plain mug",
+        "speech": {
+          "starts_at_seconds": 0.3,
+          "line_id": "L4",
+          "text": "How did you get that number? We'll show every line."
+        },
+        "action_on_words": [
+          {
+            "word": "How",
+            "does": "he opens one palm upward on the bare table, asking"
+          },
+          {
+            "word": "number",
+            "does": "he holds the palm still and raises his eyebrows slightly"
+          },
+          {
+            "word": "show",
+            "does": "he draws one flat horizontal sweep through the air just above the table with that hand"
+          },
+          {
+            "word": "line",
+            "does": "he lays the hand flat on the table and leaves it there"
+          }
+        ],
+        "sound": "his voice close and clear. Quiet indoor room tone only."
+      },
+      {
+        "index": 2,
+        "window_seconds": [
+          4.2,
+          7.2
+        ],
+        "location": "interior",
+        "framing": "closer medium shot on him at the same table, same angle, tighter",
+        "camera": "locked off",
+        "opens_on": "hard cut. He is sitting back a little, hands loose on the table",
+        "speech": {
+          "starts_at_seconds": 4.5,
+          "line_id": "L5",
+          "text": "Most of them won't. That's the point."
+        },
+        "action_on_words": [
+          {
+            "word": "Most",
+            "does": "he shakes his head once, small"
+          },
+          {
+            "word": "won't",
+            "does": "both palms turn open and out above the table, a small honest shrug"
+          },
+          {
+            "word": "point",
+            "does": "he goes still and holds eye contact with the lens"
+          }
+        ],
+        "sound": "his voice close and clear. Quiet indoor room tone."
+      },
+      {
+        "index": 3,
+        "window_seconds": [
+          7.2,
+          10.0
+        ],
+        "location": "exterior",
+        "framing": "medium shot, he is centred on the sidewalk with the house behind him",
+        "camera": "locked off, eye level",
+        "opens_on": "hard cut back outside. He stands relaxed, hands at his sides",
+        "speech": {
+          "starts_at_seconds": 7.6,
+          "line_id": "L6",
+          "text": "We're Property Abundance."
+        },
+        "action_on_words": [
+          {
+            "word": "We're",
+            "does": "his right hand comes flat to his own chest and rests there"
+          },
+          {
+            "word": "Abundance",
+            "does": "the hand opens outward toward the house behind him in one slow calm sweep"
+          }
+        ],
+        "hold": "from 9.0 s he lets the hand fall and holds a steady look into the lens",
+        "sound": "his voice close and clear. Quiet suburban ambience, a soft breeze."
+      }
+    ],
+    "paste_as_prose": "Continues from an existing clip that ends with this man standing on a residential sidewalk in a wide shot looking into the lens. Same man, same navy henley, same street, same style, carry straight on. Stylized 3D animation like a modern animated feature, not photoreal and never a real human. Muted cream, warm grey and soft navy. Warm daylight. Shallow depth of field. Widescreen landscape, 24 fps. One man, Black American, early forties, medium-brown skin, close-cropped hair, short trimmed beard with a few greys, calm and direct, an ordinary neighbour and not a model, in a navy henley with sleeves pushed up below the elbow and mid-grey trousers, identical in every shot, no polo and no white shirt, hands empty throughout. THREE SHOTS, TWO HARD CUTS at four point two and seven point two seconds, all cameras locked off, no push in and no zoom anywhere. SHOT ONE, zero to four point two, indoors at a plain kitchen table of light oak with daylight from an unseen window at the left and one plain cream mug on it, the table top otherwise completely bare, plain cream wall behind, medium shot from across the table, he is seated leaning in slightly with elbows on the bare table. At zero point three he says: How did you get that number? We will show every line. On How he opens one palm upward on the bare table. On number he holds the palm still and raises his eyebrows. On show he draws one flat horizontal sweep through the air just above the table. On line he lays the hand flat on the table and leaves it. SHOT TWO, four point two to seven point two, hard cut to a closer medium shot at the same table from the same angle, he sits back a little with hands loose. At four point five he says: Most of them will not. That is the point. On Most he shakes his head once, small. On will not both palms turn open and out above the table in a small honest shrug. On point he goes still and holds eye contact. SHOT THREE, seven point two to ten seconds, hard cut back outside to a medium shot, he is centred on the sidewalk with the single-storey cream house behind him, hands at his sides. At seven point six he says: We are Property Abundance. On We are his right hand comes flat to his own chest. On Abundance the hand opens outward toward the house in one slow calm sweep. From nine seconds he lets the hand fall and holds a steady look into the lens. Sound: his voice close and clear, calm and level, natural American accent, quiet indoor room tone in the first two shots, quiet suburban ambience and a soft breeze in the third, no music and no whoosh on either cut. NOTHING IS WRITTEN, PRINTED, DRAWN OR LABELLED ANYWHERE IN THE PICTURE: no numbers, no digits, no measurements, no letters, no words, no handwriting, no captions, no logos, no watermarks. There is no paper, no clipboard, no notebook, no pen and no calculator anywhere in this clip. Every surface in the picture is blank. Do not draw anything described in this prompt onto the image. Five fingers on every hand. No cash and no coins. Do not ask questions and do not ask for a reference image."
+  },
+  "CLIP_3": {
+    "duration_seconds": 10,
+    "shot_count": 3,
+    "hard_cuts_at_seconds": [
+      3.6,
+      6.4
+    ],
+    "start_frame": "the last frame of CLIP_2",
+    "continues_from": "an existing clip that ends with this man standing on the sidewalk in a medium shot, hand falling back to his side, looking into the lens.",
+    "shots": [
+      {
+        "index": 1,
+        "window_seconds": [
+          0.0,
+          3.6
+        ],
+        "location": "exterior",
+        "framing": "wide shot, he stands at the near end of the concrete path with the whole house behind him",
+        "camera": "locked off, eye level",
+        "opens_on": "hard cut. He is turned three-quarters toward the house",
+        "speech": {
+          "starts_at_seconds": 0.3,
+          "line_id": "L7",
+          "text": "We take the house as it stands."
+        },
+        "action_on_words": [
+          {
+            "word": "take",
+            "does": "he points a flat open hand back at the house and holds it there"
+          },
+          {
+            "word": "stands",
+            "does": "he gives one small honest shrug, both palms turning out at waist height, and turns back to the lens"
+          }
+        ],
+        "sound": "his voice close and clear. Quiet suburban ambience."
+      },
+      {
+        "index": 2,
+        "window_seconds": [
+          3.6,
+          6.4
+        ],
+        "location": "exterior",
+        "framing": "tight close-up on his face filling most of the frame height, centred, street far out of focus behind him",
+        "camera": "locked off, eye level",
+        "opens_on": "hard cut. He is already looking straight down the lens",
+        "speech": {
+          "starts_at_seconds": 3.9,
+          "line_id": "L8",
+          "text": "Start there. The offer comes after."
+        },
+        "action_on_words": [
+          {
+            "word": "Start",
+            "does": "he gives one slow deliberate nod"
+          },
+          {
+            "word": "there",
+            "does": "he holds completely still, eyes on the lens"
+          },
+          {
+            "word": "after",
+            "does": "one corner of his mouth lifts into a small closed-mouth smile"
+          }
+        ],
+        "sound": "his voice close and clear. Quiet suburban ambience."
+      },
+      {
+        "index": 3,
+        "window_seconds": [
+          6.4,
+          10.0
+        ],
+        "location": "exterior",
+        "framing": "wide shot, he stands centred and LOW in the frame with a large area of clear empty sky above his head",
+        "camera": "locked off, eye level",
+        "purpose_note": "the empty sky above him is deliberate headroom for an end card added later in editing. Leave it completely blank.",
+        "speech": "none in this shot",
+        "action": "he stands still, hands at his sides, holding a calm look into the lens. At 8.4 s he shifts his weight once, small and natural. He holds to the end of the clip.",
+        "sound": "quiet suburban ambience, distant birds, a soft breeze in the young tree. No speech."
+      }
+    ],
+    "paste_as_prose": "Continues from an existing clip that ends with this man standing on a residential sidewalk in a medium shot with his hand falling back to his side, looking into the lens. Same man, same navy henley, same street, same style, carry straight on. Stylized 3D animation like a modern animated feature, not photoreal and never a real human. Muted cream, warm grey and soft navy. Warm late-morning daylight from the upper left. Shallow depth of field. Widescreen landscape, 24 fps. One man, Black American, early forties, medium-brown skin, close-cropped hair, short trimmed beard with a few greys, calm and direct, an ordinary neighbour and not a model, in a navy henley with sleeves pushed up below the elbow and mid-grey trousers, identical in every shot, no polo and no white shirt, hands empty throughout. One ordinary American residential street in late morning, a single-storey cream house set well back behind a mown lawn with a concrete path running to a plain front door, a bare young tree at frame left, no parked cars, no street signs, no other people. THREE SHOTS, TWO HARD CUTS at three point six and six point four seconds, all cameras locked off, no push in and no zoom anywhere. SHOT ONE, zero to three point six, wide shot, he stands at the near end of the path with the whole house behind him, turned three-quarters toward it. At zero point three he says: We take the house as it stands. On take he points a flat open hand back at the house and holds it. On stands he gives one small honest shrug with both palms turning out at waist height and turns back to the lens. SHOT TWO, three point six to six point four, hard cut to a tight close-up on his face filling most of the frame, street far out of focus behind him, already looking down the lens. At three point nine he says: Start there. The offer comes after. On Start he gives one slow deliberate nod. On there he holds completely still. On after one corner of his mouth lifts into a small closed-mouth smile. SHOT THREE, six point four to ten seconds, hard cut to a wide shot, he stands centred and low in the frame with a large area of clear empty sky above his head, no speech at all in this shot. He stands still with hands at his sides holding a calm look into the lens, and at eight point four he shifts his weight once, small and natural, and holds to the end. The empty sky above him must stay completely blank. Sound: his voice close and clear, calm and level, natural American accent in the first two shots, then quiet suburban ambience with distant birds and a soft breeze in the third, no music and no whoosh on either cut. NOTHING IS WRITTEN, PRINTED, DRAWN OR LABELLED ANYWHERE IN THE PICTURE: no numbers, no digits, no measurements, no letters, no words, no handwriting, no captions, no logos, no watermarks, and nothing at all in the empty sky. There is no paper and no clipboard anywhere in this clip. Every surface in the picture is blank. Do not draw anything described in this prompt onto the image. Five fingers on every hand. No cash and no coins. Do not ask questions and do not ask for a reference image."
+  },
+  "post_production_by_you": {
+    "caption_cards": [
+      {
+        "range_seconds": [
+          0.0,
+          4.0
+        ],
+        "card": "ONE OF THOSE"
+      },
+      {
+        "range_seconds": [
+          4.0,
+          7.0
+        ],
+        "card": "WHOSE MONEY?"
+      },
+      {
+        "range_seconds": [
+          7.0,
+          10.0
+        ],
+        "card": "WHO CLOSES IT?"
+      },
+      {
+        "range_seconds": [
+          10.0,
+          14.2
+        ],
+        "card": "WHERE'S THE MATH?"
+      },
+      {
+        "range_seconds": [
+          14.2,
+          17.2
+        ],
+        "card": "MOST WON'T"
+      },
+      {
+        "range_seconds": [
+          17.2,
+          20.0
+        ],
+        "card": "PROPERTY ABUNDANCE"
+      },
+      {
+        "range_seconds": [
+          20.0,
+          23.6
+        ],
+        "card": "AS IT STANDS"
+      },
+      {
+        "range_seconds": [
+          23.6,
+          30.0
+        ],
+        "card": "START THERE"
+      }
+    ],
+    "end_card": "Over the last two seconds, in the empty sky of the final shot: Property Abundance name, logo and form URL. Every visible word in this ad is burned here in your editor. The model has failed to render legible text three times and must never be asked for it.",
+    "audio": "Normalise the joined file to -14 LUFS integrated, -1.5 dBTP."
+  },
+  "must_be_true_before_this_runs": [
+    "L2 'Ours, in writing' — Property Abundance can produce proof of funds in the company's own name on request.",
+    "L3 'Never a stranger' — Property Abundance does not assign or sell the purchase contract to a third party.",
+    "L4 'We'll show every line' — a real offer worksheet exists and will be handed to the seller.",
+    "L7 'We take the house as it stands' — no repair, cleaning or clear-out requirement, ever.",
+    "L6 — the host is a spokesperson for the company, never a past customer. FTC 16 CFR 255.1 and 16 CFR 465.2."
+  ],
+  "hook_source": "CLIP_1 shot 1 hook adapted from Ad 7 in Cash_Home_Buying_8_Ads_Reference.md ('Yes, we're one of those cash buyers'), written there as the fix for Ref 3 (2,342,271 views, 13,618/day) which had contrarian energy but no proof."
+}

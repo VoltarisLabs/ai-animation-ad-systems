@@ -1,0 +1,160 @@
+{
+  "_instructions": "Paste this whole block into the Gemini app as ONE request. ATTACH refs/ad4_object_hero.png to this request. Do not attach any previous clip. Do not paste any other clip in the same request.",
+  "task": "vertical 9:16 video, one continuous shot, native spoken dialogue, 3D Pixar-style cartoon",
+  "clip_id": 3,
+  "beat": "The turn. The failed solution concedes.",
+  "length_s": 10.0,
+  "_position_in_finished_ad_s": [
+    20.0,
+    30.0
+  ],
+  "aspect_ratio": "9:16",
+  "reference_image": "attached - keep its exact face, eyes, crack, plastic colour and dust",
+  "world": {
+    "origin": "The phone's base, standing on the kitchen counter.",
+    "axes": "+X is screen right. +Y is up. +Z points out of the scene toward the camera.",
+    "phone_facing_vector": "+Z. The face looks straight down the +Z axis, at the camera.",
+    "counter": "Runs left to right along the back wall. Counter top is Y=0 and sits 0.9 m off the floor.",
+    "back_wall": "0.60 m behind the phone at Z=-0.60. The wall jack the cord runs to is on this wall.",
+    "window": "On the left wall, screen left, at X=-1.8 m. It is the cool grey key light.",
+    "ceiling_bulb": "Above and slightly behind the camera at Z=+1.2 m, Y=+1.6 m. Warm fill.",
+    "camera_side": "The camera always lives in +Z space, in front of the phone. Never in -Z space. This is not optional."
+  },
+  "camera_convention": {
+    "azimuth_deg": "Measured from the phone's own facing direction. 0 means the camera is dead in front of the face. Positive swings the camera toward the phone's right, which reads as screen left. Hard limit for this ad: -20 to +20.",
+    "elevation_deg": "Positive means the camera is above the phone looking down. Negative means below, looking up.",
+    "distance_m": "Lens to the front of the phone's face.",
+    "height_m": "Lens height above the counter top, not above the floor.",
+    "lens_mm": "35 mm full-frame equivalent unless the clip says otherwise.",
+    "why_this_block_exists": "Earlier renders put the camera on the opposite side from the direction the face was pointing. Stating azimuth in degrees measured off the face, naming the camera's half of the room, and repeating the facing contract in every clip removes the model's freedom to choose a side."
+  },
+  "object_bible": "A cream-white 1990s corded kitchen wall telephone, about 24 cm tall, yellowed with age, one hairline crack across the lower right corner of the body. It has been unhooked from the wall and stands upright on the kitchen counter, its coiled beige cord still running back to the wall jack. It is a living Pixar-style 3D cartoon character. Its two round dial buttons are its eyes, glossy and expressive, set slightly too far apart. The handset rests in its cradle and the cradle slot is its mouth, which opens and closes as it speaks. The coiled cord is its one limp arm, hanging down and curling on the counter. Soft rounded cartoon shapes, matte plastic with fine dust in the seams, warm subsurface light in the plastic. All keypad buttons are completely blank. No digits, no letters, no labels, no logos, no brand marks anywhere on the object.",
+  "room_bible": "A dated suburban kitchen in an empty inherited house. Oak cabinets, a laminate counter with a chipped edge, a bare fridge with four faded tape marks where photos used to be, one window above the sink. Cool grey daylight from the window plus one warm ceiling bulb. Dust in the air. Nobody in the room at any point.",
+  "style": {
+    "render": "3D Pixar-style cartoon, soft rounded forms, matte plastic with subsurface warmth",
+    "quality": "3d_render_octane",
+    "colorRestriction": "Cream white, yellowed ivory, oak brown, cool grey window light, one warm tungsten accent. No saturated colour anywhere. No blues, no greens, no reds.",
+    "depth_of_field": "shallow, background cabinets softly out of focus",
+    "grade": "neutral, slightly desaturated, no stylised LUT"
+  },
+  "camera": {
+    "azimuth_deg": {
+      "start": 0,
+      "end": -12
+    },
+    "elevation_deg": 0,
+    "distance_m": {
+      "start": 0.9,
+      "end": 0.95
+    },
+    "height_m": 0.14,
+    "lens_mm": 50,
+    "aperture": "f/2.8",
+    "move": "One move only: a slow lateral drift to the camera's left, ending 12 degrees off the phone's original facing direction. The phone rotates 12 degrees on the spot to follow the lens, so the face still points at the camera at the end. The drift opens up empty counter and a closed cabinet door on the right third of the frame.",
+    "framing": {
+      "start": "Phone centred, 50 percent of frame height.",
+      "end": "Phone on the LEFT third. The RIGHT third is empty counter and cabinet, clean and unobstructed."
+    }
+  },
+  "facing_contract": "The phone's face - its two round eyes and its cradle-slot mouth - points directly at the camera lens for every frame of this clip. The camera stays in front of the face, in +Z space. The camera never moves behind the object, never crosses to the far side of the counter, and never frames the back of the object. If the camera moves, the phone turns on the spot so its face keeps pointing at the lens. The back of the phone, the wall jack and the wall behind it are never toward the lens. The eyeline stays on the lens except in the beats this clip's ACTION names, and in those beats the head does not turn more than 20 degrees. For this clip specifically: the camera moves 12 degrees, so the phone turns 12 degrees with it. At no point is the face angled away from the lens.",
+  "action": [
+    "The phone speaks, resigned rather than bitter. It is conceding the point.",
+    "As the camera drifts, the coiled cord uncurls along the counter toward the opening right side of frame.",
+    "Its eyes follow that empty space once on 'write it down', then return to the lens and stay there.",
+    "No shrug and no comedy in this clip. It plays it straight."
+  ],
+  "performance": {
+    "accent": "natural American",
+    "tone": "resigned, honest, quiet",
+    "pace": "mid and steady, no rush on the three-part list",
+    "lipsync": "clear separation between 'fixed up', 'minus the repairs' and 'minus what it costs', so captions can be timed to each"
+  },
+  "dialogue_timeline": [
+    {
+      "start_s": 0.1,
+      "end_s": 3.1,
+      "kind": "line",
+      "words": 10,
+      "say": "Property Abundance does the boring thing. They write it down."
+    },
+    {
+      "start_s": 3.4,
+      "end_s": 9.7,
+      "kind": "line",
+      "words": 21,
+      "say": "What the house is worth fixed up. Minus the repairs. Minus what it costs to hold it and sell it again."
+    }
+  ],
+  "say_in_full": "Property Abundance does the boring thing. They write it down. What the house is worth fixed up. Minus the repairs. Minus what it costs to hold it and sell it again.",
+  "audio": {
+    "voice": "close on the microphone",
+    "ambience": "fridge hum, empty house",
+    "sfx": "a faint plastic slither as the cord uncurls",
+    "music": "none"
+  },
+  "on_screen_text": "NONE is generated. The right third is deliberately left empty so the offer math is typed into it in the edit.",
+  "hard_rules": [
+    "One continuous shot. No cuts, no dissolves, no transitions, no split screen.",
+    "One character only. No people, no hands, no second object with a face.",
+    "No captions, subtitles, titles, watermarks, logos, UI or numbers anywhere in frame.",
+    "The keypad buttons stay completely blank. No digits, no letters.",
+    "Objects stay exactly where they are unless the phone's own cord moves them. Nothing appears or disappears.",
+    "The phone never grows arms, legs or hands. Its only moving limb is the coiled cord.",
+    "The room, the light direction, and the phone's colour, crack and dust are identical in all four clips.",
+    "Speech is generated natively inside the clip. Do not add music.",
+    "Exactly one camera move per clip, the one named in camera.move. No second move, no handheld shake.",
+    "Do not ask questions. Do not ask for a reference image beyond the one attached."
+  ],
+  "negative_prompt": [
+    "camera behind the subject",
+    "back of the phone facing the lens",
+    "object facing away from camera",
+    "face turned away from the lens",
+    "profile view",
+    "rear three-quarter view",
+    "over-the-shoulder framing",
+    "camera on the far side of the counter",
+    "camera orbiting the subject",
+    "cut",
+    "jump cut",
+    "scene change",
+    "second character",
+    "person",
+    "human hand",
+    "arms",
+    "legs",
+    "text",
+    "letters",
+    "numbers",
+    "digits on the keypad",
+    "subtitles",
+    "captions",
+    "watermark",
+    "logo",
+    "brand mark",
+    "phone screen",
+    "camera app UI",
+    "recording dot",
+    "photorealistic human skin",
+    "uncanny valley",
+    "horror",
+    "creepy smile",
+    "money",
+    "cash",
+    "banknotes",
+    "for sale sign",
+    "sold sign",
+    "music",
+    "background score",
+    "slow motion",
+    "speed ramp",
+    "lens flare",
+    "film grain overlay"
+  ],
+  "_verify_after_render": [
+    "The right third of the final frame is clean enough to hold four lines of type.",
+    "The face still points at the lens after the drift.",
+    "The three parts of the formula are separable for caption timing.",
+    "No text was generated anywhere."
+  ]
+}

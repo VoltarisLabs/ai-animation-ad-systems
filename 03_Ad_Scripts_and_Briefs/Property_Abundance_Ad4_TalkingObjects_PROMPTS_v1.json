@@ -1,0 +1,759 @@
+{
+  "project": {
+    "name": "Property Abundance - Ad 4 - The Honest Cash Buyer",
+    "cut": "talking-objects animated",
+    "version": "prompts v1",
+    "written": "2026-09-23",
+    "script_source": "03_Ad_Scripts_and_Briefs/Property_Abundance_Ad4_TalkingObjects_v1.md",
+    "format_skill": "talking-objects-ads",
+    "prompt_schema": "json-prompting Schema B, extended with video, dialogue and stage-geometry blocks",
+    "status": "claims NOT filled, nothing generated",
+    "how_to_use": [
+      "Generate the hero image first, from hero_image.prompt. Pick one of six.",
+      "Send each clip as ONE request. Attach the hero image every single time.",
+      "Never attach the previous clip. Referencing the previous shot is what compounds drift.",
+      "Paste world, camera_convention, object_bible, room_bible, style, hard_rules and negative_prompt into every clip request, byte-identical.",
+      "Run clip 1 alone and check it against its verify_after_render list before generating clips 2, 3 and 4."
+    ]
+  },
+  "delivery": {
+    "final_length_s": 38.5,
+    "resolution": "1080x1920",
+    "fps": 30,
+    "aspect_ratio": "9:16",
+    "loudness_target_lufs": -14.0
+  },
+  "pace": {
+    "spoken_words": 113,
+    "runtime_s": 38.5,
+    "overall_wpm": 176.1,
+    "planned_speech_s": 33.9,
+    "planned_silence_s": 4.6,
+    "assumed_articulation_rate": "0.30 s per word, which is 200 wpm while actually talking. This is a PLAN, not a measurement. Check it against the first render and trim lines if the model reads slower.",
+    "reference_band_wpm": [
+      182,
+      185,
+      205,
+      228
+    ],
+    "honest_note": "Overall pace is 176.1 wpm, which is below ref 6's 182, the slowest of the five references. The gap is the 4.6 s of deliberate silence: the beat before 'I'll wait' and the beat before 'I don't have one'. Those two silences are the format's whole joke. The talking-head cut of this same ad measured 191.7 wpm with no silence in it. If you would rather hit the reference band, cut both pauses and the ad lands at about 35.2 s and 192.6 wpm - but it loses the button."
+  },
+  "source_route": {
+    "engine": "Gemini app, free tier",
+    "measured_output": {
+      "resolution": "720x1280",
+      "fps": 24,
+      "length_s": 10.005,
+      "measured_how": "ffprobe on gemini_generated_video_3b724662.mp4 and gemini_generated_video_544990b9.mp4, 2026-09-23"
+    },
+    "conform": "scale=1080:1920:flags=lanczos and -r 30 at the master stage",
+    "clips_needed": 4
+  },
+  "world": {
+    "origin": "The phone's base, standing on the kitchen counter.",
+    "axes": "+X is screen right. +Y is up. +Z points out of the scene toward the camera.",
+    "phone_facing_vector": "+Z. The face looks straight down the +Z axis, at the camera.",
+    "counter": "Runs left to right along the back wall. Counter top is Y=0 and sits 0.9 m off the floor.",
+    "back_wall": "0.60 m behind the phone at Z=-0.60. The wall jack the cord runs to is on this wall.",
+    "window": "On the left wall, screen left, at X=-1.8 m. It is the cool grey key light.",
+    "ceiling_bulb": "Above and slightly behind the camera at Z=+1.2 m, Y=+1.6 m. Warm fill.",
+    "camera_side": "The camera always lives in +Z space, in front of the phone. Never in -Z space. This is not optional."
+  },
+  "camera_convention": {
+    "azimuth_deg": "Measured from the phone's own facing direction. 0 means the camera is dead in front of the face. Positive swings the camera toward the phone's right, which reads as screen left. Hard limit for this ad: -20 to +20.",
+    "elevation_deg": "Positive means the camera is above the phone looking down. Negative means below, looking up.",
+    "distance_m": "Lens to the front of the phone's face.",
+    "height_m": "Lens height above the counter top, not above the floor.",
+    "lens_mm": "35 mm full-frame equivalent unless the clip says otherwise.",
+    "why_this_block_exists": "Earlier renders put the camera on the opposite side from the direction the face was pointing. Stating azimuth in degrees measured off the face, naming the camera's half of the room, and repeating the facing contract in every clip removes the model's freedom to choose a side."
+  },
+  "object_bible": "A cream-white 1990s corded kitchen wall telephone, about 24 cm tall, yellowed with age, one hairline crack across the lower right corner of the body. It has been unhooked from the wall and stands upright on the kitchen counter, its coiled beige cord still running back to the wall jack. It is a living Pixar-style 3D cartoon character. Its two round dial buttons are its eyes, glossy and expressive, set slightly too far apart. The handset rests in its cradle and the cradle slot is its mouth, which opens and closes as it speaks. The coiled cord is its one limp arm, hanging down and curling on the counter. Soft rounded cartoon shapes, matte plastic with fine dust in the seams, warm subsurface light in the plastic. All keypad buttons are completely blank. No digits, no letters, no labels, no logos, no brand marks anywhere on the object.",
+  "room_bible": "A dated suburban kitchen in an empty inherited house. Oak cabinets, a laminate counter with a chipped edge, a bare fridge with four faded tape marks where photos used to be, one window above the sink. Cool grey daylight from the window plus one warm ceiling bulb. Dust in the air. Nobody in the room at any point.",
+  "style": {
+    "render": "3D Pixar-style cartoon, soft rounded forms, matte plastic with subsurface warmth",
+    "quality": "3d_render_octane",
+    "colorRestriction": "Cream white, yellowed ivory, oak brown, cool grey window light, one warm tungsten accent. No saturated colour anywhere. No blues, no greens, no reds.",
+    "depth_of_field": "shallow, background cabinets softly out of focus",
+    "grade": "neutral, slightly desaturated, no stylised LUT"
+  },
+  "hard_rules": [
+    "One continuous shot. No cuts, no dissolves, no transitions, no split screen.",
+    "One character only. No people, no hands, no second object with a face.",
+    "No captions, subtitles, titles, watermarks, logos, UI or numbers anywhere in frame.",
+    "The keypad buttons stay completely blank. No digits, no letters.",
+    "Objects stay exactly where they are unless the phone's own cord moves them. Nothing appears or disappears.",
+    "The phone never grows arms, legs or hands. Its only moving limb is the coiled cord.",
+    "The room, the light direction, and the phone's colour, crack and dust are identical in all four clips.",
+    "Speech is generated natively inside the clip. Do not add music.",
+    "Exactly one camera move per clip, the one named in camera.move. No second move, no handheld shake.",
+    "Do not ask questions. Do not ask for a reference image beyond the one attached."
+  ],
+  "negative_prompt": [
+    "camera behind the subject",
+    "back of the phone facing the lens",
+    "object facing away from camera",
+    "face turned away from the lens",
+    "profile view",
+    "rear three-quarter view",
+    "over-the-shoulder framing",
+    "camera on the far side of the counter",
+    "camera orbiting the subject",
+    "cut",
+    "jump cut",
+    "scene change",
+    "second character",
+    "person",
+    "human hand",
+    "arms",
+    "legs",
+    "text",
+    "letters",
+    "numbers",
+    "digits on the keypad",
+    "subtitles",
+    "captions",
+    "watermark",
+    "logo",
+    "brand mark",
+    "phone screen",
+    "camera app UI",
+    "recording dot",
+    "photorealistic human skin",
+    "uncanny valley",
+    "horror",
+    "creepy smile",
+    "money",
+    "cash",
+    "banknotes",
+    "for sale sign",
+    "sold sign",
+    "music",
+    "background score",
+    "slow motion",
+    "speed ramp",
+    "lens flare",
+    "film grain overlay"
+  ],
+  "failure_guards": [
+    {
+      "seen_before": "The camera ended up opposite the direction the face was pointing.",
+      "guard": "world.camera_side, camera.azimuth_deg and the facing_contract string all appear in every clip. Three statements of the same constraint."
+    },
+    {
+      "seen_before": "Random detail changes between generations.",
+      "guard": "object_bible and room_bible are pasted byte-identical in all four prompts, and the hero image is attached to every request. Never attach the previous clip."
+    },
+    {
+      "seen_before": "The model invented a cut inside a clip.",
+      "guard": "hard_rules 1 and 9, plus 'cut' and 'jump cut' in negative_prompt, plus exactly one named camera move."
+    },
+    {
+      "seen_before": "Text and UI appeared in generated footage.",
+      "guard": "hard_rules 3 and 4, plus the text entries in negative_prompt. Every word on screen is typed in the edit."
+    }
+  ],
+  "hero_image": {
+    "run_first": true,
+    "purpose": "The single source of truth for the character. Every clip request attaches this file.",
+    "save_as": "refs/ad4_object_hero.png",
+    "variations": 6,
+    "pick": "the most expressive eyes, and the cleanest blank keypad",
+    "prompt": {
+      "user_intent": "character reference frame for a talking-object ad",
+      "meta": {
+        "aspect_ratio": "9:16",
+        "quality": "3d_render_octane",
+        "guidance_scale": 9,
+        "seed": 42
+      },
+      "subject": [
+        "1990s cream-white corded kitchen wall telephone",
+        "living Pixar-style cartoon character",
+        "two round dial buttons as eyes, glossy, set slightly too far apart",
+        "cradle slot as a mouth, closed",
+        "coiled beige cord as one limp arm, curling on the counter",
+        "hairline crack across the lower right corner of the body",
+        "yellowed aged plastic with dust in the seams",
+        "completely blank keypad buttons",
+        "guilty, slightly sheepish expression"
+      ],
+      "madeOutOf": "matte ABS plastic yellowed with age, fine dust in the moulding seams, rubberised coiled cord",
+      "arrangement": "The phone stands upright on the kitchen counter, unhooked, cord running back to a wall jack behind it. The camera is dead in front of its face at azimuth 0 degrees, 0.80 m away, 0.18 m above the counter top. The face points straight down the lens axis.",
+      "scene": {
+        "location": "dated suburban kitchen in an empty inherited house",
+        "detail": "oak cabinets, laminate counter with a chipped edge, bare fridge with four faded tape marks, window above the sink",
+        "time": "midday",
+        "lighting": {
+          "type": "natural_daylight",
+          "direction": "side_lit from screen left, warm ceiling bulb as fill"
+        }
+      },
+      "technical": {
+        "lens": "50mm",
+        "aperture": "f/2.0",
+        "camera_height_m": 0.18,
+        "azimuth_deg": 0,
+        "elevation_deg": 2
+      },
+      "colorRestriction": "Cream white, yellowed ivory, oak brown, cool grey window light, one warm tungsten accent. No saturated colour.",
+      "advanced": {
+        "negative_prompt": [
+          "camera behind the subject",
+          "back of the phone facing the lens",
+          "object facing away from camera",
+          "face turned away from the lens",
+          "profile view",
+          "rear three-quarter view",
+          "over-the-shoulder framing",
+          "camera on the far side of the counter",
+          "camera orbiting the subject",
+          "cut",
+          "jump cut",
+          "scene change",
+          "second character",
+          "person",
+          "human hand",
+          "arms",
+          "legs",
+          "text",
+          "letters",
+          "numbers",
+          "digits on the keypad",
+          "subtitles",
+          "captions",
+          "watermark",
+          "logo",
+          "brand mark",
+          "phone screen",
+          "camera app UI",
+          "recording dot",
+          "photorealistic human skin",
+          "uncanny valley",
+          "horror",
+          "creepy smile",
+          "money",
+          "cash",
+          "banknotes",
+          "for sale sign",
+          "sold sign",
+          "music",
+          "background score",
+          "slow motion",
+          "speed ramp",
+          "lens flare",
+          "film grain overlay"
+        ]
+      }
+    }
+  },
+  "clips": [
+    {
+      "clip_id": 1,
+      "beat": "Identify, and admit the motive",
+      "covers_s": [
+        0.0,
+        10.0
+      ],
+      "generate_length_s": 10.0,
+      "camera": {
+        "azimuth_deg": 0,
+        "elevation_deg": 2,
+        "distance_m": {
+          "start": 1.4,
+          "end": 0.9
+        },
+        "height_m": 0.18,
+        "lens_mm": 35,
+        "aperture": "f/2.8",
+        "move": "One move only: a slow straight push in along the +Z axis, 1.40 m to 0.90 m across the ten seconds. No arc, no orbit, no tilt, no handheld shake.",
+        "framing": {
+          "start": "Phone centred, filling about 30 percent of frame height.",
+          "end": "Phone centred, filling about 50 percent of frame height."
+        }
+      },
+      "facing_contract": "The phone's face - its two round eyes and its cradle-slot mouth - points directly at the camera lens for every frame of this clip. The camera stays in front of the face, in +Z space. The camera never moves behind the object, never crosses to the far side of the counter, and never frames the back of the object. If the camera moves, the phone turns on the spot so its face keeps pointing at the lens. The back of the phone, the wall jack and the wall behind it are never toward the lens. The eyeline stays on the lens except in the beats this clip's ACTION names, and in those beats the head does not turn more than 20 degrees.",
+      "action": [
+        "The phone speaks straight into the lens.",
+        "On the word 'offer' its eyes flick 15 degrees to its own left, then come straight back to the lens.",
+        "On 'no paper' the coiled cord lifts about 10 cm off the counter and drops again. An empty-handed shrug.",
+        "A constant idle sway of about 2 degrees throughout, as if breathing."
+      ],
+      "performance": {
+        "accent": "natural American",
+        "tone": "sheepish, caught out, never sarcastic",
+        "pace": "mid",
+        "lipsync": "mouth opens and closes on every syllable. Slight imprecision is acceptable."
+      },
+      "speech_ends_s": 9.65,
+      "silent_tail_s": 0.35,
+      "audio": {
+        "voice": "close on the microphone, small room reflection",
+        "ambience": "fridge hum, empty house",
+        "sfx": "a soft plastic tap as the cord drops at the end of line 2",
+        "music": "none"
+      },
+      "on_screen_text": "none is generated",
+      "verify_after_render": [
+        "Face points at the lens in frame 1 and in the final frame.",
+        "The camera never passes the phone. The wall jack is never toward the lens.",
+        "Keypad is blank.",
+        "No cut inside the clip.",
+        "The cord moved exactly once, on 'no paper'."
+      ],
+      "dialogue_timeline_clip_local": [
+        {
+          "start_s": 0.15,
+          "end_s": 3.15,
+          "kind": "line",
+          "words": 10,
+          "say": "I'm the cash offer you got on your mom's house."
+        },
+        {
+          "start_s": 3.4,
+          "end_s": 7.0,
+          "kind": "line",
+          "words": 12,
+          "say": "I came over the phone. One number, no paper, and then quiet."
+        },
+        {
+          "start_s": 7.25,
+          "end_s": 9.65,
+          "kind": "line",
+          "words": 8,
+          "say": "Sounding sure is cheaper than showing my work."
+        }
+      ],
+      "dialogue_timeline_in_finished_ad": [
+        {
+          "start_s": 0.15,
+          "end_s": 3.15,
+          "kind": "line",
+          "words": 10,
+          "say": "I'm the cash offer you got on your mom's house."
+        },
+        {
+          "start_s": 3.4,
+          "end_s": 7.0,
+          "kind": "line",
+          "words": 12,
+          "say": "I came over the phone. One number, no paper, and then quiet."
+        },
+        {
+          "start_s": 7.25,
+          "end_s": 9.65,
+          "kind": "line",
+          "words": 8,
+          "say": "Sounding sure is cheaper than showing my work."
+        }
+      ]
+    },
+    {
+      "clip_id": 2,
+      "beat": "The cost to her, and a challenge she can check herself",
+      "covers_s": [
+        10.0,
+        20.0
+      ],
+      "generate_length_s": 10.0,
+      "camera": {
+        "azimuth_deg": 0,
+        "elevation_deg": 0,
+        "distance_m": {
+          "start": 0.9,
+          "end": 0.9
+        },
+        "height_m": 0.14,
+        "lens_mm": 50,
+        "aperture": "f/2.8",
+        "move": "None. Locked off. No push, no drift, no handheld shake. The stillness is the point - it is waiting for an answer.",
+        "framing": {
+          "start": "Phone centred, about 50 percent of frame height.",
+          "end": "Identical to the start."
+        }
+      },
+      "facing_contract": "The phone's face - its two round eyes and its cradle-slot mouth - points directly at the camera lens for every frame of this clip. The camera stays in front of the face, in +Z space. The camera never moves behind the object, never crosses to the far side of the counter, and never frames the back of the object. If the camera moves, the phone turns on the spot so its face keeps pointing at the lens. The back of the phone, the wall jack and the wall behind it are never toward the lens. The eyeline stays on the lens except in the beats this clip's ACTION names, and in those beats the head does not turn more than 20 degrees.",
+      "action": [
+        "The phone speaks to the lens, matter-of-fact now, less apologetic than clip 1.",
+        "On 'not the sign in your yard' its eyes glance 18 degrees toward the window, screen left, then return to the lens.",
+        "After 'the math' it stops completely and holds still for the whole pause, eyes locked on the lens, mouth shut.",
+        "Then it says the last line flat, eyes half-lidded, and does not move again."
+      ],
+      "performance": {
+        "accent": "natural American",
+        "tone": "dry, matter-of-fact, mildly challenging",
+        "pace": "mid, with a real stop before the last line",
+        "lipsync": "mouth fully closed during the pause"
+      },
+      "speech_ends_s": 9.7,
+      "silent_tail_s": 0.3,
+      "audio": {
+        "voice": "close on the microphone",
+        "ambience": "fridge hum, empty house, clearly audible during the pause",
+        "sfx": "none",
+        "music": "none"
+      },
+      "on_screen_text": "none is generated",
+      "verify_after_render": [
+        "The pause is real and silent except for room tone.",
+        "The frame is identical at the start and the end. The camera did not drift.",
+        "The eye glance goes to screen left, the window side, and comes back.",
+        "Face points at the lens in frame 1 and in the final frame."
+      ],
+      "dialogue_timeline_clip_local": [
+        {
+          "start_s": 0.1,
+          "end_s": 4.9,
+          "kind": "line",
+          "words": 16,
+          "say": "Nobody showed you how that number got made. Not me. Not the sign in your yard."
+        },
+        {
+          "start_s": 5.2,
+          "end_s": 8.5,
+          "kind": "line",
+          "words": 11,
+          "say": "Watch ten of these ads. Count how many show the math."
+        },
+        {
+          "start_s": 8.5,
+          "end_s": 9.1,
+          "kind": "pause",
+          "beat": "silent hold, mouth closed, no movement"
+        },
+        {
+          "start_s": 9.1,
+          "end_s": 9.7,
+          "kind": "line",
+          "words": 2,
+          "say": "I'll wait."
+        }
+      ],
+      "dialogue_timeline_in_finished_ad": [
+        {
+          "start_s": 10.1,
+          "end_s": 14.9,
+          "kind": "line",
+          "words": 16,
+          "say": "Nobody showed you how that number got made. Not me. Not the sign in your yard."
+        },
+        {
+          "start_s": 15.2,
+          "end_s": 18.5,
+          "kind": "line",
+          "words": 11,
+          "say": "Watch ten of these ads. Count how many show the math."
+        },
+        {
+          "start_s": 18.5,
+          "end_s": 19.1,
+          "kind": "pause",
+          "beat": "silent hold, mouth closed, no movement"
+        },
+        {
+          "start_s": 19.1,
+          "end_s": 19.7,
+          "kind": "line",
+          "words": 2,
+          "say": "I'll wait."
+        }
+      ]
+    },
+    {
+      "clip_id": 3,
+      "beat": "The turn. The failed solution concedes.",
+      "covers_s": [
+        20.0,
+        30.0
+      ],
+      "generate_length_s": 10.0,
+      "camera": {
+        "azimuth_deg": {
+          "start": 0,
+          "end": -12
+        },
+        "elevation_deg": 0,
+        "distance_m": {
+          "start": 0.9,
+          "end": 0.95
+        },
+        "height_m": 0.14,
+        "lens_mm": 50,
+        "aperture": "f/2.8",
+        "move": "One move only: a slow lateral drift to the camera's left, ending 12 degrees off the phone's original facing direction. The phone rotates 12 degrees on the spot to follow the lens, so the face still points at the camera at the end. The drift opens up empty counter and a closed cabinet door on the right third of the frame.",
+        "framing": {
+          "start": "Phone centred, 50 percent of frame height.",
+          "end": "Phone on the LEFT third. The RIGHT third is empty counter and cabinet, clean and unobstructed."
+        }
+      },
+      "facing_contract": "The phone's face - its two round eyes and its cradle-slot mouth - points directly at the camera lens for every frame of this clip. The camera stays in front of the face, in +Z space. The camera never moves behind the object, never crosses to the far side of the counter, and never frames the back of the object. If the camera moves, the phone turns on the spot so its face keeps pointing at the lens. The back of the phone, the wall jack and the wall behind it are never toward the lens. The eyeline stays on the lens except in the beats this clip's ACTION names, and in those beats the head does not turn more than 20 degrees. For this clip specifically: the camera moves 12 degrees, so the phone turns 12 degrees with it. At no point is the face angled away from the lens.",
+      "action": [
+        "The phone speaks, resigned rather than bitter. It is conceding the point.",
+        "As the camera drifts, the coiled cord uncurls along the counter toward the opening right side of frame.",
+        "Its eyes follow that empty space once on 'write it down', then return to the lens and stay there.",
+        "No shrug and no comedy in this clip. It plays it straight."
+      ],
+      "performance": {
+        "accent": "natural American",
+        "tone": "resigned, honest, quiet",
+        "pace": "mid and steady, no rush on the three-part list",
+        "lipsync": "clear separation between 'fixed up', 'minus the repairs' and 'minus what it costs', so captions can be timed to each"
+      },
+      "speech_ends_s": 9.7,
+      "silent_tail_s": 0.3,
+      "audio": {
+        "voice": "close on the microphone",
+        "ambience": "fridge hum, empty house",
+        "sfx": "a faint plastic slither as the cord uncurls",
+        "music": "none"
+      },
+      "on_screen_text": "NONE is generated. The right third is deliberately left empty so the offer math is typed into it in the edit.",
+      "verify_after_render": [
+        "The right third of the final frame is clean enough to hold four lines of type.",
+        "The face still points at the lens after the drift.",
+        "The three parts of the formula are separable for caption timing.",
+        "No text was generated anywhere."
+      ],
+      "dialogue_timeline_clip_local": [
+        {
+          "start_s": 0.1,
+          "end_s": 3.1,
+          "kind": "line",
+          "words": 10,
+          "say": "Property Abundance does the boring thing. They write it down."
+        },
+        {
+          "start_s": 3.4,
+          "end_s": 9.7,
+          "kind": "line",
+          "words": 21,
+          "say": "What the house is worth fixed up. Minus the repairs. Minus what it costs to hold it and sell it again."
+        }
+      ],
+      "dialogue_timeline_in_finished_ad": [
+        {
+          "start_s": 20.1,
+          "end_s": 23.1,
+          "kind": "line",
+          "words": 10,
+          "say": "Property Abundance does the boring thing. They write it down."
+        },
+        {
+          "start_s": 23.4,
+          "end_s": 29.7,
+          "kind": "line",
+          "words": 21,
+          "say": "What the house is worth fixed up. Minus the repairs. Minus what it costs to hold it and sell it again."
+        }
+      ]
+    },
+    {
+      "clip_id": 4,
+      "beat": "The close, and the button. It has nothing to hand over.",
+      "covers_s": [
+        30.0,
+        38.5
+      ],
+      "generate_length_s": 10.0,
+      "used_in_delivery_s": 8.5,
+      "camera": {
+        "azimuth_deg": 0,
+        "elevation_deg": -6,
+        "distance_m": {
+          "start": 0.8,
+          "end": 0.8
+        },
+        "height_m": 0.08,
+        "lens_mm": 50,
+        "aperture": "f/2.0",
+        "move": "None. Locked off, set slightly below the phone's eye line so it looks a little down into the lens.",
+        "framing": {
+          "start": "Phone centred, filling about 55 percent of frame height.",
+          "end": "Identical."
+        }
+      },
+      "facing_contract": "The phone's face - its two round eyes and its cradle-slot mouth - points directly at the camera lens for every frame of this clip. The camera stays in front of the face, in +Z space. The camera never moves behind the object, never crosses to the far side of the counter, and never frames the back of the object. If the camera moves, the phone turns on the spot so its face keeps pointing at the lens. The back of the phone, the wall jack and the wall behind it are never toward the lens. The eyeline stays on the lens except in the beats this clip's ACTION names, and in those beats the head does not turn more than 20 degrees.",
+      "action": [
+        "The phone delivers the formula line evenly, then the two short lines with a beat between them.",
+        "On 'ask me for mine' the coiled cord lifts and turns over, palm-up, offering nothing.",
+        "Short silence. The cord drops.",
+        "It says the last line quietly, blinks once slowly, and holds still.",
+        "The final seconds of the generated clip stay silent and still. They are trimmed in the edit, but render them so the performance lands."
+      ],
+      "performance": {
+        "accent": "natural American",
+        "tone": "dry, deadpan, a little sad on the last line",
+        "pace": "mid, with a clear beat before the last line",
+        "lipsync": "mouth closed and still through the beat"
+      },
+      "speech_ends_s": 8.25,
+      "silent_tail_s": 1.75,
+      "audio": {
+        "voice": "close on the microphone",
+        "ambience": "fridge hum, empty house",
+        "sfx": "a soft plastic settle as the cord drops",
+        "music": "none"
+      },
+      "on_screen_text": "none is generated. The end card lockup is composited in the edit.",
+      "verify_after_render": [
+        "The cord turns over empty on 'ask me for mine'.",
+        "The beat before the last line is real.",
+        "Face points at the lens for the whole clip.",
+        "Nothing ever appears in the cord or on the counter."
+      ],
+      "dialogue_timeline_clip_local": [
+        {
+          "start_s": 0.2,
+          "end_s": 2.9,
+          "kind": "line",
+          "words": 9,
+          "say": "What's left is your offer. That's the whole formula."
+        },
+        {
+          "start_s": 3.25,
+          "end_s": 4.75,
+          "kind": "line",
+          "words": 5,
+          "say": "Ask them for that sheet."
+        },
+        {
+          "start_s": 5.0,
+          "end_s": 6.5,
+          "kind": "line",
+          "words": 5,
+          "say": "Then ask me for mine."
+        },
+        {
+          "start_s": 6.5,
+          "end_s": 7.05,
+          "kind": "pause",
+          "beat": "silent hold, mouth closed, no movement"
+        },
+        {
+          "start_s": 7.05,
+          "end_s": 8.25,
+          "kind": "line",
+          "words": 4,
+          "say": "I don't have one."
+        }
+      ],
+      "dialogue_timeline_in_finished_ad": [
+        {
+          "start_s": 30.2,
+          "end_s": 32.9,
+          "kind": "line",
+          "words": 9,
+          "say": "What's left is your offer. That's the whole formula."
+        },
+        {
+          "start_s": 33.25,
+          "end_s": 34.75,
+          "kind": "line",
+          "words": 5,
+          "say": "Ask them for that sheet."
+        },
+        {
+          "start_s": 35.0,
+          "end_s": 36.5,
+          "kind": "line",
+          "words": 5,
+          "say": "Then ask me for mine."
+        },
+        {
+          "start_s": 36.5,
+          "end_s": 37.05,
+          "kind": "pause",
+          "beat": "silent hold, mouth closed, no movement"
+        },
+        {
+          "start_s": 37.05,
+          "end_s": 38.25,
+          "kind": "line",
+          "words": 4,
+          "say": "I don't have one."
+        }
+      ]
+    }
+  ],
+  "edit": {
+    "assembly": [
+      {
+        "out_s": [
+          0.0,
+          10.0
+        ],
+        "from": "clip 1, 0.00 to 10.00"
+      },
+      {
+        "out_s": [
+          10.0,
+          20.0
+        ],
+        "from": "clip 2, 0.00 to 10.00"
+      },
+      {
+        "out_s": [
+          20.0,
+          30.0
+        ],
+        "from": "clip 3, 0.00 to 10.00"
+      },
+      {
+        "out_s": [
+          30.0,
+          38.5
+        ],
+        "from": "clip 4, 0.00 to 8.5. The rest of the silent tail is trimmed."
+      }
+    ],
+    "cuts_at_s": [
+      10.0,
+      20.0,
+      30.0
+    ],
+    "math_build": {
+      "where": "typed into the empty right third opened up by clip 3's drift",
+      "lines": [
+        {
+          "text": "VALUE FIXED UP",
+          "in_s": 23.4
+        },
+        {
+          "text": "- REPAIRS",
+          "in_s": 25.5
+        },
+        {
+          "text": "- HOLD + RESELL",
+          "in_s": 26.4
+        },
+        {
+          "text": "= YOUR OFFER",
+          "in_s": 30.2
+        }
+      ],
+      "hold": "All four lines stay on screen from 30.2 s to the end.",
+      "rule": "No dollar figures. Ref 2 put a price on a run-down house and invited the lowball doubt it was trying to calm."
+    },
+    "captions": {
+      "tool": "dynamic_captions_3click",
+      "why": "Ref 2 failed on thin white-on-cream text. These must read with sound off.",
+      "constraint": "ffmpeg on this machine is built without libfreetype and without libass, measured 2026-09-23, so drawtext and subtitles do not exist. Render caption and math cards as transparent PNGs with Pillow and composite them with overlay plus enable='between(t,a,b)', the route the 2026-09-23 edit session established."
+    },
+    "end_card": {
+      "in_s": 36.0,
+      "content": "logo plus form URL",
+      "needs": "[NEEDS YOUR TERM: form URL]"
+    },
+    "audio_master": {
+      "integrated_lufs": -14.0,
+      "true_peak_dbtp": -1.0,
+      "reference": "the reference reel measured -14.34 LUFS; refs 1, 2 and 6 measured -14.2"
+    }
+  },
+  "ship_gates": [
+    "Lines 7 and 8 must match your real offer formula. If it is not value minus repairs minus carry and resell, rewrite them.",
+    "[NEEDS YOUR TERM: form URL] must return HTTP 200. propertyabundanceusa.com returned HTTP 403 on 2026-09-22.",
+    "Meta Housing Special Ad Category status is unchecked.",
+    "No dollar figure, no days-to-close, no percentage anywhere, spoken or on screen.",
+    "No named competitor. Lines 4 and 5 are safe because they describe what a phone call and a yard sign do not contain, which the viewer can check for themselves."
+  ]
+}

@@ -1,0 +1,103 @@
+PROPERTY ABUNDANCE – GEMINI (VEO 3.1) VIDEO PROMPTS v1
+Built from: Property_Abundance_Ad_Scripts_v1.txt
+Each ad = 4 clips x 8 seconds = 32 s. Paste ONE clip prompt per generation. Pick the best take of each clip, then join them in order.
+Captions, voiceover, the form screen and the logo are added in the editor afterwards (Veo does not render readable text reliably).
+
+============================================================
+AD 1 – "THE PROOF PROBLEM" – CLIP 1 of 4 (script 0-8s)
+============================================================
+Vertical 9:16 video, 8 seconds, photorealistic.
+Style for the whole clip: cinematic UGC realism, handheld 35mm lens with a gentle natural sway, shallow depth of field, soft warm window light, warm neutral color grade with soft contrast, realistic textures, no film grain overload.
+[00:00-00:03] Extreme close-up, the shot starts already in motion: a woman's hands with short unpainted nails firmly crumple a glossy real estate flyer with a big red header block and a clip-art house, then drop it onto a light oak kitchen table. The flyer's print is illegible.
+[00:03-00:06] Wide shot of a modest one-story beige suburban house with a tired lawn and faded shutters in soft afternoon light. The camera slowly pushes in as the same house smoothly morphs into its freshly renovated version: new white paint, black shutters, green trimmed lawn.
+[00:06-00:08] Top-down close-up of a single sheet of plain white paper on the oak table with one short scribbled line in the middle and nothing else, empty space all around it.
+Audio: quiet kitchen room tone and the crisp crinkle of paper. No music, no voices.
+Keep the frame free of captions, subtitles, logos, watermarks and readable words or numbers.
+
+============================================================
+AD 1 – "THE PROOF PROBLEM" – CLIP 2 of 4 (script 8-16s)
+============================================================
+Vertical 9:16 video, 8 seconds, photorealistic.
+Character (same in every clip): a woman in her late 50s, shoulder-length brown hair with gray streaks, thin reading glasses, navy cardigan over a white t-shirt.
+Style for the whole clip: cinematic UGC realism, handheld 35mm lens with a gentle natural sway, shallow depth of field, soft warm window light, warm neutral color grade with soft contrast.
+[00:00-00:03] Medium close-up: the woman sits at a light oak kitchen table holding a smartphone to her ear, listening, eyebrows slightly raised in doubt.
+[00:03-00:06] Close-up at a formal closing table in a plain office: a man's hand in a gray suit sleeve crosses out a handwritten figure on a document with a black pen and writes a smaller one beside it. The handwriting is illegible.
+[00:06-00:08] Slow push-in, extreme close-up on the crossed-out ink line, the pen lifting away. Shallow focus.
+Audio: faint phone line hum, then the scratch of a pen on paper. No music, no voices.
+Keep the frame free of captions, subtitles, logos, watermarks and readable words or numbers.
+
+============================================================
+AD 1 – "THE PROOF PROBLEM" – CLIP 3 of 4 (script 16-24s)
+============================================================
+Vertical 9:16 video, 8 seconds, photorealistic.
+Style for the whole clip: cinematic UGC realism, locked-off top-down camera with a very slow push-in, soft warm window light across the paper, warm neutral color grade.
+[00:00-00:08] Top-down close-up of a clean sheet of white paper on a light oak kitchen table. A man's hand holding a blue ballpoint pen calmly writes three short separate lines, one under the other, pausing briefly after each line, then draws a single neat underline beneath them. The handwriting is loose illegible cursive, with empty margin on both sides so text can be added later. A coffee mug edge and reading glasses sit at the corner of the frame.
+Audio: the soft sound of pen on paper, quiet room tone. No music, no voices.
+Keep the frame free of captions, subtitles, logos, watermarks and readable words or numbers.
+
+============================================================
+AD 1 – "THE PROOF PROBLEM" – CLIP 4 of 4 (script 24-32s)
+============================================================
+Vertical 9:16 video, 8 seconds, photorealistic.
+Character (same in every clip): a woman in her late 50s, shoulder-length brown hair with gray streaks, thin reading glasses, navy cardigan over a white t-shirt.
+Style for the whole clip: cinematic UGC realism, handheld 35mm lens with a gentle natural sway, shallow depth of field, soft warm window light, warm neutral color grade with soft contrast.
+[00:00-00:05] Medium shot: the woman sits at the light oak kitchen table reading a single handwritten sheet of paper, moving her finger down the lines, then gives a small slow nod and relaxes her shoulders, a faint relieved smile.
+[00:05-00:08] Over-the-shoulder close-up: she holds a smartphone upright in both hands, the screen glowing plain white with no interface, centered and steady in frame.
+Audio: quiet kitchen room tone, a soft exhale. No music, no voices.
+Keep the frame free of captions, subtitles, logos, watermarks and readable words or numbers.
+
+============================================================
+AD 2 – "THE DRIVE BACK" – CLIP 1 of 4 (script 0-8s)
+============================================================
+Vertical 9:16 video, 8 seconds, photorealistic.
+Style for the whole clip: cinematic UGC realism, handheld 35mm lens with a gentle natural sway, shallow depth of field, muted cool-to-warm color grade, quiet melancholy mood.
+[00:00-00:04] Wide shot at dusk, slow push-in: a small empty one-story white clapboard house with a dark green front door, an overgrown lawn, closed curtains and one yellow porch light glowing. A pile of unopened envelopes and a rolled newspaper sit on the doormat.
+[00:04-00:06] Close-up: a woman's hand picks up the stack of unopened envelopes from the doormat and flips through them slowly. The envelope print is illegible.
+[00:06-00:08] Wide shot through a car windshield in daylight: a long empty two-lane highway stretching to the horizon, flat fields on both sides, the driver's hands on the wheel at the bottom of frame.
+Audio: evening crickets, the soft rustle of paper, then steady road noise. No music, no voices.
+Keep the frame free of captions, subtitles, logos, watermarks and readable words or numbers.
+
+============================================================
+AD 2 – "THE DRIVE BACK" – CLIP 2 of 4 (script 8-16s)
+============================================================
+Vertical 9:16 video, 8 seconds, photorealistic.
+Character (same in every clip): a woman in her early 40s, dark curly hair tied back in a low bun, olive green rain jacket over a gray sweater, jeans.
+Setting (same in every clip): a dated 1970s kitchen with yellow tile, wooden cabinets and a white refrigerator covered in old family photos held by magnets.
+Style for the whole clip: cinematic UGC realism, handheld 35mm lens with a gentle natural sway, shallow depth of field, soft gray daylight through a window, muted warm color grade, quiet melancholy mood.
+[00:00-00:05] The woman opens the kitchen door and steps into the silent kitchen, keys still in her hand. She stops in the middle of the room and looks slowly around at the refrigerator photos, her face tired and heavy.
+[00:05-00:08] Close-up: her hand rests flat on the worn yellow tile countertop, fingers slowly pressing down. Shallow focus, the photos blurred behind.
+Audio: a door creak, the jingle of keys, then deep quiet with a ticking wall clock. No music, no voices.
+Keep the frame free of captions, subtitles, logos, watermarks and readable words or numbers.
+
+============================================================
+AD 2 – "THE DRIVE BACK" – CLIP 3 of 4 (script 16-24s)
+============================================================
+Vertical 9:16 video, 8 seconds, photorealistic.
+Character (same in every clip): a woman in her early 40s, dark curly hair tied back in a low bun, olive green rain jacket over a gray sweater, jeans.
+Setting (same in every clip): a dated 1970s kitchen with yellow tile, wooden cabinets and a white refrigerator covered in old family photos held by magnets.
+Style for the whole clip: cinematic UGC realism, handheld 35mm lens with a gentle natural sway, shallow depth of field, soft daylight getting warmer, muted warm color grade.
+[00:00-00:05] Close-up: the woman gently slides one faded family photo out from under a magnet on the refrigerator, looks at it for a moment, and tucks it carefully into her jacket's inside pocket. A small calm breath.
+[00:05-00:08] Medium shot from behind: she walks toward the front door carrying one small cardboard box, leaving the furniture and the rest of the photos exactly as they are.
+Audio: the soft click of a magnet, footsteps on old wooden floorboards. No music, no voices.
+Keep the frame free of captions, subtitles, logos, watermarks and readable words or numbers.
+
+============================================================
+AD 2 – "THE DRIVE BACK" – CLIP 4 of 4 (script 24-32s)
+============================================================
+Vertical 9:16 video, 8 seconds, photorealistic.
+Character (same in every clip): a woman in her early 40s, dark curly hair tied back in a low bun, olive green rain jacket over a gray sweater, jeans.
+Style for the whole clip: cinematic UGC realism, handheld 35mm lens with a gentle natural sway, bright warm golden-hour daylight, clean warm color grade, hopeful lighter mood.
+[00:00-00:03] Medium shot: the woman steps out of the dark green front door of the small white clapboard house carrying one small cardboard box and closes the door behind her. The house stays calm and unchanged behind her.
+[00:03-00:06] Wide shot: her silver compact car pulls away from the curb in front of the house in warm daylight and drives down the quiet street.
+[00:06-00:08] Close-up inside the parked car: her hands hold a smartphone upright on the steering wheel, the screen glowing plain white with no interface, centered and steady in frame.
+Audio: a door closing softly, a car engine starting, light birdsong. No music, no voices.
+Keep the frame free of captions, subtitles, logos, watermarks and readable words or numbers.
+
+============================================================
+AFTER GENERATING (in CapCut or any editor)
+============================================================
+1. Join the 4 clips of each ad in order (32 s). Add a 1 s end card: your real form screenshot placed on the white phone screen + "Property Abundance".
+2. Add the ON SCREEN captions from Property_Abundance_Ad_Scripts_v1.txt: big, bold, 1 to 4 words per card, one keyword in color, top third, clear of the bottom and right edge.
+3. On AD 1 CLIP 3, type the three lines over the handwriting: WORTH FIXED UP / MINUS REPAIRS / MINUS OUR COSTS.
+4. Add the voiceover (VO lines from the script). Turn the Veo audio down under it.
+5. Export 1080x1920, 30 fps.

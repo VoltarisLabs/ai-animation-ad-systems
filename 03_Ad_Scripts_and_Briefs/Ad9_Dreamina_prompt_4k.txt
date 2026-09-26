@@ -1,0 +1,53 @@
+PROPERTY ABUNDANCE 72s VERTICAL AD. One Long Video, 9:16, audio ON.
+
+LOOK (every shot): handheld amateur video, one person holding the camera. Not a movie. Wide lens, everything in focus, auto-exposure so windows and sky blow out, constant small hand shake, horizon never level. No gimbal, drone, push-in, zoom or slow motion. Colour flat, unedited, slightly desaturated. Overcast outside, mixed daylight and warm bulbs inside. NOT cinematic: no grade, no glow, no flare, no background blur. No camera app interface or buttons on the picture.
+
+REAL, NOT AI: visible pores, fine lines, uneven skin tone, forehead shine, no makeup. Flyaway hair. Pilled cuffs, creased elbows. Dust, scuffs, clutter, worn paint. Five fingers per hand at normal speed. Objects stay put unless a hand moves them; nothing morphs or appears. Hard cuts only, no dissolves or fades.
+
+PLACE: suburban United States. Detached single-family houses, horizontal lap siding, asphalt shingles, concrete driveways, open mown lawns. NOT British or European: no brick terraces, no semi-detached, no pebbledash, no letterbox in the door, no privet hedge. Same house and street throughout.
+
+PEOPLE: DAUGHTER, woman early forties, dark blonde hair tied back with loose strands, no makeup, grey pilled sweatshirt. Tired, not crying. She NEVER speaks. HOST, man early forties, Black American, close-cropped hair, short beard with a few greys, plain navy collarless long-sleeve shirt. Calm neighbour, not a salesman. He is a company spokesperson, NEVER a customer, and never says he sold a house.
+
+NO TEXT ANYWHERE: no words, letters, numbers, prices, labels, handwriting, captions, house numbers, signs, logos or watermarks in any frame. Every paper and envelope is blank. Do not draw this prompt onto the image.
+
+AUDIO: one calm female American narrator, mid-forties, unhurried, no announcer energy, speaking to "you". HOST lines spoken on camera by the man. Under it: room tone, wind, traffic, birds, footsteps, paper, a door, a phone buzzing on wood. NO MUSIC, no score, no whoosh. Speak ONLY these lines, never invent or repeat.
+
+TIMELINE. Hard cut at every timecode. Never hold a shot past 2.6s.
+0.0 hand turns a key in a worn lock, door pushes inward. NARRATOR: "Keeping your parent's house isn't how you honor them."
+1.4 walking into a dim hallway, pale rectangles where pictures hung
+3.3 a long highway through a car windshield. NARRATOR: "Fourth trip this month. For a house nobody lives in. The closet's still full."
+4.9 a hand slides a closet door open on coats on wire hangers
+6.7 a hand holds a cardigan sleeve, lets it drop back
+8.1 a fridge door covered in old photographs
+9.5 DAUGHTER at a kitchen table, phone face down. NARRATOR: "And the question you're scared to ask: am I getting ripped off because I just want it gone?"
+11.7 closer, she looks away and lets out one slow breath
+13.4 her hand lifts a chipped mug, sets it down without drinking
+15.0 grey daylight through a dusty kitchen window
+16.7 the phone buzzes twice face down and stops. NARRATOR: "Your sibling won't pay for repairs, and won't take an offer."
+18.2 two kitchen chairs, one pushed in, one pulled out and empty
+19.6 her hand flat on the table, not moving
+21.2 HOST on the sidewalk facing the lens. HOST: "Here's the honest part: a cash offer is lower than a listed sale."
+23.8 same man closer, he shifts his weight once
+26.0 low angle, a roofer on a ladder lifts a cracked shingle. NARRATOR: "A listed sale means repairs, a clean-out, showings, and months of taxes while it sits. Four hours away."
+27.7 interior with a collapsed ceiling, exposed joists, rubble
+29.2 a hand turns the dial on a lockbox on a door handle
+30.6 a plain unmarked FOR SALE sign in a mown lawn
+32.2 stacked cardboard boxes in an empty room
+33.8 aerial top down of a quiet suburban street. HOST: "That's why the lower number can still leave you with more: no repairs, no clean-out, no more months of taxes."
+36.2 an empty concrete driveway, oil stains, weeds in the joints
+38.0 HOST to camera, calm, one small nod
+40.3 a tidy suburban house from the sidewalk
+41.9 low through an overgrown lawn going to seed. NARRATOR: "The yard keeps growing. The bills keep coming."
+43.6 envelopes piling on a doormat, one more drops, blank side up
+45.4 HOST at a bare table slides a blank sheet toward the lens. HOST: "That's why you're not getting ripped off, if you can see how the number is built. We show you the math first."
+47.8 top down on the blank sheet, his hand points high, then lower
+49.9 his face across the table, looking up into the lens
+51.9 his open palm resting flat on the bare table
+53.7 house keys set down on a counter and released. NARRATOR: "No more trips. Nothing left on your plate."
+55.2 an empty sunlit room, dust drifting in the light
+57.1 DAUGHTER steps out the front door with one cardboard box. NARRATOR: "Keeping it was never how you honor them. Letting it go, without a fight, is. This is Property Abundance."
+59.4 she pulls the door closed with her free hand
+61.0 she walks past the lens, not looking back
+63.2 an empty porch, door closed, nobody there
+64.8 the house framed low with a large area of empty sky above. NARRATOR: "Get the number and the math. Show your family. Decide together."
+67.0 the same house held steady, leaves moving on a young tree

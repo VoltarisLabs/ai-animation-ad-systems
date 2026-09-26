@@ -1,0 +1,45 @@
+slug: emily
+name: Emily
+role: >
+  UGC avatar for Property Abundance. A woman who inherited her late mother's
+  house and sold it. Original AI character, not modelled on any real person.
+  Ads using her must carry an on-screen label: "AI-generated character.
+  Dramatization. Not a real customer." (16 CFR 255.2(c)).
+
+default_model: nano-banana-pro (Kie web app)
+
+face_ref: Emily_face_neutral.jpg      # panel 1 crop of the character sheet
+smile_ref: Emily_face_smile.jpg       # panel 2 crop of the character sheet
+sheet_ref: Emily_character_sheet.png  # 5-panel master sheet
+
+face_lock: >
+  White American woman, 42 years old. ROUND face: almost as wide as it is long,
+  full soft cheeks, short rounded chin, soft jawline with no sharp angles.
+  Fair skin with a warm peach undertone, light freckles across her nose and
+  upper cheeks. Hazel-green round eyes set slightly wide apart, slightly
+  hooded lids. Low, straight, soft light-brown eyebrows with no arch. Small
+  nose with a narrow straight bridge and a softly rounded button tip. Full
+  lower lip, softer upper lip, natural colour. One small dimple in her left
+  cheek when she smiles. Faint smile lines and fine lines at the eye corners.
+
+hair_lock: >
+  Dark honey-blonde, shoulder length, soft natural waves, middle part, a few
+  flyaway strands. No balayage streaks, no side part, no bangs.
+
+body_lock: >
+  About 5'5", soft medium build, natural proportions. Not model-thin, not
+  athletic.
+
+wardrobe_lock: >
+  Reference-setting only: plain white crew-neck t-shirt, mid-blue straight
+  jeans, white sneakers. Every scene sets its own outfit.
+
+negative: >
+  No long oval face, no high sharp cheekbones, no dark arched eyebrows, no
+  broad nose, no deep-set brown eyes, no pointed chin, no heavy makeup, no
+  smooth plastic skin, no different face between shots.
+
+reference_order:
+  - face_ref (or smile_ref for smiling scenes)
+  - sheet_ref
+  - scene_ref (camera, light and setting only, never its face)

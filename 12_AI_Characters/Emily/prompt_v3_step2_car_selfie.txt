@@ -1,0 +1,53 @@
+{
+  "TOP_LEVEL_NON_NEGOTIABLES": {
+    "SUBJECT_IDENTITY": "This is EMILY. Image 1 (Emily front neutral face) is the PRIMARY face anchor. Image 2 (Emily character sheet) shows her face from other angles, her hair and her body. 100% match to image 1, no drift.",
+    "SCENE_REFERENCE": "Image 3 is ONLY the scene reference: the car interior, the phone angle and framing, the window daylight and the iPhone photo quality. Do NOT copy the face, hair, eyebrows, nose, skin tone, earrings or clothes of the woman in image 3.",
+    "OUTFIT_RULE": "IGNORE the white t-shirt and jeans in images 1 and 2. The outfit comes from the WARDROBE block.",
+    "ASPECT": "9:16 vertical",
+    "RESOLUTION": "2K"
+  },
+  "FORENSIC_FACE_LOCK": {
+    "identity": "White American woman, 42 years old.",
+    "face_shape": "ROUND: almost as wide as it is long, full soft cheeks, short rounded chin, soft jawline with no sharp angles.",
+    "skin": "Fair with a warm peach undertone, light freckles across her nose and upper cheeks.",
+    "eyes": "Hazel-green, round, set slightly wide apart, slightly hooded lids.",
+    "eyebrows": "Low, straight, soft light brown, no arch.",
+    "nose": "Small, narrow straight bridge, softly rounded button tip.",
+    "lips": "Full lower lip, softer upper lip, natural colour, no lipstick.",
+    "hair": "Dark honey-blonde, shoulder length, soft natural waves, middle part, a few flyaway strands."
+  },
+  "POSE": {
+    "framing": "iPhone front-camera selfie held at arm's length by the driver, slightly above eye level and slightly off to one side. Her face is large in the upper-middle of the frame, chest-up, with a little car roof above her head. Not centred like a dashboard camera.",
+    "body": "Sitting in the driver's seat, shoulders relaxed, body still.",
+    "hands": "No hands visible.",
+    "gaze": "Straight into the phone lens.",
+    "expression": "Calm, warm, relieved closed-mouth smile, like she is about to tell her followers how she finally sold her late mom's house."
+  },
+  "WARDROBE": {
+    "outer": "Light-blue chambray button-up shirt, top button open.",
+    "inner": "Plain white crew-neck t-shirt.",
+    "logos": "None."
+  },
+  "ACCESSORIES": {
+    "earbud": "Her hair is tucked behind the ear on the LEFT side of the photo, with one white wireless earbud in that ear only. No earbud in the other ear.",
+    "earrings": "Small plain gold studs.",
+    "necklace": "A thin gold chain with one small plain gold ring hanging on it.",
+    "microphone": "A small black DJI Mic Mini wireless microphone clipped to the edge of her shirt collar."
+  },
+  "BACKGROUND": {
+    "car": "The same car interior as image 3: headliner, grab handle, back seat.",
+    "window": "A quiet street of older single-family brick houses with lawns and mature trees on a clear afternoon.",
+    "back_seat": "One flattened plain brown cardboard moving box with no printing on it."
+  },
+  "LIGHTING": "Same as image 3: soft daylight through the window on the right side of the photo, natural exposure, no blown-out white highlights on the skin.",
+  "CAMERA": "iPhone front camera, slight wide-angle distortion, phone grain and noise, slight softness. It must look like an unedited phone photo, not a studio portrait.",
+  "SKIN": "Real unretouched phone-photo skin: visible pores, slight natural shine on the forehead and nose, freckles, faint under-eye texture. No smoothing, no beauty filter, no plastic or waxy look.",
+  "STRICTLY_EXCLUDED": [
+    "NO face, hair or eyebrows from image 3",
+    "NO long oval face, NO dark arched eyebrows, NO broad nose",
+    "NO hoop earrings, NO V-neck top, NO teal clothing",
+    "NO hands in frame",
+    "NO text, NO captions, NO signs, NO watermark",
+    "NO other people"
+  ]
+}

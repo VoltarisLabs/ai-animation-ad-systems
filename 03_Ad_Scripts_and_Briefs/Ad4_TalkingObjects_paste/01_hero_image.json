@@ -1,0 +1,88 @@
+{
+  "user_intent": "character reference frame for a talking-object ad",
+  "meta": {
+    "aspect_ratio": "9:16",
+    "quality": "3d_render_octane",
+    "guidance_scale": 9,
+    "seed": 42
+  },
+  "subject": [
+    "1990s cream-white corded kitchen wall telephone",
+    "living Pixar-style cartoon character",
+    "two round dial buttons as eyes, glossy, set slightly too far apart",
+    "cradle slot as a mouth, closed",
+    "coiled beige cord as one limp arm, curling on the counter",
+    "hairline crack across the lower right corner of the body",
+    "yellowed aged plastic with dust in the seams",
+    "completely blank keypad buttons",
+    "guilty, slightly sheepish expression"
+  ],
+  "madeOutOf": "matte ABS plastic yellowed with age, fine dust in the moulding seams, rubberised coiled cord",
+  "arrangement": "The phone stands upright on the kitchen counter, unhooked, cord running back to a wall jack behind it. The camera is dead in front of its face at azimuth 0 degrees, 0.80 m away, 0.18 m above the counter top. The face points straight down the lens axis.",
+  "scene": {
+    "location": "dated suburban kitchen in an empty inherited house",
+    "detail": "oak cabinets, laminate counter with a chipped edge, bare fridge with four faded tape marks, window above the sink",
+    "time": "midday",
+    "lighting": {
+      "type": "natural_daylight",
+      "direction": "side_lit from screen left, warm ceiling bulb as fill"
+    }
+  },
+  "technical": {
+    "lens": "50mm",
+    "aperture": "f/2.0",
+    "camera_height_m": 0.18,
+    "azimuth_deg": 0,
+    "elevation_deg": 2
+  },
+  "colorRestriction": "Cream white, yellowed ivory, oak brown, cool grey window light, one warm tungsten accent. No saturated colour.",
+  "advanced": {
+    "negative_prompt": [
+      "camera behind the subject",
+      "back of the phone facing the lens",
+      "object facing away from camera",
+      "face turned away from the lens",
+      "profile view",
+      "rear three-quarter view",
+      "over-the-shoulder framing",
+      "camera on the far side of the counter",
+      "camera orbiting the subject",
+      "cut",
+      "jump cut",
+      "scene change",
+      "second character",
+      "person",
+      "human hand",
+      "arms",
+      "legs",
+      "text",
+      "letters",
+      "numbers",
+      "digits on the keypad",
+      "subtitles",
+      "captions",
+      "watermark",
+      "logo",
+      "brand mark",
+      "phone screen",
+      "camera app UI",
+      "recording dot",
+      "photorealistic human skin",
+      "uncanny valley",
+      "horror",
+      "creepy smile",
+      "money",
+      "cash",
+      "banknotes",
+      "for sale sign",
+      "sold sign",
+      "music",
+      "background score",
+      "slow motion",
+      "speed ramp",
+      "lens flare",
+      "film grain overlay"
+    ]
+  },
+  "_instructions": "Paste this whole block into the Gemini app. Ask for 6 variations. Save the best as refs/ad4_object_hero.png. Attach that file to every clip request afterwards."
+}

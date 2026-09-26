@@ -1,0 +1,170 @@
+{
+  "_instructions": "Paste this whole block into the Gemini app as ONE request. ATTACH refs/ad4_object_hero.png to this request. Do not attach any previous clip. Do not paste any other clip in the same request.",
+  "task": "vertical 9:16 video, one continuous shot, native spoken dialogue, 3D Pixar-style cartoon",
+  "clip_id": 2,
+  "beat": "The cost to her, and a challenge she can check herself",
+  "length_s": 10.0,
+  "_position_in_finished_ad_s": [
+    10.0,
+    20.0
+  ],
+  "aspect_ratio": "9:16",
+  "reference_image": "attached - keep its exact face, eyes, crack, plastic colour and dust",
+  "world": {
+    "origin": "The phone's base, standing on the kitchen counter.",
+    "axes": "+X is screen right. +Y is up. +Z points out of the scene toward the camera.",
+    "phone_facing_vector": "+Z. The face looks straight down the +Z axis, at the camera.",
+    "counter": "Runs left to right along the back wall. Counter top is Y=0 and sits 0.9 m off the floor.",
+    "back_wall": "0.60 m behind the phone at Z=-0.60. The wall jack the cord runs to is on this wall.",
+    "window": "On the left wall, screen left, at X=-1.8 m. It is the cool grey key light.",
+    "ceiling_bulb": "Above and slightly behind the camera at Z=+1.2 m, Y=+1.6 m. Warm fill.",
+    "camera_side": "The camera always lives in +Z space, in front of the phone. Never in -Z space. This is not optional."
+  },
+  "camera_convention": {
+    "azimuth_deg": "Measured from the phone's own facing direction. 0 means the camera is dead in front of the face. Positive swings the camera toward the phone's right, which reads as screen left. Hard limit for this ad: -20 to +20.",
+    "elevation_deg": "Positive means the camera is above the phone looking down. Negative means below, looking up.",
+    "distance_m": "Lens to the front of the phone's face.",
+    "height_m": "Lens height above the counter top, not above the floor.",
+    "lens_mm": "35 mm full-frame equivalent unless the clip says otherwise.",
+    "why_this_block_exists": "Earlier renders put the camera on the opposite side from the direction the face was pointing. Stating azimuth in degrees measured off the face, naming the camera's half of the room, and repeating the facing contract in every clip removes the model's freedom to choose a side."
+  },
+  "object_bible": "A cream-white 1990s corded kitchen wall telephone, about 24 cm tall, yellowed with age, one hairline crack across the lower right corner of the body. It has been unhooked from the wall and stands upright on the kitchen counter, its coiled beige cord still running back to the wall jack. It is a living Pixar-style 3D cartoon character. Its two round dial buttons are its eyes, glossy and expressive, set slightly too far apart. The handset rests in its cradle and the cradle slot is its mouth, which opens and closes as it speaks. The coiled cord is its one limp arm, hanging down and curling on the counter. Soft rounded cartoon shapes, matte plastic with fine dust in the seams, warm subsurface light in the plastic. All keypad buttons are completely blank. No digits, no letters, no labels, no logos, no brand marks anywhere on the object.",
+  "room_bible": "A dated suburban kitchen in an empty inherited house. Oak cabinets, a laminate counter with a chipped edge, a bare fridge with four faded tape marks where photos used to be, one window above the sink. Cool grey daylight from the window plus one warm ceiling bulb. Dust in the air. Nobody in the room at any point.",
+  "style": {
+    "render": "3D Pixar-style cartoon, soft rounded forms, matte plastic with subsurface warmth",
+    "quality": "3d_render_octane",
+    "colorRestriction": "Cream white, yellowed ivory, oak brown, cool grey window light, one warm tungsten accent. No saturated colour anywhere. No blues, no greens, no reds.",
+    "depth_of_field": "shallow, background cabinets softly out of focus",
+    "grade": "neutral, slightly desaturated, no stylised LUT"
+  },
+  "camera": {
+    "azimuth_deg": 0,
+    "elevation_deg": 0,
+    "distance_m": {
+      "start": 0.9,
+      "end": 0.9
+    },
+    "height_m": 0.14,
+    "lens_mm": 50,
+    "aperture": "f/2.8",
+    "move": "None. Locked off. No push, no drift, no handheld shake. The stillness is the point - it is waiting for an answer.",
+    "framing": {
+      "start": "Phone centred, about 50 percent of frame height.",
+      "end": "Identical to the start."
+    }
+  },
+  "facing_contract": "The phone's face - its two round eyes and its cradle-slot mouth - points directly at the camera lens for every frame of this clip. The camera stays in front of the face, in +Z space. The camera never moves behind the object, never crosses to the far side of the counter, and never frames the back of the object. If the camera moves, the phone turns on the spot so its face keeps pointing at the lens. The back of the phone, the wall jack and the wall behind it are never toward the lens. The eyeline stays on the lens except in the beats this clip's ACTION names, and in those beats the head does not turn more than 20 degrees.",
+  "action": [
+    "The phone speaks to the lens, matter-of-fact now, less apologetic than clip 1.",
+    "On 'not the sign in your yard' its eyes glance 18 degrees toward the window, screen left, then return to the lens.",
+    "After 'the math' it stops completely and holds still for the whole pause, eyes locked on the lens, mouth shut.",
+    "Then it says the last line flat, eyes half-lidded, and does not move again."
+  ],
+  "performance": {
+    "accent": "natural American",
+    "tone": "dry, matter-of-fact, mildly challenging",
+    "pace": "mid, with a real stop before the last line",
+    "lipsync": "mouth fully closed during the pause"
+  },
+  "dialogue_timeline": [
+    {
+      "start_s": 0.1,
+      "end_s": 4.9,
+      "kind": "line",
+      "words": 16,
+      "say": "Nobody showed you how that number got made. Not me. Not the sign in your yard."
+    },
+    {
+      "start_s": 5.2,
+      "end_s": 8.5,
+      "kind": "line",
+      "words": 11,
+      "say": "Watch ten of these ads. Count how many show the math."
+    },
+    {
+      "start_s": 8.5,
+      "end_s": 9.1,
+      "kind": "pause",
+      "beat": "silent hold, mouth closed, no movement"
+    },
+    {
+      "start_s": 9.1,
+      "end_s": 9.7,
+      "kind": "line",
+      "words": 2,
+      "say": "I'll wait."
+    }
+  ],
+  "say_in_full": "Nobody showed you how that number got made. Not me. Not the sign in your yard. Watch ten of these ads. Count how many show the math. I'll wait.",
+  "audio": {
+    "voice": "close on the microphone",
+    "ambience": "fridge hum, empty house, clearly audible during the pause",
+    "sfx": "none",
+    "music": "none"
+  },
+  "on_screen_text": "none is generated",
+  "hard_rules": [
+    "One continuous shot. No cuts, no dissolves, no transitions, no split screen.",
+    "One character only. No people, no hands, no second object with a face.",
+    "No captions, subtitles, titles, watermarks, logos, UI or numbers anywhere in frame.",
+    "The keypad buttons stay completely blank. No digits, no letters.",
+    "Objects stay exactly where they are unless the phone's own cord moves them. Nothing appears or disappears.",
+    "The phone never grows arms, legs or hands. Its only moving limb is the coiled cord.",
+    "The room, the light direction, and the phone's colour, crack and dust are identical in all four clips.",
+    "Speech is generated natively inside the clip. Do not add music.",
+    "Exactly one camera move per clip, the one named in camera.move. No second move, no handheld shake.",
+    "Do not ask questions. Do not ask for a reference image beyond the one attached."
+  ],
+  "negative_prompt": [
+    "camera behind the subject",
+    "back of the phone facing the lens",
+    "object facing away from camera",
+    "face turned away from the lens",
+    "profile view",
+    "rear three-quarter view",
+    "over-the-shoulder framing",
+    "camera on the far side of the counter",
+    "camera orbiting the subject",
+    "cut",
+    "jump cut",
+    "scene change",
+    "second character",
+    "person",
+    "human hand",
+    "arms",
+    "legs",
+    "text",
+    "letters",
+    "numbers",
+    "digits on the keypad",
+    "subtitles",
+    "captions",
+    "watermark",
+    "logo",
+    "brand mark",
+    "phone screen",
+    "camera app UI",
+    "recording dot",
+    "photorealistic human skin",
+    "uncanny valley",
+    "horror",
+    "creepy smile",
+    "money",
+    "cash",
+    "banknotes",
+    "for sale sign",
+    "sold sign",
+    "music",
+    "background score",
+    "slow motion",
+    "speed ramp",
+    "lens flare",
+    "film grain overlay"
+  ],
+  "_verify_after_render": [
+    "The pause is real and silent except for room tone.",
+    "The frame is identical at the start and the end. The camera did not drift.",
+    "The eye glance goes to screen left, the window side, and comes back.",
+    "Face points at the lens in frame 1 and in the final frame."
+  ]
+}

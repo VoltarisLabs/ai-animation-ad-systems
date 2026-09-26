@@ -1,0 +1,286 @@
+{
+  "project": "Property Abundance — cash home buying ad",
+  "version": "v8 — cinematic shot grammar",
+  "built": "2026-09-24",
+  "total_runtime_seconds": 33,
+  "derived_from": {
+    "shot_grammar": "Measured from 10_Video_Builds/Ad5_Skeptic_v1/PropertyAbundance_Ad5_Skeptic_v2_REAL.mp4 — 1080x1920, 30 fps, 32.760 s, 9 shots, lengths 2.93 / 9.80 / 4.83 / 1.70 / 2.67 / 1.13 / 1.70 / 5.50 / 2.49 s. Grammar borrowed, topic and cast NOT copied.",
+    "hooks": "05_Tutorials/Hook_Psychology_Research_Report.md — 'Key takeaways: the hook playbook' and the Loop order rule."
+  },
+  "output_spec": {
+    "aspect_ratio": "9:16 vertical",
+    "resolution": "1080x1920",
+    "frame_rate_fps": 30,
+    "audio": "native voiceover, no music from the model"
+  },
+
+  "SHOT_RHYTHM_RULE": {
+    "why": "Uniform shot lengths read as a slideshow. The reference varies from 1.13 s to 9.80 s.",
+    "required_pattern": "Never two consecutive shots of the same length or the same framing. Every clip must contain at least one shot under 1.6 s and at least one shot over 4 s.",
+    "framing_ladder": "Rotate through: extreme close-up on an object, wide establishing, over-the-shoulder, low angle, top-down, mid on a person. Never repeat the previous shot's framing.",
+    "presenter_rule": "The presenter appears in at most ONE shot per clip. Every other shot is b-roll of the thing being spoken about.",
+    "show_the_noun": "Whatever noun the voiceover says, that object fills the frame. Repairs means a roofer. Waiting means an unopened letter. Never a person describing a thing."
+  },
+
+  "style_lock": {
+    "render_style": "non-photorealistic stylized 3D animation, like a modern animated feature film",
+    "stylization_anchors": [
+      "matte painted surfaces with no glossy specular highlights",
+      "simplified geometry, clean rounded forms",
+      "flat clean skin shading with no pore, wrinkle or stubble detail",
+      "hair as a single sculpted shape, not individual strands",
+      "cloth as smooth simplified folds, not simulated weave"
+    ],
+    "must_not_look_like": [
+      "live action footage", "a photorealistic human being", "a real filmed person",
+      "motion-capture realism", "uncanny valley realism",
+      "realistic skin pores or subsurface scattering", "strand-level hair or beard",
+      "photographic lens grain"
+    ],
+    "drift_guard": "If any frame starts to read as a real human or as live action, push further toward the animated feature look. Stylized always wins over realistic.",
+    "palette": "muted cream, warm grey, soft navy, one amber accent",
+    "lighting": "warm daylight, soft and even"
+  },
+
+  "character_lock": {
+    "identity": "one man, Black American, early forties, medium-brown skin, close-cropped hair, short trimmed beard with a few greys at the chin, calm and direct, an ordinary neighbour and not a model",
+    "wardrobe": "navy henley, sleeves pushed up below the elbow, no logo, no collar, mid-grey trousers",
+    "wardrobe_lock": "identical in every shot he appears in. No polo, no white shirt, no jacket, no change of clothing.",
+    "role_lock": "buyer-side host who explains what the company does. NEVER a past customer, never a seller, never a testimonial.",
+    "screen_time": "he appears in three shots across the whole ad. Everything else is b-roll."
+  },
+
+  "global_negative": [
+    "no written text of any kind anywhere in the picture",
+    "no numbers, digits, prices, percentages or currency symbols rendered in frame",
+    "no measurements, dimension labels, arrows or diagram markings",
+    "no letters, words, handwriting, printing or signatures",
+    "no captions, subtitles, titles or lower thirds",
+    "no logos, brand marks or watermarks",
+    "no cash, banknotes, coins or money counters",
+    "no dissolves, wipes or fades — hard cuts only",
+    "no music, no whoosh, no sting on any cut",
+    "do not ask questions, do not request a reference image"
+  ],
+
+  "loop_design": {
+    "pattern": "nested, per the Loop order rule — Open A, Open B, Close B, Close A. Nothing opens and closes back to back.",
+    "loop_A": {"opens": "L1 'this number'", "closes": "L8, the last line before the CTA", "payload": "the biggest promise, saved for the final close"},
+    "loop_B": {"opens": "L2 'what you actually keep'", "closes": "L6, the math cards", "note": "closed while A is still open"}
+  },
+
+  "spoken_lines_manifest": {
+    "note": "Eight lines, each spoken exactly once. Numbers are NEVER spoken — they appear only as caption cards you burn in editing.",
+    "lines": [
+      {"id": "L1", "clip": 1, "loop": "open A", "text": "Don't list your house until you've seen this number."},
+      {"id": "L2", "clip": 1, "loop": "open B", "text": "Not the offer. What you actually keep."},
+      {"id": "L3", "clip": 1, "loop": "payload", "text": "Start with what it's worth fixed up."},
+      {"id": "L4", "clip": 2, "loop": "payload", "text": "Then take out the roof, the furnace, the kitchen."},
+      {"id": "L5", "clip": 2, "loop": "payload", "text": "Then the commission, and every month it sits."},
+      {"id": "L6", "clip": 2, "loop": "close B", "text": "That's the number they never put on screen."},
+      {"id": "L7", "clip": 3, "loop": "payload", "text": "We take the house as it stands."},
+      {"id": "L8", "clip": 3, "loop": "close A", "text": "And we hand you the sheet we worked it out on."}
+    ]
+  },
+
+  "CLIP_1": {
+    "duration_seconds": 11,
+    "shot_count": 5,
+    "hard_cuts_at_seconds": [1.4, 4.2, 5.3, 8.6],
+    "shot_lengths_seconds": [1.4, 2.8, 1.1, 3.3, 2.4],
+    "start_frame": "none — opening of the ad",
+    "shots": [
+      {
+        "index": 1, "window_seconds": [0.0, 1.4], "length_note": "short, 1.4 s",
+        "framing": "extreme close-up, top-down, on a small stack of unopened mail on a doormat, filling the frame",
+        "camera": "locked off, directly overhead",
+        "action": "one more envelope drops onto the stack and settles",
+        "people": "none",
+        "speech": {"starts_at_seconds": 0.2, "line_id": "L1", "text": "Don't list your house until you've seen this number."},
+        "sound": "a light paper slap as the envelope lands, quiet hallway room tone"
+      },
+      {
+        "index": 2, "window_seconds": [1.4, 4.2], "length_note": "medium, 2.8 s",
+        "framing": "wide establishing, low angle from the sidewalk looking up at a single-storey cream house set back behind a mown lawn, a bare young tree at frame left",
+        "camera": "locked off, low",
+        "action": "an empty front porch, nothing moves but leaves on the young tree",
+        "people": "none",
+        "speech": "continuation of L1 finishes here",
+        "sound": "quiet suburban ambience, distant birds, a soft breeze"
+      },
+      {
+        "index": 3, "window_seconds": [4.2, 5.3], "length_note": "SHORTEST, 1.1 s — the burst cut",
+        "framing": "extreme close-up on an open palm, empty, held flat, filling the frame",
+        "camera": "locked off",
+        "action": "the fingers close slowly into a loose fist and the hand drops out of frame",
+        "people": "the hand only, no face",
+        "speech": {"starts_at_seconds": 4.3, "line_id": "L2", "text": "Not the offer. What you actually keep."},
+        "sound": "room tone only"
+      },
+      {
+        "index": 4, "window_seconds": [5.3, 8.6], "length_note": "LONGEST, 3.3 s",
+        "framing": "mid shot of the man standing on the sidewalk, house behind him, framed from the waist up",
+        "camera": "locked off, eye level",
+        "action": "he looks straight down the lens, unhurried, and gives one slow nod on the last word",
+        "people": "the man, his only appearance in this clip",
+        "speech": {"starts_at_seconds": 5.6, "line_id": "L3", "text": "Start with what it's worth fixed up."},
+        "sound": "his voice close and clear, calm and level, natural American accent. Quiet street ambience."
+      },
+      {
+        "index": 5, "window_seconds": [8.6, 11.0], "length_note": "2.4 s",
+        "framing": "wide, a different house — freshly painted, trimmed hedges, a clean driveway, late morning light",
+        "camera": "locked off",
+        "action": "completely still. A single bird crosses the sky.",
+        "people": "none",
+        "speech": "none — this shot is a caption card bed",
+        "caption_bed_note": "leave the upper third of frame clean sky. A number card is burned here in editing.",
+        "sound": "quiet suburban ambience, a soft breeze"
+      }
+    ]
+  },
+
+  "CLIP_2": {
+    "duration_seconds": 11,
+    "shot_count": 5,
+    "hard_cuts_at_seconds": [1.3, 4.9, 6.2, 9.4],
+    "shot_lengths_seconds": [1.3, 3.6, 1.3, 3.2, 1.6],
+    "start_frame": "the last frame of CLIP_1",
+    "continues_from": "an existing clip that ends on a wide still shot of a tidy house in late morning light. Same animated style.",
+    "shots": [
+      {
+        "index": 1, "window_seconds": [0.0, 1.3], "length_note": "short, 1.3 s",
+        "framing": "low angle looking up at a roofer on a ladder against the eaves of a house, sky behind",
+        "camera": "locked off, low",
+        "action": "he lifts one cracked shingle away and the gap underneath shows",
+        "people": "one roofer, seen from below, face not readable",
+        "speech": {"starts_at_seconds": 0.1, "line_id": "L4", "text": "Then take out the roof, the furnace, the kitchen."},
+        "sound": "a dry crack of the shingle lifting, wind at height"
+      },
+      {
+        "index": 2, "window_seconds": [1.3, 4.9], "length_note": "LONG, 3.6 s",
+        "framing": "interior, a derelict kitchen — cabinet doors off their hinges, a gap where an appliance used to be, daylight through a bare window",
+        "camera": "locked off, waist height",
+        "action": "dust drifts slowly through the light. Nothing else moves.",
+        "people": "none",
+        "speech": "L4 finishes over this shot",
+        "caption_bed_note": "leave the centre of frame relatively clear. Two number cards are burned here in editing.",
+        "sound": "hollow empty-room tone, a faint creak"
+      },
+      {
+        "index": 3, "window_seconds": [4.9, 6.2], "length_note": "SHORT, 1.3 s — burst cut",
+        "framing": "extreme close-up, top-down, on a single cardboard moving box being taped shut",
+        "camera": "locked off, directly overhead",
+        "action": "one strip of tape pulls across the seam and is torn off",
+        "people": "two hands only, no face",
+        "speech": {"starts_at_seconds": 5.0, "line_id": "L5", "text": "Then the commission, and every month it sits."},
+        "sound": "the sharp rip of packing tape"
+      },
+      {
+        "index": 4, "window_seconds": [6.2, 9.4], "length_note": "LONG, 3.2 s",
+        "framing": "wide exterior, the same cream house from CLIP_1, now in flatter grey light, an empty driveway",
+        "camera": "locked off",
+        "action": "completely still, the house waiting. Long shadows have shifted.",
+        "people": "none",
+        "speech": "L5 finishes over this shot",
+        "caption_bed_note": "clean sky in the upper third for a number card",
+        "sound": "quiet street ambience, one distant car passing out of frame"
+      },
+      {
+        "index": 5, "window_seconds": [9.4, 11.0], "length_note": "1.6 s",
+        "framing": "tight close-up on the man's face, filling most of the frame, street far out of focus behind him",
+        "camera": "locked off, eye level",
+        "action": "he holds still and looks straight down the lens, no smile",
+        "people": "the man, his only appearance in this clip",
+        "speech": {"starts_at_seconds": 9.5, "line_id": "L6", "text": "That's the number they never put on screen."},
+        "sound": "his voice close and clear, calm and level. Quiet street ambience."
+      }
+    ]
+  },
+
+  "CLIP_3": {
+    "duration_seconds": 11,
+    "shot_count": 5,
+    "hard_cuts_at_seconds": [2.8, 4.1, 7.4, 8.7],
+    "shot_lengths_seconds": [2.8, 1.3, 3.3, 1.3, 2.3],
+    "start_frame": "the last frame of CLIP_2",
+    "continues_from": "an existing clip that ends on a tight close-up of this man looking into the lens. Same man, same navy henley, same animated style.",
+    "shots": [
+      {
+        "index": 1, "window_seconds": [0.0, 2.8], "length_note": "2.8 s",
+        "framing": "over-the-shoulder from behind the man, looking past him up the concrete path to the plain front door of the cream house",
+        "camera": "locked off, slightly above shoulder height",
+        "action": "he stands looking at the house. On the last word he turns his head a little toward it.",
+        "people": "the man, from behind, face not visible",
+        "speech": {"starts_at_seconds": 0.2, "line_id": "L7", "text": "We take the house as it stands."},
+        "sound": "his voice close and clear. Quiet suburban ambience."
+      },
+      {
+        "index": 2, "window_seconds": [2.8, 4.1], "length_note": "SHORT, 1.3 s — burst cut",
+        "framing": "extreme close-up, top-down, on a plain blank cream sheet of paper lying on a bare light-oak table",
+        "camera": "locked off, directly overhead",
+        "action": "one hand slides the blank sheet across the table toward the lens and lets go",
+        "people": "one hand only, no face",
+        "speech": "none in this shot",
+        "critical": "the sheet is COMPLETELY BLANK. Nothing written, printed or drawn on it at any point.",
+        "sound": "paper sliding on wood"
+      },
+      {
+        "index": 3, "window_seconds": [4.1, 7.4], "length_note": "LONGEST, 3.3 s",
+        "framing": "mid shot of the man seated at the bare light-oak table, leaning in slightly, hands resting on the table",
+        "camera": "locked off, slightly above seated eye level",
+        "action": "he looks up into the lens on the first word and holds it. On the last word he opens one palm on the table.",
+        "people": "the man",
+        "speech": {"starts_at_seconds": 4.3, "line_id": "L8", "text": "And we hand you the sheet we worked it out on."},
+        "sound": "his voice close and clear. Quiet indoor room tone."
+      },
+      {
+        "index": 4, "window_seconds": [7.4, 8.7], "length_note": "SHORT, 1.3 s",
+        "framing": "extreme close-up on a plain front door opening inward onto daylight",
+        "camera": "locked off",
+        "action": "the door swings open and the light widens across the threshold",
+        "people": "none",
+        "speech": "none",
+        "sound": "a door latch, then birdsong opening up"
+      },
+      {
+        "index": 5, "window_seconds": [8.7, 11.0], "length_note": "2.3 s",
+        "framing": "wide, the man standing centred and LOW in frame on the sidewalk with a large area of clear empty sky above his head",
+        "camera": "locked off, eye level",
+        "action": "he stands still, hands at his sides, holding a calm look into the lens. He shifts his weight once, small and natural, and holds to the end.",
+        "people": "the man",
+        "speech": "none in this shot",
+        "caption_bed_note": "the empty sky above him is deliberate headroom for the end card. Leave it completely blank.",
+        "sound": "quiet suburban ambience, distant birds, a soft breeze"
+      }
+    ]
+  },
+
+  "post_production_by_you": {
+    "persistent_hook_banner": {
+      "text": "DON'T LIST UNTIL YOU'VE SEEN THIS NUMBER",
+      "position": "pinned top of frame for the entire 33 seconds, never leaves",
+      "style": "black box, amber outline, white all-caps"
+    },
+    "word_captions": "word-by-word at the bottom, white all-caps, one keyword per phrase in amber",
+    "number_cards": {
+      "rule": "Numbers are NEVER spoken and NEVER generated. They are burned over the b-roll beds marked caption_bed_note.",
+      "compliance": "Every number card carries a small amber EXAMPLE badge, exactly as the reference does. The figures must come from Property Abundance's real offer worksheet. Do not ship invented figures even with the badge.",
+      "cards": [
+        {"at_seconds": 8.6, "over": "CLIP_1 shot 5", "label": "WORTH, FIXED UP", "value": "[real figure]"},
+        {"at_seconds": 12.5, "over": "CLIP_2 shot 2", "label": "REPAIRS", "value": "- [real figure]"},
+        {"at_seconds": 14.5, "over": "CLIP_2 shot 2", "label": "OUR COSTS AND PROFIT", "value": "- [real figure]"},
+        {"at_seconds": 17.5, "over": "CLIP_2 shot 4", "label": "COMMISSION AND MONTHS IT SITS", "value": "- [real figure]"},
+        {"at_seconds": 20.0, "over": "CLIP_2 shot 5", "label": "YOUR OFFER", "value": "[real figure]"}
+      ]
+    },
+    "end_card": "Over the empty sky in the final shot: Property Abundance name, logo, form URL. Every visible word in this ad is burned here. The model has failed to render legible text three times and must never be asked for it.",
+    "audio": "Normalise the joined file to -14 LUFS integrated, -1.5 dBTP."
+  },
+
+  "must_be_true_before_this_runs": [
+    "L7 'We take the house as it stands' — no repair, cleaning or clear-out requirement, ever.",
+    "L8 'we hand you the sheet we worked it out on' — a real offer worksheet exists and is given to the seller.",
+    "Every number card — figures come from that real worksheet. The EXAMPLE badge labels a worked example, it does not license an invented one.",
+    "The host is a spokesperson for the company, never a past customer. FTC 16 CFR 255.1 and 16 CFR 465.2."
+  ]
+}

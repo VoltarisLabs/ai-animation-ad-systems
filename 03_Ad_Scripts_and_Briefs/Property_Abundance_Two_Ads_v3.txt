@@ -1,0 +1,255 @@
+PROPERTY ABUNDANCE – TWO ADS WITH SPOKEN LINES – v3
+Made 2026-09-23. Replaces the silent plans. Every speaking clip carries its own voice line, so the hook is heard, not just read.
+
+HOW VEO SPEECH WORKS HERE
+- Write: The man says: line goes here     (no quote marks; quote marks make Veo burn subtitles into the picture)
+- One action and at most one spoken line per generation. Veo ignores multi-shot lists.
+- Never write "iPhone" or any phone name. Veo draws a fake camera app on screen.
+- Generate each clip, then cut it short in CapCut. That is where the fast cutting comes from.
+
+============================================================
+VIDEO 1 – "STILL BUYING" (the ugly-house ad, now with voice)
+11 clips -> cut to about 30 seconds with 16 cuts
+============================================================
+CUT LIST (what the finished edit looks like)
+ 0.0-3.0  C1 buyer to camera, hook (speaks)
+ 3.0-4.2  C2 floor hole
+ 4.2-5.4  C3 buyer grin + shrug
+ 5.4-6.6  C4 ceiling drip into bucket
+ 6.6-8.6  C5 buyer to camera, line 2 (speaks)
+ 8.6-9.8  C6 garage door opens on packed garage
+ 9.8-11.0 C7 buyer laughs behind boxes
+11.0-12.2 C8 overgrown yard, buyer wades through
+12.2-14.5 C9 buyer to camera, line 3 (speaks)
+14.5-16.0 C10a handshake at the door
+16.0-19.0 C10b kitchen table, pen taps the paper
+19.0-21.0 C11a keys drop into his palm
+21.0-23.0 C11b seller walks to her car, he waves
+23.0-27.0 C1b buyer to camera, CTA (speaks)
+27.0-30.0 end card: your form screenshot + Property Abundance logo
+Captions burned in CapCut. Music: upbeat, no lyrics, cuts on the beat.
+
+------------------ CLIP 1 (speaks) ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts.
+LOOK: natural daylight through a bare window, plain everyday colors, slight camera shake, everything in focus. Not cinematic, no glow, no slow motion. No camera app interface, no phone screen, no buttons on the picture. No text, numbers, logos or subtitles anywhere.
+MAN: 38, stocky, short dark brown hair, three days of stubble, real skin with visible pores and a sunburned nose, faded navy t-shirt with no logo, dusty jeans, brown work boots.
+ACTION: He stands inside an empty run-down room holding the camera at arm's length, walking slowly backwards as he talks straight to the lens, grinning.
+HE SAYS: Hole in the floor? Roof leaking? Good. That's the kind of house I buy.
+RULES: one continuous shot. He stays in frame and keeps talking the whole time. Hands have five fingers.
+SOUND: his voice close to the camera, creaking floorboards, empty room echo.
+
+------------------ CLIP 1b (speaks, the CTA) ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts.
+LOOK: natural daylight, plain everyday colors, slight camera shake, everything in focus. Not cinematic, no glow. No camera app interface, no phone screen, no buttons on the picture. No text, numbers, logos or subtitles anywhere.
+MAN: same man, 38, stocky, short dark brown hair, stubble, sunburned nose, faded navy t-shirt with no logo, dusty jeans.
+ACTION: He stands on the front porch of the old house holding the camera at arm's length, talking straight to the lens, relaxed and friendly, then points down past the bottom of the frame.
+HE SAYS: No repairs. No cleaning. No showings. Tap below and I'll show you my math.
+RULES: one continuous shot. He stays in frame the whole time. Hands have five fingers.
+SOUND: his voice close to the camera, birds, light wind on the porch.
+
+------------------ CLIP 2 ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts. No speech.
+LOOK: natural daylight, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+ACTION: Inside an old empty house, the camera walks forward and tilts down fast to a big jagged hole in rotten floorboards, broken wood and dust around the edges. A man's scuffed brown work boots stand at the edge and one boot nudges a loose board.
+RULES: one continuous shot. Nothing appears or disappears.
+SOUND: creaking wood, footsteps, empty room.
+
+------------------ CLIP 3 (speaks) ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts.
+LOOK: natural daylight, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+MAN: same man, faded navy t-shirt with no logo, dusty jeans, brown work boots.
+ACTION: He stands beside the hole in the floor, hands on hips, looks down into it, then up at the camera, raises his eyebrows and shrugs.
+HE SAYS: Still buying it.
+RULES: one continuous shot. He stays in frame. Hands have five fingers.
+SOUND: his voice, creaking floor, quiet room.
+
+------------------ CLIP 4 ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts. No speech.
+LOOK: dim daylight from a window, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+ACTION: Close-up of a brown water-stained ceiling. Water drips steadily into a dented metal bucket on a worn carpet. The camera tilts down from the stain to the bucket while drops keep splashing.
+RULES: one continuous shot. The bucket stays in one spot.
+SOUND: steady dripping into metal, quiet room.
+
+------------------ CLIP 5 (speaks) ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts.
+LOOK: bright overcast daylight in a packed garage, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+MAN: same man, faded navy t-shirt with no logo, dusty jeans.
+ACTION: He stands in the open doorway of a garage packed with old boxes, holding the camera at arm's length, talking to the lens, then sweeping one arm across the junk behind him.
+HE SAYS: Garage full of stuff? Leave every bit of it. I'll deal with it.
+RULES: one continuous shot. He stays in frame and keeps talking. Boxes have no writing on them.
+SOUND: his voice close to the camera, dust and quiet, birds outside.
+
+------------------ CLIP 6 ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts. No speech.
+LOOK: bright overcast daylight, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+ACTION: An old garage door rattles upward, showing a garage packed floor to ceiling with cardboard boxes, a bicycle, stacked bins, a rolled carpet and a broken lamp. Dust floats in the light. The camera steps closer.
+RULES: one continuous shot. Boxes have no writing on them.
+SOUND: a rattling garage door, birds outside.
+
+------------------ CLIP 7 ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts. No speech.
+LOOK: bright daylight, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+MAN: same man, faded navy t-shirt with no logo, dusty jeans.
+ACTION: He leans his head and shoulder around a tall stack of boxes in the packed garage, looks at the camera, laughs, and waves his hand twice as if to say leave it.
+RULES: one continuous shot. He stays in frame.
+SOUND: a short laugh, cardboard shifting.
+
+------------------ CLIP 8 ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts. No speech.
+LOOK: bright midday daylight, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+MAN: same man, faded navy t-shirt with no logo, dusty jeans, brown work boots.
+ACTION: A backyard overgrown with waist-high weeds. He walks straight toward the camera through the tall grass, pushing it aside with both forearms, grinning.
+RULES: one continuous shot. He stays in frame.
+SOUND: swishing grass, footsteps, insects.
+
+------------------ CLIP 9 (speaks) ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts.
+LOOK: daylight on a front porch, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+MAN: same man, faded navy t-shirt with no logo, dusty jeans.
+ACTION: He sits on the porch steps of an old house holding the camera at arm's length, talking straight to the lens, calm and direct, counting two points on his fingers.
+HE SAYS: Here's how it works. You tell me about the house. I walk it, then I show you my math on paper.
+RULES: one continuous shot. He stays in frame and keeps talking. Hands have five fingers.
+SOUND: his voice close to the camera, birds, a distant car.
+
+------------------ CLIP 10 ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts. No speech, only friendly murmur.
+LOOK: daylight through a kitchen window plus a warm ceiling bulb, plain everyday colors, slight camera shake, everything in focus. Not cinematic, no glow. No camera app interface, no readable text or subtitles anywhere.
+MAN: same man, faded navy t-shirt with no logo.
+WOMAN: 45, dark hair in a messy ponytail, real skin with pores, fine lines and freckles, gray hoodie with sleeves pushed up, jeans.
+ACTION: They sit side by side at her kitchen table, filmed from the end of the table at a slight high angle so both stay in frame. One sheet of paper lies between them, turned toward her so any writing is sideways and unreadable. He taps the paper three times with a capped pen, moving lower each time. She leans in, raises her eyebrows and nods.
+RULES: one continuous shot. Both stay in frame the whole time. The paper and a coffee mug stay exactly where they are.
+SOUND: calm friendly talking with no clear words, a pen tapping, a fridge hum.
+
+------------------ CLIP 11 ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts. No speech.
+LOOK: warm afternoon daylight, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+MAN and WOMAN: same two people as before, same clothes.
+ACTION: On the front porch she drops a ring of keys into his open palm, laughs with relief, then walks down the steps and across the lawn to her car carrying only her purse. He stays on the porch and waves after her.
+RULES: one continuous shot. Both stay in frame. The house behind them stays as it is.
+SOUND: jingling keys, a happy laugh, footsteps, a car door, birds.
+
+============================================================
+VIDEO 2 – "THREE MISTAKES" (CURE framework listicle)
+Framework source: 03_Ad_Scripts_and_Briefs/Description_Listicle_Format_Ad_Brief_Walkthrough.pdf
+C = curiosity hook, U = uncover the failed fixes, R = remedy, E = evidence, E = engage
+9 clips -> cut to about 32 seconds with 14 cuts
+============================================================
+CUT LIST
+ 0.0-3.5  D1 hook to camera (speaks)                      [CURIOSITY]
+ 3.5-5.0  D2 for-sale house sitting, weeds growing
+ 5.0-8.0  D3 mistake one to camera (speaks)               [UNCOVER]
+ 8.0-9.5  D4 empty open house, nobody comes
+ 9.5-12.5 D5 mistake two to camera (speaks)               [UNCOVER]
+12.5-14.0 D6 half-finished repair, tools on the floor
+14.0-17.0 D7 mistake three to camera (speaks)             [UNCOVER]
+17.0-18.5 D8 a phone call ends, she looks let down
+18.5-23.0 D9 the remedy to camera (speaks)                [REMEDY]
+23.0-27.0 D10 kitchen table, the paper, the pen taps      [EVIDENCE]
+27.0-31.0 D11 CTA to camera (speaks)                      [ENGAGE]
+31.0-33.0 end card: your form screenshot + Property Abundance logo
+
+------------------ CLIP D1 (speaks) ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts.
+LOOK: daylight on a suburban sidewalk, plain everyday colors, slight camera shake, everything in focus. Not cinematic, no glow. No camera app interface, no phone screen, no buttons on the picture. No text, numbers, logos or subtitles anywhere.
+MAN: 38, stocky, short dark brown hair, three days of stubble, real skin with visible pores and a sunburned nose, faded navy t-shirt with no logo, dusty jeans.
+ACTION: He walks along the sidewalk in front of an old house holding the camera at arm's length, talking straight to the lens with an easy half smile.
+HE SAYS: Three mistakes people make when their house needs work. I buy these houses, so I see all three.
+RULES: one continuous shot. He stays in frame and keeps talking. Hands have five fingers.
+SOUND: his voice close to the camera, footsteps, birds, a distant car.
+
+------------------ CLIP D2 ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts. No speech.
+LOOK: flat overcast daylight, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+ACTION: A tired house behind a blank white sign post with no writing on it. The lawn is long and patchy, flyers are stuffed in the mailbox. The camera walks slowly past the yard, weeds in the foreground.
+RULES: one continuous shot. The sign panel stays blank. Nothing appears or disappears.
+SOUND: wind, a dog barking far away, a car passing.
+
+------------------ CLIP D3 (speaks) ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts.
+LOOK: daylight in an empty living room, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+MAN: same man, faded navy t-shirt with no logo, dusty jeans.
+ACTION: He stands in an empty room holding the camera at arm's length, talking to the lens and holding up one finger.
+HE SAYS: One. Listing it high and hoping. It sits, you drop the price twice, and you pay the mortgage the whole time.
+RULES: one continuous shot. He stays in frame and keeps talking. Hands have five fingers.
+SOUND: his voice close to the camera, empty room echo.
+
+------------------ CLIP D4 ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts. No speech.
+LOOK: flat daylight through bare windows, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+ACTION: An empty living room set up for viewers: a folding table with a jug of water and paper cups, the front door propped open, nobody there. The camera pans slowly across the empty room to the open door and the empty street outside.
+RULES: one continuous shot. Nothing appears or disappears.
+SOUND: a clock ticking, faint street noise, an empty room.
+
+------------------ CLIP D5 (speaks) ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts.
+LOOK: daylight in a torn-up kitchen, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+MAN: same man, faded navy t-shirt with no logo, dusty jeans.
+ACTION: He stands in a half-renovated kitchen holding the camera at arm's length, talking to the lens and holding up two fingers, then gesturing at the mess behind him.
+HE SAYS: Two. Fixing it up first. You spend real money, then the buyer still asks for money off.
+RULES: one continuous shot. He stays in frame and keeps talking. Hands have five fingers.
+SOUND: his voice close to the camera, a room with bare walls.
+
+------------------ CLIP D6 ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts. No speech.
+LOOK: work light plus daylight, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+ACTION: A half-finished bathroom: an open wall with pipes, a bucket of tools, a ladder, dust sheets. The camera moves slowly through the doorway and looks around the unfinished work.
+RULES: one continuous shot. Nothing appears or disappears.
+SOUND: a dripping pipe, footsteps on dust sheets.
+
+------------------ CLIP D7 (speaks) ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts.
+LOOK: daylight on a porch, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+MAN: same man, faded navy t-shirt with no logo, dusty jeans.
+ACTION: He stands on a porch holding the camera at arm's length, talking to the lens and holding up three fingers, serious now.
+HE SAYS: Three. Taking a cash offer with no paper behind it. That's how people get cut at closing.
+RULES: one continuous shot. He stays in frame and keeps talking. Hands have five fingers.
+SOUND: his voice close to the camera, wind, birds.
+
+------------------ CLIP D8 ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts. No speech.
+LOOK: daylight through a kitchen window plus a warm ceiling bulb, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+WOMAN: 45, dark hair in a messy ponytail, real skin with pores, fine lines and freckles, gray hoodie, jeans.
+ACTION: She stands at her kitchen counter, lowers her phone from her ear, looks down at it, then sets it face down on the counter and rubs her forehead.
+RULES: one continuous shot. She stays in frame. The phone screen is off and shows nothing.
+SOUND: a call ending, a fridge hum, quiet kitchen.
+
+------------------ CLIP D9 (speaks) ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts.
+LOOK: daylight, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+MAN: same man, faded navy t-shirt with no logo, dusty jeans.
+ACTION: He stands in a front yard holding the camera at arm's length, talking straight to the lens, calm and steady.
+HE SAYS: Here's the fix. Ask for proof of funds. Ask them to show the math. I'll write mine out at your table.
+RULES: one continuous shot. He stays in frame and keeps talking. Hands have five fingers.
+SOUND: his voice close to the camera, birds, light wind.
+
+------------------ CLIP D10 ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts. No clear speech.
+LOOK: daylight through a kitchen window plus a warm ceiling bulb, plain everyday colors, slight camera shake, everything in focus. Not cinematic, no glow. No camera app interface, no readable text or subtitles anywhere.
+MAN and WOMAN: same two people, same clothes.
+ACTION: They sit side by side at her kitchen table, filmed from the end of the table at a slight high angle so both stay in frame. One sheet of paper lies between them, turned toward her so any writing is sideways and unreadable. He taps the paper three times with a capped pen, moving lower each time. She nods and finally smiles.
+RULES: one continuous shot. Both stay in frame. The paper and mug stay exactly where they are.
+SOUND: calm friendly talking with no clear words, a pen tapping, a fridge hum.
+
+------------------ CLIP D11 (speaks) ------------------
+Vertical 9:16 video, 8 seconds. Handheld amateur video, one continuous shot, no cuts.
+LOOK: warm afternoon daylight on a porch, plain everyday colors, slight camera shake. Not cinematic, no glow. No camera app interface, no text or subtitles anywhere.
+MAN: same man, faded navy t-shirt with no logo, dusty jeans.
+ACTION: He stands on the porch of the old house holding the camera at arm's length, talking to the lens, friendly, then points down past the bottom of the frame twice.
+HE SAYS: If your house needs work, tap below. I'll look at it and show you my number on paper.
+RULES: one continuous shot. He stays in frame and keeps talking. Hands have five fingers.
+SOUND: his voice close to the camera, birds, a distant lawnmower.
+
+============================================================
+CAPTIONS (burn in CapCut, both videos)
+============================================================
+VIDEO 1: HOLE IN THE FLOOR? / STILL BUYING / FULL OF STUFF? / LEAVE IT / HERE'S HOW / I SHOW YOU MY MATH / YOU PICK THE DAY / NO REPAIRS / NO CLEANING / NO SHOWINGS / TAP BELOW
+VIDEO 2: 3 MISTAKES / MISTAKE ONE: LIST HIGH AND HOPE / MISTAKE TWO: FIX IT FIRST / MISTAKE THREE: NO PAPER / ASK FOR PROOF OF FUNDS / ASK FOR THE MATH / TAP BELOW
+
+============================================================
+BEFORE THESE GO LIVE (must be true for Property Abundance)
+============================================================
+- "I show you my math on paper": you need a real offer worksheet.
+- "Proof of funds": only say it if you can produce one.
+- "No repairs, no cleaning, no showings", "you pick the day": your real process.
+- Video 2 has no statistic in it on purpose. The CURE framework asks for proof, and you have no measured number yet. When you have one (deals closed, average days to close), it goes in clip D9.
+- A working form. propertyabundanceusa.com returned HTTP 403 on 2026-09-22.

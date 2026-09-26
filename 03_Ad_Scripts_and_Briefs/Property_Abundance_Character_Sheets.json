@@ -1,0 +1,162 @@
+{
+  "how_to_use": [
+    "Paste CHARACTER_1 into Gemini as an image prompt. Save the image as buyer_sheet.png.",
+    "Paste CHARACTER_2 into Gemini as an image prompt. Save the image as seller_sheet.png.",
+    "For every video clip, attach the matching sheet and start the prompt with: Use the man from the attached reference image, same face, same hair, same clothes.",
+    "Keep the same seed if you need to regenerate a sheet with one field changed."
+  ],
+  "CHARACTER_1_BUYER": {
+    "user_intent": "character reference sheet of one ordinary American house buyer, for reuse as a reference image in video generation",
+    "meta": {
+      "aspect_ratio": "4:3",
+      "quality": "ultra_photorealistic",
+      "guidance_scale": 6.5,
+      "steps": 40,
+      "seed": 42
+    },
+    "composition": {
+      "layout": "character reference sheet, one row of four full-body views of the SAME man, evenly spaced, left to right",
+      "views": ["front view", "three-quarter left view", "left profile view", "back view"],
+      "consistency_rule": "identical face, hair, clothing, body shape and lighting in all four views",
+      "background": "flat neutral light gray studio backdrop, no props, no furniture",
+      "spacing": "full body visible head to boots in every view, small even gap between views"
+    },
+    "subject": [
+      {
+        "type": "person",
+        "description": "38 year old American man, working class, stocky solid build, 5 foot 10, slight belly, broad shoulders, round friendly face, short neck",
+        "face": {
+          "skin": "fair skin with real texture: visible pores, sun damage on the nose and cheeks, faint acne scars on the jawline, a small mole near the right eyebrow, mild forehead shine",
+          "facial_hair": "three days of uneven dark stubble with a few gray hairs on the chin",
+          "eyes": "hazel, slightly hooded, crow's feet at the corners, light under-eye circles",
+          "eyebrows": "thick, straight, dark brown",
+          "nose": "slightly wide, small bump on the bridge",
+          "mouth": "relaxed half smile, slightly chapped lips, small gap between the front teeth",
+          "expression": "friendly, easy going, a little cheeky"
+        },
+        "hair": {
+          "style": "short back and sides, a little longer and messy on top, slight cowlick at the crown",
+          "color": "dark brown with a few gray hairs at the temples"
+        },
+        "clothing": [
+          { "item": "t-shirt", "color": "faded navy blue", "fabric": "worn cotton jersey", "fit": "slightly loose", "detail": "no logo, no text, small bleach spot near the hem, soft collar" },
+          { "item": "jeans", "color": "mid blue", "fabric": "heavy denim", "fit": "straight leg, relaxed", "detail": "drywall dust on the knees, worn hems" },
+          { "item": "boots", "color": "brown", "fabric": "scuffed leather", "detail": "dried mud on the soles" },
+          { "item": "watch", "color": "black", "fabric": "rubber strap", "detail": "cheap, scratched face, worn on the left wrist" }
+        ],
+        "body_details": "tanned forearms with a clear farmer tan line at the sleeve, short clean fingernails, a small old scar on the back of the right hand",
+        "pose": "standing straight and relaxed, arms at his sides, weight slightly on one leg"
+      }
+    ],
+    "scene": {
+      "location": "plain photo studio",
+      "time": "not applicable",
+      "lighting": { "type": "soft even daylight balanced studio light", "direction": "front_lit", "note": "flat and even so the face reads clearly in every view, no dramatic shadows, no glamour lighting" }
+    },
+    "technical": {
+      "camera_model": "Canon EOS R6",
+      "lens": "50mm",
+      "aperture": "f/8",
+      "depth_of_field": "deep, everything sharp",
+      "film_stock": "none, plain digital capture, natural color"
+    },
+    "colorRestriction": "natural everyday colors: faded navy, mid blue denim, brown leather, neutral gray background, real skin tones, nothing saturated",
+    "advanced": {
+      "negative_prompt": [
+        "plastic skin",
+        "airbrushed skin",
+        "beauty retouching",
+        "model good looks",
+        "cinematic glow",
+        "golden hour light",
+        "heavy shadows",
+        "text",
+        "logos",
+        "brand names",
+        "watermark",
+        "camera app interface",
+        "extra fingers",
+        "different faces between views",
+        "cartoon",
+        "3d render"
+      ]
+    }
+  },
+  "CHARACTER_2_SELLER": {
+    "user_intent": "character reference sheet of one ordinary American homeowner selling her house, for reuse as a reference image in video generation",
+    "meta": {
+      "aspect_ratio": "4:3",
+      "quality": "ultra_photorealistic",
+      "guidance_scale": 6.5,
+      "steps": 40,
+      "seed": 77
+    },
+    "composition": {
+      "layout": "character reference sheet, one row of four full-body views of the SAME woman, evenly spaced, left to right",
+      "views": ["front view", "three-quarter left view", "left profile view", "back view"],
+      "consistency_rule": "identical face, hair, clothing, body shape and lighting in all four views",
+      "background": "flat neutral light gray studio backdrop, no props, no furniture",
+      "spacing": "full body visible head to shoes in every view, small even gap between views"
+    },
+    "subject": [
+      {
+        "type": "person",
+        "description": "45 year old American woman, average build, 5 foot 5, soft shoulders, tired but warm presence",
+        "face": {
+          "skin": "light skin with real texture: visible pores, freckles across the nose and cheeks, fine lines at the eyes and mouth, slight redness on the cheeks, no makeup",
+          "eyes": "brown, small tired bags underneath, laugh lines",
+          "eyebrows": "natural, medium thickness, light brown, not shaped",
+          "nose": "small and straight",
+          "mouth": "small closed smile, slightly dry lips",
+          "expression": "warm, a little guarded, quietly hopeful"
+        },
+        "hair": {
+          "style": "shoulder length, pulled back in a loose messy ponytail with flyaway strands around the face",
+          "color": "dark brown with a few grays at the part line"
+        },
+        "clothing": [
+          { "item": "hoodie", "color": "heather gray", "fabric": "soft worn cotton fleece", "fit": "relaxed", "detail": "no logo, no text, sleeves pushed up to the elbows, slight pilling" },
+          { "item": "t-shirt", "color": "plain white", "fabric": "cotton", "fit": "regular", "detail": "visible at the neckline only" },
+          { "item": "jeans", "color": "dark blue", "fabric": "stretch denim", "fit": "straight leg", "detail": "slightly faded at the knees" },
+          { "item": "sneakers", "color": "off white", "fabric": "canvas", "detail": "scuffed toes, gray soles" }
+        ],
+        "body_details": "short unpainted fingernails, a thin plain wedding band on the left hand, a small hair tie around the right wrist",
+        "pose": "standing naturally, arms relaxed at her sides, shoulders slightly forward"
+      }
+    ],
+    "scene": {
+      "location": "plain photo studio",
+      "time": "not applicable",
+      "lighting": { "type": "soft even daylight balanced studio light", "direction": "front_lit", "note": "flat and even so the face reads clearly in every view, no dramatic shadows, no glamour lighting" }
+    },
+    "technical": {
+      "camera_model": "Canon EOS R6",
+      "lens": "50mm",
+      "aperture": "f/8",
+      "depth_of_field": "deep, everything sharp",
+      "film_stock": "none, plain digital capture, natural color"
+    },
+    "colorRestriction": "natural everyday colors: heather gray, white, dark denim blue, neutral gray background, real skin tones, nothing saturated",
+    "advanced": {
+      "negative_prompt": [
+        "plastic skin",
+        "airbrushed skin",
+        "beauty retouching",
+        "makeup",
+        "model good looks",
+        "cinematic glow",
+        "golden hour light",
+        "heavy shadows",
+        "text",
+        "logos",
+        "brand names",
+        "watermark",
+        "camera app interface",
+        "extra fingers",
+        "different faces between views",
+        "cartoon",
+        "3d render"
+      ]
+    }
+  }
+}

@@ -1,0 +1,113 @@
+PROPERTY ABUNDANCE – AD 1 "THE PROOF PROBLEM" – FULL VIDEO PLAN v2
+Tool: Gemini (Veo). 4 clips, about 8 seconds each, joined in CapCut to about 33 seconds.
+Gemini makes one video per request: send CLIP 1, wait for it, then CLIP 2, and so on.
+Captions, voiceover, the form screen and the logo are added in CapCut, not in Gemini.
+
+============================================================
+PART 1 – THE SCRIPT (voiceover + captions)
+============================================================
+0-3s    VO: A lowball offer isn't the problem. A hidden one is.
+        CAPTION: A LOWBALL ISN'T THE PROBLEM
+3-8s    VO: Every cash buyer starts with what your house is worth fixed up.
+        CAPTION: WORTH FIXED UP
+8-12s   VO: Few show you what they take out. A number on the phone.
+        CAPTION: WHAT DID THEY TAKE OUT?
+12-16s  VO: No paper. No reasons. Then it drops at closing.
+        CAPTION: NO PAPER. NO REASONS.
+16-19s  VO: That's not a price problem. That's a proof problem.
+        CAPTION: IT'S A PROOF PROBLEM
+19-24s  VO: A fair offer isn't the biggest number. It's one you can check.
+        CAPTION: ONE YOU CAN CHECK
+24-28s  VO: Worth fixed up, minus repairs, minus our costs and profit.
+        CAPTION (3 lines, one at a time): WORTH FIXED UP / MINUS REPAIRS / MINUS OUR COSTS
+28-31s  VO: Stop asking cash buyers for their best price. Ask for proof. Even from us.
+        CAPTION: ASK FOR PROOF
+31-33s  VO: Tap below. Property Abundance shows you the math.
+        CAPTION: SEE THE MATH ON YOUR HOUSE
+        END CARD: your real form screenshot on the phone screen + Property Abundance logo
+
+============================================================
+PART 2 – GEMINI PROMPTS (send one at a time)
+============================================================
+
+---------------- CLIP 1 of 4 (covers 0-8s) ----------------
+Vertical 9:16 video, 8 seconds. Real footage filmed on an iPhone held in one hand, not a movie.
+
+CAMERA AND LOOK: iPhone 1x wide lens, almost everything in focus, auto-exposure with the kitchen window slightly blown out, small natural hand shake the whole time, no smooth gliding moves. Colors natural and a little flat, like an unedited phone video. Mixed light: gray daylight from the window plus warm ceiling bulbs. Not cinematic, not glossy, no film look, no soft glow.
+
+CHARACTER: a woman in her late 50s with real skin: visible pores, fine lines around the eyes, uneven skin tone, a little shine on the forehead, a few flyaway gray hairs in shoulder-length brown hair. Thin reading glasses. A navy cardigan with some pilling over a plain white t-shirt. Short unpainted nails.
+
+SHOT 1 (0 to 3 seconds): The clip starts already in motion. Close-up from about waist height: the woman's hand drops a small stack of plain postcards into a blue plastic recycling bin next to a kitchen counter. The postcards land blank side up. The bin already has a cereal box and a milk jug in it.
+
+SHOT 2 (3 to 8 seconds): Hard cut. Filmed from the sidewalk by someone walking slowly toward a modest one-story beige house: faded shutters, a patchy lawn with brown spots, an old gutter, a garden hose on the ground, a car parked in the driveway. Overcast afternoon. The phone bobs slightly with each step.
+
+REAL-WORLD RULES: Every object stays exactly where it is unless a hand moves it. Nothing morphs, slides, appears or disappears. Hands have five fingers and move at normal human speed. All paper shows its blank side. No readable words, numbers, logos, captions or subtitles anywhere in the frame.
+
+SOUND: kitchen room tone, the soft slap of postcards in the bin, then footsteps and distant traffic. No music. No one speaks.
+
+---------------- CLIP 2 of 4 (covers 8-16s) ----------------
+Vertical 9:16 video, 8 seconds. Real footage filmed on an iPhone held in one hand, not a movie.
+
+CAMERA AND LOOK: iPhone 1x wide lens, almost everything in focus, auto-exposure, small natural hand shake the whole time, no smooth gliding moves. Colors natural and a little flat, like an unedited phone video. Not cinematic, not glossy, no film look, no soft glow.
+
+CHARACTER (same woman as before): a woman in her late 50s with real skin: visible pores, fine lines around the eyes, uneven skin tone, a little shine on the forehead, a few flyaway gray hairs in shoulder-length brown hair. Thin reading glasses. A navy cardigan with some pilling over a plain white t-shirt.
+
+SHOT 1 (0 to 4 seconds): Medium shot at her own kitchen table, filmed from across the table at eye level. She holds her phone to her ear, listening. She frowns a little, then lets out a short doubtful breath through her nose. Behind her: a fridge with magnets and papers, a fruit bowl, a phone charger cable on the counter, daylight from a window mixed with a warm ceiling light.
+
+SHOT 2 (4 to 8 seconds): Hard cut. A plain office conference room with a gray carpet, bright white overhead panel lights and a wall-mounted TV that is off. She sits at the table across from a man in a dark blue button-down shirt. He slides one sheet of paper across the table to her, printed side facing down toward the table from the camera's view. She looks at it, her shoulders drop, and she takes her glasses off and rubs the bridge of her nose.
+
+REAL-WORLD RULES: Every object stays exactly where it is unless a hand moves it. Nothing morphs, slides, appears or disappears. Hands have five fingers and move at normal human speed. The printed side of every paper faces away from the camera. No readable words, numbers, logos, captions or subtitles anywhere in the frame.
+
+SOUND: kitchen room tone and a faint phone speaker murmur, then the hum of office lights and paper sliding on a table. No music. No clear words.
+
+---------------- CLIP 3 of 4 (covers 16-24s) ----------------
+Vertical 9:16 video, 8 seconds. Real footage filmed on an iPhone held in one hand, not a movie.
+
+CAMERA AND LOOK: iPhone 1x wide lens, almost everything in focus, auto-exposure with the window slightly blown out, small natural hand shake the whole time, one continuous shot with no cuts. Colors natural and a little flat, like an unedited phone video. Mixed light: daylight from the window plus warm ceiling bulbs. Not cinematic, not glossy, no film look, no soft glow.
+
+CHARACTERS:
+The woman (same as before): late 50s, real skin with visible pores, fine lines and uneven tone, flyaway gray hairs in shoulder-length brown hair, thin reading glasses, navy cardigan with some pilling over a white t-shirt.
+The buyer: a man in his early 40s with a short dark beard with a few gray hairs, a tired but friendly face, real skin with pores and a slight sunburn on the nose, a plain heather-gray polo shirt with no logo, a cheap black ballpoint pen in his hand.
+
+SHOT (0 to 8 seconds): At her kitchen table, filmed from a slight high angle at the end of the table so both are in frame. The man sits beside her, not across. One sheet of paper lies on the table between them, turned toward her so its writing is sideways and too small to read from the camera. He points at the paper with the capped pen, three separate times, moving a little lower on the page each time, and talks calmly. She leans in, follows his pen with her eyes, and nods once. The paper, the coffee mug and her glasses case stay in the same spots the whole time.
+
+REAL-WORLD RULES: Every object stays exactly where it is unless a hand moves it. Nothing morphs, slides, appears or disappears. Hands have five fingers and move at normal human speed. No readable words, numbers, logos, captions or subtitles anywhere in the frame.
+
+SOUND: kitchen room tone, a soft murmur of calm talking with no clear words, a chair creak. No music.
+
+---------------- CLIP 4 of 4 (covers 24-32s) ----------------
+Vertical 9:16 video, 8 seconds. Real footage filmed on an iPhone held in one hand, not a movie.
+
+CAMERA AND LOOK: iPhone 1x wide lens, almost everything in focus, auto-exposure, small natural hand shake the whole time, no smooth gliding moves. Colors natural and a little flat, like an unedited phone video. Mixed light: daylight from the window plus warm ceiling bulbs. Not cinematic, not glossy, no film look, no soft glow.
+
+CHARACTER (same woman as before): late 50s, real skin with visible pores, fine lines around the eyes, uneven skin tone, a little shine on the forehead, flyaway gray hairs in shoulder-length brown hair, thin reading glasses, navy cardigan with some pilling over a white t-shirt.
+
+SHOT 1 (0 to 5 seconds): Close-up of her face at the kitchen table, filmed from slightly below eye level. She looks down at a paper we cannot see, reads for a moment, then looks up past the camera and gives a small, slow nod. Her shoulders relax and the corner of her mouth lifts a little. Not a big smile.
+
+SHOT 2 (5 to 8 seconds): Hard cut. Over her shoulder: she holds her phone upright in one hand at chest height, screen facing the camera, steady and centered. The screen is plain solid white with nothing on it. Her thumb rests on the side of the phone. The kitchen table is softly visible below.
+
+REAL-WORLD RULES: Every object stays exactly where it is unless a hand moves it. Nothing morphs, slides, appears or disappears. Hands have five fingers and move at normal human speed. The phone screen stays plain white. No readable words, numbers, logos, captions or subtitles anywhere in the frame.
+
+SOUND: kitchen room tone, a soft exhale. No music. No one speaks.
+
+============================================================
+PART 3 – CHECK EACH CLIP BEFORE YOU KEEP IT
+============================================================
+Regenerate the clip if any of these happen:
+[ ] Any object jumps, slides or changes place by itself
+[ ] Any readable or garbled text on paper, signs or screens
+[ ] Skin looks smooth, waxy or airbrushed
+[ ] Light looks glowy and golden like a movie
+[ ] Hands have the wrong number of fingers or bend strangely
+[ ] The woman's face, hair, glasses or cardigan change between clips
+If the woman changes: take a screenshot of her best frame from CLIP 2 and attach it to the prompt for CLIP 3 and CLIP 4 as the reference image.
+
+============================================================
+PART 4 – ASSEMBLE IN CAPCUT
+============================================================
+1. Put the 4 clips in order. Trim each to match the script timing in PART 1.
+2. Record or generate the voiceover from PART 1. Put the Gemini sound at about 10 to 20 percent under it.
+3. Captions: big, bold, 1 to 4 words per card, one keyword in color, in the top third. Keep clear of the bottom 20 percent and the right edge.
+4. At 24-28s, show WORTH FIXED UP / MINUS REPAIRS / MINUS OUR COSTS one line at a time, big on screen, over CLIP 3 or CLIP 4.
+5. Last 2 seconds: place your real form screenshot on the white phone screen from CLIP 4 and add the Property Abundance logo.
+6. Export 1080x1920, 30 fps.

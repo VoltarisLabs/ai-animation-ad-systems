@@ -1,0 +1,184 @@
+PROPERTY ABUNDANCE – AD 1 "STILL BUYING" v4 – SHOOTING SCRIPT FOR CHATGPT / SORA
+12 shots. Each shot is generated separately, then cut to the times in the EDIT LIST. Finished length 36.5 seconds. Drop SHOT 4 and SHOT 7 for a 34.3 s cut.
+Numbers below are computed, not guessed: lens angles from a 26 mm equivalent lens on a 9:16 frame (44.4 deg horizontal, 71.9 deg vertical),
+fall times from t = sqrt(2h/g) with g = 9.80665 m/s2, sun elevation for 40.0 N on 23 September (36.7 deg at 16:00 local, 21.6 deg at 17:30).
+
+INSTRUCTION TO CHATGPT
+Generate each SHOT below as its own clip. Do not merge shots. Do not add captions, subtitles, logos or on-screen text.
+Do not name a phone brand and do not draw a camera app, buttons or a recording dot anywhere in the picture.
+Keep the same man, same clothes, same wear and tear in every shot he appears in.
+
+=========================================================
+GLOBAL CAMERA AND PHYSICS BIBLE (applies to every shot)
+=========================================================
+FORMAT: vertical 9:16, 1080x1920, 30 fps, shutter 1/60 s so fast movement carries a little natural blur.
+LENS: 26 mm equivalent, aperture about f/1.8, deep focus. At 0.62 m a head fills about 27 percent of frame height; at 2.4 m a whole 1.78 m man fills about 51 percent; at 3.5 m about 35 percent.
+CAMERA BEHAVIOUR: handheld. Constant low-frequency sway of about 1.5 degrees at roughly 1.2 cycles per second, plus a small jolt on each footstep. The horizon is never perfectly level: it sits 1 to 3 degrees off and drifts.
+AUTO EXPOSURE: when the camera swings toward a window or the sky, the picture over-brightens for about 0.4 s then settles. Autofocus hunts once in a close-up: it goes soft for about 0.3 s, then snaps sharp.
+LIGHT: mixed and honest. Indoors, cool daylight through dirty glass plus warm bulbs, white balance slightly off toward green. Outdoors late afternoon sun at 36.7 degrees elevation, so a standing man throws a 2.39 m shadow. No golden glow, no rim light, no haze beams.
+COLOR: plain, slightly flat, mild highlight clipping on the sky. No film grade, no orange and teal, no vignette.
+PEOPLE: real skin with pores, open sweat shine, stray hairs, chapped lips, crooked teeth, uneven tans. Clothes with creases from being worn, dust in the weave, a thread loose on a hem.
+SPACE: every room is a real room with clutter that stays put: a light switch plate with paint on it, one outlet with a cover missing, scuff marks at door frames, a smoke detector on the ceiling, a thermostat at 1.45 m on the hallway wall.
+CONTINUITY: objects do not move unless a hand or a foot moves them. Nothing appears or disappears between shots. Five fingers on every hand. No mirrors, no reflective screens showing anything.
+
+THE MAN (identical in every shot he appears in)
+38 years old, 1.78 m, 95 kg, stocky, short dark brown hair with a cowlick at the crown, three days of uneven stubble with grey hairs at the chin, sunburnt nose and forearms with a clear tan line at the sleeve, a 2 cm pale scar on the back of the right hand, hazel eyes with crow's feet.
+Wears: a faded navy cotton t-shirt with no logo and a small bleach spot 8 cm above the hem on the left side; mid blue jeans with drywall dust on both knees; brown leather work boots with dried mud on the welt; a cheap black rubber watch on the left wrist with a scratched face.
+
+THE WOMAN (shots 10 and 11 only)
+45 years old, 1.63 m, dark brown hair with greys at the part, pulled into a loose ponytail with strands loose at the temples, freckles across the nose, no makeup, short unpainted nails, a thin plain wedding band.
+Wears: a heather grey cotton hoodie with sleeves pushed to the elbows and slight pilling at the cuffs; a plain white t-shirt at the collar; dark blue jeans faded at the knees; off-white canvas sneakers with grey soles.
+
+=========================================================
+EDIT LIST (final 36.5 s)
+=========================================================
+  0.0 -   4.8  SHOT 1
+  4.8 -   5.9  SHOT 2
+  5.9 -  10.3  SHOT 3
+ 10.3 -  11.4  SHOT 4
+ 11.4 -  15.8  SHOT 5
+ 15.8 -  16.9  SHOT 6
+ 16.9 -  18.0  SHOT 7
+ 18.0 -  19.1  SHOT 8
+ 19.1 -  24.3  SHOT 9
+ 24.3 -  26.8  SHOT 10
+ 26.8 -  29.3  SHOT 11
+ 29.3 -  34.5  SHOT 12
+ 34.5 -  36.5  END CARD
+12 cuts. Captions, music and the end card are added in the editor.
+
+=========================================================
+SHOT 1 (speaks) – 8 s
+=========================================================
+LOCATION: the front room of an empty 1958 single-storey house. Bare pine floorboards with a 2.4 m by 3.1 m dust rectangle where a rug used to sit. One window, 1.1 m wide, curtain rail still up, no curtains.
+CAMERA: held in his own right hand, 0.62 m from his face, 1.62 m off the floor, tilted 12 degrees up so the ceiling line shows behind him. He walks backwards at 0.6 m/s, covering about 4.8 m over the shot, so the window slides from behind his left shoulder to out of frame.
+FRAMING: his head fills about 27 percent of frame height, off-centre to the left third. Behind him the empty room runs 6 m to the back wall.
+ACTION: he talks straight into the lens, eyebrows up, a small grin. On the word "good" he taps his chest twice with his free hand. His shadow swings across the floor behind him as he moves.
+HE SAYS: Hole in the floor? Roof shot? Good. That's the house I want.
+IMPERFECTIONS: the exposure over-brightens for 0.4 s as the window passes behind him. His voice is a touch loud and close, with room echo off the bare walls.
+SOUND: his voice close on the mic, boot heels on hollow floorboards, a distant lawnmower.
+
+=========================================================
+SHOT 2 – 8 s
+=========================================================
+LOCATION: the same house, back bedroom. A hole 0.55 m by 0.40 m broken through the floorboards, the boards snapped downward with pale splinters 3 to 7 cm long, black joist visible 0.28 m below, plaster dust and mouse droppings around the edge.
+CAMERA: no operator in frame. Starts at 1.45 m high, 2.2 m from the hole, walks forward at 0.55 m/s and tilts down 38 degrees over 3 s until the hole fills the lower two thirds of frame at 0.9 m away. Holds there, still swaying.
+ACTION: his brown work boots enter frame at the far edge of the hole. The right toe nudges a loose board 8 cm; the board rocks twice and settles, tipping 4 mm of dust into the hole.
+IMPERFECTIONS: autofocus hunts for 0.3 s when the camera reaches the hole. Dust motes drift through the window light.
+SOUND: floorboards creaking under weight, a dry wooden knock when the board settles, an empty room with no traffic.
+
+=========================================================
+SHOT 3 (speaks) – 8 s
+=========================================================
+LOCATION: same bedroom, standing on the sound side of the hole.
+CAMERA: held in his right hand at 0.58 m, 1.58 m high, tilted 8 degrees up. Static apart from handheld sway. The hole is visible bottom right, 1.3 m behind him and below.
+ACTION: he looks down at the hole, then back to the lens. He shrugs with both shoulders, one palm turned up. He is not smiling on the first line; the half grin comes back on the last word.
+HE SAYS: You think I'm going to lowball you. Fair. Most guys do.
+IMPERFECTIONS: he glances off-lens for a fraction of a second, as people do. One stray hair moves on his crown.
+SOUND: his voice close, boots shifting on boards, an empty house.
+
+=========================================================
+SHOT 4 – 8 s
+=========================================================
+LOCATION: the hallway of the same house. A brown water stain 0.8 m across on the ceiling at 2.45 m, paint blistered at the centre.
+CAMERA: no operator in frame. Starts tilted up at the stain from 1.5 m away, then tilts down 52 degrees over 3 s to a dented galvanised bucket on a worn carpet 2.15 m below the ceiling.
+ACTION: drips fall from the lowest point of the blister every 1.5 s. Each drop falls 2.15 m in 0.66 s and hits at 6.49 m/s, so it lands hard and throws a splash ring 4 to 6 cm wide. There is already 3 cm of brown water in the bucket. The water in the bucket ripples for about 1.2 s after each hit.
+IMPERFECTIONS: the camera briefly over-brightens on the pale ceiling, then settles on the darker floor.
+SOUND: a clean metallic plink every 1.5 s, changing pitch as the water level sits, plus house silence between drips.
+
+=========================================================
+SHOT 5 (speaks) – 8 s
+=========================================================
+LOCATION: the open doorway of a detached single garage, 2.7 m wide, packed to the ceiling with cardboard boxes with no writing on them, a bicycle hanging by one wheel, stacked plastic bins, a rolled carpet, a broken table lamp.
+CAMERA: held in his right hand at 0.6 m, 1.6 m high, level. He stands with his back three quarters to the junk so both he and the stack are in frame. Late afternoon sun at 36.7 degrees rakes in from behind the camera, so his 2.39 m shadow falls into the garage.
+ACTION: he talks to the lens, then sweeps his left arm back across the stack on the word "leave". A box corner is 0.4 m behind his shoulder. Dust hangs in the sunlit air and swirls when his arm moves.
+HE SAYS: Garage packed to the ceiling? Leave it. Don't clean a thing.
+IMPERFECTIONS: his forehead shows sweat shine on the sunlit side. The mic picks up a slight wind pop on the word "packed".
+SOUND: his voice close, a faint breeze, birds, a car two streets away.
+
+=========================================================
+SHOT 6 – 8 s
+=========================================================
+LOCATION: the same garage from outside, on the driveway.
+CAMERA: no operator in frame. 3.5 m back from the door, 1.5 m high, level. The driveway has an oil stain 0.6 m across in the foreground and a crack running diagonally.
+ACTION: the door is already 1.2 m up and still rising at 0.18 m/s, so it takes the last 0.9 m about 5 s to finish. As it lifts, the packed stack is revealed bottom first: bins, then boxes, then the bicycle wheel at the top. The camera steps in 1.2 m during the shot. Dust falls from the door track.
+IMPERFECTIONS: the picture darkens for about 0.5 s as the bright door panel leaves the frame and the dark garage fills it.
+SOUND: a chain opener grinding, metal panels rattling over the rollers, the motor stopping with a clunk.
+
+=========================================================
+SHOT 7 – 8 s
+=========================================================
+LOCATION: inside the packed garage, a gap of 0.7 m between two stacks.
+CAMERA: no operator in frame. 2.0 m away, 1.4 m high, tilted 4 degrees up.
+ACTION: he leans his head and right shoulder around the left-hand stack, 1.9 m from the lens. He looks at the camera, laughs once with his head back, then waves his right hand twice, palm down, as if to say leave it, and steps back out of sight behind the boxes.
+IMPERFECTIONS: he bumps the stack lightly with his shoulder on the way back; the top box shifts 2 cm and stays there.
+SOUND: a short real laugh, cardboard scraping, a hollow garage echo.
+
+=========================================================
+SHOT 8 – 8 s
+=========================================================
+LOCATION: the back yard of the same house. Grass and weeds 0.9 to 1.1 m high across a 12 m run, a rusted swing frame at the back fence, a plastic chair on its side.
+CAMERA: no operator in frame. 1.35 m high, tilted 3 degrees down, static apart from sway. Grass blades cross the lower third of the lens.
+ACTION: he starts 7 m away and walks toward the lens through the grass at 0.85 m/s, covering about 6.8 m, so he ends about 0.5 m from the camera and fills the frame. He pushes the grass down with both forearms; the stalks spring back behind him. Seed heads fly. He is grinning.
+IMPERFECTIONS: focus hunts for 0.3 s when he crosses 1.5 m. A grass blade slaps the lens at about 6 s.
+SOUND: dry grass swishing against denim, steady footsteps, insects, a light wind.
+
+=========================================================
+SHOT 9 (speaks) – 8 s
+=========================================================
+LOCATION: the front porch steps of the same house, three wooden steps, paint worn through in the centre of each tread.
+CAMERA: held in his right hand at 0.65 m, 1.25 m high because he is sitting, tilted 6 degrees up. Static apart from sway.
+ACTION: he sits on the second step, elbows on knees. He counts on his free hand: index finger up on "worth fixed up", two fingers on "minus repairs", three on "minus my costs". On the last line he taps his knee once.
+HE SAYS: Here's my math. Worth fixed up, minus repairs, minus my costs. On paper.
+IMPERFECTIONS: he pauses half a beat before "on paper", like a person thinking. Sun at 36.7 degrees puts a hard shadow line across his chest.
+SOUND: his voice close, a porch board creak as he shifts, birds, a distant dog.
+
+=========================================================
+SHOT 10 – 8 s
+=========================================================
+LOCATION: the woman's own kitchen, dated but clean. Oak cabinets, a 0.76 m high table, four chairs, a fridge with photos and a school calendar held by magnets, a fruit bowl with two bananas going brown, a phone charger cable on the counter, a window over the sink with cool daylight, one warm ceiling bulb on.
+CAMERA: no operator in frame. At the end of the table, 1.9 m from the pair, 1.45 m high, tilted 22 degrees down so the tabletop reads and both people stay in frame.
+ACTION: they sit side by side on the long edge, 0.45 m apart, him on the left. One sheet of white paper lies between them, turned 90 degrees toward her, so any writing runs sideways to the lens and is too small to read. He taps the paper with a capped black ballpoint three times, at 1.2 s intervals, each tap about 4 cm lower down the page, and talks quietly. She leans in about 15 cm, raises her eyebrows, then nods once and sits back. Her coffee mug stays at the top right corner of the paper, 12 cm from the edge, the whole time.
+IMPERFECTIONS: the fridge compressor hums and cuts out halfway through. A chair creaks when she leans.
+SOUND: calm talk with no clear words, the pen tapping on paper over a wooden table, the fridge, a clock.
+
+=========================================================
+SHOT 11 – 8 s
+=========================================================
+LOCATION: her front porch and lawn, late afternoon, sun at 21.6 degrees so shadows run 4.5 m long.
+CAMERA: no operator in frame. On the lawn 4.0 m from the porch, 1.5 m high, level. It pans left about 35 degrees to follow her, ending on the car.
+ACTION: she holds a ring of four keys 0.35 m above his open palm and lets go. They fall for 0.27 s and land at 2.62 m/s, so they hit with a real slap, bounce 2 cm and settle. She laughs once, shakes her head, turns, and walks down three steps and across 9 m of lawn at 1.3 m/s to a silver hatchback, carrying only a purse. He stays on the porch and lifts one hand in a wave.
+IMPERFECTIONS: the pan is slightly late catching her, then corrects. Her long shadow crosses the frame before she does.
+SOUND: keys hitting a palm, a real laugh, three hollow porch steps, footsteps on dry grass, a car door, birds.
+
+=========================================================
+SHOT 12 (speaks) – 8 s
+=========================================================
+LOCATION: the same porch, standing where she left, the front door 1.2 m behind him.
+CAMERA: held in his right hand at 0.6 m, 1.6 m high, tilted 5 degrees up. Static apart from sway. Low sun at 21.6 degrees from camera left puts warm light on one side of his face and leaves the other side in shade.
+ACTION: he talks to the lens, calm and direct. On "ask anyone" he shrugs one shoulder. On the last line he points down past the bottom of the frame twice.
+HE SAYS: Ask me for proof of funds. Then tap below and see your number.
+IMPERFECTIONS: he blinks against the low sun, squints slightly on the left eye. A moth crosses the frame at about 5 s.
+SOUND: his voice close, evening birds, a car passing one street over.
+
+=========================================================
+CAPTIONS TO BURN IN THE EDITOR
+=========================================================
+HOLE IN THE FLOOR? / STILL BUYING / "YOU'LL LOWBALL ME" / LEAVE THE JUNK / DON'T CLEAN A THING / HERE'S MY MATH / WORTH FIXED UP / MINUS REPAIRS / MINUS MY COSTS / YOU PICK THE DAY / ASK FOR PROOF OF FUNDS / TAP BELOW
+
+=========================================================
+WHERE EACH LINE COMES FROM (research file: 04_Audience_Research/Research_Document_Cash_Home_Buying.md)
+=========================================================
+"You think I'm going to lowball you"      -> objection 1, the most common one in the Reddit data
+"Leave it. Don't clean a thing"           -> desired outcome: no repairs, no clean-out
+"Here's my math ... on paper"             -> the gap none of the 6 reference ads filled
+"Ask me for proof of funds"               -> objection: proof of funds letters "drawn on some vague LLC"
+Hole, roof, packed garage, jungle yard    -> pain point: the house needs more work than the seller can pay for
+
+=========================================================
+MUST BE TRUE BEFORE THIS RUNS
+=========================================================
+- A real offer worksheet, since the ad says the math goes on paper.
+- A real proof of funds letter you can send.
+- "Leave it, don't clean a thing" has to be your real process.
+- A working form. propertyabundanceusa.com returned HTTP 403 on 2026-09-22.

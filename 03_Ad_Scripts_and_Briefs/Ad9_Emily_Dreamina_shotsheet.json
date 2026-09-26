@@ -1,0 +1,651 @@
+{
+ "shots": [
+  {
+   "in": 0.0,
+   "out": 1.4,
+   "len": 1.4,
+   "beat": "OPEN A",
+   "desc": "a hand turns a key in a worn brass lock and the front door pushes inward"
+  },
+  {
+   "in": 1.4,
+   "out": 3.3,
+   "len": 1.9,
+   "beat": "OPEN A",
+   "desc": "walking into a dim hallway, lighter rectangles on the wall where pictures hung"
+  },
+  {
+   "in": 3.3,
+   "out": 4.9,
+   "len": 1.6,
+   "beat": "payload",
+   "desc": "a long straight highway seen through a car windshield, wipers still"
+  },
+  {
+   "in": 4.9,
+   "out": 6.7,
+   "len": 1.8,
+   "beat": "payload",
+   "desc": "a hand slides a closet door open on a row of coats on wire hangers"
+  },
+  {
+   "in": 6.7,
+   "out": 8.1,
+   "len": 1.4,
+   "beat": "payload",
+   "desc": "close on a hand holding a cardigan sleeve, then letting it drop back"
+  },
+  {
+   "in": 8.1,
+   "out": 9.5,
+   "len": 1.4,
+   "beat": "payload",
+   "desc": "a fridge door covered in old photographs and a curled shopping list"
+  },
+  {
+   "in": 9.5,
+   "out": 11.7,
+   "len": 2.2,
+   "beat": "OPEN B",
+   "desc": "a woman in her forties sits at a kitchen table, phone face down beside her"
+  },
+  {
+   "in": 11.7,
+   "out": 13.4,
+   "len": 1.7,
+   "beat": "OPEN B",
+   "desc": "closer on her face, she looks away from the lens and lets out one slow breath"
+  },
+  {
+   "in": 13.4,
+   "out": 15.0,
+   "len": 1.6,
+   "beat": "OPEN B",
+   "desc": "her hand lifts a chipped mug, holds it without drinking, sets it down"
+  },
+  {
+   "in": 15.0,
+   "out": 16.7,
+   "len": 1.7,
+   "beat": "OPEN B",
+   "desc": "grey daylight through a kitchen window, the sill dusty"
+  },
+  {
+   "in": 16.7,
+   "out": 18.2,
+   "len": 1.5,
+   "beat": "payload",
+   "desc": "the phone face down on the table buzzes twice and stops"
+  },
+  {
+   "in": 18.2,
+   "out": 19.6,
+   "len": 1.4,
+   "beat": "payload",
+   "desc": "two kitchen chairs at the table, one pushed in, one pulled out and empty"
+  },
+  {
+   "in": 19.6,
+   "out": 21.2,
+   "len": 1.6,
+   "beat": "payload",
+   "desc": "close on her hand flat on the table, not moving"
+  },
+  {
+   "in": 21.2,
+   "out": 23.8,
+   "len": 2.6,
+   "beat": "OPEN C",
+   "desc": "the man stands on the sidewalk in front of the house, looking into the lens"
+  },
+  {
+   "in": 23.8,
+   "out": 26.0,
+   "len": 2.2,
+   "beat": "OPEN C",
+   "desc": "same man, closer, he shifts his weight once and keeps looking at the lens"
+  },
+  {
+   "in": 26.0,
+   "out": 27.7,
+   "len": 1.7,
+   "beat": "payload",
+   "desc": "low angle, a roofer on a ladder lifts a cracked shingle away"
+  },
+  {
+   "in": 27.7,
+   "out": 29.2,
+   "len": 1.5,
+   "beat": "payload",
+   "desc": "an interior with a collapsed ceiling, exposed joists, rubble on the floor"
+  },
+  {
+   "in": 29.2,
+   "out": 30.6,
+   "len": 1.4,
+   "beat": "payload",
+   "desc": "a hand turns the dial on a lockbox clamped to a front door handle"
+  },
+  {
+   "in": 30.6,
+   "out": 32.2,
+   "len": 1.6,
+   "beat": "payload",
+   "desc": "a FOR SALE sign standing in a mown front lawn, overcast"
+  },
+  {
+   "in": 32.2,
+   "out": 33.8,
+   "len": 1.6,
+   "beat": "payload",
+   "desc": "stacked cardboard boxes in an empty room, one taped shut"
+  },
+  {
+   "in": 33.8,
+   "out": 36.2,
+   "len": 2.4,
+   "beat": "CLOSE C",
+   "desc": "aerial top down of a quiet suburban street, cars parked along one side"
+  },
+  {
+   "in": 36.2,
+   "out": 38.0,
+   "len": 1.8,
+   "beat": "CLOSE C",
+   "desc": "an empty concrete driveway, oil stains, weeds in the joints"
+  },
+  {
+   "in": 38.0,
+   "out": 40.3,
+   "len": 2.3,
+   "beat": "CLOSE C",
+   "desc": "the man to camera again, calm, one small nod"
+  },
+  {
+   "in": 40.3,
+   "out": 41.9,
+   "len": 1.6,
+   "beat": "CLOSE C",
+   "desc": "a tidy suburban house from the sidewalk, ground level"
+  },
+  {
+   "in": 41.9,
+   "out": 43.6,
+   "len": 1.7,
+   "beat": "payload",
+   "desc": "low through an overgrown front lawn, grass past ankle height going to seed"
+  },
+  {
+   "in": 43.6,
+   "out": 45.4,
+   "len": 1.8,
+   "beat": "payload",
+   "desc": "envelopes piling on a doormat under a letter slot, one more drops"
+  },
+  {
+   "in": 45.4,
+   "out": 47.8,
+   "len": 2.4,
+   "beat": "CLOSE B",
+   "desc": "the man at a bare wooden table slides a blank sheet toward the lens"
+  },
+  {
+   "in": 47.8,
+   "out": 49.9,
+   "len": 2.1,
+   "beat": "CLOSE B",
+   "desc": "top down on the blank sheet, his hand points near the top, then lower"
+  },
+  {
+   "in": 49.9,
+   "out": 51.9,
+   "len": 2.0,
+   "beat": "CLOSE B",
+   "desc": "his face across the table, looking up into the lens, unhurried"
+  },
+  {
+   "in": 51.9,
+   "out": 53.7,
+   "len": 1.8,
+   "beat": "CLOSE B",
+   "desc": "his open palm resting flat on the bare table"
+  },
+  {
+   "in": 53.7,
+   "out": 55.2,
+   "len": 1.5,
+   "beat": "payload",
+   "desc": "a set of house keys set down on a kitchen counter and released"
+  },
+  {
+   "in": 55.2,
+   "out": 57.1,
+   "len": 1.9,
+   "beat": "payload",
+   "desc": "an empty sunlit room, dust drifting in the light from one window"
+  },
+  {
+   "in": 57.1,
+   "out": 59.4,
+   "len": 2.3,
+   "beat": "CLOSE A",
+   "desc": "the woman steps out of the front door carrying one small cardboard box"
+  },
+  {
+   "in": 59.4,
+   "out": 61.0,
+   "len": 1.6,
+   "beat": "CLOSE A",
+   "desc": "she pulls the door closed behind her with her free hand"
+  },
+  {
+   "in": 61.0,
+   "out": 63.2,
+   "len": 2.2,
+   "beat": "CLOSE A",
+   "desc": "she walks down the path toward the lens and past it, not looking back"
+  },
+  {
+   "in": 63.2,
+   "out": 64.8,
+   "len": 1.6,
+   "beat": "CLOSE A",
+   "desc": "an empty porch, the door closed, nobody there"
+  },
+  {
+   "in": 64.8,
+   "out": 67.0,
+   "len": 2.2,
+   "beat": "CTA",
+   "desc": "the house from the sidewalk, framed low with a large area of empty sky above"
+  },
+  {
+   "in": 67.0,
+   "out": 69.4,
+   "len": 2.4,
+   "beat": "CTA",
+   "desc": "the same house held steady, leaves moving on a young tree at the left edge"
+  }
+ ],
+ "cards": [
+  {
+   "in": 0.0,
+   "out": 1.1,
+   "text": "KEEPING YOUR PARENT'S"
+  },
+  {
+   "in": 1.1,
+   "out": 2.2,
+   "text": "HOUSE ISN'T HOW"
+  },
+  {
+   "in": 2.2,
+   "out": 3.3,
+   "text": "YOU HONOR THEM"
+  },
+  {
+   "in": 4.1,
+   "out": 5.21,
+   "text": "FOURTH TRIP THIS"
+  },
+  {
+   "in": 5.21,
+   "out": 6.33,
+   "text": "MONTH. FOR A"
+  },
+  {
+   "in": 6.33,
+   "out": 7.44,
+   "text": "HOUSE NOBODY LIVES"
+  },
+  {
+   "in": 7.44,
+   "out": 8.56,
+   "text": "IN. THE CLOSET'S"
+  },
+  {
+   "in": 8.56,
+   "out": 9.3,
+   "text": "STILL FULL"
+  },
+  {
+   "in": 10.1,
+   "out": 11.22,
+   "text": "AND THE QUESTION"
+  },
+  {
+   "in": 11.22,
+   "out": 12.33,
+   "text": "YOU'RE SCARED TO"
+  },
+  {
+   "in": 12.33,
+   "out": 13.45,
+   "text": "ASK: AM I"
+  },
+  {
+   "in": 13.45,
+   "out": 14.57,
+   "text": "GETTING RIPPED OFF"
+  },
+  {
+   "in": 14.57,
+   "out": 15.68,
+   "text": "BECAUSE I JUST"
+  },
+  {
+   "in": 15.68,
+   "out": 16.8,
+   "text": "WANT IT GONE?"
+  },
+  {
+   "in": 17.6,
+   "out": 18.72,
+   "text": "YOUR SIBLING WON'T"
+  },
+  {
+   "in": 18.72,
+   "out": 19.84,
+   "text": "PAY FOR REPAIRS"
+  },
+  {
+   "in": 19.84,
+   "out": 20.95,
+   "text": "AND WON'T TAKE"
+  },
+  {
+   "in": 20.95,
+   "out": 21.7,
+   "text": "AN OFFER"
+  },
+  {
+   "in": 22.5,
+   "out": 23.61,
+   "text": "HERE'S THE HONEST"
+  },
+  {
+   "in": 23.61,
+   "out": 24.72,
+   "text": "PART: A CASH"
+  },
+  {
+   "in": 24.72,
+   "out": 25.82,
+   "text": "OFFER IS LOWER"
+  },
+  {
+   "in": 25.82,
+   "out": 26.56,
+   "text": "THAN A"
+  },
+  {
+   "in": 26.56,
+   "out": 27.3,
+   "text": "LISTED SALE"
+  },
+  {
+   "in": 28.1,
+   "out": 29.2,
+   "text": "A LISTED SALE"
+  },
+  {
+   "in": 29.2,
+   "out": 30.3,
+   "text": "MEANS REPAIRS, A"
+  },
+  {
+   "in": 30.3,
+   "out": 31.4,
+   "text": "CLEAN-OUT, SHOWINGS, AND"
+  },
+  {
+   "in": 31.4,
+   "out": 32.5,
+   "text": "MONTHS OF TAXES"
+  },
+  {
+   "in": 32.5,
+   "out": 33.6,
+   "text": "WHILE IT SITS"
+  },
+  {
+   "in": 33.6,
+   "out": 34.7,
+   "text": "FOUR HOURS AWAY"
+  },
+  {
+   "in": 35.5,
+   "out": 36.61,
+   "text": "THAT'S WHY THE"
+  },
+  {
+   "in": 36.61,
+   "out": 37.72,
+   "text": "LOWER NUMBER CAN"
+  },
+  {
+   "in": 37.72,
+   "out": 38.83,
+   "text": "STILL LEAVE YOU"
+  },
+  {
+   "in": 38.83,
+   "out": 39.94,
+   "text": "WITH MORE: NO"
+  },
+  {
+   "in": 39.94,
+   "out": 41.05,
+   "text": "REPAIRS, NO CLEAN-OUT"
+  },
+  {
+   "in": 41.05,
+   "out": 42.16,
+   "text": "NO MORE MONTHS"
+  },
+  {
+   "in": 42.16,
+   "out": 42.9,
+   "text": "OF TAXES"
+  },
+  {
+   "in": 43.7,
+   "out": 44.83,
+   "text": "THE YARD KEEPS"
+  },
+  {
+   "in": 44.83,
+   "out": 45.95,
+   "text": "GROWING. THE BILLS"
+  },
+  {
+   "in": 45.95,
+   "out": 46.7,
+   "text": "KEEP COMING"
+  },
+  {
+   "in": 47.5,
+   "out": 48.62,
+   "text": "THAT'S WHY YOU'RE"
+  },
+  {
+   "in": 48.62,
+   "out": 49.74,
+   "text": "NOT GETTING RIPPED"
+  },
+  {
+   "in": 49.74,
+   "out": 50.85,
+   "text": "OFF, IF YOU"
+  },
+  {
+   "in": 50.85,
+   "out": 51.97,
+   "text": "CAN SEE HOW"
+  },
+  {
+   "in": 51.97,
+   "out": 53.09,
+   "text": "THE NUMBER IS"
+  },
+  {
+   "in": 53.09,
+   "out": 54.21,
+   "text": "BUILT. WE SHOW"
+  },
+  {
+   "in": 54.21,
+   "out": 54.95,
+   "text": "YOU THE"
+  },
+  {
+   "in": 54.95,
+   "out": 55.7,
+   "text": "MATH FIRST"
+  },
+  {
+   "in": 56.5,
+   "out": 57.59,
+   "text": "NO MORE TRIPS"
+  },
+  {
+   "in": 57.59,
+   "out": 58.67,
+   "text": "NOTHING LEFT ON"
+  },
+  {
+   "in": 58.67,
+   "out": 59.4,
+   "text": "YOUR PLATE"
+  },
+  {
+   "in": 60.2,
+   "out": 61.32,
+   "text": "KEEPING IT WAS"
+  },
+  {
+   "in": 61.32,
+   "out": 62.44,
+   "text": "NEVER HOW YOU"
+  },
+  {
+   "in": 62.44,
+   "out": 63.56,
+   "text": "HONOR THEM. LETTING"
+  },
+  {
+   "in": 63.56,
+   "out": 64.68,
+   "text": "IT GO, WITHOUT"
+  },
+  {
+   "in": 64.68,
+   "out": 65.81,
+   "text": "A FIGHT, IS"
+  },
+  {
+   "in": 65.81,
+   "out": 66.55,
+   "text": "THIS IS"
+  },
+  {
+   "in": 66.55,
+   "out": 67.3,
+   "text": "PROPERTY ABUNDANCE"
+  },
+  {
+   "in": 68.1,
+   "out": 69.19,
+   "text": "GET THE NUMBER"
+  },
+  {
+   "in": 69.19,
+   "out": 70.28,
+   "text": "AND THE MATH"
+  },
+  {
+   "in": 70.28,
+   "out": 71.37,
+   "text": "SHOW YOUR FAMILY"
+  },
+  {
+   "in": 71.37,
+   "out": 72.1,
+   "text": "DECIDE TOGETHER"
+  }
+ ],
+ "beats": [
+  {
+   "beat": "OPEN A",
+   "in": 0.0,
+   "out": 3.3,
+   "line": "Keeping your parent's house isn't how you honor them."
+  },
+  {
+   "beat": "payload",
+   "in": 4.1,
+   "out": 9.3,
+   "line": "Fourth trip this month. For a house nobody lives in. The closet's still full."
+  },
+  {
+   "beat": "OPEN B",
+   "in": 10.1,
+   "out": 16.8,
+   "line": "And the question you're scared to ask: am I getting ripped off because I just want it gone?"
+  },
+  {
+   "beat": "payload",
+   "in": 17.6,
+   "out": 21.7,
+   "line": "Your sibling won't pay for repairs, and won't take an offer."
+  },
+  {
+   "beat": "OPEN C",
+   "in": 22.5,
+   "out": 27.3,
+   "line": "Here's the honest part: a cash offer is lower than a listed sale."
+  },
+  {
+   "beat": "payload",
+   "in": 28.1,
+   "out": 34.7,
+   "line": "A listed sale means repairs, a clean-out, showings, and months of taxes while it sits. Four hours away."
+  },
+  {
+   "beat": "CLOSE C",
+   "in": 35.5,
+   "out": 42.9,
+   "line": "That's why the lower number can still leave you with more: no repairs, no clean-out, no more months of taxes."
+  },
+  {
+   "beat": "payload",
+   "in": 43.7,
+   "out": 46.7,
+   "line": "The yard keeps growing. The bills keep coming."
+  },
+  {
+   "beat": "CLOSE B",
+   "in": 47.5,
+   "out": 55.7,
+   "line": "That's why you're not getting ripped off, if you can see how the number is built. We show you the math first."
+  },
+  {
+   "beat": "payload",
+   "in": 56.5,
+   "out": 59.4,
+   "line": "No more trips. Nothing left on your plate."
+  },
+  {
+   "beat": "CLOSE A",
+   "in": 60.2,
+   "out": 67.3,
+   "line": "Keeping it was never how you honor them. Letting it go, without a fight, is. This is Property Abundance."
+  },
+  {
+   "beat": "CTA",
+   "in": 68.1,
+   "out": 72.1,
+   "line": "Get the number and the math. Show your family. Decide together."
+  }
+ ]
+}

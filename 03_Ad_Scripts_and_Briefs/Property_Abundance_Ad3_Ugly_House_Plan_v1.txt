@@ -1,0 +1,130 @@
+PROPERTY ABUNDANCE – AD 3 "STILL BUYING" – FULL VIDEO PLAN v1
+Tone: fast, fun, confident. A new shot every 2 seconds, like the top reference ads, but real-looking and with proof.
+Tool: Gemini (Veo). 4 clips, about 8 seconds each, joined in CapCut to about 33 seconds.
+Gemini makes one video per request: send CLIP 1, wait for it, then CLIP 2, and so on.
+Captions, voiceover, music, the form screen and the logo are added in CapCut, not in Gemini.
+
+WHY IT BEATS THE REFERENCES
+- Opens on a wrecked floor like ref 3 (the most-viewed ref), but the founder reacts with a grin, so it's fun, not grim.
+- A new shot every 2 seconds like ref 1 (the fastest-growing ref), but every shot matches the words.
+- Shows the one thing no reference showed: the offer math on paper.
+- Happy ending like ref 6, but no fake customer testimonial and no cash piles.
+
+============================================================
+PART 1 – THE SCRIPT (voiceover + captions)
+============================================================
+0-2s    VO: Hole in the floor?            CAPTION: HOLE IN THE FLOOR?
+2-4s    VO: We'll still buy it.           CAPTION: STILL BUYING
+4-6s    VO: Roof leaking?                 CAPTION: ROOF LEAKING?
+6-8s    VO: Still buying.                 CAPTION: STILL BUYING
+8-10s   VO: Garage full of stuff?         CAPTION: FULL OF STUFF?
+10-12s  VO: Leave it.                     CAPTION: LEAVE IT
+12-14s  VO: Yard's a jungle?              CAPTION: YARD'S A JUNGLE?
+14-16s  VO: Still buying. Here's how it works.   CAPTION: HERE'S HOW
+16-19s  VO: Tell us about the house.      CAPTION: TELL US ABOUT IT
+19-24s  VO: We walk through it and show you our math, on paper.   CAPTION: WE SHOW YOU THE MATH
+24-28s  VO: You pick the day. We close.   CAPTION: YOU PICK THE DAY
+28-31s  VO: No repairs. No cleaning. No showings.   CAPTION: NO REPAIRS / NO CLEANING / NO SHOWINGS
+31-33s  VO: Ugly house? Property Abundance. Tap below.   CAPTION: UGLY HOUSE? TAP BELOW
+        END CARD: your real form screenshot on the phone screen + Property Abundance logo
+MUSIC: upbeat, bouncy, light (no lyrics). Cut on the beat. Voice loud and clear over it.
+
+============================================================
+PART 2 – GEMINI PROMPTS (send one at a time)
+============================================================
+
+---------------- CLIP 1 of 4 (covers 0-8s) ----------------
+Vertical 9:16 video, 8 seconds, 4 quick shots of 2 seconds each with hard cuts. Real footage filmed on an iPhone held in one hand, not a movie.
+
+CAMERA AND LOOK: iPhone 1x wide lens, almost everything in focus, auto-exposure, small natural hand shake, quick energetic handheld framing. Bright real daylight. Colors natural and a little flat, like an unedited phone video. Not cinematic, not glossy, no film look, no soft glow.
+
+THE BUYER (same man in every clip): a man in his late 30s, stocky build, short brown hair, a few days of stubble, real skin with visible pores and a sunburned nose, sunburned forearms. Faded navy work t-shirt with no logo, dusty work jeans, scuffed brown work boots. Friendly, relaxed, a little cheeky.
+
+SHOT 1 (0 to 2 seconds): Starts already in motion. Inside an old empty house, the camera tilts down fast to a big jagged hole in rotten wooden floorboards, broken wood and dust around the edges. The buyer's boots stand right at the edge.
+SHOT 2 (2 to 4 seconds): Hard cut. Medium shot of the buyer standing next to the hole. He looks up at the camera, raises his eyebrows and gives a quick half grin and a small shrug.
+SHOT 3 (4 to 6 seconds): Hard cut. Close-up: water drips steadily from a brown-stained ceiling into a dented metal bucket on an old carpet. Each drop splashes.
+SHOT 4 (6 to 8 seconds): Hard cut. Outside, filmed from the front yard: a small house with a blue tarp tied over part of the roof. The buyer walks into frame from the side, looks up at the tarp, and gives a short nod as if to say fine.
+
+REAL-WORLD RULES: Every object stays exactly where it is unless a hand moves it. Nothing morphs, slides, appears or disappears. Hands have five fingers and move at normal human speed. No readable words, numbers, logos, captions or subtitles anywhere in the frame.
+
+SOUND: creaky wood, dripping water, birds and a light breeze outside. No music. No one speaks.
+
+---------------- CLIP 2 of 4 (covers 8-16s) ----------------
+Vertical 9:16 video, 8 seconds, 4 quick shots of 2 seconds each with hard cuts. Real footage filmed on an iPhone held in one hand, not a movie.
+
+CAMERA AND LOOK: iPhone 1x wide lens, almost everything in focus, auto-exposure, small natural hand shake, quick energetic handheld framing. Bright real daylight. Colors natural and a little flat, like an unedited phone video. Not cinematic, not glossy, no film look, no soft glow.
+
+THE BUYER (same man in every clip): a man in his late 30s, stocky build, short brown hair, a few days of stubble, real skin with visible pores and a sunburned nose, sunburned forearms. Faded navy work t-shirt with no logo, dusty work jeans, scuffed brown work boots. Friendly, relaxed, a little cheeky.
+
+SHOT 1 (0 to 2 seconds): A garage door is already rolling up. Behind it, a garage packed floor to ceiling with old boxes, a bicycle, lamps, a rolled rug and plastic bins. Dust in the sunlight.
+SHOT 2 (2 to 4 seconds): Hard cut. The buyer leans his head around the stack of boxes, looks at the camera and laughs, then waves his hand as if to say leave it.
+SHOT 3 (4 to 6 seconds): Hard cut. Wide shot: a backyard overgrown with waist-high weeds and grass. The buyer wades through it toward the camera, pushing grass aside with his arms.
+SHOT 4 (6 to 8 seconds): Hard cut. Medium close-up of the buyer, now on the porch, looking straight into the camera. He points toward the camera with one finger and gives a confident nod, as if to say here's how it works.
+
+REAL-WORLD RULES: Every object stays exactly where it is unless a hand moves it. Nothing morphs, slides, appears or disappears. Hands have five fingers and move at normal human speed. No readable words, numbers, logos, captions or subtitles anywhere in the frame. Boxes have no writing on them.
+
+SOUND: the rattle of a garage door, a short laugh, swishing grass, footsteps on wooden porch boards. No music. No clear words.
+
+---------------- CLIP 3 of 4 (covers 16-24s) ----------------
+Vertical 9:16 video, 8 seconds, 3 shots with hard cuts. Real footage filmed on an iPhone held in one hand, not a movie.
+
+CAMERA AND LOOK: iPhone 1x wide lens, almost everything in focus, auto-exposure with windows slightly blown out, small natural hand shake. Mixed light: daylight plus warm ceiling bulbs indoors. Colors natural and a little flat, like an unedited phone video. Not cinematic, not glossy, no film look, no soft glow.
+
+THE BUYER (same man in every clip): a man in his late 30s, stocky build, short brown hair, a few days of stubble, real skin with visible pores and a sunburned nose, sunburned forearms. Faded navy work t-shirt with no logo, dusty work jeans, scuffed brown work boots.
+
+THE SELLER (same woman in clips 3 and 4): a woman in her mid 40s, dark hair in a messy ponytail, real skin with visible pores, fine lines and a few freckles, a gray hoodie with the sleeves pushed up, jeans, white sneakers. Warm and a little skeptical at first.
+
+SHOT 1 (0 to 3 seconds): The seller sits on her front porch steps holding her phone, thumb typing quickly, the screen facing away from the camera. She glances up and bites her lip, curious.
+SHOT 2 (3 to 5 seconds): Hard cut. At her front door: she opens the door and the buyer, standing on the doormat, reaches out and shakes her hand. Both smile.
+SHOT 3 (5 to 8 seconds): Hard cut. At her kitchen table, filmed from a slight high angle at the end of the table. The buyer sits beside her. One sheet of paper lies between them, turned toward her so the writing is sideways and too small to read. He taps the paper with a capped pen at three spots going down the page. She leans in, raises her eyebrows, and nods. The paper and a coffee mug stay in the same spots the whole time.
+
+REAL-WORLD RULES: Every object stays exactly where it is unless a hand moves it. Nothing morphs, slides, appears or disappears. Hands have five fingers and move at normal human speed. The phone screen and the paper show nothing readable. No readable words, numbers, logos, captions or subtitles anywhere in the frame.
+
+SOUND: birds outside, a door opening, a friendly murmur with no clear words, a pen tapping on a table. No music.
+
+---------------- CLIP 4 of 4 (covers 24-32s) ----------------
+Vertical 9:16 video, 8 seconds, 3 shots with hard cuts. Real footage filmed on an iPhone held in one hand, not a movie.
+
+CAMERA AND LOOK: iPhone 1x wide lens, almost everything in focus, auto-exposure, small natural hand shake. Bright real afternoon daylight. Colors natural and a little flat, like an unedited phone video. Not cinematic, not glossy, no film look, no soft glow.
+
+THE BUYER (same man in every clip): a man in his late 30s, stocky build, short brown hair, a few days of stubble, real skin with visible pores and a sunburned nose, sunburned forearms. Faded navy work t-shirt with no logo, dusty work jeans, scuffed brown work boots.
+
+THE SELLER (same woman as clip 3): a woman in her mid 40s, dark hair in a messy ponytail, real skin with visible pores, fine lines and a few freckles, a gray hoodie with the sleeves pushed up, jeans, white sneakers.
+
+SHOT 1 (0 to 3 seconds): Close-up on the front porch: the seller drops a small ring of house keys into the buyer's open palm. She laughs with relief and shakes her head as if she can't believe it was that easy.
+SHOT 2 (3 to 6 seconds): Hard cut. Wide shot from the lawn: the seller walks down the porch steps and across the yard toward her car with a light, bouncy step, carrying only her purse. The buyer stands on the porch behind her and gives a friendly wave. The old house stays exactly as it is behind them.
+SHOT 3 (6 to 8 seconds): Hard cut. Close-up inside her parked car: she holds her phone upright on the steering wheel with the screen facing the camera, steady and centered. The screen is plain solid white with nothing on it. She is smiling, slightly out of focus behind the phone.
+
+REAL-WORLD RULES: Every object stays exactly where it is unless a hand moves it. Nothing morphs, slides, appears or disappears. Hands have five fingers and move at normal human speed. The phone screen stays plain white. No readable words, numbers, logos, captions or subtitles anywhere in the frame.
+
+SOUND: jingling keys, a happy laugh, footsteps on steps, a car door closing, birds. No music. No clear words.
+
+============================================================
+PART 3 – CHECK EACH CLIP BEFORE YOU KEEP IT
+============================================================
+Regenerate the clip if any of these happen:
+[ ] Any object jumps, slides or changes place by itself
+[ ] Any readable or garbled text on paper, boxes, signs or screens
+[ ] Skin looks smooth, waxy or airbrushed
+[ ] Light looks glowy and golden like a movie
+[ ] Hands have the wrong number of fingers or bend strangely
+[ ] The buyer's face, hair or clothes change between clips
+[ ] The mood looks sad or heavy. It should feel light and fun.
+If the buyer changes: take a screenshot of his best frame from CLIP 1 and attach it to the prompts for CLIP 2, 3 and 4 as the reference image. Do the same with the seller from CLIP 3 for CLIP 4.
+
+============================================================
+PART 4 – ASSEMBLE IN CAPCUT
+============================================================
+1. Put the 4 clips in order. Trim each shot to match the script timing in PART 1.
+2. Add an upbeat, light music track with no lyrics. Put the cuts on the beat.
+3. Record or generate the voiceover from PART 1 with an upbeat, friendly voice. Music at about 15 percent under the voice. Gemini sound at about 10 percent.
+4. Captions: big, bold, 1 to 4 words per card, one keyword in color (use yellow for STILL BUYING), in the top third. Keep clear of the bottom 20 percent and the right edge.
+5. At 28-31s, pop in NO REPAIRS / NO CLEANING / NO SHOWINGS one line at a time.
+6. Last 2 seconds: place your real form screenshot on the white phone screen from CLIP 4 and add the Property Abundance logo.
+7. Export 1080x1920, 30 fps.
+
+BEFORE IT GOES LIVE (must be true for Property Abundance)
+- "Show you our math, on paper": you need a real offer worksheet.
+- "You pick the day. We close.": your real closing policy.
+- "No showings / no cleaning": your real process.
+- A working form. The website returned HTTP 403 on 2026-09-22.

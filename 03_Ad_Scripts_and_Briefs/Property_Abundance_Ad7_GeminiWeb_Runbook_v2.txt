@@ -1,0 +1,269 @@
+PROPERTY ABUNDANCE – AD 7 "KEEPING IT" – GEMINI WEB RUNBOOK v2
+Human UGC. Avatar: Emily "The Heir". Script: Nested_Loop_Hooks_v1.md Script 1, restructured.
+10 clips x 8 s = 80 s of footage. Voiceover runs 0-72.1 s. End card holds 72.1-80 s.
+
+============================================================
+PART 1 – HOW TO DRIVE GEMINI WEB SO IT STOPS MAKING MISTAKES
+============================================================
+
+BEFORE YOU PASTE ANYTHING
+1. Set aspect ratio in the UI, not in the prompt. Every clip you generated so far came
+   back 1280x720 landscape even though the prompt said 9:16. Veo 3.1 supports native 9:16,
+   but the app's own setting wins. Find the ratio control and set 9:16 before prompting.
+2. Set duration to 8 s in the UI. Veo 3.1 offers 4, 6 or 8. Do not ask for 10 or 16 in text.
+3. Set resolution to 1080p if the control exists.
+
+ONE CLIP PER CHAT
+4. Start a NEW chat for every clip. In a long chat Gemini carries over the previous clip's
+   framing and wardrobe and blends them. Fresh chat, one prompt, one video.
+5. Never send two clips in one message. It makes one video and ignores the second.
+
+PASTE IT RAW
+6. Paste the clip block exactly as written. Do not add "please" or "can you". Do not let it
+   rewrite your prompt - if it replies with a revised version and asks to confirm, say:
+   "Use my text exactly as written." Then resend.
+7. If it asks a clarifying question, do not answer in conversation. Resend the same block.
+   Answering in chat adds your answer to the prompt and drifts the shot.
+
+THE FOUR THINGS THAT BROKE LAST TIME, AND THE FIX
+8. It wrote text on screen three times (garbled clipboard, "1.5 m" labels, gibberish page).
+   Cause: any noun near paper, and any number anywhere, gets drawn into the picture.
+   Fix: these prompts contain no numbers except shot timings, and no describable surface.
+9. It changed his shirt mid-ad (navy henley to white polo) and changed streets.
+   Fix: the character block and location block are repeated word for word in every clip.
+   Do not shorten them to save typing. That repetition is the lock.
+10. It added dialogue you did not ask for. Veo 3.1 generates audio natively.
+    Fix: every clip ends with "Nobody speaks. No dialogue. No voices." Keep that line.
+11. It made one long slow push-in instead of your cuts.
+    Fix: max two shots per clip, each one continuous action. Never list four shots.
+
+AFTER EACH GENERATION
+12. Run the reject checklist in PART 4 before you keep it. Rejecting costs one generation.
+    Shipping a bad clip costs the whole ad.
+13. Save as gemini_clipNN.mp4 and send it over. Measured, not eyeballed.
+
+============================================================
+PART 2 – THE SCRIPT (voiceover + captions, laid in CapCut)
+============================================================
+Nested: Open A -> payload -> Open B -> payload -> Open C -> payload ->
+        Close C -> payload -> Close B -> payload -> Close A -> CTA.
+Every close starts with "That's why" and repeats the words of its open.
+
+ 0.0- 3.3  OPEN A   Keeping your parent's house isn't how you honor them.
+                    CAPTION: KEEPING IT / ISN'T HONORING THEM
+ 4.1- 9.3  payload  Fourth trip this month. For a house nobody lives in. The closet's still full.
+                    CAPTION: THE CLOSET'S STILL FULL
+10.1-16.8  OPEN B   And the question you're scared to ask: am I getting ripped off because I just want it gone?
+                    CAPTION: AM I GETTING RIPPED OFF?
+17.6-21.7  payload  Your sibling won't pay for repairs, and won't take an offer.
+                    CAPTION: WON'T PAY / WON'T DECIDE
+22.5-27.3  OPEN C   Here's the honest part: a cash offer is lower than a listed sale.
+                    CAPTION: OURS COMES IN LOWER
+28.1-34.7  payload  A listed sale means repairs, a clean-out, showings, and months of taxes while it sits. Four hours away.
+                    CAPTION: REPAIRS / CLEAN-OUT / SHOWINGS
+35.5-42.9  CLOSE C  That's why the lower number can still leave you with more: no repairs, no clean-out, no more months of taxes.
+                    CAPTION: THE LOWER NUMBER / CAN LEAVE YOU MORE
+43.7-46.7  payload  The yard keeps growing. The bills keep coming.
+                    CAPTION: THE BILLS KEEP COMING
+47.5-55.7  CLOSE B  That's why you're not getting ripped off, if you can see how the number is built. We show you the math first.
+                    CAPTION: SEE HOW IT'S BUILT
+56.5-59.4  payload  No more trips. Nothing left on your plate.
+                    CAPTION: NOTHING LEFT / ON YOUR PLATE
+60.2-67.3  CLOSE A  Keeping it was never how you honor them. Letting it go, without a fight, is. This is Property Abundance.
+                    CAPTION: LETTING IT GO / IS
+68.1-72.1  CTA      Get the number and the math. Show your family. Decide together.
+                    CAPTION: GET THE NUMBER / AND THE MATH
+72.1-80.0           END CARD: Property Abundance logo + form screenshot + SEE WHAT YOUR OFFER LOOKS LIKE
+
+============================================================
+PART 3 – THE 10 GEMINI PROMPTS (new chat each, paste raw)
+============================================================
+
+---------------- CLIP 1 of 10 -- covers 0-8 s ----------------
+Vertical video, 8 seconds. Handheld amateur video, one person holding the camera. Not a movie.
+
+CAMERA AND LOOK: wide lens, almost everything in focus front to back, auto-exposure so the doorway blows out slightly, constant small hand shake, the horizon never level, no gliding or gimbal moves. Colours natural, flat and unedited. Mixed grey daylight and a warm bulb. Not cinematic, no colour grade, no glow, no slow motion. No camera app interface, no buttons on the picture.
+
+SHOT 1 (0 to 4 s): Close on a pair of hands at an old front door. A key turns in a worn brass lock and the door pushes inward. Chipped paint on the frame, a dead porch light, a faded mat curled at one corner.
+
+SHOT 2 (4 to 8 s): Hard cut. The camera walks slowly forward into a dim hallway. Dust hangs in a shaft of daylight. Bare walls with lighter rectangles where pictures used to hang. Scuffed hardwood floor.
+
+REAL-WORLD RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, slides, appears or disappears. Five fingers on every hand. No readable words, numbers, logos or captions anywhere in frame.
+
+SOUND: a key turning, a door dragging on the frame, footsteps on hardwood, empty house room tone. No music. Nobody speaks. No dialogue. No voices.
+
+---------------- CLIP 2 of 10 -- covers 8-16 s ----------------
+Vertical video, 8 seconds. Handheld amateur video, one person holding the camera. Not a movie.
+
+CAMERA AND LOOK: wide lens, almost everything in focus front to back, auto-exposure, constant small hand shake, never level, no gliding moves. Colours natural, flat and unedited. Not cinematic, no colour grade, no glow. No camera app interface, no buttons on the picture.
+
+SHOT 1 (0 to 4 s): A hand slides a mirrored closet door open along its track. Inside, a row of women's coats and blouses on wire hangers, a handbag on the shelf above, two pairs of shoes below.
+
+SHOT 2 (4 to 8 s): Hard cut, closer. The same hand takes hold of one cardigan sleeve, holds it a moment, and lets it drop back. The hangers rock and settle.
+
+REAL-WORLD RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, appears or disappears. Five fingers on every hand. No readable words, numbers, logos or captions anywhere in frame.
+
+SOUND: a closet door rolling on its track, fabric, hangers knocking, empty house room tone. No music. Nobody speaks. No dialogue. No voices.
+
+---------------- CLIP 3 of 10 -- covers 16-24 s ----------------
+Vertical video, 8 seconds. Handheld amateur video, one person holding the camera. Not a movie.
+
+CAMERA AND LOOK: wide lens, almost everything in focus, auto-exposure with the kitchen window slightly blown out, constant small hand shake, never level, no gliding moves. Colours natural, flat and unedited. Mixed grey daylight and warm ceiling bulbs. Not cinematic, no grade, no glow. No camera app interface, no buttons on the picture.
+
+THE WOMAN: a woman in her early forties with real skin - visible pores, fine lines at the outer eyes, uneven tone across the cheeks, a little shine on the forehead and nose, no makeup. Dark blonde hair pulled back with a few flyaway strands at the temple. A grey sweatshirt, slightly pilled at the cuffs, over a plain t-shirt. Short unpainted nails. She does not speak at any point.
+
+SHOT 1 (0 to 4 s): Medium shot across a kitchen table at eye level. She sits with both forearms on the table, a phone lying face down beside her elbow. She looks off to the side, away from the camera, and lets out one slow breath.
+
+SHOT 2 (4 to 8 s): Hard cut, closer from the same side. She picks up a chipped mug, holds it without drinking, sets it back down. Behind her a fridge with magnets and papers, a fruit bowl, a charger cable on the counter.
+
+REAL-WORLD RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, appears or disappears. Five fingers on every hand. The phone stays face down. No readable words, numbers, logos or captions anywhere in frame.
+
+SOUND: a chair creak, a mug on wood, a fridge hum, distant traffic. No music. Nobody speaks. No dialogue. No voices.
+
+---------------- CLIP 4 of 10 -- covers 24-32 s ----------------
+Vertical video, 8 seconds. Handheld amateur video, one person holding the camera. Not a movie.
+
+CAMERA AND LOOK: wide lens, almost everything in focus, auto-exposure, constant small hand shake, never level, no gliding moves. Colours natural, flat and unedited. Not cinematic, no grade, no glow. No camera app interface, no buttons on the picture.
+
+THE WOMAN: a woman in her early forties with real skin - visible pores, fine lines at the outer eyes, uneven tone across the cheeks, a little shine on the forehead and nose, no makeup. Dark blonde hair pulled back with a few flyaway strands at the temple. A grey sweatshirt, slightly pilled at the cuffs, over a plain t-shirt. She does not speak at any point.
+
+SHOT 1 (0 to 4 s): Close on the kitchen table. Her phone lies face down and buzzes twice against the wood. Her hand rests beside it and does not move. The buzzing stops.
+
+SHOT 2 (4 to 8 s): Hard cut. The camera tilts up a hallway wall to a brown water stain spreading across the ceiling plaster, the paint blistered and lifting at the lowest point.
+
+REAL-WORLD RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, appears or disappears. The phone stays face down and its screen is never visible. No readable words, numbers, logos or captions anywhere in frame.
+
+SOUND: a phone buzzing on wood, then quiet, then hallway room tone. No music. Nobody speaks. No dialogue. No voices.
+
+---------------- CLIP 5 of 10 -- covers 32-40 s ----------------
+Vertical video, 8 seconds. Handheld amateur video, one person holding the camera. Not a movie.
+
+CAMERA AND LOOK: wide lens, almost everything in focus, auto-exposure, constant small hand shake, never level, no gliding moves. Colours natural, flat and unedited. Overcast daylight. Not cinematic, no grade, no glow. No camera app interface, no buttons on the picture.
+
+THE MAN: a man in his early forties with real skin - visible pores, a little forehead shine, uneven tone, short trimmed beard with a few grey hairs at the chin, close-cropped hair. A plain navy long-sleeve shirt with a soft collarless neck, creased at the elbows. He does not speak at any point.
+
+SHOT 1 (0 to 8 s): One continuous shot. He stands on a concrete sidewalk in front of a modest single-storey house and looks straight into the camera, calm and unhurried. He shifts his weight once, gives one small nod, and keeps looking at the lens. Behind him the house has faded siding, a patchy lawn with brown spots, an old gutter sagging at one end.
+
+REAL-WORLD RULES: every object stays exactly where it is. Nothing morphs, appears or disappears. Five fingers on every hand. His mouth stays closed. He does not talk. No readable words, numbers, logos, house numbers or captions anywhere in frame.
+
+SOUND: light wind, distant traffic, a dog barking far off. No music. Nobody speaks. No dialogue. No voices.
+
+---------------- CLIP 6 of 10 -- covers 40-48 s ----------------
+Vertical video, 8 seconds. Handheld amateur video, one person holding the camera. Not a movie.
+
+CAMERA AND LOOK: wide lens, almost everything in focus, auto-exposure with the sky blown out, constant small hand shake, never level, no gliding moves. Colours natural, flat and unedited. Not cinematic, no grade, no glow. No camera app interface, no buttons on the picture.
+
+SHOT 1 (0 to 4 s): Low angle from the ground looking up at a man in a hard hat and work gloves on an aluminium ladder at the eaves of a house. He lifts one cracked shingle away and the dark gap underneath shows. Sky blown out white behind him.
+
+SHOT 2 (4 to 8 s): Hard cut. Close on a front door handle with a plain metal lockbox clamped to it. A hand reaches in, turns the lockbox dial once, and lets go. The paint around the handle is worn to bare metal.
+
+REAL-WORLD RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, appears or disappears. Five fingers on every hand. The lockbox has no branding. No readable words, numbers, logos or captions anywhere in frame.
+
+SOUND: a shingle cracking, wind at height, then a metal dial clicking. No music. Nobody speaks. No dialogue. No voices.
+
+---------------- CLIP 7 of 10 -- covers 48-56 s ----------------
+Vertical video, 8 seconds. Handheld amateur video, one person holding the camera. Not a movie.
+
+CAMERA AND LOOK: wide lens, almost everything in focus, auto-exposure, constant small hand shake, never level, no gliding moves. Colours natural, flat and unedited. Overcast daylight. Not cinematic, no grade, no glow. No camera app interface, no buttons on the picture.
+
+SHOT 1 (0 to 4 s): Low and close over an overgrown front lawn, the grass past ankle height and going to seed, weeds pushing through cracks in a concrete path. The camera walks slowly forward through it toward a closed front door.
+
+SHOT 2 (4 to 8 s): Hard cut. Close on the inside of a front door. A small pile of envelopes lies on the mat below the letter slot. One more envelope drops through the slot and lands blank side up on the pile.
+
+REAL-WORLD RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, appears or disappears. All envelopes lie blank side up. No readable words, numbers, addresses, logos or captions anywhere in frame.
+
+SOUND: footsteps through long grass, wind, then a letter slot flap and paper landing. No music. Nobody speaks. No dialogue. No voices.
+
+---------------- CLIP 8 of 10 -- covers 56-64 s ----------------
+Vertical video, 8 seconds. Handheld amateur video, one person holding the camera. Not a movie.
+
+CAMERA AND LOOK: wide lens, almost everything in focus, auto-exposure with the window behind slightly blown out, constant small hand shake, never level, no gliding moves. Colours natural, flat and unedited. Mixed grey daylight and warm ceiling bulbs. Not cinematic, no grade, no glow. No camera app interface, no buttons on the picture.
+
+THE MAN: a man in his early forties with real skin - visible pores, a little forehead shine, uneven tone, short trimmed beard with a few grey hairs at the chin, close-cropped hair. A plain navy long-sleeve shirt with a soft collarless neck, creased at the elbows. He does not speak at any point.
+
+SHOT 1 (0 to 4 s): He sits at a plain wooden kitchen table, seen from across it at eye level. He slides a single sheet of paper across the table toward the camera and lifts his hand away. The sheet is blank side up and stays blank.
+
+SHOT 2 (4 to 8 s): Hard cut. Top-down close on the same blank sheet lying on the wood. His hand comes in, points to a spot near the top of the blank sheet, holds, then points lower down, and withdraws.
+
+REAL-WORLD RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, slides on its own, appears or disappears. Five fingers on every hand. THE SHEET IS COMPLETELY BLANK ON THE SIDE FACING UP. No writing, printing, lines, boxes or marks of any kind appear on it at any moment. No readable words, numbers, logos or captions anywhere in frame.
+
+SOUND: paper sliding on wood, a chair creak, room tone. No music. Nobody speaks. No dialogue. No voices.
+
+---------------- CLIP 9 of 10 -- covers 64-72 s ----------------
+Vertical video, 8 seconds. Handheld amateur video, one person holding the camera. Not a movie.
+
+CAMERA AND LOOK: wide lens, almost everything in focus, auto-exposure, constant small hand shake, never level, no gliding moves. Colours natural, flat and unedited. Overcast daylight. Not cinematic, no grade, no glow. No camera app interface, no buttons on the picture.
+
+THE WOMAN: a woman in her early forties with real skin - visible pores, fine lines at the outer eyes, uneven tone across the cheeks, a little shine on the forehead and nose, no makeup. Dark blonde hair pulled back with a few flyaway strands at the temple. A grey sweatshirt, slightly pilled at the cuffs, over a plain t-shirt. She does not speak at any point.
+
+SHOT 1 (0 to 8 s): One continuous shot from the front path. She steps out of the front door carrying one small cardboard box against her hip, pulls the door closed behind her with her free hand, and walks toward the camera and past it out of frame. She does not look back at the house.
+
+REAL-WORLD RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, appears or disappears. Five fingers on every hand. The box is plain brown with no printing. No readable words, numbers, house numbers, logos or captions anywhere in frame.
+
+SOUND: a door closing, footsteps on concrete, wind, distant traffic. No music. Nobody speaks. No dialogue. No voices.
+
+---------------- CLIP 10 of 10 -- covers 72-80 s, end card bed ----------------
+Vertical video, 8 seconds. Handheld amateur video, one person holding the camera. Not a movie.
+
+CAMERA AND LOOK: wide lens, almost everything in focus, auto-exposure with the sky blown out, constant small hand shake, never level, no gliding moves. Colours natural, flat and unedited. Not cinematic, no grade, no glow. No camera app interface, no buttons on the picture.
+
+SHOT 1 (0 to 8 s): One continuous shot. The camera stands on the sidewalk facing a modest single-storey house across a mown front lawn, framed low so there is a large area of plain overcast sky above the roofline. The camera holds, bobbing slightly. A few leaves move on a young tree at the left edge.
+
+REAL-WORLD RULES: every object stays exactly where it is. Nothing morphs, appears or disappears. Nobody is in frame. No readable words, numbers, house numbers, for-sale signs, logos or captions anywhere in frame. The sky stays completely empty.
+
+SOUND: wind, distant traffic, birds. No music. Nobody speaks. No dialogue. No voices.
+
+============================================================
+PART 4 – REJECT CHECKLIST (run on every clip before keeping it)
+============================================================
+Reject and regenerate if any of these are true:
+  1. Any readable word, number or logo anywhere in frame.
+  2. A camera app interface, shutter button, PHOTO/VIDEO label or zoom badge.
+  3. Glossy look: soft glow, blurred background, graded colour.
+  4. Plastic skin: no pores, no lines, even tone, airbrushed.
+  5. Anything morphing, sliding on its own, appearing or disappearing.
+  6. Wrong number of fingers, or impossible finger movement.
+  7. Anyone's mouth moving as if speaking, or any voice on the audio.
+  8. A static object held more than about 3 s with nothing moving.
+  9. A dissolve, fade or morph instead of a hard cut.
+  10. The sheet in CLIP 8 showing any mark at all.
+  11. Landscape instead of vertical. Fix the UI setting, not the prompt.
+
+============================================================
+PART 5 – CAPCUT
+============================================================
+GRADE, to match the storyboard. Generate flat, grade here:
+  Desaturate about 25 percent. Cool the shadows, keep skin warm. Crush the blacks.
+  Dark gradient across the bottom third so white captions read. Light corner vignette.
+  Fine grain over the whole timeline. The grain is what kills the plastic look.
+
+BANNER, pinned top for all 80 s: KEEPING IT ISN'T HOW YOU HONOR THEM
+  Black box, amber outline, white all-caps, two lines.
+
+CAPTIONS: 2 to 3 keywords per line, never the full sentence. White all-caps, one word amber.
+
+NUMBER CARDS over CLIP 6 and CLIP 7, values from the real offer worksheet only:
+  WORTH FIXED UP / REPAIRS AFTER INSPECTION / CLEAN-OUT / COMMISSION /
+  MONTHS OF TAXES WHILE IT SITS / YOUR OFFER
+  Each carries a small amber EXAMPLE badge. The badge labels a worked example.
+  It does not license an invented figure.
+
+COMPARISON CARD over CLIP 7: LIST IT [real range] MONTHS  vs  SELL TO US  YOUR DATE
+
+END CARD over CLIP 10's empty sky: PROPERTY ABUNDANCE / SEE WHAT YOUR OFFER LOOKS LIKE
+  plus the real form screenshot.
+
+VOICEOVER: one calm female narrator, mid-forties, unhurried, no announcer energy.
+  She narrates to "you". She is not a customer and never says she sold a house.
+
+AUDIO: normalise the finished file to -14 LUFS integrated, -1.5 dBTP.
+
+============================================================
+PART 6 – CLAIMS TO CONFIRM BEFORE THIS RUNS
+============================================================
+  1. As-is purchase - no repairs required of the seller, ever.
+  2. No clean-out - the seller can leave belongings behind.
+  3. The offer maths is shown to the seller before they decide.
+  4. Every number card figure comes from the real offer worksheet.
+  5. The list-time range on the comparison card is a real local figure.
+If any is not true, cut the line it supports. Do not soften it.

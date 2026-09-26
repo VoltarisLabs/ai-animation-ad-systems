@@ -1,0 +1,220 @@
+{
+  "character_id": "JMSN-3D",
+  "version": "v1",
+  "created": "2026-09-23",
+  "type": "stylized 3D animated human character",
+  "not_a_variant_of": "Do NOT mix reference images with the photoreal base character. That lockfile carries 'negative: no cartoon styling'. Face is derived from it; the two are separate assets.",
+
+  "render_target": {
+    "medium": "3D computer-animated feature film character, modern CG pipeline",
+    "reference_register": "Pixar / DreamWorks stylization: simplified forms, appealing silhouette, soft subsurface skin, no photoreal pores",
+    "NOT": ["photoreal human", "anime", "cel-shaded 2D", "clay / stop-motion", "low-poly", "realistic skin pores", "video game render"]
+  },
+
+  "measurement_system": {
+    "base_unit": "HW = head width, measured at the widest point of the cheekbones in front view",
+    "secondary_unit": "HH = head height, chin base to crown of skull, hair excluded",
+    "rule": "HH = 1.30 x HW",
+    "why": "Every facial value below is a ratio, not an adjective. Adjectives drift between renders. Ratios do not."
+  },
+
+  "body_proportion": {
+    "total_height_in_heads": 5.5,
+    "note": "realistic human is 7.5 heads; 5.5 is the stylization",
+    "shoulder_width": "2.30 HW",
+    "neck_width": "0.42 HW",
+    "build": "lean athletic, light muscle definition, no bulk",
+    "hand_length": "0.85 HH",
+    "posture": "relaxed, weight on one leg, shoulders down, chin level"
+  },
+
+  "skull": {
+    "overall_shape": "rounded ovoid, cranium noticeably larger than realistic, jaw noticeably smaller",
+    "cranium_width_at_temples": "0.92 HW",
+    "jaw_width_at_gonial_angle": "0.78 HW",
+    "chin_width": "0.34 HW",
+    "chin_shape": "soft rounded square, no cleft, no point",
+    "gonial_angle_degrees": 122,
+    "face_thirds_front_view": {
+      "hairline_to_browline": "0.36 of face height",
+      "browline_to_nose_base": "0.30 of face height",
+      "nose_base_to_chin": "0.34 of face height",
+      "note": "top third is enlarged on purpose; that is the stylization handle"
+    },
+    "eye_line_height": "0.46 HH measured up from chin base",
+    "note_on_eye_line": "below the vertical midpoint of the head, which forces the tall cranium that reads as animated"
+  },
+
+  "eyes": {
+    "eye_opening_width_each": "0.26 HW",
+    "eye_opening_height_each": "0.14 HW",
+    "interocular_gap": "0.24 HW",
+    "outer_corner_to_head_edge": "0.12 HW each side",
+    "arithmetic_check": "0.12 + 0.26 + 0.24 + 0.26 + 0.12 = 1.00 HW",
+    "iris_diameter": "0.13 HW",
+    "iris_fills": "93% of eye opening height",
+    "upper_lid_covers_top_of_iris": "12%",
+    "lower_lid_touches_iris": true,
+    "canthal_tilt_degrees": 6,
+    "canthal_tilt_direction": "outer corner higher than inner corner",
+    "iris_color_hex": "#3A2418",
+    "limbal_ring_hex": "#1C0F08",
+    "limbal_ring_thickness": "0.008 HW",
+    "sclera_hex": "#F2EDE6",
+    "sclera_note": "off-white, never pure #FFFFFF",
+    "catchlight": "one primary specular dot upper-left of each iris, one faint secondary lower-right",
+    "lash_line": "solid soft dark line on upper lid only, no individual lashes"
+  },
+
+  "brows": {
+    "length": "0.30 HW",
+    "thickness": "0.035 HW",
+    "height_above_upper_lid": "0.09 HW",
+    "arch_peak_position": "65% along the brow measured from the inner end",
+    "arch_rise": "0.02 HW above the inner end",
+    "shape": "clean straight-to-soft-arch, groomed, defined edge, not bushy",
+    "color_hex": "#1A1008"
+  },
+
+  "nose": {
+    "width_at_alae": "0.30 HW",
+    "length_browline_to_nose_base": "0.28 HH",
+    "bridge_profile": "low and soft, no bony ridge",
+    "tip_shape": "rounded, slightly full, no point",
+    "tip_projection_front_of_face_plane": "0.13 HW",
+    "nostril_shape": "soft ovals angled 25 degrees from vertical, visible but small",
+    "nasolabial_angle_degrees": 95,
+    "nasofrontal_angle_degrees": 145
+  },
+
+  "mouth": {
+    "resting_width": "0.36 HW",
+    "upper_lip_thickness": "0.035 HW",
+    "lower_lip_thickness": "0.055 HW",
+    "philtrum_length": "0.06 HW",
+    "philtrum_definition": "shallow, two soft ridges",
+    "corner_angle_degrees": 2,
+    "corner_direction": "upturned",
+    "resting_expression": "closed mouth, faint neutral-friendly set, no visible teeth",
+    "lip_color_hex": "#7A4633"
+  },
+
+  "cheeks_and_jaw": {
+    "cheekbone_highpoint_height": "0.55 HH up from chin base",
+    "cheekbone_projection_past_jawline_in_three_quarter_view": "0.06 HW",
+    "cheek_mass": "full soft apple cheeks, rounded, no hollow under the bone",
+    "jawline": "softly defined, readable edge, never sharp or chiselled",
+    "masseter_bulge": "none"
+  },
+
+  "ears": {
+    "top_of_ear_aligns_with": "browline",
+    "bottom_of_ear_aligns_with": "nose base",
+    "ear_height": "0.27 HH",
+    "ear_width": "0.13 HW",
+    "protrusion_angle_degrees": 18,
+    "lobe": "attached, small"
+  },
+
+  "profile_view_lock": {
+    "why": "front view alone lets the model re-invent the side; these values pin it",
+    "forehead_slope_from_vertical_degrees": 12,
+    "brow_ridge_protrusion": "0.02 HW",
+    "eye_set_depth_behind_brow": "0.04 HW",
+    "chin_projection_relative_to_lower_lip": "0.01 HW forward",
+    "chin_to_neck_angle_degrees": 105,
+    "back_of_skull_projection_behind_ear": "0.42 HW",
+    "note": "the back of the skull is large; that mass is what sells the stylization in profile"
+  },
+
+  "three_quarter_view_lock": {
+    "head_yaw_degrees": 35,
+    "far_eye_visible": true,
+    "far_eye_occluded_by_nose": "0%",
+    "far_cheek_silhouette": "cheekbone breaks the face contour by 0.03 HW",
+    "far_nostril_visible": false
+  },
+
+  "hair": {
+    "style": "very short 360 waves buzz cut",
+    "shell_thickness_above_skull": "0.015 HW",
+    "volume": "zero lift, sits flat against the skull, follows the cranium silhouette exactly",
+    "wave_pattern": "subtle concentric ripple, rendered as a fine normal-map detail only, never as geometry",
+    "sides": "clean tapered fade down to bare skin at the temples and above the ears",
+    "hairline": "sharp lined-up front hairline, straight across, square corners at the temples",
+    "surface": "matte, no specular sheen, no individual strands",
+    "color_hex": "#14100C",
+    "NOT": ["afro", "any volume on top", "waves with height", "puffy hair", "curls", "individual hair strands", "hair that rises above the skull silhouette"]
+  },
+
+  "facial_hair": {
+    "mustache": {
+      "width": "0.22 HW",
+      "thickness": "0.02 HW",
+      "gap_below_nose_base": "0.015 HW",
+      "density": "thin, even, groomed"
+    },
+    "goatee": {
+      "location": "chin patch only",
+      "width": "0.16 HW",
+      "height": "0.09 HW",
+      "connects_to_mustache": false,
+      "connects_to_jawline": false
+    },
+    "color_hex": "#14100C",
+    "NOT": ["full beard", "jawline connection", "stubble on the cheeks", "sideburns past the ear lobe"]
+  },
+
+  "skin": {
+    "tone": "warm medium brown",
+    "base_albedo_hex": "#9A6B4A",
+    "shadow_hex": "#6B4630",
+    "highlight_hex": "#C08F68",
+    "subsurface_scattering": "soft, warm red-orange, strongest at the ears, nose alae and finger edges",
+    "surface": "smooth stylized skin with a soft even sheen",
+    "specular_hotspots": ["forehead centre", "nose tip", "both cheekbones", "lower lip"],
+    "NOT": ["visible pores", "wrinkles", "blemishes", "freckles", "photoreal skin texture"],
+    "consistency_rule": "hands, neck and ears use the identical albedo hex as the face"
+  },
+
+  "wardrobe_default": {
+    "top": "fitted plain black crewneck t-shirt, no logo, no text, soft cotton shading, short sleeves ending mid-bicep",
+    "bottom": "black tapered joggers, soft fabric folds, cuffed at the ankle",
+    "shoes": "clean plain black low-top sneakers, white sole",
+    "accessories": "none",
+    "note": "wardrobe is the one block you may swap per scene; everything above it stays frozen"
+  },
+
+  "lighting_default": {
+    "key": "soft large area light, 35 degrees camera-left, 20 degrees above eye level",
+    "fill": "cool ambient bounce, 1:3 ratio to key",
+    "rim": "warm narrow rim from behind camera-right, separates the head from the background",
+    "note": "lighting is a style handle, not an identity handle; change it freely once the face is locked"
+  },
+
+  "camera_default": {
+    "lens_equivalent_mm": 50,
+    "height": "character eye level",
+    "framing": "chest up",
+    "aspect_ratio": "4:5"
+  },
+
+  "negative_prompt": [
+    "photoreal human",
+    "realistic skin pores or wrinkles",
+    "anime or manga styling",
+    "cel-shaded flat 2D",
+    "clay or stop-motion texture",
+    "low-poly or faceted geometry",
+    "afro, volume on top, puffy hair, curls",
+    "full beard or jawline beard",
+    "elongated or narrow face",
+    "sharp chiselled jaw",
+    "earrings, piercings, chains, rings, watches",
+    "logos or readable text anywhere in frame",
+    "teeth showing in a wide grin",
+    "skin tone on hands or neck different from the face",
+    "pure white sclera",
+    "extra fingers, malformed hands"
+  ]
+}

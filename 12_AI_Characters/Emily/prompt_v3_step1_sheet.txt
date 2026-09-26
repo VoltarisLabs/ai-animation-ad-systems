@@ -1,0 +1,40 @@
+{
+  "TASK": "Create a character reference sheet for EMILY, a new original woman. She is an AI character and must not look like any real person. No input images.",
+  "LAYOUT": {
+    "format": "One wide image with 5 equal vertical panels side by side, thin white gaps between them.",
+    "panel_1_far_left": "FRONT NEUTRAL. Head and shoulders, facing the camera dead-front, calm neutral expression, lips closed.",
+    "panel_2": "FRONT SMILE. Head and shoulders, facing the camera, warm natural smile showing teeth, cheeks lifted, the dimple in her left cheek visible.",
+    "panel_3": "3/4 RIGHT. Head and shoulders, face turned 45 degrees toward the right edge of the frame, eyes to the camera.",
+    "panel_4": "PROFILE LEFT. Head and shoulders, full 90-degree side profile, nose pointing to the left edge of the frame.",
+    "panel_5_far_right": "FULL BODY. Standing head to feet, facing the camera, arms relaxed at her sides.",
+    "background": "The same plain light-grey studio backdrop in every panel.",
+    "lighting": "The same soft, even key light in every panel.",
+    "text": "NO text, NO labels, NO title."
+  },
+  "FORENSIC_FACE_LOCK": {
+    "identity": "White American woman, 42 years old.",
+    "face_shape": "ROUND: almost as wide as it is long, full soft cheeks, short rounded chin, soft jawline with no sharp angles, no hollow cheekbones.",
+    "skin": "Fair with a warm peach undertone, light freckles across her nose and upper cheeks, visible pores, faint smile lines and fine lines at the eye corners. Unretouched.",
+    "eyes": "Hazel-green, round, set slightly wide apart, slightly hooded lids.",
+    "eyebrows": "Low, straight, soft light brown, no arch.",
+    "nose": "Small, narrow straight bridge, softly rounded button tip, small nostrils.",
+    "lips": "Full lower lip, softer upper lip, natural colour, no lipstick.",
+    "dimple": "One small dimple in her left cheek when she smiles.",
+    "ears": "Close to the head, small lobes.",
+    "hair": "Dark honey-blonde, shoulder length, soft natural waves, middle part, a few flyaway strands."
+  },
+  "BODY_LOCK": "About 5'5\", soft medium build, natural proportions. Not model-thin, not athletic.",
+  "WARDROBE": "Plain white crew-neck t-shirt, mid-blue straight jeans, white sneakers. No jewelry.",
+  "CONSISTENCY": "The SAME woman in all 5 panels: same face shape, eyes, nose, freckles, dimple and hair.",
+  "STYLE": "Photorealistic studio reference photos, 85mm, f/5.6, natural skin texture, no beauty filter, no heavy makeup.",
+  "STRICTLY_EXCLUDED": [
+    "NO long oval face, NO high sharp cheekbones, NO pointed chin",
+    "NO dark or arched eyebrows",
+    "NO broad nose, NO wide nostrils",
+    "NO deep-set brown eyes",
+    "NO balayage streaks, NO side part, NO bangs",
+    "NO smooth plastic skin, NO beauty filter",
+    "NO jewelry, NO text, NO labels, NO watermark",
+    "NO different faces between panels"
+  ]
+}

@@ -1,0 +1,264 @@
+PROPERTY ABUNDANCE – AD 1 "STILL BUYING" – 12 SELF-CONTAINED SHOT PROMPTS FOR CHATGPT
+Paste one block per message. Each block stands alone: no reference image, no follow-up questions needed.
+
+SHOT 1 — 4.8-second UGC hook (he speaks)
+Generate ONLY this shot. Do not ask any questions, do not ask for a reference image, do not combine it with another shot.
+
+Realistic handheld amateur UGC footage, vertical 9:16, 1080x1920, 30 fps, shutter 1/60 s so movement keeps a little natural blur. Roughly a 26 mm equivalent lens, deep focus, plain slightly flat colours with mild highlight clipping. Continuous gentle handheld sway of about 1.5 degrees, the horizon never perfectly level. Not cinematic, no colour grade, no glow, no slow motion, no drone or gimbal moves.
+
+SCENE: Inside an empty 1958 single-storey house. Bare pine floorboards with a clear 2.4 m by 3.1 m dusty rectangle where a rug used to sit, one uncovered window 1.1 m wide with an old curtain rail, dirty walls, a painted light-switch plate, a missing outlet cover, scuffed door frames, a ceiling smoke detector. Cool daylight through the dirty glass.
+
+PEOPLE: A rugged 38-year-old American man, 1.78 m, 95 kg, stocky and a bit heavy, short dark brown hair with a cowlick at the crown, three days of uneven stubble with a few grey hairs on the chin, sunburnt nose, tanned forearms with a clear tan line at the sleeve, hazel eyes with crow's feet, a 2 cm pale scar on the back of his right hand. Completely ordinary looking, not a model. He wears a faded navy cotton t-shirt with no logo and a small bleach spot near the left hem, mid blue jeans with drywall dust on both knees, brown leather work boots with dried mud on them, and a cheap black rubber watch with a scratched face on his left wrist.
+
+CAMERA: Handheld selfie perspective, camera about 0.62 m from his face and 1.62 m above the floor, tilted about 12 degrees up so the ceiling line stays visible. His head fills about 27 percent of the frame height and sits near the left third. The empty room runs about 6 m behind him.
+
+ACTION: He walks backward at about 0.6 m/s, covering roughly 3 m, so the window starts behind his left shoulder and drifts out of frame. He looks straight into the lens, eyebrows up, a small amused grin, and taps his chest twice with his free hand on the word good.
+
+DIALOGUE (spoken out loud by him, natural American accent, no subtitles on screen): Hole in the floor? Roof shot? Good. That's the house I want.
+
+IMPERFECTIONS TO KEEP: As the camera passes the bright window the exposure goes noticeably over-bright for about 0.4 seconds before settling back. His voice is close and a touch loud with bare-wall room echo.
+
+SOUND: His voice close on the microphone, boot heels on hollow floorboards, a distant lawnmower. No music.
+
+RULES: Do not add captions, subtitles, text, numbers, logos or watermarks anywhere. Do not draw a phone screen, camera app, buttons or a recording dot. Objects stay exactly where they are unless a hand or foot moves them, nothing appears or disappears, every hand has five fingers.
+
+======================================================================
+
+SHOT 2 — 1.1-second cutaway, the floor hole (no speech)
+Generate ONLY this shot. Do not ask any questions, do not ask for a reference image, do not combine it with another shot.
+
+Realistic handheld amateur UGC footage, vertical 9:16, 1080x1920, 30 fps, shutter 1/60 s so movement keeps a little natural blur. Roughly a 26 mm equivalent lens, deep focus, plain slightly flat colours with mild highlight clipping. Continuous gentle handheld sway of about 1.5 degrees, the horizon never perfectly level. Not cinematic, no colour grade, no glow, no slow motion, no drone or gimbal moves.
+
+SCENE: The back bedroom of the same empty house. A hole 0.55 m by 0.40 m broken through the floorboards, boards snapped downward with pale splinters 3 to 7 cm long, a black joist visible about 0.28 m below, plaster dust and mouse droppings around the edge.
+
+PEOPLE: No person visible except a pair of brown leather work boots with dried mud, worn with mid blue jeans dusty at the knees.
+
+CAMERA: No operator in frame. The camera starts 1.45 m high and 2.2 m from the hole, walks forward at about 0.55 m/s and tilts down about 38 degrees over 3 seconds until the hole fills the lower two thirds of the frame from 0.9 m away, then holds, still swaying.
+
+ACTION: The boots step to the far edge of the hole. The right toe nudges a loose board about 8 cm, the board rocks twice and settles, tipping a little dust into the hole.
+
+IMPERFECTIONS TO KEEP: The autofocus hunts and goes soft for about 0.3 seconds as the camera reaches the hole, then snaps sharp. Dust motes drift through the window light.
+
+SOUND: Floorboards creaking under weight, a dry wooden knock as the board settles, an empty house with no traffic. No music.
+
+RULES: Do not add captions, subtitles, text, numbers, logos or watermarks anywhere. Do not draw a phone screen, camera app, buttons or a recording dot. Objects stay exactly where they are unless a hand or foot moves them, nothing appears or disappears, every hand has five fingers.
+
+======================================================================
+
+SHOT 3 — 4.4-second objection line (he speaks)
+Generate ONLY this shot. Do not ask any questions, do not ask for a reference image, do not combine it with another shot.
+
+Realistic handheld amateur UGC footage, vertical 9:16, 1080x1920, 30 fps, shutter 1/60 s so movement keeps a little natural blur. Roughly a 26 mm equivalent lens, deep focus, plain slightly flat colours with mild highlight clipping. Continuous gentle handheld sway of about 1.5 degrees, the horizon never perfectly level. Not cinematic, no colour grade, no glow, no slow motion, no drone or gimbal moves.
+
+SCENE: The same back bedroom, standing on the solid side of the hole. The broken hole is visible at the bottom right of the frame, about 1.3 m behind him and below.
+
+PEOPLE: A rugged 38-year-old American man, 1.78 m, 95 kg, stocky and a bit heavy, short dark brown hair with a cowlick at the crown, three days of uneven stubble with a few grey hairs on the chin, sunburnt nose, tanned forearms with a clear tan line at the sleeve, hazel eyes with crow's feet, a 2 cm pale scar on the back of his right hand. Completely ordinary looking, not a model. He wears a faded navy cotton t-shirt with no logo and a small bleach spot near the left hem, mid blue jeans with drywall dust on both knees, brown leather work boots with dried mud on them, and a cheap black rubber watch with a scratched face on his left wrist.
+
+CAMERA: Handheld selfie perspective, camera about 0.58 m from his face and 1.58 m high, tilted about 8 degrees up. Static apart from handheld sway.
+
+ACTION: He glances down at the hole, then back into the lens. He shrugs with both shoulders and turns one palm up. He is not smiling on the first line and the half grin returns on the last word.
+
+DIALOGUE (spoken out loud by him, natural American accent, no subtitles on screen): You think I'm going to lowball you. Fair. Most guys do.
+
+IMPERFECTIONS TO KEEP: He glances off-lens for a fraction of a second, the way real people do. One stray hair moves on his crown.
+
+SOUND: His voice close on the microphone, boots shifting on boards, an empty house. No music.
+
+RULES: Do not add captions, subtitles, text, numbers, logos or watermarks anywhere. Do not draw a phone screen, camera app, buttons or a recording dot. Objects stay exactly where they are unless a hand or foot moves them, nothing appears or disappears, every hand has five fingers.
+
+======================================================================
+
+SHOT 4 — 1.1-second cutaway, the ceiling leak (no speech)
+Generate ONLY this shot. Do not ask any questions, do not ask for a reference image, do not combine it with another shot.
+
+Realistic handheld amateur UGC footage, vertical 9:16, 1080x1920, 30 fps, shutter 1/60 s so movement keeps a little natural blur. Roughly a 26 mm equivalent lens, deep focus, plain slightly flat colours with mild highlight clipping. Continuous gentle handheld sway of about 1.5 degrees, the horizon never perfectly level. Not cinematic, no colour grade, no glow, no slow motion, no drone or gimbal moves.
+
+SCENE: The hallway of the same house. A brown water stain about 0.8 m across on the ceiling at 2.45 m, paint blistered at the centre, a dented galvanised bucket on worn carpet below with 3 cm of brown water already in it.
+
+PEOPLE: No people in frame.
+
+CAMERA: No operator in frame. The camera starts tilted up at the stain from 1.5 m away, then tilts down about 52 degrees over 3 seconds to the bucket.
+
+ACTION: Drips fall from the lowest point of the blister every 1.5 seconds. Each drop falls 2.15 m in 0.66 seconds and lands at about 6.5 m/s, so it hits hard and throws a splash ring 4 to 6 cm wide, and the water keeps rippling for about a second after each hit.
+
+IMPERFECTIONS TO KEEP: The picture briefly over-brightens on the pale ceiling, then settles as it reaches the darker floor.
+
+SOUND: A clean metallic plink every 1.5 seconds and house silence between drips. No music.
+
+RULES: Do not add captions, subtitles, text, numbers, logos or watermarks anywhere. Do not draw a phone screen, camera app, buttons or a recording dot. Objects stay exactly where they are unless a hand or foot moves them, nothing appears or disappears, every hand has five fingers.
+
+======================================================================
+
+SHOT 5 — 4.4-second garage line (he speaks)
+Generate ONLY this shot. Do not ask any questions, do not ask for a reference image, do not combine it with another shot.
+
+Realistic handheld amateur UGC footage, vertical 9:16, 1080x1920, 30 fps, shutter 1/60 s so movement keeps a little natural blur. Roughly a 26 mm equivalent lens, deep focus, plain slightly flat colours with mild highlight clipping. Continuous gentle handheld sway of about 1.5 degrees, the horizon never perfectly level. Not cinematic, no colour grade, no glow, no slow motion, no drone or gimbal moves.
+
+SCENE: The open doorway of a detached single garage 2.7 m wide, packed floor to ceiling with plain cardboard boxes with no writing on them, a bicycle hanging by one wheel, stacked plastic bins, a rolled carpet, a broken table lamp. Late afternoon sun about 37 degrees above the horizon rakes in from behind the camera, so his shadow falls about 2.4 m into the garage and dust hangs in the light.
+
+PEOPLE: A rugged 38-year-old American man, 1.78 m, 95 kg, stocky and a bit heavy, short dark brown hair with a cowlick at the crown, three days of uneven stubble with a few grey hairs on the chin, sunburnt nose, tanned forearms with a clear tan line at the sleeve, hazel eyes with crow's feet, a 2 cm pale scar on the back of his right hand. Completely ordinary looking, not a model. He wears a faded navy cotton t-shirt with no logo and a small bleach spot near the left hem, mid blue jeans with drywall dust on both knees, brown leather work boots with dried mud on them, and a cheap black rubber watch with a scratched face on his left wrist.
+
+CAMERA: Handheld selfie perspective, camera about 0.6 m from his face and 1.6 m high, level. He stands three quarters turned so both he and the packed stack are in frame, the nearest box corner about 0.4 m behind his shoulder.
+
+ACTION: He talks into the lens, then sweeps his left arm back across the junk on the word leave, and the dust swirls where his arm passes.
+
+DIALOGUE (spoken out loud by him, natural American accent, no subtitles on screen): Garage packed to the ceiling? Leave it. Don't clean a thing.
+
+IMPERFECTIONS TO KEEP: Sweat shine on the sunlit side of his forehead. A slight wind pop on the microphone on the word packed.
+
+SOUND: His voice close on the microphone, a faint breeze, birds, a car two streets away. No music.
+
+RULES: Do not add captions, subtitles, text, numbers, logos or watermarks anywhere. Do not draw a phone screen, camera app, buttons or a recording dot. Objects stay exactly where they are unless a hand or foot moves them, nothing appears or disappears, every hand has five fingers.
+
+======================================================================
+
+SHOT 6 — 1.1-second cutaway, the garage door (no speech)
+Generate ONLY this shot. Do not ask any questions, do not ask for a reference image, do not combine it with another shot.
+
+Realistic handheld amateur UGC footage, vertical 9:16, 1080x1920, 30 fps, shutter 1/60 s so movement keeps a little natural blur. Roughly a 26 mm equivalent lens, deep focus, plain slightly flat colours with mild highlight clipping. Continuous gentle handheld sway of about 1.5 degrees, the horizon never perfectly level. Not cinematic, no colour grade, no glow, no slow motion, no drone or gimbal moves.
+
+SCENE: The same garage seen from the driveway outside. The driveway has an oil stain about 0.6 m across in the foreground and a crack running diagonally across the concrete.
+
+PEOPLE: No people in frame.
+
+CAMERA: No operator in frame, 3.5 m back from the door and 1.5 m high, level, stepping in about 1.2 m during the shot.
+
+ACTION: The door is already 1.2 m up and still rising at about 0.18 m/s, so the last 0.9 m takes roughly 5 seconds. The packed stack is revealed from the bottom up: bins, then boxes, then the bicycle wheel near the top. Dust falls from the door track.
+
+IMPERFECTIONS TO KEEP: The picture darkens for about half a second as the bright door panel leaves the frame and the dark garage fills it.
+
+SOUND: A chain opener grinding, metal panels rattling over the rollers, the motor stopping with a clunk. No music.
+
+RULES: Do not add captions, subtitles, text, numbers, logos or watermarks anywhere. Do not draw a phone screen, camera app, buttons or a recording dot. Objects stay exactly where they are unless a hand or foot moves them, nothing appears or disappears, every hand has five fingers.
+
+======================================================================
+
+SHOT 7 — 1.1-second cutaway, he laughs (no speech)
+Generate ONLY this shot. Do not ask any questions, do not ask for a reference image, do not combine it with another shot.
+
+Realistic handheld amateur UGC footage, vertical 9:16, 1080x1920, 30 fps, shutter 1/60 s so movement keeps a little natural blur. Roughly a 26 mm equivalent lens, deep focus, plain slightly flat colours with mild highlight clipping. Continuous gentle handheld sway of about 1.5 degrees, the horizon never perfectly level. Not cinematic, no colour grade, no glow, no slow motion, no drone or gimbal moves.
+
+SCENE: Inside the packed garage, in a gap about 0.7 m wide between two stacks of boxes.
+
+PEOPLE: A rugged 38-year-old American man, 1.78 m, 95 kg, stocky and a bit heavy, short dark brown hair with a cowlick at the crown, three days of uneven stubble with a few grey hairs on the chin, sunburnt nose, tanned forearms with a clear tan line at the sleeve, hazel eyes with crow's feet, a 2 cm pale scar on the back of his right hand. Completely ordinary looking, not a model. He wears a faded navy cotton t-shirt with no logo and a small bleach spot near the left hem, mid blue jeans with drywall dust on both knees, brown leather work boots with dried mud on them, and a cheap black rubber watch with a scratched face on his left wrist.
+
+CAMERA: No operator in frame, 2.0 m from him and 1.4 m high, tilted about 4 degrees up.
+
+ACTION: He leans his head and right shoulder around the left stack, looks at the camera, laughs once with his head back, waves his right hand twice palm down as if to say leave it, then steps back out of sight. His shoulder bumps the stack on the way and the top box shifts about 2 cm and stays there.
+
+IMPERFECTIONS TO KEEP: A real short laugh rather than a posed one, cardboard scraping.
+
+SOUND: His laugh, cardboard shifting, a hollow garage echo. No music.
+
+RULES: Do not add captions, subtitles, text, numbers, logos or watermarks anywhere. Do not draw a phone screen, camera app, buttons or a recording dot. Objects stay exactly where they are unless a hand or foot moves them, nothing appears or disappears, every hand has five fingers.
+
+======================================================================
+
+SHOT 8 — 1.1-second cutaway, the overgrown yard (no speech)
+Generate ONLY this shot. Do not ask any questions, do not ask for a reference image, do not combine it with another shot.
+
+Realistic handheld amateur UGC footage, vertical 9:16, 1080x1920, 30 fps, shutter 1/60 s so movement keeps a little natural blur. Roughly a 26 mm equivalent lens, deep focus, plain slightly flat colours with mild highlight clipping. Continuous gentle handheld sway of about 1.5 degrees, the horizon never perfectly level. Not cinematic, no colour grade, no glow, no slow motion, no drone or gimbal moves.
+
+SCENE: The back yard of the same house. Grass and weeds 0.9 to 1.1 m high across a 12 m run, a rusted swing frame at the back fence, a plastic chair on its side. Grass blades cross the lower third of the lens.
+
+PEOPLE: A rugged 38-year-old American man, 1.78 m, 95 kg, stocky and a bit heavy, short dark brown hair with a cowlick at the crown, three days of uneven stubble with a few grey hairs on the chin, sunburnt nose, tanned forearms with a clear tan line at the sleeve, hazel eyes with crow's feet, a 2 cm pale scar on the back of his right hand. Completely ordinary looking, not a model. He wears a faded navy cotton t-shirt with no logo and a small bleach spot near the left hem, mid blue jeans with drywall dust on both knees, brown leather work boots with dried mud on them, and a cheap black rubber watch with a scratched face on his left wrist.
+
+CAMERA: No operator in frame, 1.35 m high, tilted about 3 degrees down, static apart from sway.
+
+ACTION: He starts about 7 m away and walks straight toward the lens through the weeds at about 0.85 m/s, covering roughly 6.8 m, pushing the grass down with both forearms so the stalks spring back behind him and seed heads fly. He ends close to the camera, grinning.
+
+IMPERFECTIONS TO KEEP: The focus hunts for about 0.3 seconds as he crosses 1.5 m, and a grass blade slaps the lens near the end.
+
+SOUND: Dry grass swishing against denim, steady footsteps, insects, a light wind. No music.
+
+RULES: Do not add captions, subtitles, text, numbers, logos or watermarks anywhere. Do not draw a phone screen, camera app, buttons or a recording dot. Objects stay exactly where they are unless a hand or foot moves them, nothing appears or disappears, every hand has five fingers.
+
+======================================================================
+
+SHOT 9 — 5.2-second offer-math line (he speaks)
+Generate ONLY this shot. Do not ask any questions, do not ask for a reference image, do not combine it with another shot.
+
+Realistic handheld amateur UGC footage, vertical 9:16, 1080x1920, 30 fps, shutter 1/60 s so movement keeps a little natural blur. Roughly a 26 mm equivalent lens, deep focus, plain slightly flat colours with mild highlight clipping. Continuous gentle handheld sway of about 1.5 degrees, the horizon never perfectly level. Not cinematic, no colour grade, no glow, no slow motion, no drone or gimbal moves.
+
+SCENE: The front porch steps of the same house, three wooden steps with the paint worn through in the centre of each tread. Late afternoon sun about 37 degrees up puts a hard shadow line across his chest.
+
+PEOPLE: A rugged 38-year-old American man, 1.78 m, 95 kg, stocky and a bit heavy, short dark brown hair with a cowlick at the crown, three days of uneven stubble with a few grey hairs on the chin, sunburnt nose, tanned forearms with a clear tan line at the sleeve, hazel eyes with crow's feet, a 2 cm pale scar on the back of his right hand. Completely ordinary looking, not a model. He wears a faded navy cotton t-shirt with no logo and a small bleach spot near the left hem, mid blue jeans with drywall dust on both knees, brown leather work boots with dried mud on them, and a cheap black rubber watch with a scratched face on his left wrist.
+
+CAMERA: Handheld selfie perspective, camera about 0.65 m from his face and 1.25 m high because he is sitting, tilted about 6 degrees up. Static apart from sway.
+
+ACTION: He sits on the second step with his elbows on his knees and counts on his free hand: one finger on worth fixed up, two on minus repairs, three on minus my costs, then taps his knee once on the last line.
+
+DIALOGUE (spoken out loud by him, natural American accent, no subtitles on screen): Here's my math. Worth fixed up, minus repairs, minus my costs. On paper.
+
+IMPERFECTIONS TO KEEP: He pauses half a beat before on paper, like a man thinking rather than reciting.
+
+SOUND: His voice close on the microphone, a porch board creak as he shifts, birds, a distant dog. No music.
+
+RULES: Do not add captions, subtitles, text, numbers, logos or watermarks anywhere. Do not draw a phone screen, camera app, buttons or a recording dot. Objects stay exactly where they are unless a hand or foot moves them, nothing appears or disappears, every hand has five fingers.
+
+======================================================================
+
+SHOT 10 — 2.5-second kitchen table scene (no clear speech)
+Generate ONLY this shot. Do not ask any questions, do not ask for a reference image, do not combine it with another shot.
+
+Realistic handheld amateur UGC footage, vertical 9:16, 1080x1920, 30 fps, shutter 1/60 s so movement keeps a little natural blur. Roughly a 26 mm equivalent lens, deep focus, plain slightly flat colours with mild highlight clipping. Continuous gentle handheld sway of about 1.5 degrees, the horizon never perfectly level. Not cinematic, no colour grade, no glow, no slow motion, no drone or gimbal moves.
+
+SCENE: A dated but clean suburban kitchen: oak cabinets, a table 0.76 m high with four chairs, a fridge covered in photos and a school calendar held by magnets, a fruit bowl with two bananas going brown, a phone charger cable on the counter, a window over the sink with cool daylight and one warm ceiling bulb on.
+
+PEOPLE: A rugged 38-year-old American man, 1.78 m, 95 kg, stocky and a bit heavy, short dark brown hair with a cowlick at the crown, three days of uneven stubble with a few grey hairs on the chin, sunburnt nose, tanned forearms with a clear tan line at the sleeve, hazel eyes with crow's feet, a 2 cm pale scar on the back of his right hand. Completely ordinary looking, not a model. He wears a faded navy cotton t-shirt with no logo and a small bleach spot near the left hem, mid blue jeans with drywall dust on both knees, brown leather work boots with dried mud on them, and a cheap black rubber watch with a scratched face on his left wrist. A 45-year-old American woman, 1.63 m, ordinary looking with no makeup, dark brown hair with greys at the part pulled into a loose ponytail with strands loose at the temples, freckles across her nose, fine lines at her eyes, short unpainted nails, a thin plain wedding band. She wears a heather grey cotton hoodie with the sleeves pushed to her elbows and slight pilling at the cuffs, a plain white t-shirt at the collar, dark blue jeans faded at the knees, and off-white canvas sneakers with grey soles.
+
+CAMERA: No operator in frame. The camera sits at the end of the table, 1.9 m from the pair, 1.45 m high, tilted about 22 degrees down so the tabletop reads and both people stay in frame.
+
+ACTION: They sit side by side on the long edge about 0.45 m apart, him on the left. One sheet of white paper lies between them, turned about 90 degrees toward her so any writing runs sideways to the lens and is too small to read. He taps the paper with a capped black ballpoint three times at about 1.2 second intervals, each tap roughly 4 cm lower down the page, talking quietly. She leans in about 15 cm, raises her eyebrows, nods once and sits back. Her coffee mug stays at the top right corner of the paper the whole time.
+
+IMPERFECTIONS TO KEEP: The fridge compressor hums and cuts out partway through, and a chair creaks when she leans in.
+
+SOUND: Calm friendly talking with no clear words, a pen tapping on paper over a wooden table, the fridge, a clock. No music.
+
+RULES: Do not add captions, subtitles, text, numbers, logos or watermarks anywhere. Do not draw a phone screen, camera app, buttons or a recording dot. Objects stay exactly where they are unless a hand or foot moves them, nothing appears or disappears, every hand has five fingers.
+
+======================================================================
+
+SHOT 11 — 2.5-second keys and walk-away (no speech)
+Generate ONLY this shot. Do not ask any questions, do not ask for a reference image, do not combine it with another shot.
+
+Realistic handheld amateur UGC footage, vertical 9:16, 1080x1920, 30 fps, shutter 1/60 s so movement keeps a little natural blur. Roughly a 26 mm equivalent lens, deep focus, plain slightly flat colours with mild highlight clipping. Continuous gentle handheld sway of about 1.5 degrees, the horizon never perfectly level. Not cinematic, no colour grade, no glow, no slow motion, no drone or gimbal moves.
+
+SCENE: The front porch and lawn of the same house in late afternoon, the sun low at about 22 degrees so shadows run about 4.5 m long. A silver hatchback is parked at the kerb about 9 m from the porch steps.
+
+PEOPLE: A rugged 38-year-old American man, 1.78 m, 95 kg, stocky and a bit heavy, short dark brown hair with a cowlick at the crown, three days of uneven stubble with a few grey hairs on the chin, sunburnt nose, tanned forearms with a clear tan line at the sleeve, hazel eyes with crow's feet, a 2 cm pale scar on the back of his right hand. Completely ordinary looking, not a model. He wears a faded navy cotton t-shirt with no logo and a small bleach spot near the left hem, mid blue jeans with drywall dust on both knees, brown leather work boots with dried mud on them, and a cheap black rubber watch with a scratched face on his left wrist. A 45-year-old American woman, 1.63 m, ordinary looking with no makeup, dark brown hair with greys at the part pulled into a loose ponytail with strands loose at the temples, freckles across her nose, fine lines at her eyes, short unpainted nails, a thin plain wedding band. She wears a heather grey cotton hoodie with the sleeves pushed to her elbows and slight pilling at the cuffs, a plain white t-shirt at the collar, dark blue jeans faded at the knees, and off-white canvas sneakers with grey soles.
+
+CAMERA: No operator in frame, standing on the lawn 4.0 m from the porch and 1.5 m high, level, panning left about 35 degrees to follow her and ending on the car.
+
+ACTION: She holds a ring of four keys about 0.35 m above his open palm and lets go. They fall for 0.27 seconds and land at about 2.6 m/s, so they hit with a real slap, bounce about 2 cm and settle. She laughs once, shakes her head, turns and walks down three steps and across the lawn at about 1.3 m/s carrying only a purse. He stays on the porch and lifts one hand in a wave.
+
+IMPERFECTIONS TO KEEP: The pan is slightly late catching her and then corrects. Her long shadow crosses the frame before she does.
+
+SOUND: Keys hitting a palm, a real laugh, three hollow porch steps, footsteps on dry grass, a car door, birds. No music.
+
+RULES: Do not add captions, subtitles, text, numbers, logos or watermarks anywhere. Do not draw a phone screen, camera app, buttons or a recording dot. Objects stay exactly where they are unless a hand or foot moves them, nothing appears or disappears, every hand has five fingers.
+
+======================================================================
+
+SHOT 12 — 5.2-second proof-of-funds close (he speaks)
+Generate ONLY this shot. Do not ask any questions, do not ask for a reference image, do not combine it with another shot.
+
+Realistic handheld amateur UGC footage, vertical 9:16, 1080x1920, 30 fps, shutter 1/60 s so movement keeps a little natural blur. Roughly a 26 mm equivalent lens, deep focus, plain slightly flat colours with mild highlight clipping. Continuous gentle handheld sway of about 1.5 degrees, the horizon never perfectly level. Not cinematic, no colour grade, no glow, no slow motion, no drone or gimbal moves.
+
+SCENE: The same porch, standing where she left, the front door about 1.2 m behind him. The low sun at about 22 degrees comes from camera left, so one side of his face is warm and the other is in shade.
+
+PEOPLE: A rugged 38-year-old American man, 1.78 m, 95 kg, stocky and a bit heavy, short dark brown hair with a cowlick at the crown, three days of uneven stubble with a few grey hairs on the chin, sunburnt nose, tanned forearms with a clear tan line at the sleeve, hazel eyes with crow's feet, a 2 cm pale scar on the back of his right hand. Completely ordinary looking, not a model. He wears a faded navy cotton t-shirt with no logo and a small bleach spot near the left hem, mid blue jeans with drywall dust on both knees, brown leather work boots with dried mud on them, and a cheap black rubber watch with a scratched face on his left wrist.
+
+CAMERA: Handheld selfie perspective, camera about 0.6 m from his face and 1.6 m high, tilted about 5 degrees up. Static apart from sway.
+
+ACTION: He talks into the lens, calm and direct. He shrugs one shoulder on ask any buyer, then points down past the bottom of the frame twice on the last line.
+
+DIALOGUE (spoken out loud by him, natural American accent, no subtitles on screen): Ask me for proof of funds. Then tap below and see your number.
+
+IMPERFECTIONS TO KEEP: He blinks against the low sun and squints slightly with his left eye. A moth crosses the frame near the end.
+
+SOUND: His voice close on the microphone, evening birds, a car passing one street over. No music.
+
+RULES: Do not add captions, subtitles, text, numbers, logos or watermarks anywhere. Do not draw a phone screen, camera app, buttons or a recording dot. Objects stay exactly where they are unless a hand or foot moves them, nothing appears or disappears, every hand has five fingers.
+
+======================================================================

@@ -1,0 +1,208 @@
+PROPERTY ABUNDANCE – AD 14 "THE JAR" – FULL VIDEO PLAN v1
+Avatar: Emily (the heir). Script: the nested-loop stack "The jar", picked 2026-09-25.
+Look: a POV phone vlog like the toast_with_hope reference (real footage, voice-over, short action shots, no talking face).
+Tool: Gemini (Veo) or Dreamina. One clip per request. Every clip 9:16. Never mix frame sizes.
+The video tool makes silent pictures only. Voice-over, captions, overlays, form and logo go in CapCut.
+Timings come from a draft edge-tts voice (en-US-AvaNeural, rate -6%): 56.31 s, 147 words, 156.6 wpm.
+Re-time every shot after you record the final voice.
+
+============================================================
+PART 0 – CONFIRM BEFORE YOU SHOOT
+============================================================
+Line 8 ⚠: do you show sellers how the offer is built? If not, use 8-ALT.
+Line 9 ⚠: "Leave the house" hints that they skip the clean-out. If you don't buy with belongings inside, use 9-ALT.
+Website: propertyabundanceusa.com returned HTTP 403 on 2026-09-22. Fix it before the ad sends traffic.
+
+============================================================
+PART 1 – SCRIPT (voice-over + captions)
+============================================================
+1   0.00-3.94    OPEN A   "You're not keeping the house. You're keeping the jar in the fridge."
+                          CAPTION: THE JAR
+2   4.29-10.74   payload  "Everybody has one. The jar. The coat on the hook. The chair nobody sits in."
+                          CAPTION: none
+3   11.09-15.24  OPEN B   "And the thing you're scared a buyer will notice: how tired you are."
+                          CAPTION: HOW TIRED YOU ARE
+4   15.59-19.58  payload  "You've driven back four times this month. It shows."
+                          CAPTION: 4TH TRIP
+5   19.93-24.25  OPEN C   "The buyer who pays the most isn't always the one who leaves you the most."
+                          CAPTION: PAYS MOST ≠ LEAVES MOST
+6   24.60-33.31  payload  "Pay the agent. Pay for whatever the inspection finds. Pay the tax, the insurance and the heat for every month it sits."
+                          CAPTION: AGENT / REPAIRS / TAX / HEAT (one word per "Pay")
+7   33.66-40.40  CLOSE C  "That's why the highest price and the most money in your pocket aren't the same thing. Add it up before you pick."
+                          CAPTION: ADD IT UP
+8   40.75-47.76  CLOSE B ⚠ "That's why being tired doesn't cost you here. You see how the number is built, line by line, before you say yes."
+                          CAPTION: WORTH FIXED UP / − REPAIRS / − OUR COSTS (one line at a time)
+    8-ALT                 "That's why tired isn't a reason to take less. Ask any buyer to show you how they got their number. Including us."
+                          CAPTION: ASK HOW
+9   48.11-53.22  CLOSE A ⚠ "So take the jar. Leave the house. This is Property Abundance."
+                          CAPTION: TAKE THE JAR. LEAVE THE HOUSE.
+    9-ALT                 "So take the jar. Let the house go. This is Property Abundance."
+10  53.57-56.31  CTA      "Get the number. Show your family."
+                          END CARD: your real form on a phone + Property Abundance logo
+
+Loop order: A(1) → B(3) → C(5) → close C(7) → close B(8) → close A(9). Payload between every open. No back-to-back open/close.
+
+============================================================
+PART 2 – SHOT LIST (26 shots, mean 2.1 s)
+============================================================
+The reference cuts every 1.14 s. If a shot drags, split it.
+S1   0.00-1.80   hand opens the fridge, light on, nearly empty                         C1
+S2   1.80-4.29   closer on the jar, the hand stops near it and pulls back               C1
+S3   4.29-6.40   fridge door swings shut, the kitchen goes dim                          C1
+S4   6.40-8.40   coat on a hook by the door, hand touches the sleeve, lets go           C2
+S5   8.40-11.09  armchair with a dent in the cushion, folded blanket, nobody in it      C2
+S6   11.09-13.20 from the driver's seat: the house through the windshield               C3
+S7   13.20-15.59 hand pulls the key out, keys swing                                     C3
+S8   15.59-17.60 highway through the windshield, grey day                               C4
+S9   17.60-19.93 back seat: pillow, folded clothes, flat boxes                          C4
+S10  19.93-22.10 blank yard sign leaning on the garage wall                             C5
+S11  22.10-24.60 two plain envelopes on the table, hand slides the thin one forward    C6
+S12  24.60-26.30 "agent": lockbox on the front door handle, thumb turns the dial        C5
+S13  26.30-28.60 "inspection": flashlight beam across a water stain on the ceiling      C7
+S14  28.60-30.60 "tax, insurance": curbside mailbox stuffed with envelopes              C8
+S15  30.60-32.10 "heat": hand turns the thermostat down                                 C8
+S16  32.10-33.66 "every month it sits": empty living room, tall grass outside           C7
+S17  33.66-36.20 top-down: blank notepad, hand sets a pen beside it                     C6
+S18  36.20-38.40 hand taps the capped pen on the pad twice                              C9
+S19  38.40-40.75 camera lifts from the table to the grey window                         C9
+S20  40.75-43.40 across the table, a man's hand points at a blank sheet: top, lower, lower   C10
+S21  43.40-45.60 his open palm rests flat beside the sheet                              C10
+S22  45.60-48.11 your own hand lies flat on the table and relaxes                       C10
+S23  48.11-50.00 fridge opens again, the hand lifts the jar out                         C11
+S24  50.00-51.80 stepping out the front door with the jar                               C11
+S25  51.80-53.57 the house from the sidewalk, jar in the lower corner                   C12
+S26  53.57-57.50 END CARD, made in CapCut
+
+============================================================
+PART 3 – PICK ONE PATH PER LOCATION
+============================================================
+PATH A (looks the most real, free): film every shot on your phone at one real house you are allowed to use. 9:16, 1x lens, handheld, no gimbal. Hands only, no face.
+  Never film while driving. Shoot S8 from the passenger seat or with the phone mounted.
+PATH B: generate the 12 clips in PART 4.
+Do not mix paths inside one location. A phone-filmed fridge next to an AI fridge will not match.
+
+============================================================
+PART 4 – AI PROMPTS (send one at a time, trim in CapCut)
+============================================================
+
+---------------- C1 (S1, S2, S3) ----------------
+Vertical 9:16 video, 8 seconds. Real handheld phone footage, not a movie. Wide lens, everything in focus, auto-exposure so the window blows out, small constant hand shake, no smooth gliding moves. Flat, unedited, slightly desaturated colour. Not cinematic: no grade, no glow, no flare, no background blur. No camera app buttons or interface on the picture.
+POINT OF VIEW: the person holding the camera. We only see their hands and forearms: short plain nails, no rings, the cuff of a grey pilled sweatshirt. No face appears.
+PLACE: the kitchen of an older suburban American house, mostly empty. Beige walls, worn oak floor, 1990s white cabinets, an old white fridge. Dusty. Grey daylight from a window plus one warm bulb.
+ONE SHOT: the clip starts already in motion. The hand pulls open the old white fridge. The light comes on. The shelves are almost empty. On the middle shelf sits one glass jar of homemade peach jam with a red-and-white checked cloth tied over the lid with string, no label. The camera moves a little closer to the jar. The hand reaches toward it, stops a few centimetres away and pulls back. The hand pushes the fridge door shut and the kitchen goes dim.
+RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, appears or disappears. Hands have five fingers and move at normal speed. No readable words, numbers, labels, logos, captions or subtitles anywhere.
+SOUND: fridge hum, the door seal, room tone. No music. No one speaks.
+
+---------------- C2 (S4, S5) ----------------
+Vertical 9:16 video, 8 seconds. Real handheld phone footage, not a movie. Wide lens, everything in focus, auto-exposure so the window blows out, small constant hand shake, no smooth gliding moves. Flat, unedited, slightly desaturated colour. Not cinematic: no grade, no glow, no flare, no background blur. No camera app buttons or interface on the picture.
+POINT OF VIEW: the person holding the camera. We only see their hands and forearms: short plain nails, no rings, the cuff of a grey pilled sweatshirt. No face appears.
+PLACE: inside an older suburban American house, mostly empty. Beige walls, worn oak floor. Dusty. Grey daylight from the windows plus one warm bulb.
+SHOT 1 (0-4 s): a tan wool coat hangs on a hook beside the front door. The hand touches the sleeve, holds it for one second and lets it drop.
+SHOT 2 (4-8 s): hard cut. A worn armchair by the window. A dent is still pressed into the seat cushion. A folded knitted blanket lies over one arm. Nobody in it. The camera holds still with slight hand shake.
+RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, appears or disappears. Hands have five fingers and move at normal speed. No readable words, numbers, labels, logos, captions or subtitles anywhere.
+SOUND: room tone, a floorboard creak. No music. No one speaks.
+
+---------------- C3 (S6, S7) ----------------
+Vertical 9:16 video, 8 seconds. Real handheld phone footage, not a movie. Wide lens, everything in focus, auto-exposure so the sky blows out, small constant hand shake, no smooth gliding moves. Flat, unedited, slightly desaturated colour. Not cinematic: no grade, no glow, no flare, no background blur. No camera app buttons or interface on the picture.
+POINT OF VIEW: the person holding the camera. We only see their hands and forearms: short plain nails, no rings, the cuff of a grey pilled sweatshirt. No face appears.
+THE HOUSE: a single-story suburban American house with pale grey-blue lap siding, white trim, asphalt shingles, a dark green front door with a brass handle, a one-car garage on the left, a concrete driveway and a mown lawn with one young maple. Overcast afternoon. Not British or European: no brick, no letterbox in the door, no hedges.
+ONE SHOT: from the driver's seat of a car parked in the driveway, looking through the windshield at the front of the house. The dashboard is dark and blank. A travel mug sits in the cupholder. After three seconds the hand reaches to the ignition, pulls out the key, and the keys swing on their ring.
+RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, appears or disappears. Hands have five fingers and move at normal speed. No readable words, numbers, labels, logos, house numbers, captions or subtitles anywhere.
+SOUND: engine ticking as it cools, keys jingling. No music. No one speaks.
+
+---------------- C4 (S8, S9) ----------------
+Vertical 9:16 video, 8 seconds. Real handheld phone footage, not a movie. Wide lens, everything in focus, auto-exposure so the sky blows out, small constant hand shake, no smooth gliding moves. Flat, unedited, slightly desaturated colour. Not cinematic: no grade, no glow, no flare, no background blur. No camera app buttons or interface on the picture.
+SHOT 1 (0-4 s): filmed from the passenger seat of a moving car, through the windshield, on a flat, empty American highway under a grey sky. Wipers resting. No road signs in view. The dashboard is dark and blank.
+SHOT 2 (4-8 s): hard cut. The back seat of the same car, the camera turned backward from the front seat: a bed pillow, a pile of folded clothes and a few flattened cardboard boxes.
+RULES: every object stays exactly where it is. Nothing morphs, appears or disappears. No readable words, numbers, labels, logos, road signs, captions or subtitles anywhere.
+SOUND: road noise, then the quieter car interior. No music. No one speaks.
+
+---------------- C5 (S10, S12) ----------------
+Vertical 9:16 video, 8 seconds. Real handheld phone footage, not a movie. Wide lens, everything in focus, auto-exposure so the sky blows out, small constant hand shake, no smooth gliding moves. Flat, unedited, slightly desaturated colour. Not cinematic: no grade, no glow, no flare, no background blur. No camera app buttons or interface on the picture.
+POINT OF VIEW: the person holding the camera. We only see their hands and forearms: short plain nails, no rings, the cuff of a grey pilled sweatshirt. No face appears.
+THE HOUSE: a single-story suburban American house with pale grey-blue lap siding, white trim, asphalt shingles, a dark green front door with a brass handle, a one-car garage on the left, a concrete driveway and a mown lawn with one young maple. Overcast afternoon. Not British or European: no brick, no letterbox in the door, no hedges.
+SHOT 1 (0-4 s): inside the open garage. A completely blank white yard sign on a metal stake leans against the wall next to a rake. The camera holds.
+SHOT 2 (4-8 s): hard cut. Close on the dark green front door. A grey realtor lockbox hangs from the brass handle. The hand turns the lockbox dial with one thumb.
+RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, appears or disappears. Hands have five fingers and move at normal speed. The sign is blank. No readable words, numbers, labels, logos, house numbers, captions or subtitles anywhere.
+SOUND: garage echo, the click of the dial. No music. No one speaks.
+
+---------------- C6 (S11, S17) ----------------
+Vertical 9:16 video, 8 seconds. Real handheld phone footage, not a movie. Wide lens, everything in focus, auto-exposure, small constant hand shake, no smooth gliding moves. Flat, unedited, slightly desaturated colour. Not cinematic: no grade, no glow, no flare, no background blur. No camera app buttons or interface on the picture.
+POINT OF VIEW: the person holding the camera. We only see their hands and forearms: short plain nails, no rings, the cuff of a grey pilled sweatshirt. No face appears.
+PLACE: a small round wooden kitchen table in an older, mostly empty suburban American kitchen. Grey daylight from a window plus one warm bulb.
+SHOT 1 (0-4 s): top-down on the table. Two plain white envelopes lie side by side, one thick, one thin, both blank. The hand slides the thin one forward a few centimetres.
+SHOT 2 (4-8 s): hard cut. The same table from above. A blank yellow notepad. The hand sets a capped black pen down beside it and leaves the frame.
+RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, appears or disappears. Hands have five fingers and move at normal speed. Envelopes and notepad are blank. No readable words, numbers, labels, logos, captions or subtitles anywhere.
+SOUND: paper sliding on wood, room tone. No music. No one speaks.
+
+---------------- C7 (S13, S16) ----------------
+Vertical 9:16 video, 8 seconds. Real handheld phone footage, not a movie. Wide lens, everything in focus, auto-exposure so the window blows out, small constant hand shake, no smooth gliding moves. Flat, unedited, slightly desaturated colour. Not cinematic: no grade, no glow, no flare, no background blur. No camera app buttons or interface on the picture.
+PLACE: inside an older suburban American house, mostly empty. Beige walls, worn oak floor. Dusty.
+SHOT 1 (0-4 s): looking up at the ceiling of a dim room. A flashlight beam slides slowly across a brown water stain on the white drywall.
+SHOT 2 (4-8 s): hard cut. The empty living room: no furniture, dust drifting in grey window light, the lawn outside the window grown tall and going to seed. The camera holds.
+RULES: every object stays exactly where it is. Nothing morphs, appears or disappears. No readable words, numbers, labels, logos, captions or subtitles anywhere.
+SOUND: room tone, a faint drip, wind outside. No music. No one speaks.
+
+---------------- C8 (S14, S15) ----------------
+Vertical 9:16 video, 8 seconds. Real handheld phone footage, not a movie. Wide lens, everything in focus, auto-exposure so the sky blows out, small constant hand shake, no smooth gliding moves. Flat, unedited, slightly desaturated colour. Not cinematic: no grade, no glow, no flare, no background blur. No camera app buttons or interface on the picture.
+POINT OF VIEW: the person holding the camera. We only see their hands and forearms: short plain nails, no rings, the cuff of a grey pilled sweatshirt. No face appears.
+SHOT 1 (0-4 s): at the end of a concrete driveway in an American suburb, overcast. The hand pulls open a black curbside mailbox. It is stuffed with plain white envelopes, blank side out.
+SHOT 2 (4-8 s): hard cut. Inside the house, a beige hallway wall with a round beige thermostat. The hand turns it down with two fingers. The dial markings are too small to read.
+RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, appears or disappears. Hands have five fingers and move at normal speed. No readable words, numbers, labels, logos, house numbers, captions or subtitles anywhere.
+SOUND: mailbox hinge creak, then a quiet hallway and a click. No music. No one speaks.
+
+---------------- C9 (S18, S19) ----------------
+Vertical 9:16 video, 8 seconds. Real handheld phone footage, not a movie. Wide lens, everything in focus, auto-exposure so the window blows out, small constant hand shake, no smooth gliding moves. Flat, unedited, slightly desaturated colour. Not cinematic: no grade, no glow, no flare, no background blur. No camera app buttons or interface on the picture.
+POINT OF VIEW: the person holding the camera. We only see their hands and forearms: short plain nails, no rings, the cuff of a grey pilled sweatshirt. No face appears.
+PLACE: a small round wooden kitchen table in an older, mostly empty suburban American kitchen. Grey daylight from a window plus one warm bulb.
+ONE SHOT: top-down on a blank yellow notepad on the table, a capped black pen beside it. The hand picks up the pen, taps the cap on the pad twice and puts it down. Then the camera slowly lifts from the table to the kitchen window: grey daylight, one bare branch outside.
+RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, appears or disappears. Hands have five fingers and move at normal speed. The notepad is blank. No readable words, numbers, labels, logos, captions or subtitles anywhere.
+SOUND: two soft taps, room tone. No music. No one speaks.
+
+---------------- C10 (S20, S21, S22) ----------------
+Vertical 9:16 video, 8 seconds. Real handheld phone footage, not a movie. Wide lens, everything in focus, auto-exposure, small constant hand shake, no smooth gliding moves. Flat, unedited, slightly desaturated colour. Not cinematic: no grade, no glow, no flare, no background blur. No camera app buttons or interface on the picture.
+POINT OF VIEW: the person holding the camera, sitting at a small round wooden kitchen table. Grey daylight from a window plus one warm bulb.
+ONE SHOT: one blank sheet of paper lies on the table between the camera and a man sitting across. We see only his forearm and hand: a navy shirt cuff, a plain steel watch, a capped black pen. He touches the pen to the top of the sheet, then lower, then lower: three separate, calm touches. Then he rests his open palm flat on the table beside the sheet. At the end, the camera holder's own hand comes into frame from below, short plain nails, grey pilled sweatshirt cuff, and lies flat on the table, relaxed. No face appears.
+RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, appears or disappears. Hands have five fingers and move at normal speed. The sheet is blank. No readable words, numbers, labels, logos, captions or subtitles anywhere.
+SOUND: room tone, soft pen taps. No music. No one speaks.
+
+---------------- C11 (S23, S24) ----------------
+Vertical 9:16 video, 8 seconds. Real handheld phone footage, not a movie. Wide lens, everything in focus, auto-exposure so the window and sky blow out, small constant hand shake, no smooth gliding moves. Flat, unedited, slightly desaturated colour. Not cinematic: no grade, no glow, no flare, no background blur. No camera app buttons or interface on the picture.
+POINT OF VIEW: the person holding the camera. We only see one hand and forearm: short plain nails, no rings, the cuff of a grey pilled sweatshirt. No face appears.
+PLACE: the kitchen of an older suburban American house, mostly empty. Beige walls, worn oak floor, 1990s white cabinets, an old white fridge. The house has a dark green front door with a brass handle.
+SHOT 1 (0-4 s): the hand pulls open the old white fridge. The shelves are almost empty. On the middle shelf sits one glass jar of homemade peach jam with a red-and-white checked cloth tied over the lid with string, no label. The hand lifts the jar out.
+SHOT 2 (4-8 s): hard cut. Walking out through the open dark green front door onto a small concrete porch, overcast afternoon, the jar held in the hand at the bottom of the frame. The camera looks down the front step and the walkway.
+RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, appears or disappears. The hand has five fingers and moves at normal speed. No readable words, numbers, labels, logos, house numbers, captions or subtitles anywhere.
+SOUND: fridge hum, footsteps, the outside air. No music. No one speaks.
+
+---------------- C12 (S25) ----------------
+Vertical 9:16 video, 8 seconds. Real handheld phone footage, not a movie. Wide lens, everything in focus, auto-exposure so the sky blows out, small constant hand shake, no smooth gliding moves. Flat, unedited, slightly desaturated colour. Not cinematic: no grade, no glow, no flare, no background blur. No camera app buttons or interface on the picture.
+POINT OF VIEW: the person holding the camera. We only see one hand and forearm: short plain nails, no rings, the cuff of a grey pilled sweatshirt. No face appears.
+THE HOUSE: a single-story suburban American house with pale grey-blue lap siding, white trim, asphalt shingles, a dark green front door with a brass handle, a one-car garage on the left, a concrete driveway and a mown lawn with one young maple. Overcast afternoon. Not British or European: no brick, no letterbox in the door, no hedges.
+ONE SHOT: standing on the sidewalk facing the house. The hand holds a glass jar of homemade peach jam with a red-and-white checked cloth tied over the lid in the lower right corner of the frame. The camera holds for four seconds, then turns slowly away down the quiet street.
+RULES: every object stays exactly where it is unless a hand moves it. Nothing morphs, appears or disappears. The hand has five fingers. No readable words, numbers, labels, logos, house numbers, captions or subtitles anywhere.
+SOUND: wind, a distant car, birds. No music. No one speaks.
+
+============================================================
+PART 5 – CHECK EACH CLIP BEFORE YOU KEEP IT
+============================================================
+Regenerate the clip if any of these happen:
+[ ] Any object jumps, slides or changes place by itself
+[ ] Any readable or garbled text on paper, signs, mailbox, dashboard or thermostat
+[ ] A face appears, or a hand has the wrong number of fingers
+[ ] Light looks glowy and golden like a movie, or the background is blurred
+[ ] The house looks British or European, or its siding or door colour changes between clips
+[ ] The jar changes (cloth colour, size, shape) between C1, C11 and C12
+[ ] The clip is not 9:16
+If the house or jar changes: take the best frame from C3 (house) or C1 (jar) and give it to the tool as the start or reference image for the later clips.
+
+============================================================
+PART 6 – ASSEMBLE IN CAPCUT
+============================================================
+1. Voice first. Record the script in your own voice, or use the edge-tts draft. Lay it in, then cut each shot to the PART 2 times.
+2. Captions from PART 1: 1 to 4 words, bold, top third, clear of the bottom 20 percent and the right edge.
+3. Line 6: show one word per "Pay": AGENT, REPAIRS, TAX, HEAT.
+4. Line 8: WORTH FIXED UP / − REPAIRS / − OUR COSTS, one line at a time over S20. Only if PART 0 is confirmed. With 8-ALT, show ASK HOW.
+5. Crop out any watermark (Dreamina puts one at bottom centre).
+6. End card 53.57-57.50: your real form screenshot on a phone + the Property Abundance logo.
+7. Export 1080x1920, 30 fps, about -14 LUFS (the reference measured -14.2 LUFS).

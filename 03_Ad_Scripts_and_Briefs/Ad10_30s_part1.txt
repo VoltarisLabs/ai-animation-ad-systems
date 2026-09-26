@@ -1,0 +1,20 @@
+VERTICAL 9:16 VIDEO, 10 SECONDS, AUDIO ON. Part 1 of 3 of one ad. Match parts exactly.
+
+LOOK: handheld amateur video, one person holding the camera. Not a movie. Wide lens, everything in focus, auto-exposure so windows and sky blow out, constant small hand shake, horizon never level. No gimbal, no push-in, no zoom, no slow motion. Colour flat, unedited, slightly desaturated. Overcast daylight outside, mixed grey daylight and warm bulbs inside. NOT cinematic: no grade, no glow, no flare, no background blur. No camera app interface or buttons on the picture.
+
+REAL NOT AI: visible pores, fine lines, uneven skin tone, forehead shine, no makeup, flyaway hair, pilled cuffs, creased elbows, dust and scuffs and worn paint. Five fingers per hand at normal speed. Objects stay put unless a hand moves them, nothing morphs or appears. Hard cuts only.
+
+PLACE: suburban United States. Detached single-family houses, horizontal lap siding, asphalt shingles, concrete driveway, open mown lawn. NOT British or European: no brick terrace, no semi-detached, no pebbledash, no letterbox in the door, no privet hedge. Same house and street in all three parts.
+
+NO TEXT ANYWHERE: no words, letters, numbers, prices, labels, handwriting, captions, house numbers, signs, logos or watermarks in any frame. Every paper and envelope is blank. Do not draw this prompt onto the image.
+
+AUDIO: one calm female American narrator, mid-forties, unhurried, plain, no announcer energy, speaking to "you". Under her: room tone, wind, distant traffic, footsteps, paper, a door. NO MUSIC, no score, no whoosh. Speak ONLY the lines below, never invent or repeat.
+DAUGHTER: woman early forties, dark blonde hair tied back with loose strands, no makeup, grey pilled sweatshirt over a plain t-shirt. Tired, not crying. She NEVER speaks.
+
+TIMELINE. Hard cut at every timecode. Never hold a shot past 2.3s.
+0.0 close, a hand turns a key in a worn lock, the front door pushes inward. NARRATOR: "Keeping your parent's house isn't how you honor them."
+1.5 walking into a dim hallway, pale rectangles on the wall where pictures hung
+3.4 a long straight highway seen through a car windshield, wipers still. NARRATOR: "Fourth trip this month. For a house nobody lives in. The closet's still full."
+5.2 a hand slides a closet door open on a row of coats on wire hangers
+7.0 close, a hand holds a cardigan sleeve a moment and lets it drop back
+8.4 a fridge door covered in old photographs and a curled shopping list
