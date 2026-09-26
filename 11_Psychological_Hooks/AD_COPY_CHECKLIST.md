@@ -35,6 +35,7 @@ Templates: [templates/video-scripts.md](templates/video-scripts.md), [templates/
 Examples: "Still waking up at 3am worried about payroll?" (problem-aware, B2B). "Skincare for sensitive skin, without harsh acids." (solution-aware). "Why dentists switch from Yelp ads to us." (product-aware, agency).
 
 ## Step 2. Take the words from customers
+Full method: [research-playbook.md](research-playbook.md) (worksheet, awareness gap, dimensionalization, the second-click check).
 - Mine reviews (yours and competitors'), comments, DMs, sales calls, support tickets and Reddit threads (Wiebe's review mining). Their exact words beat yours.
 - Sort the phrases into **pains, wants and worries**. The hooks come from pains and wants. The body answers worries.
 
@@ -46,7 +47,11 @@ One reader, one promise, one offer. Pick the angle (Furr):
 
 In a crowded market where everyone makes the same claim, lead with **how it works differently** (a new mechanism) or with **who it's for** (identity) (Schwartz).
 
+Build the mechanism and the offer before writing hooks: [offer-and-mechanism.md](offer-and-mechanism.md). A strong offer beats a clever argument (Sabri).
+
 ## Step 4. Write 10 hooks, keep 3
+First, run every hook through the **kill checks** in [testing-and-iteration.md](testing-and-iteration.md): does it announce itself, use curiosity with no benefit, give the mechanism away, accuse the reader, or say something a competitor could copy? One yes means rewrite. Write a benefit-led twin for every pain-led hook (Sabri's split tests favour benefit-led).
+
 This is the only hook score used in this folder. Score each hook 1 to 4 on each item. **Keep hooks that score 20 or more out of 28.** For Unaware hooks (story, curiosity), score Urgent as N/A and keep at **17 or more out of 24**.
 
 | Check | Question |
@@ -65,6 +70,9 @@ Hook types to rotate: question, bold claim, number, story open, "how to," call-o
 Every line has one job: get the next line read (Sugarman).
 - [ ] First line 8 words or fewer.
 - [ ] Specifics instead of adjectives: "set up in 11 minutes" beats "quick setup."
+- [ ] **Dimensionalized:** every pain and benefit is a scene they can picture (a place, an object, a moment), not a category word (Georgi).
+- [ ] Opens on **their** situation, never on you or your company (Sabri).
+- [ ] One bullseye desire per ad.
 - [ ] Give a **reason why** the offer exists or the price is what it is.
 - [ ] **Raise the top worry yourself** and answer it.
 - [ ] One **honest admission**: "It's not for [wrong fit]. It is for [right fit]."
@@ -81,7 +89,9 @@ Every line has one job: get the next line read (Sugarman).
 ## Step 7. Edit
 - [ ] Read it out loud. Rewrite anything you wouldn't say to a friend (Medhora).
 - [ ] Cut adverbs, passive voice, jargon and "we are proud to." Run the editing drills in [copy-banks.md](copy-banks.md).
-- [ ] Message match: the landing page continues the ad's exact promise.
+- [ ] Message match: the landing page continues the ad's exact promise, format and **emotional temperature** (Georgi).
+- [ ] Beat-by-beat check: list the claims in order; none contradicts or wanders (Georgi).
+- [ ] Second click: a search of your brand name shows real proof (Sabri). See [research-playbook.md](research-playbook.md).
 - [ ] 5-second test: can a stranger say what you offer and what to do next?
 
 ## Step 8. Compliance
@@ -93,5 +103,6 @@ Every line has one job: get the next line read (Sugarman).
 - [ ] Run the risky vs. safe table in [copy-banks.md](copy-banks.md).
 
 ## Step 9. Test like Hopkins and Caples
+Full method, the AI workflow and how to read results: [testing-and-iteration.md](testing-and-iteration.md). Prompts: [prompts/copy-prompts.md](prompts/copy-prompts.md).
 - Test the hook first, one variable at a time. Hooks move results the most.
 - Add winners to the bottom of [swipe-file.md](swipe-file.md) with a note on why they won.

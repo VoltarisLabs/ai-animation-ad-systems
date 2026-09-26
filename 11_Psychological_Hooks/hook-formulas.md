@@ -78,5 +78,24 @@ Fill-in hooks, grouped by type. Write 10, score them with the 7-point check in [
 44. "[Number] spots left for [month]. Here's why we cap it."
 45. "Last call: [offer] ends [day]."
 
+## Advanced patterns (Georgi and Suby channel scans)
+From [stefan-georgi.md](03-modern-creators/stefan-georgi.md) and [sabri-suby.md](03-modern-creators/sabri-suby.md). These are the types most teams never use. Run the kill checks in [testing-and-iteration.md](testing-and-iteration.md) first.
+
+46. **Testable self-check:** "Do this right now: [simple check]. If [result], [what it means]." (The viewer tests their own situation.)
+47. **Curiosity + named promise:** "The [plain-named mechanism] that [specific benefit], without [thing they hate]." (Georgi: curiosity alone is weaker than curiosity with a promise.)
+48. **Mock the obvious solution:** "Everyone says [common advice]. Here's why that's backwards for [A]."
+49. **Binding statement:** "Nobody [plants a garden / starts a business / buys a house] hoping to [bad outcome]." Get the nod, then pivot.
+50. **Gross or surprising reveal first:** open on the ugly thing (the stain, the leak, the pile), then explain. Georgi's rewrite moved the gross visual to frame one.
+51. **Drop into the high point:** start at the result or the moment it got bad, not the setup. "[Result]. [Short reaction]." Sabri credits a 5x ROAS lift to this swap (his claim).
+52. **Name the rival's hollow promise:** "They told me all I needed was [common fix]. [Time] later, [specific consequence]." Sabri's agency ad opens this way.
+53. **Answer the question behind the search:** skip restating the keyword and answer what the searcher is actually worried about.
+54. **The secret of the people who [R]:** "What [A] who [R] do that most [A] never hear about."
+55. **Quiz with a surprising answer:** "[Option A] or [Option B]: which [does R] faster? Most people pick wrong."
+56. **Common mistake, specific outcome:** "The [moment] mistake that [specific outcome] for [A]."
+57. **Admit the drawback first:** "It's not [the thing they assume it is]. Here's why that's the point."
+58. **Reframe, don't accuse:** swap "You don't [X]" for "Most [A] don't [X]" (only with a real statistic). The reader stays open.
+59. **Specific plus absurd stakes:** a concrete detail plus a playful, exaggerated consequence. "Crafted over three days. Your grandmother will disown you." (Sabri's cookie example.)
+60. **Benefit-led twin:** for every pain hook you write, write its benefit version and test them head to head. "Stop cleaning it out" → "Sell it with everything still inside."
+
 ## Hooks by awareness level
 See the master table in [AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md) (Step 1).

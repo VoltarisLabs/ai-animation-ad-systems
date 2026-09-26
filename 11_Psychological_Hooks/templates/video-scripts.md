@@ -74,6 +74,38 @@ Hook: "[Number] [mistakes/signs/reasons] [audience] [pain]." Then one line per i
 ## 8. Street interview / reaction (30-60s)
 Ask strangers the problem question, show the reactions, reveal the product or answer, CTA. It works for unaware audiences because it opens with people, not a pitch.
 
+## 9. Symptom → reframe → proof → timeframe (30-45s)
+From a UGC script Georgi breaks down (`lfz54z8TFzo`). It is a complete arc in under 50 seconds.
+| Beat | Template |
+|---|---|
+| 0-4s | Three specific, visible symptoms: "If [symptom 1], [symptom 2] or [symptom 3]..." |
+| 4-8s | Reframe: "...it's not [what they blame]. It's [real cause]." |
+| 8-18s | One proof point for the real cause (a fact you can source) |
+| 18-28s | The mechanism of the solution, in one or two lines |
+| 28-35s | Specific result + timeframe (only if true and allowed in your category) + CTA |
+
+## 10. Hyper-dopamine ad (15-30s)
+Sabri's formula: **pattern interrupt + burning intrigue + big specific benefit**, with interrupts layered throughout.
+| Beat | Template |
+|---|---|
+| 0-2s | Visual pattern break (something odd) or pattern match (something they instantly recognise) |
+| 0-3s | Intrigue + benefit line: "[Unexpected thing] that [specific benefit]" |
+| 3-15s | A new visual interrupt every few seconds while the value lands |
+| 15-25s | One proof beat |
+| Last 3-5s | Soft CTA ("Learn more," "See how it works"). Sell the click, not the product. |
+
+## 11. The rival's promise, destroyed (20-40s)
+From Sabri's agency ad.
+| Beat | Template |
+|---|---|
+| 0-4s | "They told me [the common promise or fix everyone sells]." |
+| 4-8s | "[Time] later, [specific consequence]." |
+| 8-18s | Why that fix fails: the real cause (the mechanism of the problem) |
+| 18-28s | What works instead (the mechanism of the solution) + one proof |
+| Last 3-5s | CTA |
+
+Never name a competitor unless legal has cleared it. Attack the common approach, not a company.
+
 ---
 
 ## Script QA before recording
@@ -87,4 +119,5 @@ Ask strangers the problem question, show the reactions, reveal the product or an
 - [ ] One idea, one CTA.
 - [ ] Word count fits the length (about 2.5 words per second).
 - [ ] All words (captions and text pops) are added in the editor, never inside the AI image or video generation prompt.
+- [ ] Passes the kill checks in [../testing-and-iteration.md](../testing-and-iteration.md) and the beat-by-beat check.
 - [ ] Passes [../AD_COPY_CHECKLIST.md](../AD_COPY_CHECKLIST.md).
