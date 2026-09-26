@@ -5,6 +5,7 @@ Hook scripts built with psychology, plus the research behind them: copywriting f
 ## Structure
 | Path | Contents |
 |---|---|
+| **[AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md)** | **Start here. The routine every ad script goes through.** |
 | [Property_Abundance_Nested_Loop_Hooks_v1.md](Property_Abundance_Nested_Loop_Hooks_v1.md) | Nested-loop hook scripts (A->B->C, closes in reverse) |
 | [Property_Abundance_Ad16_JMSN_Hook_Bank_v1.md](Property_Abundance_Ad16_JMSN_Hook_Bank_v1.md) | Ad 16 JMSN hook bank |
 | [frameworks.md](frameworks.md) | AIDA, PAS, BAB, FAB, 4 Ps, 4 Us, PASTOR, QUEST, and which to use at each awareness level |

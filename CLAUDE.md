@@ -36,7 +36,7 @@ The method is the `kristian_jennings_ai_ugc_workflow` skill. Read its `SKILL.md`
 
 | Step | Skill | Kie model | Output goes to |
 |---|---|---|---|
-| 1. Script and hooks | `reel_direction_2`, `hook-engine`, `humanizer` + `05_Tutorials/Hook_Psychology_Research_Report.md` | none | `03_Ad_Scripts_and_Briefs/` or `11_Psychological_Hooks/` |
+| 1. Script and hooks | `reel_direction_2`, `hook-engine`, `humanizer` + `05_Tutorials/Hook_Psychology_Research_Report.md`. Every script must pass `11_Psychological_Hooks/AD_COPY_CHECKLIST.md` before voice or video. | none | `03_Ad_Scripts_and_Briefs/` or `11_Psychological_Hooks/` |
 | 2. Storyboard | Kristian: script lines left, visual right, "AI UGC" where the face shows | none | `03_Ad_Scripts_and_Briefs/` |
 | 3. Reference frame | Kristian step 1: a real frame from real phone footage | none | `12_AI_Characters/<Name>/ref_*` |
 | 4. Avatar image | Kristian step 2 + `nano_banana_photo_formula` or `json-prompting` | `nano-banana-pro` | `13_Generated/images/` (prompts stay in `12_AI_Characters/<Name>/`) |
