@@ -1,0 +1,275 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:#0A1A30}
+body{font-family:Arial,Helvetica,sans-serif;-webkit-font-smoothing:antialiased}
+.stage{position:absolute;inset:0;overflow:hidden}
+.scene{position:absolute;inset:0;display:none}
+.imp{font-family:Impact,'Arial Black',sans-serif;letter-spacing:.5px}
+/* ---- banner, held from frame 0 ---- */
+#banner{position:absolute;left:60px;right:60px;top:96px;z-index:40;text-align:center}
+#bantxt{display:inline-block;font-family:Impact,'Arial Black',sans-serif;font-size:62px;line-height:1.04;
+ color:#F7F5EF;background:#0A1A30;border:5px solid #FFD400;padding:22px 30px;letter-spacing:1px}
+/* ---- captions ---- */
+#capscrim{position:absolute;left:0;right:0;top:1455px;height:300px;z-index:44;opacity:0;
+ background:linear-gradient(180deg,rgba(6,16,31,0) 0%,rgba(6,16,31,.80) 26%,rgba(6,16,31,.80) 74%,rgba(6,16,31,0) 100%)}
+#cap{position:absolute;left:70px;right:70px;top:1500px;height:230px;z-index:45;text-align:center}
+#cap span{font-family:Impact,'Arial Black',sans-serif;font-size:104px;line-height:1.02;color:#F7F5EF;
+ -webkit-text-stroke:8px #06101F;paint-order:stroke fill;display:inline-block;margin:0 10px}
+#cap span.on{color:#FFD400}
+/* ---- A : the feed ---- */
+#A{background:#E7E6E2}
+#feed{position:absolute;left:0;right:0;top:0;width:1080px}
+.card{margin:0 46px 34px;background:#FFFFFF;border-radius:26px;padding:34px 36px 30px;
+ box-shadow:0 10px 26px rgba(0,0,0,.10)}
+.crow{display:flex;align-items:center;gap:20px;margin-bottom:26px}
+.av{width:78px;height:78px;border-radius:50%;background:#C9C7C1}
+.nm{height:20px;width:300px;background:#C9C7C1;border-radius:10px}
+.sp{height:15px;width:170px;background:#DEDCD6;border-radius:8px;margin-top:12px}
+.hd{font-family:Impact,'Arial Black',sans-serif;font-size:76px;line-height:.98;color:#D42B2B;letter-spacing:.5px}
+.hd.g{color:#1E8A4C}
+.pill{margin-top:26px;display:inline-block;background:#111;color:#fff;font-weight:bold;font-size:30px;
+ padding:16px 34px;border-radius:999px;letter-spacing:1px}
+#thumb{position:absolute;right:60px;bottom:150px;width:150px;height:300px;border-radius:80px;
+ background:rgba(20,20,20,.30);z-index:12}
+#fade{position:absolute;inset:0;background:#0A1A30;opacity:0;z-index:30}
+/* ---- shared dark scene bits ---- */
+.h1{position:absolute;left:80px;right:80px;font-family:Impact,'Arial Black',sans-serif;color:#F7F5EF;
+ font-size:96px;line-height:1.0;letter-spacing:.5px}
+.sub{position:absolute;left:80px;right:80px;color:#9FB3CC;font-size:40px;font-weight:bold;letter-spacing:2px}
+/* ---- B : bars ---- */
+.barwrap{position:absolute;bottom:430px;width:330px;text-align:center}
+.bar{width:330px;background:#F7F5EF;border-radius:10px 10px 0 0}
+.bar.pop{background:#FFD400}
+.barlab{margin-top:22px;font-family:Impact,'Arial Black',sans-serif;font-size:44px;color:#F7F5EF;line-height:1.05}
+/* ---- D/E : paper card ---- */
+.paper{position:absolute;left:70px;right:70px;background:#F7F5EF;border-radius:28px;padding:44px 46px}
+.stamp{position:absolute;right:34px;top:30px;font-family:Impact,'Arial Black',sans-serif;font-size:30px;
+ color:#B9433F;border:4px solid #B9433F;padding:8px 16px;letter-spacing:2px;transform:rotate(-6deg);opacity:.85}
+.r{display:flex;justify-content:space-between;align-items:baseline;padding:32px 0;opacity:0}
+.r .k{font-size:52px;color:#25344A;font-weight:bold}
+.r .v{font-family:Impact,'Arial Black',sans-serif;font-size:70px;color:#0A1A30}
+.rule{height:6px;background:#0A1A30;margin:14px 0 6px;opacity:0;border-radius:3px}
+.tot .k{font-family:Impact,'Arial Black',sans-serif;font-size:66px;color:#0A1A30}
+.tot .v{font-size:92px;color:#0A1A30}
+/* ---- E : two columns ---- */
+.col{position:absolute;top:0;width:468px}
+.colhd{font-family:Impact,'Arial Black',sans-serif;font-size:50px;color:#F7F5EF;text-align:center;
+ padding:18px 0;border-radius:16px 16px 0 0}
+.colbody{background:#F7F5EF;border-radius:0 0 16px 16px;padding:30px 24px 34px;min-height:700px}
+.er{display:flex;justify-content:space-between;align-items:baseline;padding:14px 0;opacity:0}
+.er .k{font-size:30px;color:#44546B;font-weight:bold;max-width:250px;line-height:1.12}
+.er .v{font-family:Impact,'Arial Black',sans-serif;font-size:44px;color:#0A1A30}
+.eline{height:4px;background:#0A1A30;margin:12px 0;opacity:.25}
+.etot{opacity:0}
+.etot .k{font-family:Impact,'Arial Black',sans-serif;font-size:34px;color:#0A1A30}
+.etot .v{font-size:56px}
+#timerow{position:absolute;left:70px;right:70px;opacity:0;display:flex;gap:30px}
+.tcell{flex:1;background:#13294B;border:4px solid #33507A;border-radius:16px;padding:22px;text-align:center}
+.tcell .a{color:#9FB3CC;font-size:28px;font-weight:bold;letter-spacing:2px}
+.tcell .b{font-family:Impact,'Arial Black',sans-serif;font-size:50px;color:#FFD400;margin-top:8px}
+/* ---- F : phone ---- */
+#phone{position:absolute;left:290px;width:500px;height:820px;background:#F7F5EF;border-radius:54px;
+ border:14px solid #13294B;padding:40px 34px;overflow:hidden}
+.fld{background:#FFFFFF;border:3px solid #C9C7C1;border-radius:14px;height:86px;margin-bottom:22px;
+ display:flex;align-items:center;padding:0 22px;color:#7C8899;font-size:32px;font-weight:bold}
+#btn{background:#0A1A30;color:#FFD400;font-family:Impact,'Arial Black',sans-serif;font-size:42px;
+ text-align:center;padding:30px 10px;border-radius:16px;letter-spacing:1px;line-height:1.05}
+#brand{position:absolute;left:80px;right:80px;text-align:center;font-family:Impact,'Arial Black',sans-serif;
+ font-size:70px;color:#F7F5EF;letter-spacing:3px}
+#brandsub{position:absolute;left:80px;right:80px;text-align:center;color:#9FB3CC;font-size:34px;
+ font-weight:bold;letter-spacing:3px}
+</style></head><body>
+<div class="stage">
+
+ <div class="scene" id="A">
+   <div id="feed"></div>
+   <div id="thumb"></div>
+   <div id="fade"></div>
+ </div>
+
+ <div class="scene" id="B">
+   <div class="h1" id="Bh" style="top:330px"></div>
+   <div class="barwrap" id="Bw1" style="left:140px">
+     <div class="bar" id="Bb1" style="height:0px"></div>
+     <div class="barlab">RETAIL<br>SALE</div>
+   </div>
+   <div class="barwrap" id="Bw2" style="left:610px">
+     <div class="bar pop" id="Bb2" style="height:0px"></div>
+     <div class="barlab">CASH<br>OFFER</div>
+   </div>
+ </div>
+
+ <div class="scene" id="C">
+   <div class="h1" id="Ch" style="top:560px;font-size:118px"></div>
+ </div>
+
+ <div class="scene" id="D">
+   <div class="paper" id="Dp" style="top:500px">
+     <div class="stamp">EXAMPLE</div>
+     <div class="r" id="d0"><span class="k">Worth, fixed up</span><span class="v">$240,000</span></div>
+     <div class="r" id="d1"><span class="k">Repairs we pay for</span><span class="v">- $38,000</span></div>
+     <div class="r" id="d2"><span class="k">Our costs and profit</span><span class="v">- $27,000</span></div>
+     <div class="rule" id="d3"></div>
+     <div class="r tot" id="d4"><span class="k">YOUR OFFER</span><span class="v">$175,000</span></div>
+   </div>
+ </div>
+
+ <div class="scene" id="E">
+   <div class="col" id="Ec1" style="left:52px;top:410px">
+     <div class="colhd" style="background:#7A4A4A">LIST IT</div>
+     <div class="colbody">
+       <div class="er" id="e0"><span class="k">Sale price</span><span class="v">$240,000</span></div>
+       <div class="er" id="e1"><span class="k">Commission</span><span class="v">- $14,400</span></div>
+       <div class="er" id="e2"><span class="k">Repairs after inspection</span><span class="v">- $38,000</span></div>
+       <div class="er" id="e3"><span class="k">Payments while it sits</span><span class="v">- $9,200</span></div>
+       <div class="eline"></div>
+       <div class="er etot" id="e4"><span class="k">YOU WALK WITH</span><span class="v">$178,400</span></div>
+     </div>
+   </div>
+   <div class="col" id="Ec2" style="left:560px;top:410px">
+     <div class="colhd" style="background:#1E5B45">SELL TO US</div>
+     <div class="colbody">
+       <div class="er" id="g0"><span class="k">Offer</span><span class="v">$175,000</span></div>
+       <div class="er" id="g1"><span class="k">Commission</span><span class="v">$0</span></div>
+       <div class="er" id="g2"><span class="k">Repairs after inspection</span><span class="v">$0</span></div>
+       <div class="er" id="g3"><span class="k">Closing costs</span><span class="v">$0</span></div>
+       <div class="eline"></div>
+       <div class="er etot" id="g4"><span class="k">YOU WALK WITH</span><span class="v">$175,000</span></div>
+     </div>
+   </div>
+   <div id="timerow" style="top:1215px">
+     <div class="tcell"><div class="a">LIST IT</div><div class="b">4 to 7 months</div></div>
+     <div class="tcell"><div class="a">SELL TO US</div><div class="b">your date</div></div>
+   </div>
+   <div class="stamp" style="right:70px;top:348px">EXAMPLE</div>
+ </div>
+
+ <div class="scene" id="F">
+   <div id="phone" style="top:430px">
+     <div class="fld">Property address</div>
+     <div class="fld">Condition of the house</div>
+     <div class="fld">When do you want to close</div>
+     <div class="fld">Who is on the title</div>
+     <div id="btn">GET MY OFFER<br>AND THE MATH</div>
+   </div>
+   <div id="brand" style="top:1310px">PROPERTY ABUNDANCE</div>
+   <div id="brandsub" style="top:1400px">WE SHOW YOU THE MATH</div>
+ </div>
+
+ <div id="banner"><span id="bantxt">YES, WE ARE ONE<br>OF THOSE CASH BUYERS</span></div>
+ <div id="capscrim"></div>
+ <div id="cap"></div>
+</div>
+<script>
+const T = {"fps": 30, "total": 984, "total_s": 32.83, "starts": {"L00": 0.0, "L01": 2.9, "L02": 9.34, "L03": 12.66, "L04": 19.92, "L05": 26.9}, "scenes": {"A": [0.0, 2.9], "B": [2.9, 9.34], "C": [9.34, 12.66], "D": [12.66, 19.92], "E": [19.92, 26.9], "F": [26.9, 32.83]}, "chunks": [{"s": 0.0, "e": 0.68, "w": [{"t": "Here", "s": 0.0, "e": 0.34}, {"t": "is", "s": 0.34, "e": 0.52}, {"t": "the", "s": 0.52, "e": 0.68}]}, {"s": 0.68, "e": 1.4, "w": [{"t": "part", "s": 0.68, "e": 0.9}, {"t": "No", "s": 0.9, "e": 1.18}, {"t": "Cash", "s": 1.18, "e": 1.4}]}, {"s": 1.4, "e": 2.26, "w": [{"t": "Buyer", "s": 1.4, "e": 1.84}, {"t": "ad", "s": 1.84, "e": 2.0}, {"t": "shows", "s": 2.0, "e": 2.26}]}, {"s": 2.26, "e": 2.6, "w": [{"t": "you.", "s": 2.26, "e": 2.6}]}, {"s": 2.9, "e": 3.7, "w": [{"t": "Yes,", "s": 2.9, "e": 3.22}, {"t": "we", "s": 3.44, "e": 3.54}, {"t": "are", "s": 3.54, "e": 3.7}]}, {"s": 3.7, "e": 4.2, "w": [{"t": "one", "s": 3.7, "e": 3.9}, {"t": "of", "s": 3.9, "e": 4.02}, {"t": "those", "s": 4.02, "e": 4.2}]}, {"s": 4.2, "e": 5.62, "w": [{"t": "companies.", "s": 4.2, "e": 4.6}, {"t": "Our", "s": 5.26, "e": 5.34}, {"t": "offer", "s": 5.34, "e": 5.62}]}, {"s": 5.62, "e": 6.56, "w": [{"t": "comes", "s": 5.62, "e": 5.96}, {"t": "in", "s": 5.96, "e": 6.26}, {"t": "under", "s": 6.26, "e": 6.56}]}, {"s": 6.56, "e": 7.44, "w": [{"t": "a", "s": 6.56, "e": 6.72}, {"t": "retail", "s": 6.72, "e": 7.06}, {"t": "sale.", "s": 7.06, "e": 7.44}]}, {"s": 7.96, "e": 8.52, "w": [{"t": "That", "s": 7.96, "e": 8.1}, {"t": "is", "s": 8.1, "e": 8.26}, {"t": "how", "s": 8.26, "e": 8.52}]}, {"s": 8.52, "e": 9.04, "w": [{"t": "this", "s": 8.52, "e": 8.72}, {"t": "works.", "s": 8.72, "e": 9.04}]}, {"s": 9.34, "e": 9.9, "w": [{"t": "What", "s": 9.34, "e": 9.58}, {"t": "you", "s": 9.58, "e": 9.74}, {"t": "should", "s": 9.74, "e": 9.9}]}, {"s": 9.9, "e": 10.8, "w": [{"t": "be", "s": 9.9, "e": 10.06}, {"t": "asking", "s": 10.06, "e": 10.42}, {"t": "is", "s": 10.42, "e": 10.8}]}, {"s": 10.8, "e": 11.5, "w": [{"t": "what", "s": 10.8, "e": 11.0}, {"t": "you", "s": 11.0, "e": 11.16}, {"t": "actually", "s": 11.16, "e": 11.5}]}, {"s": 11.5, "e": 12.36, "w": [{"t": "walk", "s": 11.5, "e": 11.78}, {"t": "away", "s": 11.78, "e": 12.06}, {"t": "with.", "s": 12.06, "e": 12.36}]}, {"s": 12.66, "e": 13.34, "w": [{"t": "So", "s": 12.66, "e": 12.9}, {"t": "here", "s": 12.9, "e": 13.16}, {"t": "is", "s": 13.16, "e": 13.34}]}, {"s": 13.34, "e": 14.42, "w": [{"t": "ours,", "s": 13.34, "e": 13.7}, {"t": "line", "s": 13.96, "e": 14.24}, {"t": "by", "s": 14.24, "e": 14.42}]}, {"s": 14.42, "e": 15.74, "w": [{"t": "line,", "s": 14.42, "e": 14.8}, {"t": "worth", "s": 15.3, "e": 15.4}, {"t": "fixed", "s": 15.4, "e": 15.74}]}, {"s": 15.74, "e": 17.6, "w": [{"t": "up,", "s": 15.74, "e": 16.14}, {"t": "repairs,", "s": 16.6, "e": 16.86}, {"t": "our", "s": 17.48, "e": 17.6}]}, {"s": 17.6, "e": 18.64, "w": [{"t": "costs", "s": 17.6, "e": 17.92}, {"t": "and", "s": 17.92, "e": 18.28}, {"t": "profit,", "s": 18.28, "e": 18.64}]}, {"s": 19.2, "e": 19.62, "w": [{"t": "your", "s": 19.2, "e": 19.36}, {"t": "number.", "s": 19.36, "e": 19.62}]}, {"s": 19.92, "e": 20.7, "w": [{"t": "Compare", "s": 19.92, "e": 20.36}, {"t": "it", "s": 20.36, "e": 20.54}, {"t": "to", "s": 20.54, "e": 20.7}]}, {"s": 20.7, "e": 22.02, "w": [{"t": "a", "s": 20.7, "e": 20.82}, {"t": "listing,", "s": 20.82, "e": 21.16}, {"t": "commission", "s": 21.88, "e": 22.02}]}, {"s": 22.02, "e": 23.08, "w": [{"t": "the", "s": 22.02, "e": 22.46}, {"t": "repair", "s": 22.46, "e": 22.76}, {"t": "list", "s": 22.76, "e": 23.08}]}, {"s": 23.08, "e": 24.1, "w": [{"t": "after", "s": 23.08, "e": 23.48}, {"t": "the", "s": 23.48, "e": 23.62}, {"t": "inspection,", "s": 23.62, "e": 24.1}]}, {"s": 24.56, "e": 25.18, "w": [{"t": "and", "s": 24.56, "e": 24.8}, {"t": "the", "s": 24.8, "e": 24.92}, {"t": "payments", "s": 24.92, "e": 25.18}]}, {"s": 25.18, "e": 25.96, "w": [{"t": "you", "s": 25.18, "e": 25.4}, {"t": "keep", "s": 25.4, "e": 25.6}, {"t": "making", "s": 25.6, "e": 25.96}]}, {"s": 25.96, "e": 26.6, "w": [{"t": "while", "s": 25.96, "e": 26.2}, {"t": "it", "s": 26.2, "e": 26.38}, {"t": "sits.", "s": 26.38, "e": 26.6}]}, {"s": 26.9, "e": 27.58, "w": [{"t": "Tell", "s": 26.9, "e": 27.14}, {"t": "us", "s": 27.14, "e": 27.32}, {"t": "about", "s": 27.32, "e": 27.58}]}, {"s": 27.58, "e": 28.76, "w": [{"t": "the", "s": 27.58, "e": 27.74}, {"t": "house.", "s": 27.74, "e": 27.98}, {"t": "We", "s": 28.64, "e": 28.76}]}, {"s": 28.76, "e": 29.46, "w": [{"t": "will", "s": 28.76, "e": 28.9}, {"t": "send", "s": 28.9, "e": 29.2}, {"t": "the", "s": 29.2, "e": 29.46}]}, {"s": 29.46, "e": 30.14, "w": [{"t": "offer", "s": 29.46, "e": 29.78}, {"t": "and", "s": 29.78, "e": 30.04}, {"t": "the", "s": 30.04, "e": 30.14}]}, {"s": 30.14, "e": 31.24, "w": [{"t": "math.", "s": 30.14, "e": 30.42}, {"t": "You", "s": 31.0, "e": 31.08}, {"t": "can", "s": 31.08, "e": 31.24}]}, {"s": 31.24, "e": 31.68, "w": [{"t": "say", "s": 31.24, "e": 31.46}, {"t": "no.", "s": 31.46, "e": 31.68}]}]};
+const FPS = T.fps; window.TOTAL = T.total;
+const HYPE = [
+ ["TOP DOLLAR<br>GUARANTEED",0],["WE PAY MORE<br>THAN ANYONE",1],["BEST OFFER<br>IN TOWN",0],
+ ["NOBODY BEATS<br>OUR PRICE",1],["HIGHEST CASH<br>OFFER PERIOD",0],["WE BEAT<br>ANY OFFER",1],
+ ["TOP DOLLAR<br>GUARANTEED",0]
+];
+const feed = document.getElementById('feed');
+feed.innerHTML = HYPE.map(h=>`<div class="card">
+  <div class="crow"><div class="av"></div><div><div class="nm"></div><div class="sp"></div></div></div>
+  <div class="hd ${h[1]?'g':''}">${h[0]}</div>
+  <div class="pill">GET MY CASH OFFER</div></div>`).join('');
+
+const el = id => document.getElementById(id);
+const clamp=(x,a,b)=>Math.min(b,Math.max(a,x));
+const seg=(t,a,b)=>clamp((t-a)/(b-a),0,1);
+const easeOut=x=>1-Math.pow(1-x,3);
+const easeIO=x=>x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2;
+
+function land(node, t, at, dx){ // rows slide in
+  const p = easeOut(seg(t, at, at+0.32));
+  node.style.opacity = p;
+  node.style.transform = `translateX(${(1-p)*(dx||26)}px)`;
+}
+
+window.renderFrame = function(f){
+  const t = f/FPS;
+  // scenes
+  let cur=null;
+  for (const k in T.scenes){
+    const [a,b]=T.scenes[k];
+    const on = (t>=a && t<b) || (k==='F' && t>=a);
+    el(k).style.display = on?'block':'none';
+    if(on) cur=[k,a,b];
+  }
+  if(!cur) return;
+  const [k,a,b] = cur, st = t-a, dur = b-a;
+
+  // banner: navy pill always, small settle pop at 0
+  const bp = easeOut(seg(t,0,0.45));
+  el('bantxt').style.transform = `scale(${0.88+0.12*bp})`;
+  el('banner').style.opacity = bp;
+
+  el('capscrim').style.opacity = (k==='A')?1:0;
+  if(k==='A'){
+    const p = st/dur;
+    feed.style.transform = `translateY(${260 - p*1560}px)`;
+    el('thumb').style.transform = `translateY(${Math.sin(p*7.5)*120}px)`;
+    el('fade').style.opacity = seg(st, dur-0.22, dur)*1.0;
+  }
+  if(k==='B'){
+    el('Bh').innerHTML = 'OUR OFFER COMES IN<br>UNDER A RETAIL SALE.';
+    el('Bh').style.opacity = easeOut(seg(st,0,0.5));
+    el('Bh').style.transform = `translateY(${(1-easeOut(seg(st,0,0.5)))*30}px)`;
+    const g1 = easeIO(seg(st,0.85,2.3)), g2 = easeIO(seg(st,1.15,2.7));
+    el('Bb1').style.height = (620*g1)+'px';
+    el('Bb2').style.height = (452*g2)+'px';
+    el('Bw1').style.opacity = easeOut(seg(st,0.85,1.25));
+    el('Bw2').style.opacity = easeOut(seg(st,1.15,1.55));
+  }
+  if(k==='C'){
+    el('Ch').innerHTML = 'WHAT DO YOU<br>ACTUALLY<br>WALK AWAY WITH?';
+    const p = easeOut(seg(st,0,0.55));
+    el('Ch').style.opacity = p;
+    el('Ch').style.transform = `scale(${0.9+0.1*p})`;
+  }
+  if(k==='D'){
+    el('Dp').style.opacity = easeOut(seg(st,0,0.4));
+    const at=[0.30,1.75,3.15,4.35,4.65];
+    for(let i=0;i<5;i++){
+      const n=el('d'+i);
+      if(i===3){ n.style.opacity = easeOut(seg(st,at[i],at[i]+0.3)); }
+      else land(n, st, at[i], 30);
+    }
+    const tp = easeOut(seg(st,4.65,5.05));
+    el('d4').style.transform = `translateX(${(1-tp)*30}px) scale(${0.96+0.04*tp})`;
+  }
+  if(k==='E'){
+    el('Ec1').style.opacity = easeOut(seg(st,0,0.35));
+    el('Ec2').style.opacity = easeOut(seg(st,0.25,0.6));
+    const la=[0.55,1.15,1.75,2.35], ra=[0.85,1.45,2.05,2.65];
+    for(let i=0;i<4;i++){ land(el('e'+i), st, la[i], 20); land(el('g'+i), st, ra[i], -20); }
+    land(el('e4'), st, 3.45, 20); land(el('g4'), st, 3.45, -20);
+    const tr = easeOut(seg(st,4.6,5.1));
+    el('timerow').style.opacity = tr;
+    el('timerow').style.transform = `translateY(${(1-tr)*26}px)`;
+  }
+  if(k==='F'){
+    const p = easeOut(seg(st,0,0.6));
+    el('phone').style.opacity = p;
+    el('phone').style.transform = `translateY(${(1-p)*70}px)`;
+    const pulse = 1 + 0.045*Math.max(0,Math.sin((st-1.1)*3.4));
+    el('btn').style.transform = `scale(${st>1.1?pulse:1})`;
+    el('brand').style.opacity = easeOut(seg(st,1.5,2.1));
+    el('brandsub').style.opacity = easeOut(seg(st,2.0,2.6));
+  }
+
+  // captions, word synced
+  let html='';
+  for(const c of T.chunks){
+    if(t>=c.s-0.05 && t<c.e+0.22){
+      html = c.w.map(w=>{
+        const on = (t>=w.s-0.02 && t<w.e+0.06);
+        return `<span class="${on?'on':''}">${w.t.replace(/[.,]$/,'')}</span>`;
+      }).join('');
+      break;
+    }
+  }
+  el('cap').innerHTML = html;
+};
+window.renderFrame(0);
+</script></body></html>

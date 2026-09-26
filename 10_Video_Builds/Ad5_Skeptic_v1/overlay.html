@@ -1,0 +1,149 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:transparent}
+body{font-family:Arial,Helvetica,sans-serif;-webkit-font-smoothing:antialiased}
+#dim{position:absolute;inset:0;background:#06101F;opacity:0}
+#topscrim{position:absolute;left:0;right:0;top:0;height:470px;
+ background:linear-gradient(180deg,rgba(6,16,31,.92) 0%,rgba(6,16,31,.70) 46%,rgba(6,16,31,0) 100%)}
+#botscrim{position:absolute;left:0;right:0;top:1400px;height:420px;
+ background:linear-gradient(180deg,rgba(6,16,31,0) 0%,rgba(6,16,31,.80) 34%,rgba(6,16,31,.86) 100%)}
+#banner{position:absolute;left:60px;right:60px;top:96px;text-align:center}
+#bantxt{display:inline-block;font-family:Impact,'Arial Black',sans-serif;font-size:62px;line-height:1.04;
+ color:#F7F5EF;background:#0A1A30;border:5px solid #FFD400;padding:22px 30px;letter-spacing:1px}
+#cap{position:absolute;left:70px;right:70px;top:1505px;height:230px;text-align:center}
+#cap span{font-family:Impact,'Arial Black',sans-serif;font-size:100px;line-height:1.02;color:#F7F5EF;
+ -webkit-text-stroke:9px #06101F;paint-order:stroke fill;display:inline-block;margin:0 10px}
+#cap span.on{color:#FFD400}
+/* bar chart, the only graph */
+#cpanel{position:absolute;left:96px;right:96px;top:432px;height:940px;border-radius:26px;
+ background:rgba(6,16,31,.62);border:3px solid rgba(247,245,239,.22)}
+#chart{position:absolute;left:0;right:0;top:520px;height:820px;opacity:0}
+#base{position:absolute;left:150px;right:150px;bottom:146px;height:7px;background:#F7F5EF;
+ box-shadow:0 0 22px rgba(6,16,31,.8);opacity:.9}
+.bw{position:absolute;bottom:150px;width:340px;text-align:center}
+.bar{width:340px;border-radius:10px 10px 0 0;box-shadow:0 0 46px rgba(6,16,31,.65)}
+.bl{margin-top:26px;font-family:Impact,'Arial Black',sans-serif;font-size:52px;color:#F7F5EF;line-height:1.05;
+ -webkit-text-stroke:6px #06101F;paint-order:stroke fill}
+/* kinetic numbers, no card, no document */
+#kick{position:absolute;left:70px;right:70px;top:648px;text-align:center;opacity:0;
+ font-family:Impact,'Arial Black',sans-serif;font-size:56px;color:#FFD400;letter-spacing:1px;
+ -webkit-text-stroke:8px #06101F;paint-order:stroke fill}
+#num{position:absolute;left:70px;right:70px;top:820px;text-align:center;opacity:0}
+#numk{font-family:Impact,'Arial Black',sans-serif;font-size:78px;color:#F7F5EF;line-height:1.05;
+ letter-spacing:1px;-webkit-text-stroke:8px #06101F;paint-order:stroke fill}
+#numv{font-family:Impact,'Arial Black',sans-serif;font-size:104px;line-height:1.02;margin-top:10px;
+ -webkit-text-stroke:11px #06101F;paint-order:stroke fill}
+#exam{position:absolute;right:66px;top:1330px;font-family:Impact,'Arial Black',sans-serif;font-size:28px;
+ color:#FFD400;border:4px solid #FFD400;padding:7px 14px;letter-spacing:2px;opacity:0;
+ background:rgba(6,16,31,.7)}
+/* C question */
+#q{position:absolute;left:80px;right:80px;top:700px;font-family:Impact,'Arial Black',sans-serif;
+ font-size:118px;line-height:1.0;color:#F7F5EF;-webkit-text-stroke:10px #06101F;paint-order:stroke fill;opacity:0}
+#cmp{position:absolute;left:50px;right:50px;top:660px;display:flex;gap:26px;opacity:0}
+.cc{flex:1;text-align:center}
+.ch{font-family:Impact,'Arial Black',sans-serif;font-size:56px;color:#F7F5EF;letter-spacing:1px;
+ -webkit-text-stroke:7px #06101F;paint-order:stroke fill}
+.cv{font-family:Impact,'Arial Black',sans-serif;font-size:96px;color:#F7F5EF;margin-top:10px;
+ -webkit-text-stroke:10px #06101F;paint-order:stroke fill}
+.ct{font-family:Impact,'Arial Black',sans-serif;font-size:52px;color:#F7F5EF;margin-top:12px;
+ -webkit-text-stroke:7px #06101F;paint-order:stroke fill}
+/* end card */
+#brand{position:absolute;left:70px;right:70px;top:1130px;text-align:center;opacity:0;
+ background:rgba(10,26,48,.86);border:5px solid #FFD400;border-radius:22px;padding:34px 24px}
+#bn{font-family:Impact,'Arial Black',sans-serif;font-size:76px;color:#F7F5EF;letter-spacing:3px;
+ -webkit-text-stroke:9px #06101F;paint-order:stroke fill}
+#bs{font-family:Impact,'Arial Black',sans-serif;font-size:36px;color:#FFD400;letter-spacing:3px;margin-top:14px;
+ -webkit-text-stroke:7px #06101F;paint-order:stroke fill}
+</style></head><body>
+<div id="dim"></div>
+<div id="topscrim"></div>
+<div id="chart"><div id="cpanel"></div>
+  <div id="base"></div>
+  <div class="bw" id="w1" style="left:160px"><div class="bar" id="b1" style="height:0;background:#F7F5EF"></div><div class="bl">RETAIL<br>SALE</div></div>
+  <div class="bw" id="w2" style="left:580px"><div class="bar" id="b2" style="height:0;background:#FFD400"></div><div class="bl">CASH<br>OFFER</div></div>
+</div>
+<div id="q"></div>
+<div id="kick">WE BUY IT EXACTLY AS IT IS</div>
+<div id="num"><div id="numk"></div><div id="numv"></div></div>
+<div id="exam">EXAMPLE</div>
+<div id="cmp">
+  <div class="cc" id="cc1"><div class="ch">LIST IT</div><div class="cv">4 to 7<br>MONTHS</div></div>
+  <div class="cc" id="cc2"><div class="ch" style="color:#FFD400">SELL TO US</div><div class="cv" style="color:#FFD400">YOUR<br>DATE</div></div>
+</div>
+<div id="brand"><div id="bn">PROPERTY ABUNDANCE</div><div id="bs">SEE WHAT YOUR OFFER LOOKS LIKE</div></div>
+<div id="botscrim"></div>
+<div id="banner"><span id="bantxt">YES, WE ARE ONE<br>OF THOSE CASH BUYERS</span></div>
+<div id="cap"></div>
+<script>
+const T={"fps": 30, "total": 974, "total_s": 32.47, "starts": {"L00": 0.0, "L01": 2.54, "L02": 8.98, "L03": 12.3, "L04": 19.56, "L05": 26.54}, "scenes": {"A": [0.0, 2.54], "B": [2.54, 8.98], "C": [8.98, 12.3], "D": [12.3, 19.56], "E": [19.56, 26.54], "F": [26.54, 32.47]}, "chunks": [{"s": 0.0, "e": 0.6, "w": [{"t": "If", "s": 0.0, "e": 0.24}, {"t": "your", "s": 0.24, "e": 0.34}, {"t": "house", "s": 0.34, "e": 0.6}]}, {"s": 0.6, "e": 1.32, "w": [{"t": "looks", "s": 0.6, "e": 0.84}, {"t": "like", "s": 0.84, "e": 1.1}, {"t": "this,", "s": 1.1, "e": 1.32}]}, {"s": 1.44, "e": 2.08, "w": [{"t": "we", "s": 1.44, "e": 1.58}, {"t": "still", "s": 1.58, "e": 1.8}, {"t": "want", "s": 1.8, "e": 2.08}]}, {"s": 2.08, "e": 2.24, "w": [{"t": "it.", "s": 2.08, "e": 2.24}]}, {"s": 2.54, "e": 3.34, "w": [{"t": "Yes,", "s": 2.54, "e": 2.86}, {"t": "we", "s": 3.08, "e": 3.18}, {"t": "are", "s": 3.18, "e": 3.34}]}, {"s": 3.34, "e": 3.84, "w": [{"t": "one", "s": 3.34, "e": 3.54}, {"t": "of", "s": 3.54, "e": 3.66}, {"t": "those", "s": 3.66, "e": 3.84}]}, {"s": 3.84, "e": 5.26, "w": [{"t": "companies.", "s": 3.84, "e": 4.24}, {"t": "Our", "s": 4.9, "e": 4.98}, {"t": "offer", "s": 4.98, "e": 5.26}]}, {"s": 5.26, "e": 6.2, "w": [{"t": "comes", "s": 5.26, "e": 5.6}, {"t": "in", "s": 5.6, "e": 5.9}, {"t": "under", "s": 5.9, "e": 6.2}]}, {"s": 6.2, "e": 7.08, "w": [{"t": "a", "s": 6.2, "e": 6.36}, {"t": "retail", "s": 6.36, "e": 6.7}, {"t": "sale.", "s": 6.7, "e": 7.08}]}, {"s": 7.6, "e": 8.16, "w": [{"t": "That", "s": 7.6, "e": 7.74}, {"t": "is", "s": 7.74, "e": 7.9}, {"t": "how", "s": 7.9, "e": 8.16}]}, {"s": 8.16, "e": 8.68, "w": [{"t": "this", "s": 8.16, "e": 8.36}, {"t": "works.", "s": 8.36, "e": 8.68}]}, {"s": 8.98, "e": 9.54, "w": [{"t": "What", "s": 8.98, "e": 9.22}, {"t": "you", "s": 9.22, "e": 9.38}, {"t": "should", "s": 9.38, "e": 9.54}]}, {"s": 9.54, "e": 10.44, "w": [{"t": "be", "s": 9.54, "e": 9.7}, {"t": "asking", "s": 9.7, "e": 10.06}, {"t": "is", "s": 10.06, "e": 10.44}]}, {"s": 10.44, "e": 11.14, "w": [{"t": "what", "s": 10.44, "e": 10.64}, {"t": "you", "s": 10.64, "e": 10.8}, {"t": "actually", "s": 10.8, "e": 11.14}]}, {"s": 11.14, "e": 12.0, "w": [{"t": "walk", "s": 11.14, "e": 11.42}, {"t": "away", "s": 11.42, "e": 11.7}, {"t": "with.", "s": 11.7, "e": 12.0}]}, {"s": 12.3, "e": 12.98, "w": [{"t": "So", "s": 12.3, "e": 12.54}, {"t": "here", "s": 12.54, "e": 12.8}, {"t": "is", "s": 12.8, "e": 12.98}]}, {"s": 12.98, "e": 14.06, "w": [{"t": "ours,", "s": 12.98, "e": 13.34}, {"t": "line", "s": 13.6, "e": 13.88}, {"t": "by", "s": 13.88, "e": 14.06}]}, {"s": 14.06, "e": 15.38, "w": [{"t": "line,", "s": 14.06, "e": 14.44}, {"t": "worth", "s": 14.94, "e": 15.04}, {"t": "fixed", "s": 15.04, "e": 15.38}]}, {"s": 15.38, "e": 17.24, "w": [{"t": "up,", "s": 15.38, "e": 15.78}, {"t": "repairs,", "s": 16.24, "e": 16.5}, {"t": "our", "s": 17.12, "e": 17.24}]}, {"s": 17.24, "e": 18.28, "w": [{"t": "costs", "s": 17.24, "e": 17.56}, {"t": "and", "s": 17.56, "e": 17.92}, {"t": "profit,", "s": 17.92, "e": 18.28}]}, {"s": 18.84, "e": 19.26, "w": [{"t": "your", "s": 18.84, "e": 19.0}, {"t": "number.", "s": 19.0, "e": 19.26}]}, {"s": 19.56, "e": 20.34, "w": [{"t": "Compare", "s": 19.56, "e": 20.0}, {"t": "it", "s": 20.0, "e": 20.18}, {"t": "to", "s": 20.18, "e": 20.34}]}, {"s": 20.34, "e": 21.66, "w": [{"t": "a", "s": 20.34, "e": 20.46}, {"t": "listing,", "s": 20.46, "e": 20.8}, {"t": "commission", "s": 21.52, "e": 21.66}]}, {"s": 21.66, "e": 22.72, "w": [{"t": "the", "s": 21.66, "e": 22.1}, {"t": "repair", "s": 22.1, "e": 22.4}, {"t": "list", "s": 22.4, "e": 22.72}]}, {"s": 22.72, "e": 23.74, "w": [{"t": "after", "s": 22.72, "e": 23.12}, {"t": "the", "s": 23.12, "e": 23.26}, {"t": "inspection,", "s": 23.26, "e": 23.74}]}, {"s": 24.2, "e": 24.82, "w": [{"t": "and", "s": 24.2, "e": 24.44}, {"t": "the", "s": 24.44, "e": 24.56}, {"t": "payments", "s": 24.56, "e": 24.82}]}, {"s": 24.82, "e": 25.6, "w": [{"t": "you", "s": 24.82, "e": 25.04}, {"t": "keep", "s": 25.04, "e": 25.24}, {"t": "making", "s": 25.24, "e": 25.6}]}, {"s": 25.6, "e": 26.24, "w": [{"t": "while", "s": 25.6, "e": 25.84}, {"t": "it", "s": 25.84, "e": 26.02}, {"t": "sits.", "s": 26.02, "e": 26.24}]}, {"s": 26.54, "e": 27.22, "w": [{"t": "Tell", "s": 26.54, "e": 26.78}, {"t": "us", "s": 26.78, "e": 26.96}, {"t": "about", "s": 26.96, "e": 27.22}]}, {"s": 27.22, "e": 28.4, "w": [{"t": "the", "s": 27.22, "e": 27.38}, {"t": "house.", "s": 27.38, "e": 27.62}, {"t": "We", "s": 28.28, "e": 28.4}]}, {"s": 28.4, "e": 29.1, "w": [{"t": "will", "s": 28.4, "e": 28.54}, {"t": "send", "s": 28.54, "e": 28.84}, {"t": "the", "s": 28.84, "e": 29.1}]}, {"s": 29.1, "e": 29.78, "w": [{"t": "offer", "s": 29.1, "e": 29.42}, {"t": "and", "s": 29.42, "e": 29.68}, {"t": "the", "s": 29.68, "e": 29.78}]}, {"s": 29.78, "e": 30.88, "w": [{"t": "math.", "s": 29.78, "e": 30.06}, {"t": "You", "s": 30.64, "e": 30.72}, {"t": "can", "s": 30.72, "e": 30.88}]}, {"s": 30.88, "e": 31.32, "w": [{"t": "say", "s": 30.88, "e": 31.1}, {"t": "no.", "s": 31.1, "e": 31.32}]}]}; const FPS=T.fps; window.TOTAL=T.total;
+const el=i=>document.getElementById(i);
+const clamp=(x,a,b)=>Math.min(b,Math.max(a,x));
+const seg=(t,a,b)=>clamp((t-a)/(b-a),0,1);
+const eo=x=>1-Math.pow(1-x,3);
+const eio=x=>x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2;
+// label, value, colour, start, end   (cues locked to measured word times)
+const NUMS=[
+ ["WORTH","FIXED UP","#F7F5EF",14.89,16.14],
+ ["WE PAY FOR","THE REPAIRS","#F7F5EF",16.19,17.04],
+ ["OUR COSTS","AND PROFIT","#F7F5EF",17.09,18.74],
+ ["THAT IS","YOUR OFFER","#FFD400",18.79,20.44],
+ ["THE AGENT","COMMISSION","#F7F5EF",21.47,22.04],
+ ["THE REPAIR LIST","AFTER THE INSPECTION","#F7F5EF",22.09,24.09],
+ ["THE PAYMENTS","WHILE IT SITS","#F7F5EF",24.44,26.49]
+];
+window.renderFrame=function(f){
+  const t=f/FPS;
+  el('banner').style.opacity=eo(seg(t,0,0.45));
+  el('bantxt').style.transform=`scale(${0.88+0.12*eo(seg(t,0,0.45))})`;
+
+  // bar chart, only on the line that says it
+  const cOn=(t>=5.59&&t<8.98);
+  el('chart').style.opacity=cOn?eo(seg(t,5.59,5.99))*(1-seg(t,8.74,8.98)):0;
+  el('b1').style.height=(610*eio(seg(t,5.69,7.09)))+'px';
+  el('b2').style.height=(445*eio(seg(t,5.99,7.44)))+'px';
+  el('w1').style.opacity=eo(seg(t,5.69,6.09));
+  el('w2').style.opacity=eo(seg(t,5.99,6.39));
+
+  // the question
+  const qOn=(t>=9.14&&t<12.24);
+  el('q').innerHTML='WHAT DO YOU<br>ACTUALLY<br>WALK AWAY WITH?';
+  el('q').style.opacity=qOn?eo(seg(t,9.14,9.69))*(1-seg(t,11.99,12.24)):0;
+  el('q').style.transform=`scale(${0.92+0.08*eo(seg(t,9.14,9.69))})`;
+
+  // kinetic numbers over the footage
+  let cur=null;
+  for(const n of NUMS){ if(t>=n[3]&&t<n[4]+0.30){cur=n;break;} }
+  if(cur){
+    const p=eo(seg(t,cur[3],cur[3]+0.26)), o=1-seg(t,cur[4],cur[4]+0.28);
+    el('numk').textContent=cur[0]; el('numv').textContent=cur[1]; el('numv').style.color=cur[2];
+    el('num').style.opacity=p*o;
+    el('num').style.transform=`translateY(${(1-p)*34}px) scale(${0.94+0.06*p})`;
+  } else el('num').style.opacity=0;
+
+  el('exam').style.opacity=0;
+  const kOn=((t>=16.19&&t<18.74)||(t>=22.59&&t<24.14));
+  el('kick').style.opacity=kOn?eo(seg(t,kOn&&t<20?16.19:22.59,(kOn&&t<20?16.19:22.59)+0.3)):0;
+  const mOn=(t>=28.39&&t<30.69);
+  const mp=eo(seg(t,28.39,28.89)), mo=1-seg(t,30.44,30.69);
+  el('cmp').style.opacity=mOn?mp*mo:0;
+  el('cc1').style.transform=`translateY(${(1-mp)*30}px)`;
+  el('cc2').style.transform=`translateY(${(1-eo(seg(t,28.59,29.09)))*30}px)`;
+  // whole frame darkens a touch while numbers or the chart are up
+  el('dim').style.opacity=((cur?0.34:0)+(cOn?0.30:0)+(qOn?0.30:0)+(mOn?0.34:0));
+
+
+  // end card
+  el('brand').style.opacity=eo(seg(t,30.79,31.29));
+
+  // captions, word synced
+  let h='';
+  for(const c of T.chunks){
+    if(t>=c.s-0.05&&t<c.e+0.22){
+      h=c.w.map(w=>`<span class="${(t>=w.s-0.02&&t<w.e+0.06)?'on':''}">${w.t.replace(/[.,]$/,'')}</span>`).join('');
+      break;
+    }
+  }
+  el('cap').innerHTML=h;
+};
+window.renderFrame(0);
+</script></body></html>

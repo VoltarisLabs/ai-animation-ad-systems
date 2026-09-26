@@ -1,0 +1,69 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:transparent}
+body{font-family:'Avenir Next','Helvetica Neue',Arial,sans-serif;-webkit-font-smoothing:antialiased}
+#dim{position:absolute;inset:0;background:#120C06;opacity:0}
+#top{position:absolute;left:0;right:0;top:0;height:340px;background:linear-gradient(180deg,rgba(18,12,6,.40),rgba(18,12,6,0))}
+#bot{position:absolute;left:0;right:0;bottom:0;height:600px;background:linear-gradient(0deg,rgba(18,12,6,.50),rgba(18,12,6,0))}
+#tag{position:absolute;top:118px;left:0;right:0;text-align:center}
+#tag span{display:inline-block;background:#FFF6E6;color:#1B120A;font-weight:800;font-size:44px;letter-spacing:2px;
+ padding:16px 34px;border-radius:60px;box-shadow:0 10px 30px rgba(0,0,0,.35)}
+.big{position:absolute;left:70px;right:70px;text-align:center;font-family:Georgia,'Times New Roman',serif;font-weight:700;
+ color:#FFC53D;line-height:1.02;letter-spacing:-1px;text-shadow:0 6px 0 rgba(20,12,4,.55),0 0 40px rgba(0,0,0,.55);opacity:0}
+#hook{top:560px;font-size:124px}
+#q{top:600px;font-size:118px}
+#close{top:560px;font-size:112px}
+#list{position:absolute;left:120px;right:120px;top:540px;opacity:1}
+.li{font-family:'Avenir Next',Arial,sans-serif;font-weight:800;font-size:72px;color:#FFF6E6;margin:10px 0;opacity:0;
+ text-shadow:0 5px 0 rgba(20,12,4,.6),0 0 30px rgba(0,0,0,.6)}
+.li b{color:#FFC53D;margin-right:22px}
+#math{top:640px;font-size:108px}
+#cap{position:absolute;left:60px;right:60px;top:1380px;text-align:center}
+#cap div{display:inline-block;background:rgba(14,9,4,.78);border-radius:22px;padding:14px 30px}
+#cap span{font-family:'Avenir Next',Arial,sans-serif;font-weight:800;font-size:76px;line-height:1.1;color:#FFFFFF;margin:0 9px}
+#cap span.on{color:#FFC53D}
+#brand{position:absolute;left:80px;right:80px;top:1040px;text-align:center;opacity:0;background:#FFF6E6;border-radius:30px;
+ padding:40px 20px;box-shadow:0 20px 60px rgba(0,0,0,.45)}
+#bn{font-family:Georgia,serif;font-weight:700;font-size:70px;color:#1B120A;letter-spacing:1px}
+#bs{font-weight:800;font-size:38px;color:#A0620A;letter-spacing:3px;margin-top:14px}
+</style></head><body>
+<div id="dim"></div><div id="top"></div><div id="bot"></div>
+<div id="tag"><span>INHERITED A HOUSE?</span></div>
+<div class="big" id="hook">Keeping it<br>isn't honoring<br>them.</div>
+<div class="big" id="q">"Am I getting<br>ripped off?"</div>
+<div id="list">
+ <div class="li" id="l1"><b>+</b>REPAIRS</div>
+ <div class="li" id="l2"><b>+</b>A CLEAN-OUT</div>
+ <div class="li" id="l3"><b>+</b>SHOWINGS</div>
+ <div class="li" id="l4"><b>+</b>MONTHS OF TAXES</div>
+</div>
+<div class="big" id="math">We show you<br>the math<br>first.</div>
+<div class="big" id="close">Letting it go<br>is.</div>
+<div id="brand"><div id="bn">Property Abundance</div><div id="bs">GET THE NUMBER AND THE MATH</div></div>
+<div id="cap"></div>
+<script>
+const T=__TIMING__; window.TOTAL=T.total; const FPS=T.fps;
+const el=i=>document.getElementById(i);
+const cl=(x,a,b)=>Math.min(b,Math.max(a,x)), sg=(t,a,b)=>cl((t-a)/(b-a),0,1), eo=x=>1-Math.pow(1-x,3);
+function show(id,t,a,b,dy=40){const p=eo(sg(t,a,a+0.35)),o=1-sg(t,b-0.25,b),v=(t>=a&&t<b)?p*o:0;
+ const e=el(id); e.style.opacity=v; e.style.transform=`translateY(${(1-p)*dy}px) scale(${0.94+0.06*p})`; return v;}
+window.renderFrame=function(f){
+ const t=f/FPS; let d=0;
+ el('tag').style.opacity=t<37.8?eo(sg(t,0,0.3)):1-sg(t,37.8,38.1);
+ d+=show('hook',t,0.0,3.45)*0.22;
+ d+=show('q',t,11.90,15.60)*0.22;
+ const L=[[21.05,'l1'],[22.05,'l2'],[22.85,'l3'],[23.65,'l4']];
+ for(const [s,id] of L){const p=eo(sg(t,s,s+0.3)),o=1-sg(t,26.3,26.6); el(id).style.opacity=(t>=s&&t<26.6)?p*o:0;
+   el(id).style.transform=`translateX(${(1-p)*-60}px)`;}
+ if(t>=21.05&&t<26.6) d+=0.22;
+ d+=show('math',t,30.65,32.70)*0.22;
+ d+=show('close',t,35.30,37.85)*0.22;
+ const bp=eo(sg(t,37.9,38.4)); el('brand').style.opacity=t>=37.9?bp:0; el('brand').style.transform=`scale(${0.9+0.1*bp})`;
+ el('dim').style.opacity=d+(t>=37.9?0.3*bp:0);
+ let h='';
+ for(const c of T.chunks){ if(t>=c.s-0.05&&t<c.e+0.25){
+   h='<div>'+c.w.map(w=>`<span class="${(t>=w.s-0.02&&t<w.e+0.06)?'on':''}">${w.t.replace(/[.,:?]$/,'').replace(/^"|"$/g,'')}</span>`).join('')+'</div>'; break;}}
+ el('cap').innerHTML=h;
+};
+window.renderFrame(0);
+</script></body></html>

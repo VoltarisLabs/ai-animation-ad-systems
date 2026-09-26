@@ -1,0 +1,5 @@
+upload retry 1: upload failed for 12_AI_Characters/Emily/Emily_car_v4_a.png: <HTTPError 404: 'Not Found'>
+uploaded: 1
+taskId: c87d875d9270ffeb2cda55b31a296248
+task failed: 500 Internal Error, Please try again later.
+exit 1
