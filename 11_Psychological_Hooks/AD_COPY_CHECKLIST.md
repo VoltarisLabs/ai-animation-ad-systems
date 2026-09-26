@@ -7,6 +7,7 @@ Fill in the `[brackets]`. Examples rotate across industries to show the pattern,
 ---
 
 ## Step 0. Fill in the brief (2 minutes)
+Quick version below. The full version is [templates/ad-brief.md](templates/ad-brief.md). Do the [customer research](customer-research-worksheet.md) and the [offer](offer-builder.md) first.
 ```
 Product/offer:        [what you sell]
 Audience:             [who, in one specific situation]
@@ -84,6 +85,7 @@ Every line has one job: get the next line read (Sugarman).
 
 ## Step 8. Compliance
 - [ ] No fake urgency, invented testimonials or results you can't back up.
+- [ ] Check character limits and category rules in [platform-specs.md](platform-specs.md).
 - [ ] Check the platform's rules for your category (health, finance, housing, employment and credit have extra restrictions on Meta and Google).
 - [ ] No text baked into AI image or video prompts. Captions go in the editor.
 
@@ -91,4 +93,5 @@ Every line has one job: get the next line read (Sugarman).
 - Change **one thing at a time**, and test the hook first. Hooks move results the most.
 - Build an **Ad Grid**: audience segments down the side, angles (problem, opportunity, prediction) across the top. One ad per cell.
 - Judge by **cost per lead and cost per sale**, not views or likes.
-- Log the winners and losers, and start the next script from what worked.
+- Log the winners and losers in [test-log.md](test-log.md), and start the next script from what worked.
+- Before launch, score the finished ad with [ad-scorecard.md](ad-scorecard.md). Launch at 75+.
