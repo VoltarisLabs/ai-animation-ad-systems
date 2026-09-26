@@ -241,3 +241,42 @@ In each hook, A, B and C all open within the first 9–11 s, with a payload betw
 | **Close A** | "That's why I'm begging you. Don't fix this house. Property Abundance." |
 | CTA | "Tap below. No obligation." |
 
+
+---
+
+## v3.1: The Catch, Open C rewritten (2026-09-26)
+
+**Why the old C failed:** "It's not the catch you're thinking" opened no new question. It was a follow-up to B ("there's a catch"), so the viewer learned nothing. A nested C has to be a new question that breaks a belief, like Howie's "your BO doesn't come from your skin".
+
+**New C:** "But first, some cash buyers never actually buy your house."
+- It's a new question: then who buys it?
+- It teaches something true. A wholesaler puts the house under contract, then assigns that contract to another buyer for a fee. Sources: retipster.com/wholesaling, fortunebuilders.com, plattwestby.com "Real Estate Wholesalers—Seller Beware!".
+- It hits a fear the research file names for all three seller types: "Many 'cash buyers' now are just wholesalers who tie you up in contract…" (Reddit).
+- The closing line is a confirmed term: Property Abundance buys the house itself.
+- "But first" tells the viewer the catch is still coming, so B stays open.
+- It attacks a type, not a named company.
+- The other closes stay two-sided: the catch (a lower offer) is admitted, which Eisend's 2006 meta-analysis on two-sided advertising ties to higher credibility.
+
+| Loop | He says | On screen |
+|---|---|---|
+| **Open A** | "I'd buy this house exactly like this." | Front walk, he sweeps an arm at the roof |
+| payload | "Holes and all." | Roof shot, floor shot |
+| **Open B** | "And yes, there's a catch." | Face, small smile |
+| payload | "Junk everywhere." | Kitchen, junk |
+| **Open C** | "But first, some cash buyers never actually buy your house." | Face, leans in |
+| payload | "They lock it under contract. Then sell that contract to someone else." | Face (no printed paper on screen) |
+| **Close C** | "That's why I'll say it plain. We're the buyer. No fees. No commission." | Face |
+| payload | "As-is means you fix NOTHING. Every repair in here becomes OURS." | Floor shot, roof shot |
+| **Close B** | "That's why there IS a catch. Our offer is LOWER than a fixed-up sale." | Face, no cutaway |
+| payload | "You pick the closing date. And you can still say no." | Front walk |
+| **Close A** | "That's why I'd buy it exactly like this. Property Abundance." | Front walk |
+| CTA | "Tap below." | End card |
+
+**Measured:**
+- 100 words: 36.14 s at 166.0 wpm, 30.44 s at 197.1 wpm.
+- A and B are open by 5.42 s, and all three by 9.76 s.
+- Reverse order, a payload between every step, "That's why" on every close, 0 em dashes, 0 digits.
+
+**Alternate C lines:**
+- "And the offer isn't the number that matters." Close: "That's why the offer isn't the number that matters. What you keep is."
+- "And the roof isn't the scary part." Close: "That's why the roof was never the scary part. Who you sell to is."
