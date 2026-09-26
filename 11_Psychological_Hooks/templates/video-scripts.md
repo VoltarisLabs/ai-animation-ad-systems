@@ -1,6 +1,25 @@
-# Video Ad Script Templates
+# Short-Form Video Ad Templates
 
-Timings are for vertical short-form (Reels, TikTok, Shorts). Scale them for longer placements. Spoken pace is about 2.5 words per second, so 30 seconds is roughly 75 words.
+For vertical short-form: Meta Reels and Stories, TikTok, YouTube Shorts. Spoken pace is about 2.5 words per second, so 30 seconds is roughly 75 words.
+
+## Short-form rules (every video)
+1. **Three-layer hook in the first 1-2 seconds.** The *visual* (what's on screen), the *spoken line* and the *on-screen text* all hit at once. Each one should work on its own.
+2. **The first frame is the thumbnail.** Make it interesting as a still: a face showing emotion, the result, the problem object, or motion already in progress. No logo intros, no "Hey guys."
+3. **Design for sound off.** Burned-in captions on every spoken line, added in the editor. The story still makes sense muted.
+4. **Change something every 1-3 seconds:** a cut, a zoom, a new b-roll shot, a text pop. Still frames lose people.
+5. **One idea, one CTA.** If you need a second idea, make a second ad.
+6. **Keep text in the safe zone.** On Reels and Stories, keep the top 14%, bottom 35% and 6% on each side clear. On TikTok, use their overlay template. See [../platform-specs.md](../platform-specs.md).
+7. **Look native, not like an ad.** Phone-shot, a real person, natural light and platform-style text usually beat polished brand video on short-form. Test both.
+8. **Length:** start with 15-30s versions. Build a 6-10s cut of every winner for Stories and retargeting.
+9. **End card (last 2-3s):** the CTA as text + spoken, plus the offer or a reason to act now. Keep the logo small.
+10. **Make hook variants.** Every script ships with 3 alternate first-3-seconds. Keep the body the same, so the test isolates the hook.
+
+## Script sheet format
+| Time | Visual / b-roll | Spoken line | On-screen text |
+|---|---|---|---|
+| 0-2s | | | |
+
+Every template below goes into this 4-column sheet before production.
 
 For animated formats (skeleton, crochet, singing, claymation, talking objects), write the script here first, then follow that format's SOP in `01_Skills_and_SOPs/`.
 
@@ -51,7 +70,12 @@ Ask strangers the problem question, show the reactions, reveal the product or an
 ---
 
 ## Script QA before recording
+- [ ] Written in the 4-column script sheet (time, visual, spoken, text).
+- [ ] Three-layer hook: visual, spoken and text all land in 0-2s.
 - [ ] Hook works with the sound OFF (on-screen text says the same thing).
+- [ ] A cut or visual change every 1-3 seconds.
+- [ ] Text stays inside the safe zone.
+- [ ] 3 alternate hooks written.
 - [ ] First frame is visually interesting on its own.
 - [ ] One idea, one CTA.
 - [ ] Word count fits the length (about 2.5 words per second).

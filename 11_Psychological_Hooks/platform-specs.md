@@ -1,5 +1,7 @@
 # Platform Specs and Category Rules
 
+We currently run **short-form video and static ads** on Meta, TikTok and YouTube Shorts. Those specs come first. Other placements are at the bottom.
+
 Checked against official help pages on **2026-09-26**. Platforms change these often. Re-check before any big launch and update the date. Items marked **unverified** could not be confirmed on an official page.
 
 ## Meta (Facebook / Instagram)
@@ -28,7 +30,25 @@ Social issue and political ads require authorization and a "Paid for by" disclai
 
 **Real estate note:** Ads to buy houses from sellers, sell houses to buyers, or offer rentals or financing are very likely **Housing**. Declare the category, or Meta can reject the ad or restrict the account. The copy has to do the targeting: call out the situation ("inherited a house?") because you can't target by demographics.
 
-## Google Ads
+## TikTok
+| Item | Value |
+|---|---|
+| Ad text | **100 characters max**; 4 to 60 recommended to avoid truncation. No links or hashtags in non-Spark captions |
+| Display name | 20 characters |
+| Aspect ratio | 9:16 recommended (at least 540x960); 16:9 and 1:1 allowed |
+| Duration | Up to 10 min (non-Spark). No official short-length recommendation; the common "21 to 34s" is **unverified** |
+| Safe zone | Varies by format and caption length. Use TikTok's downloadable overlay templates |
+
+## YouTube Shorts
+| Item | Value |
+|---|---|
+| Format | Vertical ads between organic Shorts; viewers can swipe past |
+| View counted | At 10 seconds watched, or on interaction |
+| Text | Headline 40, description 90 characters recommended |
+
+## Not in use now (keep for later)
+
+### Google Ads
 | Item | Value |
 |---|---|
 | RSA headlines | 3 to 15, **30 characters** each |
@@ -42,16 +62,7 @@ Social issue and political ads require authorization and a "Paid for by" disclai
 
 **Restricted categories:** Healthcare (online pharmacies, telehealth prescribing, addiction services, and US health insurance) needs certification and is allowed only in some locations. Financial services must follow local law in every targeted location and often needs verification.
 
-## TikTok
-| Item | Value |
-|---|---|
-| Ad text | **100 characters max**; 4 to 60 recommended to avoid truncation. No links or hashtags in non-Spark captions |
-| Display name | 20 characters |
-| Aspect ratio | 9:16 recommended (at least 540x960); 16:9 and 1:1 allowed |
-| Duration | Up to 10 min (non-Spark). No official short-length recommendation; the common "21 to 34s" is **unverified** |
-| Safe zone | Varies by format and caption length. Use TikTok's downloadable overlay templates |
-
-## YouTube
+### YouTube in-stream and bumper
 | Item | Value |
 |---|---|
 | Skippable in-stream | Skip button after **5 seconds**. The hook and the brand must land by then |
@@ -59,7 +70,7 @@ Social issue and political ads require authorization and a "Paid for by" disclai
 | Non-skippable in-stream | 60 seconds or shorter |
 | Shorts ads | Vertical, between Shorts; a view counts at 10s or on interaction; headline 40, description 90 characters recommended |
 
-## LinkedIn (single image ad)
+### LinkedIn (single image ad)
 | Item | Recommended | Max |
 |---|---|---|
 | Intro text | 150 characters | 3,000 |

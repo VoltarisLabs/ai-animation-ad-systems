@@ -1,6 +1,8 @@
 # Start Here: Writing Ads With This Repo
 
-Everything needed to write, score and test an ad is in `11_Psychological_Hooks/`. Follow these steps in order for every new ad, for any product and any platform.
+Everything needed to write, score and test an ad is in `11_Psychological_Hooks/`. Follow these steps in order for every new ad, for any product or brand.
+
+**Current formats: short-form video (Reels, TikTok, Shorts) and static ads (Feed, Stories).** Video rules and templates are in `templates/video-scripts.md`. Static rules and layouts are in `templates/static-ads.md`.
 
 | Step | Do this | File |
 |---|---|---|
@@ -9,7 +11,7 @@ Everything needed to write, score and test an ad is in `11_Psychological_Hooks/`
 | 3 | Fill in the brief (nobody writes without one) | [templates/ad-brief.md](11_Psychological_Hooks/templates/ad-brief.md) |
 | 4 | Load the brand voice | [templates/brand-voice.md](11_Psychological_Hooks/templates/brand-voice.md) |
 | 5 | Write hooks: 10+ written, top 3 kept | [hook-formulas.md](11_Psychological_Hooks/hook-formulas.md) |
-| 6 | Write the ad from a template | [templates/video-scripts.md](11_Psychological_Hooks/templates/video-scripts.md), [templates/static-and-text-ads.md](11_Psychological_Hooks/templates/static-and-text-ads.md) |
+| 6 | Write the ad from the video or static template | [templates/video-scripts.md](11_Psychological_Hooks/templates/video-scripts.md), [templates/static-ads.md](11_Psychological_Hooks/templates/static-ads.md) |
 | 7 | Run the full routine | [AD_COPY_CHECKLIST.md](11_Psychological_Hooks/AD_COPY_CHECKLIST.md) |
 | 8 | Check limits and category rules | [platform-specs.md](11_Psychological_Hooks/platform-specs.md) |
 | 9 | Score it: launch at 75+, compliance must pass | [ad-scorecard.md](11_Psychological_Hooks/ad-scorecard.md) |

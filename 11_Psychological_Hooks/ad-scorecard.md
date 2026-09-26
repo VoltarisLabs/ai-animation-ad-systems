@@ -15,6 +15,20 @@ Score every finished ad before it goes live. **Launch at 75 or more. Rewrite bel
 | 9 | **Voice and platform fit** | 5 | Feels like an ad, off-brand | Native to the platform, sounds like the brand, works with the sound off |
 | | **Total** | **100** | | |
 
+## Format checks (must pass)
+**Short-form video**
+- [ ] Three-layer hook (visual, spoken, text) in 0-2s.
+- [ ] First frame works as a still.
+- [ ] Makes sense with the sound off (burned-in captions).
+- [ ] A visual change every 1-3s.
+- [ ] Text inside the safe zone. End card with the CTA.
+
+**Static**
+- [ ] Passes the 1-second test.
+- [ ] 8 words or fewer on the image, readable at thumbnail size.
+- [ ] Text inside the safe zone for each size (4:5 and 9:16 built separately).
+- [ ] Image text, primary text and headline tell one promise.
+
 ## Compliance gate (pass / fail)
 - [ ] Every claim can be proven (keep the source in the brief).
 - [ ] No fake scarcity, timers or testimonials.

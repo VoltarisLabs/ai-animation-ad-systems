@@ -47,17 +47,24 @@ Recommend the top 3 and say why.
 
 ## 4. Script / ad copy
 ```
-Write a [platform] [format] ad, [length], using [framework] and the #[n] hook.
-Use the matching template from templates/video-scripts.md or
-templates/static-and-text-ads.md. Include on-screen text and b-roll/visual notes
-for video. Stay within the platform character limits.
-Then write 2 alternate versions that change ONLY the hook.
+SHORT-FORM VIDEO:
+Write a [length]s [Reels/TikTok/Shorts] ad using [framework] and hook #[n].
+Use templates/video-scripts.md. Output the 4-column script sheet
+(time | visual/b-roll | spoken line | on-screen text). The three-layer hook
+lands in 0-2s, there is a visual change every 1-3s, and it ends on a CTA card.
+Then write 3 alternate 0-3s hooks, keeping the body identical.
+
+STATIC:
+Write a [Feed 4:5 / Stories 9:16] static ad using layout #[n] from
+templates/static-ads.md and hook #[n]. Output: image concept (what's shown),
+image text (8 words max), primary text (first line = hook), headline (~27 chars).
+Then give 3 variants that change ONE element each (hook, image or layout).
 ```
 
 ## 5. Score and fix
 ```
 Score this ad with ad-scorecard.md. Show points per category with one line of
-reasoning each, run the compliance gate, and total it.
+reasoning each, run the format checks (video or static) and the compliance gate, and total it.
 If it scores under 75, rewrite it to fix the 2 weakest categories and re-score.
 Ad: [paste]
 ```
