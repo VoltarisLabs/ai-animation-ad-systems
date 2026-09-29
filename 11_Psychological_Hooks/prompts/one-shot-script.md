@@ -4,16 +4,21 @@ One paste, one reply, one shippable ad. The mega-prompt below turns an avatar's 
 
 ## Part 1. How to run it
 
+Run steps:
+
 1. Open a fresh LLM chat (never a used thread). Paste the whole mega-prompt below, then the avatar's card from [../research-cards.md](../research-cards.md), then the whole of [../claims-registry.md](../claims-registry.md).
 2. Fill the six INPUT fields at the top of the prompt: avatar, format, length in seconds, platform, lead hook family, voice or character.
-3. Send. The reply is the full Parts A to D breakdown, ready for production. Then the ship check, five lines, one minute:
-4. Every claim in every part is in the pasted registry, and nothing on the banned list slipped in.
-5. The catch is said before the terms, and the brand lands exactly once, on the last close.
-6. Visual, spoken line and hook text all land by 2 seconds, and the Part C text pops alone tell the story.
-7. No card quote appears on screen, in captions, or voiced as a testimonial.
-8. The word count fits the length field at the stated pace, within about 10 percent.
-9. All five pass: ship it to production as-is.
-10. One fails: reply with only that check's sentence plus "fix and re-output Parts A to D". The first output should be shippable; back-and-forth is the exception, not the workflow.
+3. Send. The reply is the full Parts A to D breakdown, ready for production. The first output should be shippable; back-and-forth is the exception, not the workflow.
+
+Then the ship check, five lines, one minute:
+
+- S1. Every claim in every part is in the pasted registry as CONFIRMED, and nothing from the banned list, the CONTRADICTED section or the NOT CONFIRMED section slipped in.
+- S2. The catch is said before the terms, and the brand count follows the prompt's brand rule: spoken once, in Close A; end-card text and logo only besides that.
+- S3. Visual, spoken line and hook text all land by 2 seconds, and the Part C text pops alone tell the story.
+- S4. No card quote appears on screen, in captions, or voiced as a testimonial.
+- S5. The word count fits the length field at the stated pace, within about 10 percent.
+
+S1-S5 all pass: ship. Any fail: reply with the failing check's number plus fix and re-output Parts A to D.
 
 ## Part 2. The mega-prompt
 
@@ -37,13 +42,20 @@ Platform:         [Reels / Stories / TikTok / Shorts]
 Lead hook family: [a family name from the FAMILIES list below]
 Voice/character:  [who speaks; write "Omni avatar: NAME" if an Omni avatar is used]
 
+If an input value is not in the enum, treat the nearest listed value as the format
+and record the substitution in Part D.
+
 HARD RULES. One violation makes the whole output unusable. Re-read these after drafting.
 1. Claims: every factual statement in every part must trace to a claim in the pasted
    CLAIMS REGISTRY. A claim not in the registry does not exist. Never smuggle a missing
    claim in with "often", "usually", "up to" or "typically": leave it out entirely.
+   Exception: hedge words inside a registry-approved line (e.g. the approved admission)
+   are part of the approved wording and must not be edited out.
 2. No numbers, speed promises, timeframes or scarcity (deadlines, "only X left") unless
    the registry confirms that exact claim. The registry's banned list is banned in every
-   part, including on-screen text and Part D.
+   part, including on-screen text and Part D. Claims listed in the pasted registry as
+   CONTRADICTED or NOT CONFIRMED are banned exactly like the banned list. If the
+   registry and this prompt disagree, the registry wins.
 3. Situation, not person. Never "you are" or "you have" plus a sensitive trait (money
    trouble, health, age, grief, body). Name the situation ("Behind on the taxes?"),
    never the attribute ("Are you broke?").
@@ -67,16 +79,22 @@ STEP 2. Nested loops. Build the skeleton as open loops that close in reverse:
 - Open A, the hook: hits the bullseye desire or its mirror pain and leaves a question
   hanging.
 - Open B: the avatar's top objection from the card, said out loud before they can
-  scroll away with it.
+  scroll away with it. If the avatar's top objection cannot be closed with a
+  registry-confirmed claim, open the next closeable objection instead, and flag in
+  Part D: avatar-critical claim blocked; card predicts weakened qualification;
+  consider holding this avatar until the owner rules.
 - Open C: a belief break, one registry fact that contradicts what they assume. Use
   loop C only at 45 seconds or longer; under that, run loops A and B. Three loops
   need room to close.
-- A payload sits between every open and every close: a pain scene, the alternative
-  they already tried and why it fails them (from the card), or confirmed terms as
-  relief. Never two loop steps back to back with no payload.
+- A payload sits after every open: a pain scene, the alternative they already tried
+  and why it fails them (from the card), or confirmed terms as relief. Between
+  consecutive closes a payload is optional; if absent, the closes must land on
+  different visuals.
 - Closes run in reverse: C, then B, then A. Every close starts with "That's why" and
   repeats the key words of its open, so the answer visibly lands on its question.
-- The brand name appears exactly once, inside Close A, the last close. Never earlier.
+- The brand rule, canonical: the brand name is SPOKEN exactly once, in Close A. It
+  may also appear in the end-card text and logo; nowhere else in voice or text pops.
+  Every other mention of the brand count defers to this rule.
 
 STEP 3. Dimensionalize. Convert every pain and fear the script touches into a scene
 from the card's scene list, or build one the card supports: a specific place, object
@@ -85,7 +103,11 @@ month to an empty house). Test each line: can the viewer picture a place, an obj
 a moment? Category words (stress, hassle, overwhelmed, expensive) fail; rewrite until
 every pain is a picture. These scenes become Part C's shot list.
 
-STEP 4. Hooks. Write exactly three, all leading into the same unchanged body:
+STEP 4. Hooks. The process is the checklist's write-20-keep-3 rule, run inside the
+model: draft 20 hook candidates internally across the families, score them, and
+surface only the best three (MAIN, CONTROL, WILDCARD), each scoring 20 or more out
+of 28 in GATE 2 (17 or more out of 24 for an Unaware avatar). The other 17 are never
+shown. The three surfaced hooks all lead into the same unchanged body:
 - MAIN: benefit-led, from the input lead hook family.
 - CONTROL: pain-led, the same promise approached from the pain side.
 - WILDCARD: any other family below that fits the card.
@@ -127,14 +149,29 @@ kills that hook: rewrite it from the same family and re-run the gate.
 - Blind curiosity: curiosity with no benefit attached.
 - Mechanism given away: they could solve it without clicking.
 - Accuses the reader ("You don't...", "Your X is a mess").
-- Copyable: a competitor could run it word for word.
+- Copyable: could a competitor run the HOOK line word for word without their claims
+  being false? Judge the hook and close lines, not the registry terms.
 - Broken promise: the body does not pay this hook off.
 - Closes in the ad: the ad's only job is the click.
 
 GATE 2, 7-point score. Score each hook 1 to 4 on Useful, Urgent, Unique,
 Ultra-specific, New, Easy, Safe. Keep a hook only at 20 or more out of 28. For an
 Unaware avatar, score Urgent as N/A and keep at 17 or more out of 24. A hook under
-the bar gets rewritten and rescored, never shipped.
+the bar gets rewritten and rescored, never shipped. Anchors, with 2 and 3 sitting
+between them:
+- Useful: 1 = no payoff a viewer could name; 4 = the card's bullseye desire with the
+  size of the payoff stated.
+- Urgent: 1 = no reason to act today; 4 = a true, registry-confirmed reason the
+  viewer loses by waiting.
+- Unique: 1 = any competitor could sign the line as written; 4 = the line is only
+  true because of this offer's confirmed terms.
+- Ultra-specific: 1 = category words; 4 = a concrete object, place or count the
+  avatar owns.
+- New: 1 = restates what the avatar already believes; 4 = a registry fact that flips
+  an assumption from the card.
+- Easy: 1 = the result sounds like a project; 4 = the first step sounds like one tap.
+- Safe: 1 = the line raises a fear or a risk; 4 = it names the top worry and lowers
+  it with a confirmed term.
 
 GATE 3, beat-by-beat. List every claim in the script in order, one plain statement
 per line. A line that contradicts, repeats or wanders from the one before is a fail:
@@ -183,8 +220,9 @@ card: CTA spoken and as text, logo small. Generation notes contain no words to r
 A table, one row per check with its result: Kill checks (each of the seven named,
 pass or the fix applied); 7-point score for each of the three hooks with all seven
 numbers shown; Beat-by-beat (the ordered claim list); Claims (each traced to its
-registry line, banned list untouched); Quotes on screen (confirm none); Emotional
-temperature (one line naming the register, for the landing page to match); Sound-off
-(the text pops in order, telling the story); any blank input you chose yourself; any
-line flagged "confirm before running".
+registry line; banned list, CONTRADICTED and NOT CONFIRMED all untouched); Quotes on
+screen (confirm none); Emotional temperature (one line naming the register, for the
+landing page to match); Sound-off (the text pops in order, telling the story); any
+blank input you chose yourself; any enum substitution; any "avatar-critical claim
+blocked" flag; any line flagged "confirm before running".
 ```

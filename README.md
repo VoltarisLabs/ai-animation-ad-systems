@@ -87,7 +87,8 @@ The course teaches Max Fusion / Higgs Field. We run KIE.ai instead. Substitution
 |---|---|---|
 | Seedream 4.5 / NanoBanana 2 | Nano Banana Pro | ~$0.09/image |
 | Seedance 1.5 Pro | ⚠️ unverified on KIE | n/a |
-| Seedance 2.0 | ✅ working, workhorse | $0.205/sec |
+| Seedance 2.0 | ✅ working, workhorse for its own formats (Seedance_UGC SOP, non-talking footage) | $0.205/sec |
+| AI-UGC talking clips (no course tool) | working: `gemini-omni-video` (Kie Gemini Omni), the production route per CLAUDE.md; runner `12_AI_Characters/kie_omni.py` | 63-126 credits per 4-10 s clip at 720p/1080p (list) |
 | Kling 2.6 / 3.0 | 🔴 500 Internal Error (2026-08-27) | n/a |
 | Veo 3 Fast | ✅ working | ~$0.30 flat |
 | ElevenLabs (via KIE) | 🔴 broken → use ElevenLabs direct API | n/a |
@@ -123,7 +124,7 @@ Every model call costs real money. Nothing in this repo should be run against a 
 
 ## Copywriting Playbook
 
-[11_Psychological_Hooks/](./11_Psychological_Hooks) is how we write ads that convert. It combines the classic direct-response canon (Ogilvy, Schwartz, Halbert, Sugarman, Hopkins, Caples), the psychology behind it (Cialdini, Kahneman and Tversky, Ariely, Fogg, Thaler), and full YouTube channel scans of **Stefan Georgi** and **Sabri Suby**: 671 videos read, with lessons paraphrased and sourced by video ID.
+[11_Psychological_Hooks/](./11_Psychological_Hooks) is how we write ads that convert. It combines the classic direct-response canon (Ogilvy, Schwartz, Halbert, Sugarman, Hopkins, Caples), the psychology behind it (Cialdini, Kahneman and Tversky, Ariely, Fogg, Thaler), and full YouTube channel scans of **Stefan Georgi** and **Sabri Suby**: 671 videos read, with lessons paraphrased and sourced by video ID, plus Jeremy Haynes (single video, Meta 2027 rules).
 
 **Use it in this order:**
 1. [research-playbook.md](./11_Psychological_Hooks/research-playbook.md): get the market's exact words, their awareness level and the one desire to aim at.

@@ -64,7 +64,7 @@ These hooks plug into `03_Ad_Scripts_and_Briefs/Property_Abundance_Ad16_JMSN_Wal
 
 | # | He says | On-screen text | For | Ending line (clip 4) | Score | Clip 1 / Clip 4 | Test credits |
 |---|---|---|---|---|---|---|---|
-| 14 | "Yeah, I'm one of those cash buyers." | ONE OF THOSE CASH BUYERS | All | "That's why one of those cash buyers fits a house like this." | 7 | 8 s / 10 s | 231 |
+| 14 | "Yeah, I'm one of those cash buyers." | ONE OF THOSE CASH BUYERS | All | "That's why one of those cash buyers fits a house like this." [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] | 7 | 8 s / 10 s | 231 |
 
 ## Round 1 test (suggested)
 
@@ -167,8 +167,8 @@ In each hook, A, B and C all open within the first 9-11 s, with a payload betwee
 | **Open B** | "And yes, there's a catch." |
 | payload | "Cabinets hanging. Junk everywhere." |
 | **Open C** | "It's not the catch you're thinking." |
-| payload | "You're thinking hidden fees. Or a middleman who flips your contract." [blocked: direct-buyer claim, see claims-registry.md] |
-| **Close C** | "That's why I'll say it plain. No fees. No commission. No middleman. We're the buyer." [blocked: direct-buyer claim, see claims-registry.md] |
+| payload | "You're thinking hidden fees. Or a middleman who flips your contract." [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] |
+| **Close C** | "That's why I'll say it plain. No fees. No commission. No middleman. We're the buyer." [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] |
 | payload | "As-is means you fix NOTHING. Every repair in here becomes OURS." |
 | **Close B** | "That's why there IS a catch. Our offer is LOWER than a fixed-up sale." |
 | payload | "You pick the closing date. And you can still say no." |
@@ -203,7 +203,7 @@ In each hook, A, B and C all open within the first 9-11 s, with a payload betwee
 | **Open C** | "And the clean-out isn't step one." |
 | payload | "Look at this roof. Old furniture everywhere. We buy it as-is." |
 | **Close C** | "That's why the clean-out isn't a step at all. Leave ALL of it." |
-| payload | "No fees. No commission. We're the buyer." [blocked: direct-buyer claim, see claims-registry.md] |
+| payload | "No fees. No commission. We're the buyer." [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] |
 | **Close B** | "That's why that room can stay exactly how it is." |
 | payload | "YOU pick the closing date." |
 | **Close A** | "That's why you don't touch anything. Property Abundance." |
@@ -220,7 +220,7 @@ In each hook, A, B and C all open within the first 9-11 s, with a payload betwee
 | **Open C** | "And I'll say the part you're scared of." |
 | payload | "As-is means you fix NOTHING. Leave the furniture." |
 | **Close C** | "That's why I'll say it. Our offer is LOWER than a fixed-up sale." |
-| payload | "We're the buyer. No middleman. No fees. No commission." [blocked: direct-buyer claim, see claims-registry.md] |
+| payload | "We're the buyer. No middleman. No fees. No commission." [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] |
 | **Close B** | "That's why the somebody is us. Not you." |
 | payload | "YOU pick the closing date." |
 | **Close A** | "That's why that sound isn't your problem anymore. Property Abundance." |
@@ -252,11 +252,11 @@ In each hook, A, B and C all open within the first 9-11 s, with a payload betwee
 
 **Why the old C failed:** "It's not the catch you're thinking" opened no new question. It was a follow-up to B ("there's a catch"), so the viewer learned nothing. A nested C has to be a new question that breaks a belief, like Howie's "your BO doesn't come from your skin".
 
-**New C:** "But first, some cash buyers never actually buy your house."
+**New C:** "But first, some cash buyers never actually buy your house." [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2]
 - It's a new question: then who buys it?
 - It teaches something true. A wholesaler puts the house under contract, then assigns that contract to another buyer for a fee. Sources: retipster.com/wholesaling, fortunebuilders.com, plattwestby.com "Real Estate Wholesalers: Seller Beware!".
 - It hits a fear the research file names for all three seller types: "Many 'cash buyers' now are just wholesalers who tie you up in contract…" (Reddit).
-- The closing line is a confirmed term: Property Abundance buys the house itself.
+- The closing line is a confirmed term: Property Abundance buys the house itself. [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2. This line is stale: the claim is CONTRADICTED, not confirmed]
 - "But first" tells the viewer the catch is still coming, so B stays open.
 - It attacks a type, not a named company.
 - The other closes stay two-sided: the catch (a lower offer) is admitted, which Eisend's 2006 meta-analysis on two-sided advertising ties to higher credibility.
@@ -267,9 +267,9 @@ In each hook, A, B and C all open within the first 9-11 s, with a payload betwee
 | payload | "Holes and all." | Roof shot, floor shot |
 | **Open B** | "And yes, there's a catch." | Face, small smile |
 | payload | "Junk everywhere." | Kitchen, junk |
-| **Open C** | "But first, some cash buyers never actually buy your house." | Face, leans in |
-| payload | "They lock it under contract. Then sell that contract to someone else." | Face (no printed paper on screen) |
-| **Close C** | "That's why I'll say it plain. We're the buyer. No fees. No commission." [blocked: direct-buyer claim, see claims-registry.md] | Face |
+| **Open C** | "But first, some cash buyers never actually buy your house." [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] | Face, leans in |
+| payload | "They lock it under contract. Then sell that contract to someone else." [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] | Face (no printed paper on screen) |
+| **Close C** | "That's why I'll say it plain. We're the buyer. No fees. No commission." [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] | Face |
 | payload | "As-is means you fix NOTHING. Every repair in here becomes OURS." | Floor shot, roof shot |
 | **Close B** | "That's why there IS a catch. Our offer is LOWER than a fixed-up sale." | Face, no cutaway |
 | payload | "You pick the closing date. And you can still say no." | Front walk |
@@ -283,4 +283,4 @@ In each hook, A, B and C all open within the first 9-11 s, with a payload betwee
 
 **Alternate C lines:**
 - "And the offer isn't the number that matters." Close: "That's why the offer isn't the number that matters. What you keep is."
-- "And the roof isn't the scary part." Close: "That's why the roof was never the scary part. Who you sell to is."
+- "And the roof isn't the scary part." Close: "That's why the roof was never the scary part. Who you sell to is." [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2]

@@ -6,6 +6,8 @@
 
 **Tags.** [R] = in the research data (a quote, pain, objection or persona detail). [I] = inference carried over from the Hook Map. [D] = derived here for avatars 4 and 5, which the Hook Map does not profile individually, by applying its cross-avatar doctrine to the research file's persona data. Test [I] and [D] material; do not quote it as fact.
 
+**Quote sweep (2026-09-29).** Every string presented as a quote on these cards was checked against the `04_Audience_Research` files (the research document, the raw file and the Buyer_Avatar folder). A bare [R] on a quoted string now means that exact string appears in the research document or the raw Reddit data. Lines that exist only in the Buyer_Avatar README's Representative Voice or "likely objections" sections are invented avatar language, not sourced quotes: they carry [I] or an explicit "[R paraphrase, README]" label, never a bare [R]. Two mistags were fixed in this sweep (Card 2's two-months line, Card 3's give-me-a-number line). Note: the Hook Map still tags both lines [R] (its lines ~200 and ~263); on those two lines this file is the corrected record.
+
 **Rule 1: quotes are internal only.** Every quoted line on these cards is a Reddit commenter's words or representative avatar language. They exist to give the writer wording and tone. They never go on screen, in a voiceover, in post text or in a caption, and they are never presented as customer testimonials (FTC 16 CFR 255.1, 16 CFR 465.2). Rewrite before anything ships.
 
 **Rule 2: claims come only from the claims registry.** No offer term, number, timeline or capability appears in an ad unless [claims-registry.md](claims-registry.md) lists it as confirmed. The research file marks the usual terms (24-hour offer, 7-day close, no fees, no repairs, buys occupied, direct purchase, proof of funds) as PLACEHOLDER or TBD. The "Confirmed claims" field on every card below therefore points at the registry instead of listing terms. If the registry does not confirm a claim, the script works without it.
@@ -67,12 +69,12 @@ Scene staging notes (rooms, objects, light) are writer's craft layered on [R] fa
 
 **Awareness level:** Problem-aware, urgently; solution-aware but threat-flagged. He does not need the problem explained. He needs a route that does not feel like a trap, told calmly. [I]
 
-**Bullseye desire (his words):** "a clear timeline and a straight answer" [R, persona interests]. In the README's representative voice: "I need somebody to just tell me what my options are." / "How much time do I actually have?" Underneath: stop the foreclosure, protect the credit, keep whatever equity is left. [R]
+**Bullseye desire:** "a clear timeline and a straight answer" [R, persona interests: the research file's persona wording, not a Reddit quote]. In the README's Representative Voice, which is invented avatar language, [I], not sourced quotes: "I need somebody to just tell me what my options are." / "How much time do I actually have?" Underneath: stop the foreclosure, protect the credit, keep whatever equity is left. [R]
 
 **Top pains (their words):**
 - "Can my house get forclosed after being 3 months behind?" (post title, spelling as posted) [R]
 - "The longer you wait the less options you have." [R]
-- "I can probably manage for another two months at most." [R; from a non-US thread, kept for tone only, never for a claim]
+- "I can probably manage for another two months at most." [I for this persona. The line is a real Golden Nuggets quote, but it is a non-US landlord's words (r/AusPropertyChat, kept in the research file for tone only), not a cornered US homeowner's. Treat it as inference here: tone reference only, never presented as his words, never on screen, never a claim.]
 
 **Top fear / objection (exact words):** "You're trying to take advantage of me because you know I'm in trouble" [R paraphrase, README]; he has read that buyers "focus on the three Ds: death, divorce, destitution." [R] His distrust is technical, not vague: "Proof of funds letters are often drawn on some vague LLC that they don't even own." [R] And the restart he cannot survive: "2 months later they offered 10% less than originally quoted so by that time I didn't want to start over with a realtor." [R] Deepest fear: his family finding out how bad it got, and losing the equity and the credit both. [I; the equity/credit fear is R]
 
@@ -86,7 +88,7 @@ Scene staging notes (rooms, objects, light) are writer's craft layered on [R] fa
 **Scenes (dimensionalized):**
 1. The front hallway: a certified-mail slip from the servicer, still not taken to the post office. [R: letters from the lender]
 2. 2 a.m., a dark bedroom, phone glow: the search bar holding half of "can my house get foreclosed after being 3 months behind." [R: searching his options late at night]
-3. The kitchen table after everyone is asleep: banking app open, counting how many mortgage payments the savings still cover. [R: "I can probably manage for another two months at most"]
+3. The kitchen table after everyone is asleep: banking app open, counting how many mortgage payments the savings still cover. [I staging, toned on the non-US two-months quote above; the R basis is Persona 2: money is tight, and "The longer you wait the less options you have"]
 4. The mail pile: lender envelopes set apart, unopened, from the rest of the letters. [R: letters, fear, shame]
 5. A notice with a date on it, held in his hand, the date read twice. [Hook Map trigger]
 
@@ -110,7 +112,7 @@ Scene staging notes (rooms, objects, light) are writer's craft layered on [R] fa
 
 **Awareness level:** Solution-aware, most-aware on a good day. He has already considered cash buyers and has probably been burned by or warned about a wholesaler. The hook's job is qualification: prove the tenant is not a deal breaker, or he is gone in one second. [I/R]
 
-**Bullseye desire (his words):** "Just give me a number and let me decide." [R] Stated: sell it, stop the bleed, stop dealing with tenants. Hidden: a clean transfer of the problem is worth more than a higher number; the loss stops being his the day he signs. [R/I]
+**Bullseye desire:** "Just give me a number and let me decide." [I: inferred, not a sourced quote. It appears nowhere in the Reddit data, only in the README's Representative Voice (invented avatar language) and in the Hook Map, whose [R] tag on it was wrong, as was the one here. His sourced words are in Top pains below: "Bleeding money for months on an attorney is gutting me." and "I honestly feel like I'm a victim and the tenant is a bully here."] Stated: sell it, stop the bleed, stop dealing with tenants. Hidden: a clean transfer of the problem is worth more than a higher number; the loss stops being his the day he signs. [R/I]
 
 **Top pains (their words):**
 - "Bleeding money for months on an attorney is gutting me." [R]
@@ -156,7 +158,7 @@ Scene staging notes (rooms, objects, light) are writer's craft layered on [R] fa
 
 **Awareness level:** Solution-aware and braced for insult. She has asked realtors, gathered repair quotes, and may have already filled out a cash-buyer form and been offended by the result. [D, from her activities and the "pennies" quote below]
 
-**Bullseye desire (her words):** "an honest price for the house as it stands." [R, persona interests] How she actually phrases the problem: "No Money.. How can I repair My Home before Selling." [R, spelling as posted]
+**Bullseye desire:** "an honest price for the house as it stands." [R, persona interests: the research file's persona wording, not a Reddit quote]. How she actually phrases the problem (her words): "No Money.. How can I repair My Home before Selling." [R, spelling as posted]
 
 **Top pains (their words):**
 - "I'm 70 and hate having home repairs done." [R]

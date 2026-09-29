@@ -78,7 +78,7 @@ Every one of the 8 ads follows these.
 **Script**
 - 25-35 s, 65-95 spoken words (a sung ad needs fewer, because singing is slower). The refs run 182-228 wpm; aim for about 170 so it doesn't sound rushed. Scripts below: 67-85 words, Ad 5 lyrics 42 words.
 - One persona, one pain, one promise per ad. Don't list every feature.
-- Name the doubt out loud ("Yes, we're one of those cash buyers").
+- Name the doubt out loud ("Yes, we're one of those cash buyers"). [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2]
 - Show how the offer works: *market value, minus repairs, minus our costs and profit*. The research says skeptics want this. Not yet confirmed that Property Abundance does this (see 11_Psychological_Hooks/claims-registry.md). Confirm before production.
 - Plain, 7th-grade words. No em dashes. No "top dollar", "best price guaranteed", "life-changing".
 
@@ -200,17 +200,19 @@ Answers the #1 objection ("you'll lowball me") with the math ref 2 left in its c
 - "Sometimes listing wins" is the line that makes it trusted. Keep it.
 
 ### Ad 7 - UGC founder talking head - "Yes, we're one of those"
+> **Note: this ad's premise (the anti-wholesaler check-any-buyer blueprint, including "ask if they'll assign your contract... We don't") is blocked pending the owner's wholesaling ruling. See 11_Psychological_Hooks/claims-registry.md Section 2.**
+
 Fixes ref 3: same contrarian energy, but with proof in place of a claim about competitors.
 - **Hook:** founder, selfie camera, in front of a house they bought. On screen: YES, WE'RE ONE OF THOSE CASH BUYERS
 - **Script:**
   > Yes, we're one of those "we buy houses" companies. You're right to be careful.
   > So here's how to check any of us.
   > One: ask for proof of funds in the company's name.
-  > Two: ask if they'll assign your contract to someone else. We don't. [only if true]
+  > Two: ask if they'll assign your contract to someone else. We don't. [only if true] [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2]
   > Three: ask how they got the number. We'll show you ours on paper. [only if true]
   > If a buyer won't do those three things, walk away. Even if it's us.
   > Tap below.
-- **Shots:** founder talking, cut away on each point: a proof-of-funds letter (real, blurred account numbers) → a contract, the word "assigns" circled → the offer worksheet → back to founder → form + brand.
+- **Shots:** founder talking, cut away on each point: a proof-of-funds letter (real, blurred account numbers) → a contract, the word "assigns" circled → the offer worksheet → back to founder → form + brand. [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2]
 - Use your real founder. If you make an AI version with Seedance, it must not claim to be a real person it isn't.
 
 ### Ad 8 - 3D explainer (Zack D Films style) - "You pick the move date"

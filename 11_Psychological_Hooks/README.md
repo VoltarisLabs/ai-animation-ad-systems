@@ -28,7 +28,7 @@ From the Georgi and Suby channel scans, confirmed across dozens of videos:
 ## Structure
 | Path | Contents |
 |---|---|
-| [claims-registry.md](claims-registry.md) | **The single source of truth for claims: confirmed, unconfirmed, banned.** Every script defers to it |
+| [claims-registry.md](claims-registry.md) | **The single source of truth for claims: confirmed wording, contradicted / do-not-use, not confirmed, banned, and the before-any-script-ships check.** Every script defers to it |
 | [research-cards.md](research-cards.md) | Pre-filled research cards for all 5 seller avatars |
 | **[AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md)** | **Start here. The routine every ad script goes through.** |
 | [research-playbook.md](research-playbook.md) | Get the market's exact words into the lines: worksheet, awareness gap, dimensionalization, second-click check |
@@ -44,8 +44,8 @@ From the Georgi and Suby channel scans, confirmed across dozens of videos:
 | [triggers-index.md](triggers-index.md) | Every psychological trigger turned into copy: how to write it, example lines, how it backfires, evidence strength |
 | [01-copywriters/](01-copywriters/) | Ogilvy, Schwartz, Halbert, Sugarman, Hopkins and Caples |
 | [02-psychology/](02-psychology/) | Cialdini, Kahneman and Tversky, Ariely, Fogg, Thaler |
-| [03-modern-creators/](03-modern-creators/) | Cattoni, Wiebe, Medhora, Milligan, Furr, DigitalMarketer, Backlinko, Neil Patel, Klaff, The Decision Lab, plus full YouTube channel scans: [Stefan Georgi](03-modern-creators/stefan-georgi.md), [Sabri Suby](03-modern-creators/sabri-suby.md), and [Jeremy Haynes](03-modern-creators/jeremy-haynes.md) (Meta 2027 rules) |
-| [prompts/](prompts/) | [copy-prompts.md](prompts/copy-prompts.md): research miner, Objection Obliterator, brief check, hook generator, register variants, copy chief, headline iteration, kill-check review, teardown, pre-mortem, beat-by-beat. Plus the transcript extraction prompt. |
+| [03-modern-creators/](03-modern-creators/) | Cattoni, Wiebe, Medhora, Milligan, Furr, DigitalMarketer, Backlinko, Neil Patel, Klaff, The Decision Lab, plus full YouTube channel scans: [Stefan Georgi](03-modern-creators/stefan-georgi.md) and [Sabri Suby](03-modern-creators/sabri-suby.md), plus [Jeremy Haynes](03-modern-creators/jeremy-haynes.md) (single video, Meta 2027 rules) |
+| [prompts/](prompts/) | [copy-prompts.md](prompts/copy-prompts.md): research miner, brief check, hook generator, register variants, copy chief, headline iteration, kill-check review, teardown, Objection Obliterator, pre-mortem, beat-by-beat. Plus the transcript extraction prompt. |
 | [transcripts/](transcripts/) | The [channel scan log](transcripts/youtube-channel-scan-log.md): 671 videos read (Sabri Suby 248 long-form + 336 shorts, Stefan Georgi 86 long-form + 1 short). Raw transcripts stay local (copyright). |
 
 Each creator file follows the same four sections: **Frameworks, Actionable rules, Psychological triggers, Examples/teardowns.**

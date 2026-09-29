@@ -8,7 +8,7 @@ Built with [11_Psychological_Hooks/templates/script-and-scene-breakdown.md](../1
 - The catch said first.
 - A soft CTA.
 
-**Speaker:** JMSN, Property Abundance's buyer (company voice). He never plays a customer.
+**Speaker:** JMSN, Property Abundance's presenter (company voice). He never plays a customer. (He is not called "the buyer": every direct-buyer claim is frozen by claims-registry.md Section 2.)
 **Format:** AI UGC house walkthrough, 9:16, about 30 s. The images are the v1 avatar set: L1 front walk, L2 kitchen, L3 broken floor.
 **Status:** script draft, nothing generated.
 
@@ -27,7 +27,7 @@ Built with [11_Psychological_Hooks/templates/script-and-scene-breakdown.md](../1
 | Unspoken sentence | "I can't afford to fix it, and I'm embarrassed to show it." | Inference (Hook Map [I]) |
 | Scenes | The quote read twice and folded into a drawer · the soft spot in the floor you step around · the roof you stopped looking up at | Dimensionalized from the pains above |
 | Confirmed claims | As-is · belongings can stay · no fees or commission · seller picks the closing date · no obligation · a cash offer is lower than a fixed-up sale | CLAUDE.md, confirmed 2026-09-25; the "lower" line was approved for Ad 15 |
-| Banned here | Numbers, speed claims, scarcity, "any condition," "we buy it ourselves" (open question), showing the offer math (not confirmed), competitor names | CLAUDE.md and the hook bank review |
+| Banned here | Numbers, speed claims, scarcity, "any condition," every direct-buyer claim ("we buy it ourselves", "we're the buyer", "no middleman", "not wholesalers": frozen by claims-registry.md Section 2 until the owner rules), showing the offer math (not confirmed, claims-registry.md Section 3), competitor names | claims-registry.md; CLAUDE.md and the hook bank review |
 
 ---
 
@@ -46,7 +46,7 @@ Built with [11_Psychological_Hooks/templates/script-and-scene-breakdown.md](../1
 
 **Loops:** Open A (1) → payload → Open B (3) → payload → Close B (5) → payload → Close A (7) → CTA. They close in reverse order, with a payload between each step.
 
-**Length:** 85 words, about 30.7 s at 166 wpm (the measured Omni pace for Emily; measure JMSN after the first take). Measure after the first take.
+**Length:** 85 words, about 30.7 s at 166 wpm (the measured Omni pace for Emily; measure JMSN after the first take).
 
 ### Hook variants (test the hook only; the body stays the same)
 | # | Family | Hook (line 1) | On-screen text | Close A (line 7) |
@@ -94,10 +94,10 @@ That's 420 credits ($2.10) for one take each, at list price. **Nothing has been 
 
 | Check | Result |
 |---|---|
-| Kill checks | Pass: it doesn't announce itself, the curiosity has a benefit, the mechanism (a buyer who takes it unfixed) is teased not solved, it doesn't accuse (line 3 voices her thought, not her faults), the body pays off the hook, and it doesn't close in the ad |
+| Kill checks | Pass: it doesn't announce itself, the curiosity has a benefit, the mechanism (the house sells as-is, unfixed) is teased not solved, it doesn't accuse (line 3 voices her thought, not her faults), the body pays off the hook, and it doesn't close in the ad |
 | 7-point score (H1) | Useful 4 · Urgent N/A · Unique 3 · Ultra-specific 3 · New 3 · Easy 4 · Safe 3 = **20/24** (my judgment, not measured) |
 | Beat-by-beat | The promise, then scenes, then the objection, then the alternative, then the honest catch, then the terms, then the payoff. No contradictions. |
-| Claims | All on the confirmed list. No numbers, speed or scarcity. "We buy it ourselves" is left out while that question is open. |
+| Claims | All on the confirmed list. No numbers, speed or scarcity. Every direct-buyer claim ("we buy it ourselves", "we're the buyer", "no middleman") is left out: frozen by claims-registry.md Section 2 until the owner rules. The ad says only that the house is bought as-is, never who the buyer is. |
 | Quotes on screen | None. Part A quotes shaped the lines but are never shown or voiced as testimonials. |
 | Temperature | Calm, plain and honest. The landing page must match, and it **still returns HTTP 403. Fix it before this runs.** |
 | Sound-off | The text pops alone tell it: sell it unfixed, pennies?, inspect/repair list/haggle, it's lower, fix nothing, you pick the date. |

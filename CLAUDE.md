@@ -55,6 +55,8 @@ The method is the `kristian_jennings_ai_ugc_workflow` skill. Read its `SKILL.md`
 
 Other skills that fit here: `character_anchor_gemini` (same face across scenes), `ugc-style-video` (Kie model routing; its `tools/` scripts do not exist, so use it for routing ideas only), `dan_kieft_ugc_workflow` (Sora 2 / Kling 3.0 recipe), `anthropic-skills:seedance-20-ugc-ad-director` (Seedance prompts). The format skills (`talking-objects-ads`, `claymation-ads`, `skeleton-ads`, `crochet-ad-visuals`, `singing-song-style-ads`) cover the non-human ad styles.
 
+**Note for repo readers:** several skills and memories named in this pipeline (`kristian_jennings_ai_ugc_workflow`, `reel_direction_2`, `hook-engine`, `humanizer`, `nano_banana_photo_formula`, `json-prompting`, `dynamic_captions_3click`, `character_anchor_gemini`, `ugc-style-video`, `dan_kieft_ugc_workflow`, and the `veo-realism-prompt-rules` and `loop-order-rule` memories) are local-only in the owner's Claude environment and are not files in this repo. Treat the pipeline table as owner-environment documentation, not as steps reproducible from a fresh checkout; the repo-side pieces that do exist are the scripts (`kie_nbp.py`, `kie_omni.py`), the checklists in `11_Psychological_Hooks/` and the SOPs in `01_Skills_and_SOPs/`.
+
 ### Kie models and settings (docs.kie.ai, checked 2026-09-25)
 
 All jobs: `POST https://api.kie.ai/api/v1/jobs/createTask`, then poll `GET https://api.kie.ai/api/v1/jobs/recordInfo?taskId=<id>`. One credit is $0.005 (Kie pricing page).

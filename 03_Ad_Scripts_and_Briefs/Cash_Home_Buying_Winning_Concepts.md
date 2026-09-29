@@ -76,6 +76,8 @@ Sources:
 
 ## 3. Winning concepts for Property Abundance
 
+> **Note: Concept 4's premise (the "spot a bad cash buyer" anti-wholesaler checklist, including "no assigning the contract") is blocked pending the owner's wholesaling ruling. See 11_Psychological_Hooks/claims-registry.md Section 2.**
+
 Ranked by fit: evidence from the refs, times fit with the research, times how safe the claims are.
 
 | Rank | Concept | Built from | Main persona | Objection it answers | Awareness level |
@@ -83,7 +85,7 @@ Ranked by fit: evidence from the refs, times fit with the research, times how sa
 | 1 | **The honest cash buyer.** Call out the category like refs 3 and 5, then prove you're different by showing the offer math on screen. | Ref 3/5 hook + ref 2's caption math + research Finding 4 | The skeptic (all personas) | "It's a scam", "You'll lowball me" | Solution-aware: they've seen the ads and don't trust them |
 | 2 | **Still paying for a house you don't want.** Ref 1's pain-question hook, aimed at one persona per ad, with no hype. | Ref 1 hook + research pain points | Inherited Irene, Tired Landlord Larry | "Hidden fees", "A realtor would get me more" | Problem-aware: they know the pain but haven't picked a fix |
 | 3 | **Cash vs listing, side by side.** Put the math from ref 2's post into the video: what each path leaves in your pocket, and admit when listing wins. | Ref 2 caption + research misconception "listing costs nothing" | Fixer-Upper Fran, Moving-On Maya | "A realtor would get me more" | Solution-aware |
-| 4 | **How to spot a bad cash buyer.** A checklist: proof of funds, no assigning the contract, explained offer. | Research objections (wholesaler, proof of funds) + ref 2's red and green flags | The skeptic | "You're just a wholesaler", "Do you even have the money?" | Most-aware: already comparing buyers |
+| 4 | **How to spot a bad cash buyer.** A checklist: proof of funds, no assigning the contract, explained offer. [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] | Research objections (wholesaler, proof of funds) + ref 2's red and green flags | The skeptic | "You're just a wholesaler", "Do you even have the money?" | Most-aware: already comparing buyers |
 
 ### Concepts to avoid
 - Actor or AI character presented as a real past customer (ref 6). This is an FTC risk.
@@ -97,7 +99,7 @@ Ranked by fit: evidence from the refs, times fit with the research, times how sa
 |---|---|
 | 1 and 3 | A real offer worksheet you're willing to show: value − repairs − costs/margin. |
 | 2 | Real close timeline and fee policy, for any stated promise. |
-| 4 | You don't assign contracts, and you can show proof of funds in the company's name. |
+| 4 | You don't assign contracts, and you can show proof of funds in the company's name. [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] |
 | All | A live website or form. The domain returned HTTP 403 on 2026-09-22. |
 
 ---

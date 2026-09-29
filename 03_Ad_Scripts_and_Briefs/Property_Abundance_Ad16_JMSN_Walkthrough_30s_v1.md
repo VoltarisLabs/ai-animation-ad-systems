@@ -1,9 +1,9 @@
 # Ad 16: JMSN house walkthrough, 30 s (v1)
 
-**Speaker:** JMSN speaks as Property Abundance's buyer, in the company voice ("we"). He never plays a seller or a customer, so the ad needs no AI label.
+**Speaker:** JMSN speaks as Property Abundance's buyer, in the company voice ("we"). He never plays a seller or a customer, so the ad needs no AI label. [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2]
 **Format:** a walk-and-talk tour of a run-down house. Each clip is shot in a new spot and has one simple action. B-roll close-ups of the damage cut in over his voice.
 **Method:** `kristian_jennings_ai_ugc_workflow`. Avatar prompts: `12_AI_Characters/JMSN/prompt_v2_house_walkthrough.md`.
-**Claims used:** only the offer terms the user confirmed on 2026-09-25. Those are as-is, belongings can stay, no commission, no fees or closing costs, the seller picks the closing date, no obligation, and a direct buyer. The ad has no prices, no speed claims and no numbers.
+**Claims used:** only the offer terms the user confirmed on 2026-09-25. Those are as-is, belongings can stay, no commission, no fees or closing costs, the seller picks the closing date, no obligation, and a direct buyer [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2]. The ad has no prices, no speed claims and no numbers.
 
 ---
 
@@ -45,7 +45,7 @@ Nested loops: A (the roof), B (the floor) and C (who would buy this) all open in
 | # | JMSN says | On screen | Start image | Omni |
 |---|---|---|---|---|
 | 1 | "Look at this roof. SHOT. And the floor inside? WORSE. So who would EVER buy this house? Come look." | AI UGC: he walks slowly along the front walk and glances up at the roof. Cutaway on "roof": a roof close-up. | L1 front | 8 s |
-| 2 | "WE would. As-is. We're the actual buyer, no middleman. Broken cabinets, old furniture, the junk? Leave ALL of it." | AI UGC in the kitchen. He points back at the hanging cabinet door. Cutaway on "cabinets" / "furniture". | L2 kitchen | 8 s |
+| 2 | "WE would. As-is. We're the actual buyer, no middleman. Broken cabinets, old furniture, the junk? Leave ALL of it." [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] | AI UGC in the kitchen. He points back at the hanging cabinet door. Cutaway on "cabinets" / "furniture". | L2 kitchen | 8 s |
 | 3 | "Now this floor. You'd fix it BEFORE listing. With us you DON'T. No repairs, no commission, no closing costs." | AI UGC above the broken floor. He points down. Cutaway on "floor": broken boards. | L3 floor | 8 s |
 | 4 | "And that roof? Not your problem. YOU pick the closing date. No obligation. Tap below. Tell us about it." | AI UGC back outside. He glances up at the roof and smiles. End card. | L1 front | 8 s |
 
@@ -104,7 +104,7 @@ Rules:
 ```
 Handheld UGC iPhone front-camera selfie video. The man films himself at arm's length inside an old house that needs a lot of work. Use the uploaded image as the first frame: the same man, same face, same very short hair, thin mustache and light goatee, the same navy quarter-zip over a white t-shirt, the single white earbud and the small black clip-on mic, and the same kitchen with the cabinet door hanging off its hinge. Natural hand shake only; the camera never cuts, never zooms and never flips to the back camera. He stands still in the kitchen. On "Broken cabinets" he raises his free hand, points back over his shoulder at the cabinet door hanging off its hinge, then lowers his hand. Apart from that one point he keeps eye contact with the lens. His mouth moves naturally with every word, his head moves a little, natural blinks and small eyebrow raises. Energy: high, warm and confident, fast-talking like a local house buyer on TikTok giving a straight answer. Expressive, but never shouting. Grey window daylight mixed with one bare warm ceiling bulb. Audio: only his voice, close and clear from the clip-on mic, with the slight hollow echo of an empty room.
 
-He says: "WE would. As-is. We're the actual buyer, no middleman. Broken cabinets, old furniture, the junk? Leave ALL of it."
+He says: "WE would. As-is. We're the actual buyer, no middleman. Broken cabinets, old furniture, the junk? Leave ALL of it." [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2]
 
 Rules:
 - One continuous take, no jump cuts.

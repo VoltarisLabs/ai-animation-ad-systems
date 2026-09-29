@@ -90,7 +90,7 @@ Score the ad out of 10 and give the 3 highest-leverage fixes, most important fir
 [paste ad script / text + page copy]
 ```
 
-## 1b. Objection Obliterator (Sabri, `c18KjQOVSbk`, `ga007xcum6A`)
+## 9. Objection Obliterator (Sabri, `c18KjQOVSbk`, `ga007xcum6A`)
 Gather sales-call transcripts plus your own and competitors' reviews (Google, Trustpilot) into one document.
 ```
 From the material below, list the 5-12 most repeated objections, each with 2 exact quotes and how often it appears.
@@ -100,7 +100,7 @@ and write one plain, true line that answers each ignored one.
 ```
 His full pipeline from there: objections plus proven headline patterns, then 5 ad angles, then 20 headlines each, test, then expand the winner into a longer video.
 
-## 9a. Pre-mortem and skeptic (Sabri, `gFaR8BQhqsE`)
+## 10. Pre-mortem and skeptic (Sabri, `gFaR8BQhqsE`)
 LLMs tend to agree with whatever you show them. Force the opposite:
 ```
 Assume this campaign failed badly after 90 days. List the 5 most likely reasons, most likely first.
@@ -109,7 +109,7 @@ Then grade the copy 1-10 as a top direct-response copywriter and describe exactl
 [paste ad + page + brief]
 ```
 
-## 9. Beat-by-beat check
+## 11. Beat-by-beat check
 ```
 List every claim in this script in order, one per line, as plain statements.
 Flag any line that contradicts, repeats or wanders from the one before it, and any claim not in the brief.

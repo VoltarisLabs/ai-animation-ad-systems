@@ -81,7 +81,7 @@ Example lines are original and rotate across industries. `[brackets]` = fill in.
 **Why:** A request with a reason gets more yeses. In Langer's copier study (1978), even an empty reason worked for a small request (60% to 93% compliance), but for a bigger request only a real reason helped.
 **Write it:** Explain why the offer, price or deadline exists.
 > "We're opening 20 spots because we just hired two new techs."
-> "We can pay cash because we buy with our own money, not a bank's."
+> "We can pay cash because we buy with our own money, not a bank's." [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2]
 
 **Backfires when:** The reason is obviously invented. Empty reasons only work for tiny asks; for anything bigger, the reason must be real.
 

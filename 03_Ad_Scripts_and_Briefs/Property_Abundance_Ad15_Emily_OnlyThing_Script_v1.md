@@ -28,7 +28,7 @@ The owner confirmed these on 2026-09-25:
 | No fees or closing costs | 07 |
 | Seller picks the closing date | 10 |
 | No obligation | 09, 12 |
-| Property Abundance buys the house itself (no wholesaling) | 08 |
+| Property Abundance buys the house itself (no wholesaling) [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] | 08 |
 
 **Not confirmed, so not used:** showing the seller how the offer is built, any offer or closing speed, any price or net-proceeds comparison.
 
@@ -44,7 +44,7 @@ The owner confirmed these on 2026-09-25:
 | 06a | Payload | "But selling it fixed up meant repairs first. Emptying every room." | 31.73-36.33 | 6 s |
 | 06b | Payload | "Commission. Closing costs. Then waiting on a buyer, three hours from home." | 36.68-42.71 | 8 s |
 | 07 | **CLOSE C** | "That's why the lower offer wasn't the whole story. No repairs. No emptying the house. No commission. No closing costs." | 43.06-52.49 | 10 s |
-| 08 | Payload | "And they bought it themselves. Nobody handed Mom's house off to another investor." | 52.84-58.26 | 6 s |
+| 08 | Payload | "And they bought it themselves. Nobody handed Mom's house off to another investor." [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] | 52.84-58.26 | 6 s |
 | 09 | **CLOSE B** | "That's why being tired didn't make me take whatever was offered. No obligation. My brother saw the number first." | 58.61-66.05 | 8 s |
 | 10 | Payload | "We picked the closing date. After my brother flew in, so we could walk through her house together one last time." | 66.40-73.41 | 8 s |
 | 11a | **CLOSE A** | "That's why this is the only thing I took out of my mom's house. Her things could stay, closet and all. I didn't have to be the one who emptied it." | 73.76-83.05 | 10 s |
@@ -73,7 +73,7 @@ Omni clip length is the shortest of 4, 6, 8 or 10 s that fits the line with 0.4 
 | 05 | As-is cash offers *usually* come in lower than a fixed-up listing | General industry statement, not a company term. It works against the company's own interest, so it cannot overstate. Cut it if you don't want to say it. |
 | 06a-06b | Selling fixed up means repairs, emptying the house, commission, closing costs and waiting for a buyer | A description of a normal listed sale |
 | 07 | No repairs, no commission, no closing costs | Confirmed |
-| 08 | They bought it themselves | Confirmed (no wholesaling) |
+| 08 | They bought it themselves | Confirmed (no wholesaling) [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2. This row is stale: the claim is CONTRADICTED, not confirmed] |
 | 09, 12 | No obligation, you can say no | Confirmed |
 | 10 | We picked the closing date | Confirmed |
 | 02, 04, 10, 11b | Three hours away, the brother, the mug | Story details inside a labelled dramatization. No price, speed or result claim. |

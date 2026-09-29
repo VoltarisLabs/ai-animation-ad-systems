@@ -19,7 +19,7 @@ Every claim is labelled:
 Two hard rules carried over from the research file:
 
 1. **Reddit quotes are internal only.** They show tone and vocabulary. They are never testimonials (FTC 16 CFR 255.1). Rewrite before anything goes on screen.
-2. **Offer specifics are PLACEHOLDER until the business confirms them.** 24-hour offer, 7-day close, no fees, no repairs, "we don't assign the contract", proof of funds, all still unconfirmed in the research file. Any hook below that leans on one is marked **⚠ claim-dependent**. Confirm it or cut it.
+2. **Offer specifics are PLACEHOLDER until the business confirms them.** 24-hour offer, 7-day close, no fees, no repairs, "we don't assign the contract" [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2], proof of funds, all still unconfirmed in the research file. Any hook below that leans on one is marked **⚠ claim-dependent**. Confirm it or cut it.
 
 ---
 
@@ -99,7 +99,7 @@ Write hooks that land inside one of these moments, not in the abstract.
 | What she says [R] | What it actually means [I] | What disarms it |
 |---|---|---|
 | "Am I getting ripped off because I just want this house gone?" | "Is my exhaustion being priced in against me?" | Show the math before the number. The explained offer is the trust lever. |
-| "Are you a wholesaler?" | "Will I be handed off to a stranger?" | A plain sentence about who actually signs, ⚠ claim-dependent. |
+| "Are you a wholesaler?" | "Will I be handed off to a stranger?" | A plain sentence about who actually signs, ⚠ claim-dependent. [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] |
 | "Why is your offer lower than Zillow?" | "I need a defensible reason to tell my family." | Give her the argument she can repeat at the family table. |
 | "What if my family disagrees?" | "I can't be the one who decided." | Position it as information the family can look at together, not a decision she makes alone. |
 
@@ -125,7 +125,7 @@ as-is · clean-out · probate · title · "driving back for stupid stuff" · "an
 3. `Negative | Absolution`, **S:** "Keeping it is not honoring them. It's just expensive."
 4. `Two-Beat | Task subtraction`, **OS:** "You don't have to clean it out." / "Not one box."
 5. `Mid-Action | Trigger moment`, **S:** "So that's the fourth trip this month, for a house you don't live in."
-6. `Admission | Disarm`, **S:** "Yeah, we're one of those cash buyers. Here's how the number is actually built." ⚠ claim-dependent (must then show the math)
+6. `Admission | Disarm`, **S:** "Yeah, we're one of those cash buyers. Here's how the number is actually built." ⚠ claim-dependent (must then show the math) [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2]
 7. `Callout | Family shield`, **OS:** "Your sibling won't pay for repairs and won't take an offer."
 8. `Negative | Absolution`, **OS:** "Renting it out is not the safe option. It's a second job."
 9. `Cold Open | Unspoken sentence`, **S:** "Nobody tells you the estate paperwork starts before the grief ends."
@@ -310,7 +310,7 @@ Of the three, Jason has the **shortest hook window and the lowest tolerance for 
 |---|---|---|
 | "You're not actually going to buy it with the tenant still there." | "Don't waste my time - confirm it in the first line." | Say "occupied" in the hook itself. ⚠ claim-dependent: only if true. |
 | "Are you going to renegotiate later?" | "I've already lost months. I can't lose more." | Pre-empt the renegotiation fear before he raises it. |
-| "Are you a wholesaler?" | "Am I about to be shopped around?" | Plain answer. ⚠ claim-dependent. |
+| "Are you a wholesaler?" | "Am I about to be shopped around?" | Plain answer. ⚠ claim-dependent. [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] |
 | "How far below market?" | "Tell me the real number so I can stop thinking." | Lead with the mechanism, then the number. Never dodge it. |
 
 ## His vocabulary (internal reference)
@@ -322,7 +322,7 @@ eviction · cash for keys · bleeding money · attorney fees · non-paying tenan
 1. **Qualification in the first second**: the word *occupied* or *tenant still in it* is the hook.
 2. **Arithmetic of the bleed**: he thinks in monthly loss. Speak in it.
 3. **Finality**: the promise is not money, it's "it stops being yours."
-4. **Anti-wholesaler positioning**: the one credential he cares about. ⚠ claim-dependent.
+4. **Anti-wholesaler positioning**: the one credential he cares about. ⚠ claim-dependent. [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2]
 5. **No process language**: "quick form", "we'll walk you through it" kills it. **[I]**
 6. **Permission to stop**: reframe cutting losses as the competent move, not surrender.
 
@@ -334,7 +334,7 @@ eviction · cash for keys · bleeding money · attorney fees · non-paying tenan
 4. `Negative | Permission to stop`, **S:** "Winning the eviction is not the same as winning."
 5. `Mid-Action | Trigger moment`, **S:** "So the hearing got pushed again. Third time."
 6. `Two-Beat | Finality`, **OS:** "The tenant stays." / "The problem doesn't stay yours."  ⚠ claim-dependent
-7. `Admission | Anti-wholesaler`, **S:** "Most people who call you about this don't have the money. Ask them one question." ⚠ claim-dependent on your own answer
+7. `Admission | Anti-wholesaler`, **S:** "Most people who call you about this don't have the money. Ask them one question." ⚠ claim-dependent on your own answer [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2]
 8. `Callout | Arithmetic`, **OS:** "You're covering the mortgage out of your own paycheck."
 9. `Negative | Permission to stop`, **OS:** "It stopped being an investment months ago."
 10. `Cold Open | No process`, **S:** "You want a number, not a process. Here's how the number is built."
@@ -356,7 +356,7 @@ eviction · cash for keys · bleeding money · attorney fees · non-paying tenan
 
 1. **Situation gate**: can the right person recognise themselves in under one second? If the hook could belong to any homeowner, it belongs to none of them.
 2. **Predator gate**: could this line have been written by the scammer they already fear? If yes, rewrite. This kills every urgency, scarcity and "top dollar" line. **[R]**
-3. **Truth gate**: does the line assert anything not confirmed by the business? Every PLACEHOLDER in the research file (24-hour offer, 7-day close, no fees, no repairs, direct purchase, proof of funds) is unconfirmed. **[R]** No number, timeline or guarantee on screen unless it is verified.
+3. **Truth gate**: does the line assert anything not confirmed by the business? Every PLACEHOLDER in the research file (24-hour offer, 7-day close, no fees, no repairs, direct purchase [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2], proof of funds) is unconfirmed. **[R]** No number, timeline or guarantee on screen unless it is verified.
 
 ## Which lever wins, per avatar
 

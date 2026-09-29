@@ -33,7 +33,7 @@
 | Closing speed | Close in as little as 7 days, or on a later date the seller picks. | PLACEHOLDER from refs 1, 2, 6: "We'll close the deal in seven days" (ref 1), "Close in as little as 7 Days" (ref 1 and ref 6 text), "a closing date you pick" (ref 2). |
 | Fees and costs | No commissions, no fees, no closing costs. | PLACEHOLDER from refs 1, 6: "No Commissions, No Fees, No Closing Costs" (ref 1 and ref 6 text), "No closing costs or fees" (ref 1 audio). |
 | How the offer is worked out | Fair market value, minus the real repair costs, minus carrying costs. Explained to the seller line by line. | PLACEHOLDER from ref 2 text: "They offer fair market value minus actual repair costs and carrying costs" and "Detailed explanation of how offer was calculated". None of the refs shows it on screen (see Winning Concepts, Finding 4). |
-| Who actually buys the house | We buy it ourselves; we do not assign the contract. | TBD. No reference ad says this. Only claim it if true. |
+| Who actually buys the house | We buy it ourselves; we do not assign the contract. [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] | TBD. No reference ad says this. Only claim it if true. |
 | Proof of funds | Show proof of funds on request. | TBD. No reference ad says this. Only claim it if true. |
 | What makes us different | Honest, explained offers. The seller picks the move date. | PLACEHOLDER from ref 2 (explained math, closing date you pick) plus the research objections. The refs that got the most views (1, 3, 5) sell speed and "no repairs, no fees"; none sells transparency. |
 | How we want to be seen | A calm, straight-talking neighbor. Not a hype marketer. | PLACEHOLDER from ref 2's tone ("It costs nothing to ask") and the ICP Language Analysis below. |
@@ -172,7 +172,7 @@
 
 | Opportunity | How Property Abundance Can Win |
 |---|---|
-| Distrust is the main barrier | Lead with proof: show proof of funds, say *we buy it ourselves, we don't assign your contract*, and explain how the offer is worked out. Only claim what is true. |
+| Distrust is the main barrier | Lead with proof: show proof of funds, say *we buy it ourselves, we don't assign your contract* [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2], and explain how the offer is worked out. Only claim what is true. |
 | Fear of price drops late in the deal | If your business really does this, promise a written price with repair terms spelled out before signing. Name the fear head on (*no surprise price drop at closing*). |
 | Burnout outweighs price | Sell peace of mind: "Be done with it." Pitch no clean-out, no repairs, and a closing date the seller picks. |
 | Inherited house, seller lives far away | Build a separate angle for out-of-state heirs: *Never drive back to that house again.* |
@@ -189,7 +189,7 @@
 - **Vocabulary:** as-is, lowball, cash offer, proof of funds, earnest money, closing, comps, Zestimate/Zillow estimate, price drop, inspection list, flipper, wholesaler, "and assigns", probate, title, eviction, behind on payments, underwater, equity, clean-out, hoarder house.
 - **Copywriting tips:**
   - Use their words: "just want to be done with it", "I just wanted it SOLD", "as-is", "didn't have to do the clean-out", "we set a date... and I move".
-  - Name the skepticism before they do (*Yes, we're one of those cash buyers. Here's how our offer works.*).
+  - Name the skepticism before they do (*Yes, we're one of those cash buyers. Here's how our offer works.*). [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2]
   - Talk like a neighbor, not a salesperson. Short sentences, contractions, no hype words.
   - Avoid *top dollar*, *best price guaranteed* and *we pay more than anyone*. Readers call these lies.
 

@@ -1,5 +1,7 @@
 # Property Abundance: Ad 15, 30 s UGC (v2)
 
+> **FROZEN CLAIM - DO NOT RE-RUN.** This script contains a frozen direct-buyer claim (line 08, "No wholesaling. We're the buyer.") [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2]. The build stays parked: this script cannot re-run, and no clip may be generated or shipped, until the owner rules on the wholesaling contradiction or the line is replaced.
+
 *Written 2026-09-25. The user approved this script the same day. Untested. It replaces `Property_Abundance_Ad15_Emily_OnlyThing_30s_v1.md`, which had Emily speaking as a seller behind an AI label.*
 
 - **Speaker:** Emily (the AI avatar in `12_AI_Characters/Emily/`) talks to her phone as the voice of Property Abundance ("we"). She never says she sold a house, so the ad needs no "dramatization / not a real customer" label.
@@ -24,7 +26,7 @@ Each ad was checked with a 1 fps contact sheet and a faster-whisper `small` tran
 | ref6_betterpath | Posed as a seller ("Fire your realtor! I did") | B-roll with an actor | 72 / 182.4 |
 
 - **The shared pattern:** one person talking straight to a phone, with bold keyword captions, b-roll cutaways (the house, the rooms, the form on a phone), a spoken "click below", and a logo end card. The median pace is 197.1 wpm.
-- **What this ad takes:** the buyer's-voice format of the first 7. Emily's car selfie matches clever_offers. hall_of_fame lists the same terms Property Abundance confirmed, and quick_close uses the "not a wholesaler" line.
+- **What this ad takes:** the buyer's-voice format of the first 7. Emily's car selfie matches clever_offers. hall_of_fame lists the same terms Property Abundance confirmed, and quick_close uses the "not a wholesaler" line. [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2]
 - **What it doesn't take:** the posed-seller format of sell_for_cash and ref6. An undisclosed AI speaking as a real seller is a fake testimonial under the FTC rule (16 CFR 465.2).
 
 ## Script
@@ -38,7 +40,7 @@ Each ad was checked with a 1 fps contact sheet and a faster-whisper `small` tran
 | 05 | **OPEN C** | "Truth? Cash offers usually come in lower than listing. Ours too." | 6.79-10.38 |
 | 06 | Payload | "Listing usually means repairs, cleanout, commission, closing costs." | 10.38-13.58 |
 | 07 | **CLOSE C** | "That's why lower isn't everything: we buy as-is, no commission, no closing costs." | 13.58-17.41 |
-| 08 | Payload | "No wholesaling. We're the buyer." | 17.41-19.21 |
+| 08 | Payload | "No wholesaling. We're the buyer." [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] | 17.41-19.21 |
 | 09 | **CLOSE B** | "That's why no lowball can trap you. No obligation. Show your family." | 19.21-22.66 |
 | 10 | Payload | "You pick the closing date." | 22.66-23.84 |
 | 11 | **CLOSE A** | "That's why you don't clean it out. Take what matters. Leave the rest. This is Property Abundance." | 23.84-28.42 |
@@ -62,7 +64,7 @@ Each ad was checked with a 1 fps contact sheet and a faster-whisper `small` tran
 | 05 | "Cash offers usually come in lower than listing. Ours too." | Approved by the user on 2026-09-25 ("I agree with the script"). |
 | 06 | What listing usually means | A general description of a listed sale |
 | 07 | As-is, no commission, no closing costs | Confirmed |
-| 08 | No wholesaling, we're the buyer | Confirmed |
+| 08 | No wholesaling, we're the buyer | Confirmed [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2. This row is stale: the claim is CONTRADICTED, not confirmed] |
 | 09 | No obligation | Confirmed |
 | 10 | You pick the closing date | Confirmed |
 
@@ -99,7 +101,7 @@ A word in capitals gets stressed. Three rules decided which words:
 |---|---|---|
 | 1 (lines 01-04, 8 s) | "INHERITED a house? DON'T clean it out yet. Closet's STILL full. Hours away. Scared a cash buyer will LOWBALL you? Family can't agree." | INHERITED = the callout, so the right person recognises themselves. DON'T = the warning that opens loop A and comes back in its close. STILL = the stuck feeling. LOWBALL opens loop B. "Agree" is stressed naturally. |
 | 2 (05-06, 8 s) | "Truth? Cash offers usually come in LOWER than listing. OURS too. Listing usually means repairs, cleanout, commission, closing costs." | LOWER opens loop C. OURS lands the honest admission. The list stays flat and quick. |
-| 3 (07-08, 6 s) | "That's why lower isn't EVERYTHING: we buy as-is, NO commission, NO closing costs. No wholesaling. WE'RE the buyer." | EVERYTHING is the twist that closes loop C. The two NOs subtract costs. WE'RE = the direct buyer. |
+| 3 (07-08, 6 s) | "That's why lower isn't EVERYTHING: we buy as-is, NO commission, NO closing costs. No wholesaling. WE'RE the buyer." [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] | EVERYTHING is the twist that closes loop C. The two NOs subtract costs. WE'RE = the direct buyer. [blocked: direct-buyer claim, see 11_Psychological_Hooks/claims-registry.md Section 2] |
 | 4 (09-10, 6 s) | "That's why no lowball can TRAP you. NO obligation. Show your family. YOU pick the closing date." | TRAP answers the fear from loop B. NO obligation is the reason. YOU hands control back to the seller. |
 | 5 (line 11, 6 s) | "That's why you DON'T clean it out. Take what MATTERS. Leave the rest. This is Property Abundance." | DON'T mirrors the opening hook. MATTERS carries the emotion. The brand stays lowercase. |
 
