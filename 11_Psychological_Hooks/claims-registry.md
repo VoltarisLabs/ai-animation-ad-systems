@@ -33,6 +33,8 @@ Rules that ride along with the confirmed set:
 - "Lower than listing" may be described in general terms (repairs, cleanout, commission, closing costs on a listed sale). Never attach numbers or percentages to the comparison; no number about it is confirmed.
 - The hedge-word carve-out above covers approved lines only. A hedge in any new, unapproved line still reads as evasive and still gets cut; the carve-out never licenses new hedged claims.
 
+**Approved offer name (2026-09-29):** "The Walk-Away Offer". Owner-written (Ad 20). It is branding only and wraps Section 1 terms; it adds no new promise.
+
 ## 2. CONTRADICTED. DO NOT USE until the owner rules.
 
 **Every direct-buyer claim is frozen.** That covers "we buy the house ourselves", "we're the buyer", "no middleman", "not wholesalers", "no wholesaling", "we don't assign your contract", and any paraphrase that says or implies Property Abundance closes on its own funds or that attacks contract assignment.
@@ -76,6 +78,9 @@ These are industry norms copied from competitor reference ads (the PLACEHOLDER s
 The direct-buyer claim family ("we buy the house ourselves" / "no middleman" / "not wholesalers" / "we don't assign your contract") used to sit in this table. It is now CONTRADICTED, not merely unconfirmed: see Section 2.
 
 Also unconfirmed (TBD in the research doc, same rule applies): proof of funds on request, no price drop at closing, buying with tenants in place, buying houses in probate, which states and cities we buy in, and which legal entity the ads speak for.
+
+- **In-person home visits** ("we'll come to you", "WE COME TO YOU"). Not confirmed; removed from Ad 20 on 2026-09-29. Confirm before any script says it.
+- **An offer for every submission** ("your cash offer comes to you"). Not confirmed.
 
 ## 4. BANNED. Never use, no confirmation can unlock these.
 
