@@ -2,7 +2,7 @@
 
 **Status: CURRENT. Winner of a 3-draft judge panel (2026-09-29).** Written one-shot by the system in [11_Psychological_Hooks/prompts/one-shot-script.md](../11_Psychological_Hooks/prompts/one-shot-script.md) from the Emily card and the claims registry, then scored by two independent judges (conversion craft 38/40, trust and compliance 37/40; the Fran draft was disqualified on an implied no-renegotiation claim, the Marcus draft scored 36/36).
 
-**Why this exists:** the Sep 29 strategy call (Howie): pivot to 1:30+ emotional mini-VSLs that contrast the seller's pain with the confirmed terms. This is the first test asset.
+**Why this exists:** the Sep 29 strategy call: pivot to 1:30+ emotional mini-VSLs that contrast the seller's pain with the confirmed terms. This is the first test asset.
 
 **Judge grafts to apply in production:**
 - Add one benefit-led hook variant to the test set: "She sold the house without opening that closet." (pain-led original stays as control.)
