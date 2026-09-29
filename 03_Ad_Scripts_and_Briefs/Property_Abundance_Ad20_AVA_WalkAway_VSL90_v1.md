@@ -2,13 +2,13 @@
 
 **Status: CURRENT, ready for production once the landing page works.** Owner-written script (2026-09-29), judged by two hostile reviewers (trust 33/40, conversion 29/40), then fixed. Avatar: Emily the heir. Presenter: AVA, company voice, never a customer.
 
-**Length:** 219 words. About 88 s at normal pace, about 100 s at the soft pace the directions ask for. Both fit the 1:30+ VSL pivot from the Sep 29 strategy call.
+**Length:** 212 words. About 85 s at normal pace, about 96 s at the soft pace the directions ask for. Both fit the 1:30+ VSL pivot from the Sep 29 strategy call.
 
 ## Script
 
 | Beat | AVA says | Show | On-screen text (editor only) |
 |---|---|---|---|
-| OPEN A | "Cash offer. Two bonuses. And that house finally lets you go." | AVA (Look D) leans into the lens, two fingers up on "Two bonuses", soft smile on "lets you go". | CASH OFFER + 2 BONUSES |
+| OPEN A | "Don't sort it. Don't pack it. Just go." | First frame (thumbnail): AVA (Look D) pushes an overstuffed dresser drawer shut with her hip; it won't close, a sweater sleeve hangs out. On "Just go" she lets it be, turns to the lens, small smile. | DON'T SORT IT |
 | payload | "Wanting it gone. Feeling guilty for wanting it. And every month a house sits, it costs: upkeep, insurance, another drive back." | AVA, slower and softer, no cutaway on the first two lines. "drive back": street_37314233. | EVERY MONTH IT SITS |
 | OPEN B | "The fear underneath: am I getting less because I'm tired?" | AVA, tighter, quiet. | AM I GETTING LESS? |
 | payload | "Straight answer? Being tired shouldn't cost you. You fix nothing. You pay no commission." | AVA, steady, NO cutaway, music down. | TIRED SHOULDN'T COST YOU / FIX NOTHING / NO COMMISSION |
@@ -18,11 +18,12 @@
 | payload | "It's called the Walk-Away Offer. Tell us where it is. Tap Learn More." | AVA, confident, points down on "Tap Learn More". | THE WALK-AWAY OFFER / TELL US WHERE IT IS / TAP LEARN MORE |
 | CLOSE B | "That's why tired isn't a discount. Less work, more of your life back. No fees. No closing costs. That's the deal." | White flash. AVA inside. One pop per term. Hand out to the lens on "That's the deal." | TIRED ISN'T A DISCOUNT / MORE LIFE BACK / NO FEES / NO CLOSING COSTS |
 | payload | "The best offer for you isn't the biggest number. It's the one that ends it. And letting the house go isn't letting them go." | AVA, slow and soft. "letting them go": armchair_7347890. | THE ONE THAT ENDS IT |
-| CLOSE A | "That's why the cash offer carries two bonuses: the closing date is your pick, and every drawer stays packed. With Property Abundance, that house finally lets you go." | AVA counts on her fingers: one on "closing date", two on "every drawer". Warm smile. | YOUR DATE + PACKED DRAWERS / PROPERTY ABUNDANCE |
+| CLOSE A | "That's why you don't sort a thing: every drawer stays full, and the closing date is your pick. With Property Abundance, you just go." | Callback: the same drawer, sleeve still hanging out. AVA taps it closed as far as it goes and walks out of frame. Warm smile. | EVERY DRAWER STAYS FULL / YOUR DATE / PROPERTY ABUNDANCE |
 | payload | "You lock up one last time, and drive home lighter." | street_37314233. Music lifts. | DRIVE HOME LIGHTER |
 | CTA | "Tap Learn More and tell us where it is. No obligation." | AVA points down. End card, logo small. | TAP LEARN MORE / NO OBLIGATION |
 
 ## What changed from the owner's draft (2026-09-29)
+- **New hook (owner pick):** "Don't sort it. Don't pack it. Just go." on an overstuffed drawer, with Close A calling back to the same drawer. The original "Cash offer. Two bonuses." open is kept as the H2 control.
 - **The admission line is gone.** "Cash offers usually come in lower than listing. Ours too." was replaced, at the owner's choice, by "Being tired shouldn't cost you. You fix nothing. You pay no commission." Close B changed to match ("That's why tired isn't a discount"). The two bonuses (date, drawers) are held back so the Open A tease still pays off in Close A.
 - **"We'll come to you" removed** (spoken and "WE COME TO YOU" text pop). In-person visits are not in claims-registry.md Section 1. If the owner confirms visits, add them to the registry first, then restore the line.
 - **CTA:** "your cash offer comes to you" became "tell us where it is" (no promise of an offer to every submission).
@@ -36,13 +37,13 @@
 - All text goes on in the editor or Canva, never inside generation prompts.
 
 ## Hook test (per testing-and-iteration.md; body stays the same)
-| # | Hook (first 2 s) | On-screen text | Note |
-|---|---|---|---|
-| H1 (main) | "Cash offer. Two bonuses. And that house finally lets you go." | CASH OFFER + 2 BONUSES | Owner's hook. Conversion judge: "cash offer" is the category's most-flagged phrase for a skeptical heir; test against H2 and H3 |
-| H2 | "That house can finally let you go." | THAT HOUSE CAN LET YOU GO | Leads with the inversion the judge rated the best line of the open |
-| H3 | "Five ways out of that house. Four are projects." | 5 WAYS OUT. 4 ARE PROJECTS | Promotes the strongest contrast device to the hook |
+| # | Hook (first 2 s) | First frame | On-screen text | Close A |
+|---|---|---|---|---|
+| **H1 (main, owner pick 2026-09-29)** | "Don't sort it. Don't pack it. Just go." | AVA hip-checks an overstuffed drawer; a sleeve hangs out | DON'T SORT IT | "That's why you don't sort a thing: every drawer stays full, and the closing date is your pick. With Property Abundance, you just go." |
+| H2 (control) | "Cash offer. Two bonuses. And that house finally lets you go." | AVA leans in, two fingers up | CASH OFFER + 2 BONUSES | "That's why the cash offer carries two bonuses: the closing date is your pick, and every drawer stays full. With Property Abundance, that house finally lets you go." |
+| H3 | "That house can finally let you go." | AVA close to the lens, quiet | THAT HOUSE CAN LET YOU GO | Same as H2 |
 
-Close A stays the same for all three (it pays off the house letting go).
+Why H1 leads: it stops on the picture (a drawer that won't shut is every heir's house), the line lands a confirmed term (belongings can stay) as a permission, and it avoids opening on "cash offer", the category's most-flagged phrase.
 
 ## Checks
 | Check | Result |
