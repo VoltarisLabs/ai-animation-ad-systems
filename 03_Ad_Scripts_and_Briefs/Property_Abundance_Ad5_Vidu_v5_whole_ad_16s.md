@@ -1,4 +1,4 @@
-PROPERTY ABUNDANCE – AD 5 – "THREE QUESTIONS" – VIDU – v5, WHOLE AD IN ONE PROMPT
+PROPERTY ABUNDANCE - AD 5 - "THREE QUESTIONS" - VIDU - v5, WHOLE AD IN ONE PROMPT
 
 Model viduq3-pro. 9:16. 1080p. Duration 16 s. ONE generation, six shots, five hard cuts.
 Measured prompt size: 4,999 characters. Vidu's cap is 5,000.
@@ -6,7 +6,7 @@ Measured prompt size: 4,999 characters. Vidu's cap is 5,000.
 WHY 16 s AND NOT 26 s
 viduq3-pro accepts 1 to 16 seconds per generation. The whole ad in a single prompt therefore has to be
 16 s. What was cut to get there, all of it speech and holds:
-  "If we can't answer all three, don't sell to us." — the closing promise. Gone. "Ask us first." stays.
+  "If we can't answer all three, don't sell to us." (the closing promise). Gone. "Ask us first." stays.
   "Show me proof of funds" shortened to "Proof of funds".
   "Are you buying it, or flipping my contract?" shortened to "Are you buying, or flipping my contract?"
   "Fixed-up value, minus repairs, minus your costs" shortened to "Minus repairs, minus your costs".
@@ -18,9 +18,9 @@ SPEECH TIMING
 Count the real word timings off your first generation and shift the anchors.
 
 REFERENCES
-Upload the same 3 Marcus stills. There is no start frame to chain — this is the whole ad in one go.
+Upload the same 3 Marcus stills. There is no start frame to chain: this is the whole ad in one go.
 
-COST — 16 s at viduq3-pro 1080p, 24 credits/sec = 384 credits, $1.92 per clean pass.
+COST: 16 s at viduq3-pro 1080p, 24 credits/sec = 384 credits, $1.92 per clean pass.
 A retake re-rolls all six shots. That is the price of one prompt.
 
 ======================================================================
@@ -75,7 +75,7 @@ RULES: exactly six shots, five hard cuts at 3.4, 6.2, 9.2, 12.6 and 14.4 s. No d
 
 ======================================================================
 
-CAPTION CARDS — burned in your editor, not asked of Vidu
+CAPTION CARDS: burned in your editor, not asked of Vidu
 0.0-3.4    THREE QUESTIONS
 3.4-6.2    WHOSE MONEY?
 6.2-9.2    WHO ACTUALLY BUYS IT?
@@ -86,7 +86,7 @@ SEE THE MATH ON YOUR HOUSE. Shot 6 is framed wide with headroom so the card has 
 
 FIX PASS
 Change ONE block per attempt. If a cut is ignored, tighten the SHOT lines first. If a gesture misses
-its word, edit only that one anchor. Never rewrite LOOK or THE MAN — if the face drifts, add the best
+its word, edit only that one anchor. Never rewrite LOOK or THE MAN: if the face drifts, add the best
 frame from a good take as a fourth reference image.
 The prompt sits 0.1 percent under the character cap, so any addition needs a matching deletion.
 

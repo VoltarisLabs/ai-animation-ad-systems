@@ -1,3 +1,5 @@
+**Superseded: casts Emily as a seller, which the 2026-09-25 rule forbids (company voice only, never a customer). Do not produce.**
+
 # Property Abundance: Ad 15 "The Only Thing I Took", 30-second cut (v1)
 
 *Written 2026-09-25. Untested. The long version is `Property_Abundance_Ad15_Emily_OnlyThing_Script_v1.md`.*
@@ -15,18 +17,18 @@
 
 | # | Beat | Spoken line | Time (+6% draft) |
 |---|---|---|---|
-| 01 | **OPEN A** | "This is all I took from Mom's house." *(holds up the mug)* | 0.10–2.33 |
-| 02 | Payload | "I never emptied her closet." | 2.28–4.26 |
-| 03 | **OPEN B** | "My fear? Taking any offer." | 4.26–6.61 |
-| 04 | Payload | "Driving three hours every weekend." | 6.61–9.08 |
-| 05 | **OPEN C** | "Cash offers usually come in lower." | 9.08–11.34 |
-| 06 | Payload | "Listing meant repairs, commission, closing costs." | 11.34–14.52 |
-| 07 | **CLOSE C** | "That's why lower wasn't the whole story. Theirs had none of that." | 14.52–18.21 |
-| 08 | Payload | "No obligation. My brother agreed." | 18.21–20.98 |
-| 09 | **CLOSE B** | "That's why I didn't just take any offer." | 20.98–23.19 |
-| 10 | Payload | "We picked the closing date." | 23.19–24.80 |
-| 11 | **CLOSE A** | "That's why this is all I took. Property Abundance bought the rest." | 24.80–28.81 |
-| End card | | Logo, the form, and the AI label | 28.81–30.00 |
+| 01 | **OPEN A** | "This is all I took from Mom's house." *(holds up the mug)* | 0.10-2.33 |
+| 02 | Payload | "I never emptied her closet." | 2.28-4.26 |
+| 03 | **OPEN B** | "My fear? Taking any offer." | 4.26-6.61 |
+| 04 | Payload | "Driving three hours every weekend." | 6.61-9.08 |
+| 05 | **OPEN C** | "Cash offers usually come in lower." | 9.08-11.34 |
+| 06 | Payload | "Listing meant repairs, commission, closing costs." | 11.34-14.52 |
+| 07 | **CLOSE C** | "That's why lower wasn't the whole story. Theirs had none of that." | 14.52-18.21 |
+| 08 | Payload | "No obligation. My brother agreed." | 18.21-20.98 |
+| 09 | **CLOSE B** | "That's why I didn't just take any offer." | 20.98-23.19 |
+| 10 | Payload | "We picked the closing date." | 23.19-24.80 |
+| 11 | **CLOSE A** | "That's why this is all I took. Property Abundance bought the rest." | 24.80-28.81 |
+| End card | | Logo, the form, and the AI label | 28.81-30.00 |
 
 The brand is spoken in line 11, and no separate CTA is spoken. The end card carries it, for example "Get your number. No obligation."
 
@@ -46,11 +48,11 @@ The beats are grouped so that each clip is one continuous take.
 
 | Clip | Lines | Speech (+6% draft) | Omni length |
 |---|---|---|---|
-| 1 | 01–03 | 6.51 s | 8 s |
-| 2 | 04–05 | 4.73 s | 6 s |
-| 3 | 06–07 | 6.87 s | 8 s |
-| 4 | 08–09 | 4.98 s | 6 s |
-| 5 | 10–11 | 5.62 s | 6 s (only 0.38 s to spare; if Omni rushes the line, use 8 s with padding) |
+| 1 | 01-03 | 6.51 s | 8 s |
+| 2 | 04-05 | 4.73 s | 6 s |
+| 3 | 06-07 | 6.87 s | 8 s |
+| 4 | 08-09 | 4.98 s | 6 s |
+| 5 | 10-11 | 5.62 s | 6 s (only 0.38 s to spare; if Omni rushes the line, use 8 s with padding) |
 
 At Kie's list price (1080p: 84 credits for 6 s, 105 for 8 s), that is 462 credits for one take of each clip. This is the list price, not a measured cost.
 
@@ -69,4 +71,4 @@ At Kie's list price (1080p: 84 credits for 6 s, 105 for 8 s), that is 462 credit
 
 ## Language gate
 
-0 em dashes, 0 banned phrases. The first 4.26 s (lines 01–02) say the same thing as the long version's Open A, which scored 9/10 on the Hook Map rubric (my scoring).
+0 em dashes, 0 banned phrases. The first 4.26 s (lines 01-02) say the same thing as the long version's Open A, which scored 9/10 on the Hook Map rubric (my scoring).

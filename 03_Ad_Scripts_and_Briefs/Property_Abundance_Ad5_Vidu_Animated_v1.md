@@ -1,10 +1,10 @@
-# Property Abundance — Ad 5: "Three Questions" (Vidu, animated)
+# Property Abundance, Ad 5: "Three Questions" (Vidu, animated)
 
 **Built:** 2026-09-24
 **Model:** Vidu Q3-pro (fallback: Vidu Q2 Reference Pro)
 **Format:** 9:16, 1080p, stylized 3D animation, ~35 s total, 5 clips
-**Concept:** Winning Concept #4 — "How to spot a bad cash buyer" (`Cash_Home_Buying_Winning_Concepts.md`, §3)
-**Subject:** unchanged — selling a house for cash to Property Abundance.
+**Concept:** Winning Concept #4: "How to spot a bad cash buyer" (`Cash_Home_Buying_Winning_Concepts.md`, §3)
+**Subject:** unchanged: selling a house for cash to Property Abundance.
 **What is new vs Ad 1 and Ad 2:** new hook type (Curiosity Gap, not Contrarian or Labeling), new visual device (a three-box checklist that fills in on screen), animated instead of live-action, and a host who asks questions instead of a voiceover that explains.
 
 ---
@@ -16,11 +16,11 @@ Source: `https://platform.vidu.com/docs/text-to-video`, fetched 2026-09-24.
 | Setting | Value used | Model limit |
 |---|---|---|
 | Model | `viduq3-pro` | also `viduq3-turbo`, `viduq2`, `viduq1` |
-| Duration | 8 s, 7 s, 7 s, 7 s, 6 s | q3: 1–16 s (default 5) · q2: 1–10 s · q1: 5 s only |
+| Duration | 8 s, 7 s, 7 s, 7 s, 6 s | q3: 1-16 s (default 5) · q2: 1-10 s · q1: 5 s only |
 | Resolution | 1080p | 540p / 720p / 1080p (q1: 1080p only) |
 | Aspect ratio | 9:16 | 16:9, 9:16, 3:4, 4:3, 1:1 (3:4 and 4:3 are q2/q3 only) |
 | Prompt length | ~160 words per shot | max 5000 characters |
-| Background music param | not used | Q3 does not support it — put music in the Sound line, or add the bed in your edit |
+| Background music param | not used | Q3 does not support it, put music in the Sound line, or add the bed in your edit |
 
 Prompt structure below follows Vidu's five-part order: **Scene → Character → Action (time-ordered) → Camera → Sound.**
 
@@ -28,18 +28,18 @@ Prompt structure below follows Vidu's five-part order: **Scene → Character →
 
 ## 2. Character lock (do this before generating)
 
-Vidu holds a character across clips through **Reference to Video** — upload reference stills of the same character, up to 7 images on Vidu Q2 Reference Pro.
+Vidu holds a character across clips through **Reference to Video**: upload reference stills of the same character, up to 7 images on Vidu Q2 Reference Pro.
 
 **Host: Marcus Hale, animated variant.** Same person as `Property_Abundance_Character_MarcusHale_v1.md`, redrawn as animation.
 
-> He is the **buyer-side host**, not a past customer. A generated person presented as a real customer giving a testimonial is a deceptive endorsement (FTC 16 CFR 255.1 and 16 CFR 465.2). He explains and asks — he never says he sold a house.
+> He is the **buyer-side host**, not a past customer. A generated person presented as a real customer giving a testimonial is a deceptive endorsement (FTC 16 CFR 255.1 and 16 CFR 465.2). He explains and asks. He never says he sold a house.
 
 Generate 3 stills free in Gemini / Nano Banana at 9:16, then upload all 3 as Vidu references:
 
 ```
 Stylized 3D animated character, single character sheet image, 9:16.
 Black American man, 41, medium-brown skin, short trimmed beard with a few
-grays, close-cropped hair. Calm, friendly, direct — a neighbor, not a
+grays, close-cropped hair. Calm, friendly, direct, a neighbor, not a
 salesman. Navy henley shirt, sleeves pushed up, no logo, no suit, no tie.
 Soft matte shading, rounded forms, warm daylight, gentle rim light.
 Muted warm palette: cream, warm grey, soft navy, one amber accent.
@@ -55,11 +55,11 @@ Regenerate the same prompt with `three-quarter view, chest up` and `wide shot, s
 ## 3. Hard rules (carried from Ad 1 and Ad 2)
 
 - No cash piles, no money fanning, no money counters.
-- No dollar amounts, no days-to-close, no "X houses bought" — no number on screen that Property Abundance has not measured.
+- No dollar amounts, no days-to-close, no "X houses bought": no number on screen that Property Abundance has not measured.
 - No fake urgency: no "limited spots", no "before it's too late".
 - No claims about named competitors.
 - The host is a spokesperson, never a customer.
-- Captions: 1–4 words per card, one keyword in the amber accent.
+- Captions: 1-4 words per card, one keyword in the amber accent.
 
 ---
 
@@ -69,7 +69,7 @@ Total 35 s. Caption cards are burned in your edit, not asked of Vidu.
 
 ---
 
-### CLIP 1 — HOOK (0:00–0:08, 8 s)
+### CLIP 1: HOOK (0:00-0:08, 8 s)
 
 **ON SCREEN:** THREE QUESTIONS
 **VO / on-camera:** "A bad cash buyer can answer two of these. Not three."
@@ -98,7 +98,7 @@ Quiet suburban ambience, distant birds, a faint breeze. No music.
 
 ---
 
-### CLIP 2 — QUESTION ONE (0:08–0:15, 7 s)
+### CLIP 2: QUESTION ONE (0:08-0:15, 7 s)
 
 **ON SCREEN:** WHOSE MONEY?
 **VO:** "One. Show me proof of funds, in your company's name."
@@ -126,7 +126,7 @@ A soft paper rustle. Quiet street ambience underneath. No music.
 
 ---
 
-### CLIP 3 — QUESTION TWO (0:15–0:22, 7 s)
+### CLIP 3: QUESTION TWO (0:15-0:22, 7 s)
 
 **ON SCREEN:** WHO ACTUALLY BUYS IT?
 **VO:** "Two. Are you buying it, or selling my contract to someone else?"
@@ -155,7 +155,7 @@ else?" Light paper handling sounds. Quiet street ambience. No music.
 
 ---
 
-### CLIP 4 — QUESTION THREE (0:22–0:29, 7 s)
+### CLIP 4: QUESTION THREE (0:22-0:29, 7 s)
 
 **ON SCREEN:** WHERE'S THE MATH?
 **VO:** "Three. Show me how you got the number. Worth fixed up, minus repairs, minus your costs."
@@ -186,7 +186,7 @@ No music.
 
 ---
 
-### CLIP 5 — TURN + CTA (0:29–0:35, 6 s)
+### CLIP 5: TURN + CTA (0:29-0:35, 6 s)
 
 **ON SCREEN:** ASK US FIRST
 **VO:** "Ask us first. If we can't answer all three, don't sell to us."
@@ -221,9 +221,9 @@ us." Quiet suburban ambience, a soft breeze. No music.
 1. Generate the 3 character stills free in Gemini / Nano Banana at 9:16.
 2. In Vidu, use **Reference to Video**, upload all 3 stills, model `viduq3-pro`, 1080p, 9:16, and paste Clip 1's prompt. Set duration per the table.
 3. Keep the same 3 references for all 5 clips. That is what holds the face.
-4. Generate 3–4 takes per clip. Keep the one where the mouth matches the line.
+4. Generate 3-4 takes per clip. Keep the one where the mouth matches the line.
 5. If a face drifts, add that clip's best frame as a 4th reference and regenerate.
-6. If Q3 is unavailable, use `viduq2` — same prompts, but cap every clip at 10 s and expect weaker lip-sync; in that case mute the clip and lay your own voiceover.
+6. If Q3 is unavailable, use `viduq2`: same prompts, but cap every clip at 10 s and expect weaker lip-sync; in that case mute the clip and lay your own voiceover.
 7. Assemble in your editor, burn the caption cards, add the end card and one quiet music bed.
 
 ## 6. Open items

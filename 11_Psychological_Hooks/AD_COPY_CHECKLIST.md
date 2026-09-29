@@ -49,7 +49,7 @@ In a crowded market where everyone makes the same claim, lead with **how it work
 
 Build the mechanism and the offer before writing hooks: [offer-and-mechanism.md](offer-and-mechanism.md). A strong offer beats a clever argument (Sabri).
 
-## Step 4. Write 10 hooks, keep 3
+## Step 4. Write 20 hooks, keep 3-5
 First, run every hook through the **kill checks** in [testing-and-iteration.md](testing-and-iteration.md): does it announce itself, use curiosity with no benefit, give the mechanism away, accuse the reader, or say something a competitor could copy? One yes means rewrite. Write a benefit-led twin for every pain-led hook (Sabri's split tests favour benefit-led).
 
 This is the only hook score used in this folder. Score each hook 1 to 4 on each item. **Keep hooks that score 20 or more out of 28.** For Unaware hooks (story, curiosity), score Urgent as N/A and keep at **17 or more out of 24**.

@@ -1,11 +1,13 @@
 # Ad 16 hook bank v1: JMSN walkthrough (2026-09-26)
 
+**Status (2026-09-29): legacy, superseded.** Written before the copywriting playbook. The current Ad 16 deliverable is `03_Ad_Scripts_and_Briefs/Property_Abundance_Ad16_JMSN_Breakdown_v3.md` (script and scene breakdown, benefit-led hook, catch said first). This file's scores use the old 5-axis rubric, not the playbook's 7-point score; several hooks here failed the newer kill checks (announce-style "Stop/Don't" commands). Kept for its test-control hooks and the nested-loop worked examples.
+
 These hooks plug into `03_Ad_Scripts_and_Briefs/Property_Abundance_Ad16_JMSN_Walkthrough_Script_v2.md`. Each hook opens Loop A. Its matching ending line closes Loop A in clip 4. The body stays the same.
 
 - **Clip 1** = hook + "Look at this ROOF. And the floor inside? WORSE."
 - **Clip 4** = "As-is means you fix NOTHING. Not the roof. Not the floor." + the ending line + "Property Abundance."
 
-**Scores:** Hook Map rubric (5 axes × 0–2, under 7 = rewrite). They are my judgement, not measured. Every hook here scores 7 or more.
+**Scores:** Hook Map rubric (5 axes × 0-2, under 7 = rewrite). They are my judgement, not measured. Every hook here scores 7 or more.
 
 **Gates passed:**
 - Hook ≤ 9 words (3.25 s at 166 wpm).
@@ -83,7 +85,7 @@ Test 4 hooks, each from a different family: #1 (control), #4, #10 and #12.
 
 ## Full nested version A-B-C (about 40 s), built like Howie's "edible deodorant" slide
 
-Source: the Ad Creators Lab call, 2 Sep 2026. Nested loops are covered at 00:07:08–00:12:10, 00:16:44–00:17:08, 00:21:26–00:23:26 and 00:28:55–00:29:14. The transcript is in the Appendix of `05_Tutorials/Hook_Psychology_Research_Report.md`.
+Source: the Ad Creators Lab call, 2 Sep 2026. Nested loops are covered at 00:07:08-00:12:10, 00:16:44-00:17:08, 00:21:26-00:23:26 and 00:28:55-00:29:14. The transcript is in the Appendix of `05_Tutorials/Hook_Psychology_Research_Report.md`.
 
 ```text
 Leave the hole in the floor. ─────────────────────────────── Open A (odd pairing)
@@ -128,7 +130,7 @@ These numbers are from the psychology report.
 - The roof line clip and the body follow unchanged.
 - Clip 4 takes the matching ending line.
 
-| # | What he does (first 1–2 s) | He says | On screen | Why it grabs | Ending line (clip 4) | Where | AI risk |
+| # | What he does (first 1-2 s) | He says | On screen | Why it grabs | Ending line (clip 4) | Where | AI risk |
 |---|---|---|---|---|---|---|---|
 | 1 | Stands at the hole in the floor, points down, holds a deadpan beat | "Needs a little TLC." | NEEDS A LITTLE TLC | Everyone knows the listing phrase. Saying it at a hole is a joke you get in 1 s. Comedy first, like r07/r09. | "That's why TLC isn't your job." | L3 floor | Low |
 | 2 | Presses one foot on a loose board. A creak sound is added in the edit. | "Hear that? That's a floor you don't fix." | HEAR THAT? | Sound-on hook. The ear leans in before the eye decides. | "That's why you don't fix that floor." | L3 floor | Low |
@@ -136,13 +138,13 @@ These numbers are from the psychology report.
 | 4 | Arms spread like a realtor on a tour, then drops them, deadpan | "Welcome to your DREAM home." | DREAM HOME | Parody of a listing tour. The picture contradicts the words. | "That's why this dream home isn't your project." | L1 front | Low |
 | 5 | Steps toward the house while talking | "You'd walk out right here. I walk in." | I WALK IN | You-versus-me contrast. He is the one who doesn't flinch. | "That's why I walk in when you'd walk out." | L1 front | Low |
 | 6 | Points up at the roof. A drip sound is added in the edit. | "That roof is asking you for money." | YOUR ROOF WANTS MONEY | The roof as a character makes the cost feel alive. | "That's why the roof stops asking you for money." | L1 front | Low |
-| 7 | Tilts the phone down to show the hole at his feet | "Look down. Now don't fix it." | LOOK DOWN | Steers the viewer's eyes, and the damage is the reveal. | "That's why you don't fix what's down there." | L3 floor | Low–medium |
+| 7 | Tilts the phone down to show the hole at his feet | "Look down. Now don't fix it." | LOOK DOWN | Steers the viewer's eyes, and the damage is the reveal. | "That's why you don't fix what's down there." | L3 floor | Low-medium |
 | 8 | Counts on his fingers: one, two, three | "Roof. Floor. Kitchen. You pay for NONE of it." | ROOF. FLOOR. KITCHEN. | Three beats and a punch. It reads with the sound off. | "That's why you pay for none of it." | L1 front | Medium (AI fingers) |
 | 9 | Calm smile beside a ceiling drip into a bucket | "Honestly? This is my favorite kind of house." | MY FAVORITE KIND | The emotion doesn't match the picture. | "That's why this is my favorite kind of house." | New image: leak + bucket | Medium (water, new image) |
-| 10 | Sets a hammer down on the counter | "Put the hammer down." | PUT THE HAMMER DOWN | Starts mid-action with a command aimed at the viewer. | "That's why you put the hammer down." | New image: hammer in hand | Medium–high (hand + object) |
+| 10 | Sets a hammer down on the counter | "Put the hammer down." | PUT THE HAMMER DOWN | Starts mid-action with a command aimed at the viewer. | "That's why you put the hammer down." | New image: hammer in hand | Medium-high (hand + object) |
 
 **Measured by script:**
-- Hooks run 4–9 words (1.45–3.25 s at 166 wpm).
+- Hooks run 4-9 words (1.45-3.25 s at 166 wpm).
 - Clip 4 comes to 8 s or 10 s with each ending line.
 - 0 em dashes, 0 digits.
 
@@ -154,7 +156,7 @@ These numbers are from the psychology report.
 
 ## v3: nested-loop hooks (2026-09-26)
 
-In each hook, A, B and C all open within the first 9–11 s, with a payload between every step. They close in reverse order (C, B, A), and every close starts with "That's why". The brand comes on Close A. This is the edible-deodorant shape from Howie's call. It was measured by script at 166.0 wpm (Emily's Omni pace), with Kie list prices; nothing was run.
+In each hook, A, B and C all open within the first 9-11 s, with a payload between every step. They close in reverse order (C, B, A), and every close starts with "That's why". The brand comes on Close A. This is the edible-deodorant shape from Howie's call. It was measured by script at 166.0 wpm (Emily's Omni pace), with Kie list prices; nothing was run.
 
 ### 1 The Catch (99 words, 35.78 s)
 
@@ -250,7 +252,7 @@ In each hook, A, B and C all open within the first 9–11 s, with a payload betw
 
 **New C:** "But first, some cash buyers never actually buy your house."
 - It's a new question: then who buys it?
-- It teaches something true. A wholesaler puts the house under contract, then assigns that contract to another buyer for a fee. Sources: retipster.com/wholesaling, fortunebuilders.com, plattwestby.com "Real Estate Wholesalers—Seller Beware!".
+- It teaches something true. A wholesaler puts the house under contract, then assigns that contract to another buyer for a fee. Sources: retipster.com/wholesaling, fortunebuilders.com, plattwestby.com "Real Estate Wholesalers: Seller Beware!".
 - It hits a fear the research file names for all three seller types: "Many 'cash buyers' now are just wholesalers who tie you up in contract…" (Reddit).
 - The closing line is a confirmed term: Property Abundance buys the house itself.
 - "But first" tells the viewer the catch is still coming, so B stays open.

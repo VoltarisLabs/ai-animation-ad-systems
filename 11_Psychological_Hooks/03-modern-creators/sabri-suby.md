@@ -2,7 +2,7 @@
 
 **Who:** Founder of King Kong (digital agency), author of *Sell Like Crazy* (2019), Shark Tank Australia investor. Reports $300M+ of Meta ad spend managed.
 **Source:** his YouTube channel, youtube.com/@SabriSubyOfficial (470 videos + 336 shorts). This file is built from full transcripts, scanned 2026-09-26.
-**Coverage so far:** 253 of 470 long-form videos and 331 of 336 shorts read in full. Updated as more are read; see [../transcripts/youtube-channel-scan-log.md](../transcripts/youtube-channel-scan-log.md).
+**Coverage so far:** 248 of 470 long-form videos and 336 of 336 shorts read in full. Updated as more are read; see [../transcripts/youtube-channel-scan-log.md](../transcripts/youtube-channel-scan-log.md).
 **Core idea:** An ad's only job is to sell the click. Win it with a pattern interrupt, burning intrigue and a big specific benefit, then let an offer that is hard to refuse do the selling.
 
 Video IDs below are `youtube.com/watch?v=<id>`. Numbers he quotes (split-test ratios, lifts) are his own claims, not independent evidence.

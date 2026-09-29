@@ -1,6 +1,6 @@
 # Claymation SOP
 Source: https://www.canva.com/design/DAHFo1UG8aA/_zSEiFDatzhKEz8l2D7FCA/view (Canva whiteboard by "Howieee")
-Extracted: 2026-09-21. Text only — the board's embedded example images/videos are not included.
+Extracted: 2026-09-21. Text only: the board's embedded example images/videos are not included.
 
 ## What is claymation?
 A stop-motion animation technique where characters and objects made from clay are moved slightly between each frame to create the illusion of movement.

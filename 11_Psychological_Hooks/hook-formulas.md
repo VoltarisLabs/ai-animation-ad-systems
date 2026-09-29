@@ -1,6 +1,6 @@
 # Hook Formulas (Universal)
 
-Fill-in hooks, grouped by type. Write 10, score them with the 7-point check in [AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md) (Step 4), and keep the top 3.
+Fill-in hooks, grouped by type. Write 20, score them with the 7-point check in [AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md) (Step 4), and keep the top 3-5.
 `[A]` = audience, `[P]` = pain, `[R]` = result, `[T]` = time, `[X]` = product or mechanism.
 
 **Policy rule for every hook:** name the situation, not the person. Never "you are / you have" + a sensitive trait (health, money trouble, age, body, identity). "Behind on property taxes?" is a situation; "Are you broke?" is a personal attribute and gets rejected on Meta.

@@ -1,7 +1,7 @@
-PROPERTY ABUNDANCE – AD 5 – "THREE QUESTIONS" – VIDU, ANIMATED
+PROPERTY ABUNDANCE - AD 5 - "THREE QUESTIONS" - VIDU, ANIMATED
 Send one CLIP per Vidu request, in order. Each one is a separate clip. Model viduq3-pro, 9:16, 1080p.
 Block order below is Vidu's required order: Scene, Character, Action, Camera, Sound. LOOK and THE MAN
-are copied word for word into every clip. Do not paraphrase them — that is what holds the style and the face.
+are copied word for word into every clip. Do not paraphrase them: that is what holds the style and the face.
 
 Prompt size, measured: CLIP 1 = 2,845 chars, CLIP 2 = 2,816, CLIP 3 = 2,948, CLIP 4 = 2,729, CLIP 5 = 2,505.
 Vidu's cap is 5,000 characters per prompt, so the longest clip uses 59 percent of it.
@@ -10,15 +10,15 @@ Durations: CLIP 1 = 8 s, CLIPS 2-4 = 7 s, CLIP 5 = 6 s. Total 35 s.
 
 FRAME CHAIN (this is the part that replaces your old re-rolling):
 Vidu holds continuity two ways. Use both.
-1. Reference to Video — upload the 3 Marcus stills and keep the SAME 3 on all five clips.
-2. Start frame / end frame — export the last frame of the approved clip as a PNG and load it as the
+1. Reference to Video: upload the 3 Marcus stills and keep the SAME 3 on all five clips.
+2. Start frame / end frame: export the last frame of the approved clip as a PNG and load it as the
    START frame of the next clip. Chain 1 to 2 to 3 to 4 to 5. The street, the light and the clipboard
    then carry across instead of being re-invented each time.
 If a clip is wrong, you only re-roll that clip against the same start frame. Everything downstream stays.
 
 ======================================================================
 
-CLIP 1 — 0.0 to 8.0 s. He speaks. Duration 8 s.
+CLIP 1: 0.0 to 8.0 s. He speaks. Duration 8 s.
 Vertical 9:16 video, 8 seconds, one continuous shot.
 
 LOOK: stylized 3D animation, like a modern animated feature, not photoreal and not cartoon-goofy. Soft matte shading, rounded forms, no hard specular highlights, no plastic sheen. Muted warm palette of cream, warm grey and soft navy with exactly one amber accent colour used only for the checkmarks. Warm late-morning daylight from the upper left at about 42 degrees. Shallow depth of field, background softly blurred. 24 fps, clean and steady, no handheld shake, no lens flare, no colour grade, no slow motion, no drone move.
@@ -39,7 +39,7 @@ RULES: one continuous shot, no cuts, no dissolves. Do not add captions, subtitle
 
 ======================================================================
 
-CLIP 2 — 8.0 to 15.0 s. He speaks. Duration 7 s.
+CLIP 2: 8.0 to 15.0 s. He speaks. Duration 7 s.
 Vertical 9:16 video, 7 seconds, one continuous shot.
 START FRAME: the last frame of CLIP 1.
 
@@ -57,11 +57,11 @@ HE SAYS (spoken out loud, natural American accent, calm and level, no subtitles 
 
 SOUND: his voice close and clear. One soft paper rustle as the sheet comes up. Quiet street ambience underneath. No music.
 
-RULES: one continuous shot, no cuts, no dissolves. Do not add captions, subtitles, text, numbers, prices, logos or watermarks anywhere. The letterhead band and the sheet stay blank — no readable writing of any kind. Only the top checkbox fills; the lower two stay empty. Five fingers on every hand. He stays fully in frame for the whole clip. No cash, no banknotes, no coins. Do not ask questions and do not ask for a reference image.
+RULES: one continuous shot, no cuts, no dissolves. Do not add captions, subtitles, text, numbers, prices, logos or watermarks anywhere. The letterhead band and the sheet stay blank, no readable writing of any kind. Only the top checkbox fills; the lower two stay empty. Five fingers on every hand. He stays fully in frame for the whole clip. No cash, no banknotes, no coins. Do not ask questions and do not ask for a reference image.
 
 ======================================================================
 
-CLIP 3 — 15.0 to 22.0 s. He speaks. Duration 7 s.
+CLIP 3: 15.0 to 22.0 s. He speaks. Duration 7 s.
 Vertical 9:16 video, 7 seconds, one continuous shot.
 START FRAME: the last frame of CLIP 2.
 
@@ -83,7 +83,7 @@ RULES: one continuous shot, no cuts, no dissolves. Do not add captions, subtitle
 
 ======================================================================
 
-CLIP 4 — 22.0 to 29.0 s. He speaks. Duration 7 s.
+CLIP 4: 22.0 to 29.0 s. He speaks. Duration 7 s.
 Vertical 9:16 video, 7 seconds, one continuous shot.
 START FRAME: the last frame of CLIP 3.
 
@@ -105,7 +105,7 @@ RULES: one continuous shot, no cuts, no dissolves. Do not add captions, subtitle
 
 ======================================================================
 
-CLIP 5 — 29.0 to 35.0 s. He speaks. Duration 6 s.
+CLIP 5: 29.0 to 35.0 s. He speaks. Duration 6 s.
 Vertical 9:16 video, 6 seconds, one continuous shot.
 START FRAME: the last frame of CLIP 1 (back outside, matching the opening).
 
@@ -127,7 +127,7 @@ RULES: one continuous shot, no cuts, no dissolves. Do not add captions, subtitle
 
 ======================================================================
 
-CAPTION CARDS — burned in your editor, not asked of Vidu.
+CAPTION CARDS: burned in your editor, not asked of Vidu.
 0.0-8.0    THREE QUESTIONS
 8.0-15.0   WHOSE MONEY?
 15.0-22.0  WHO ACTUALLY BUYS IT?
@@ -135,10 +135,10 @@ CAPTION CARDS — burned in your editor, not asked of Vidu.
 29.0-35.0  ASK US FIRST
 End card over the last 2 s: phone showing the Property Abundance form, logo, SEE THE MATH ON YOUR HOUSE.
 
-FIX PASS — how to iterate, same as Ad 1.
+FIX PASS: how to iterate, same as Ad 1.
 Write the broken range, then re-send only that clip with the one block changed, against the same start
 frame and the same 3 references. Change ONE block per attempt (usually ACTION or CAMERA) so you know
-what fixed it. Do not rewrite LOOK or THE MAN — if the face drifts, add the best frame from the good
+what fixed it. Do not rewrite LOOK or THE MAN: if the face drifts, add the best frame from the good
 clip as a fourth reference image instead.
 
 WHAT MUST BE TRUE BEFORE THIS IS SHOT

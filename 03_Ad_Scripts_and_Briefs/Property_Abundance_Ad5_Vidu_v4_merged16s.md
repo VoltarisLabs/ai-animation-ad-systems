@@ -1,4 +1,4 @@
-PROPERTY ABUNDANCE – AD 5 – "THREE QUESTIONS" – VIDU – v4, CLIPS 2+3 MERGED
+PROPERTY ABUNDANCE - AD 5 - "THREE QUESTIONS" - VIDU - v4, CLIPS 2+3 MERGED
 
 Model viduq3-pro. 9:16. 1080p. TWO generations now instead of three.
   CLIP A = the old clip 1, unchanged, 10 s.
@@ -24,12 +24,12 @@ it as the START frame of CLIP B.
 
 ======================================================================
 
-CLIP A — 0 to 10 s — HOOK + QUESTION ONE — 2 shots, cut at 4.6 s
+CLIP A: 0 to 10 s. HOOK + QUESTION ONE, 2 shots, cut at 4.6 s
 Unchanged from v3. Use the CLIP 1 prompt from
 03_Ad_Scripts_and_Briefs/Property_Abundance_Ad5_Vidu_v3_10s_multishot.md
 
 ======================================================================
-CLIP B — 10 to 26 s — QUESTIONS TWO AND THREE, THEN THE ASK
+CLIP B: 10 to 26 s. QUESTIONS TWO AND THREE, THEN THE ASK
 16 seconds, five shots, four hard cuts at 3.8 s, 8.8 s, 10.4 s and 13.9 s.
 START FRAME: the last frame of CLIP A.
 Measured prompt size: 4,997 characters. Vidu's cap is 5,000.
@@ -85,7 +85,7 @@ RULES: exactly five shots, four hard cuts at 3.8, 8.8, 10.4 and 13.9 s. No disso
 
 ======================================================================
 
-CAPTION CARDS — burned in your editor, not asked of Vidu
+CAPTION CARDS: burned in your editor, not asked of Vidu
 0.0-4.6     THREE QUESTIONS
 4.6-10.0    WHOSE MONEY?
 10.0-13.8   WHO ACTUALLY BUYS IT?
@@ -94,7 +94,7 @@ CAPTION CARDS — burned in your editor, not asked of Vidu
 End card over the last 2 s: phone showing the Property Abundance form, logo,
 SEE THE MATH ON YOUR HOUSE. Shot 5 is framed wide with headroom so the card has somewhere to sit.
 
-COST — viduq3-pro 1080p at 24 credits/sec.
+COST: viduq3-pro 1080p at 24 credits/sec.
   CLIP A 10 s = 240 credits, $1.20
   CLIP B 16 s = 384 credits, $1.92
   One clean pass = 624 credits, $3.12, before retakes.
@@ -104,7 +104,7 @@ Re-send only the broken generation, against the same start frame and the same 3 
 ONE block per attempt. If a cut is ignored, tighten the SHOT lines first. If a gesture misses its word,
 edit only that one word anchor. Never rewrite LOOK or THE MAN.
 Warning: CLIP B is one generation with five shots, so a retake re-rolls all five. If shot 2 keeps
-failing, fall back to the v3 split — clips 2 and 3 as separate generations — so a retake costs less.
+failing, fall back to the v3 split (clips 2 and 3 as separate generations) so a retake costs less.
 
 WHAT MUST BE TRUE BEFORE THIS IS SHOT
 - The three strokes in shot 2 stand in for Property Abundance's real offer worksheet lines.

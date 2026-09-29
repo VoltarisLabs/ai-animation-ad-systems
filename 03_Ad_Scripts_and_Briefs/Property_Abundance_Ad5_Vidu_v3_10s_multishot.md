@@ -1,4 +1,4 @@
-PROPERTY ABUNDANCE – AD 5 – "THREE QUESTIONS" – VIDU – 10-SECOND MULTI-SHOT CLIPS
+PROPERTY ABUNDANCE - AD 5 - "THREE QUESTIONS" - VIDU - 10-SECOND MULTI-SHOT CLIPS
 
 Model viduq3-pro. 9:16. 1080p. THREE clips of 10 seconds each. Total 30 s.
 viduq3-pro does shot segmentation, so the cuts happen INSIDE one generation. You are not
@@ -10,7 +10,7 @@ WHAT CHANGED FROM v2 AND WHY
 - v2 was five short clips of 6-8 s. Now three clips of 10 s, so you see a whole beat per generation.
 - v2 gave gestures on a clock. Now every gesture is pinned to a WORD he is saying.
 
-SPEECH TIMING — how the word anchors were built
+SPEECH TIMING: how the word anchors were built
 Estimated at 2.9 words per second, calm delivery. That is an estimate, not a measured figure.
 After your first generation, count the real word timings off the clip and shift the anchors if needed.
   CLIP 1 speech: 21 words, about 7.2 s of the 10 s
@@ -29,7 +29,7 @@ and load it as the START frame of clip 2, and the last frame of clip 2 as the st
 
 ======================================================================
 
-CLIP 1 — 0 to 10 s — HOOK + QUESTION ONE — 2 shots, cut at 4.6 s
+CLIP 1: 0 to 10 s. HOOK + QUESTION ONE, 2 shots, cut at 4.6 s
 Vertical 9:16 video, 10 seconds, two shots with one hard cut.
 
 LOOK: stylized 3D animation, like a modern animated feature, not photoreal and not cartoon-goofy. Soft matte shading, rounded forms, no hard specular highlights, no plastic sheen. Muted warm palette of cream, warm grey and soft navy with exactly one amber accent colour used only for the checkmarks. Warm late-morning daylight from the upper left at about 42 degrees. Shallow depth of field. 24 fps. No lens flare, no colour grade, no slow motion, no drone move.
@@ -38,8 +38,8 @@ SCENE: an ordinary American residential street in late morning. Single-storey ho
 
 THE MAN: one man, Black American, 41 years old, 1.80 m, medium-brown skin, close-cropped hair, a short trimmed beard with a few grey hairs at the chin, warm brown eyes, calm and direct, an ordinary neighbour and not a model. Navy henley shirt with the sleeves pushed to just below the elbow, no logo and no collar, mid-grey trousers, plain brown shoes. He carries a plain cream clipboard 32 cm by 23 cm holding one sheet printed with three empty square checkboxes, each 4 cm across, stacked down the left side.
 
-SHOT 1 — 0.0 to 4.6 s. Wide, static, locked off, camera 3.4 m from him at 1.55 m height, he stands centred on the sidewalk with the house behind him, full body from the knees up.
-SHOT 2 — 4.6 to 10.0 s. Hard cut to a medium close-up, camera 1.4 m from him at 1.55 m height, static, his head filling about 36 percent of the frame height on the right third.
+SHOT 1: 0.0 to 4.6 s. Wide, static, locked off, camera 3.4 m from him at 1.55 m height, he stands centred on the sidewalk with the house behind him, full body from the knees up.
+SHOT 2: 4.6 to 10.0 s. Hard cut to a medium close-up, camera 1.4 m from him at 1.55 m height, static, his head filling about 36 percent of the frame height on the right third.
 
 ACTION AND SPEECH, matched word by word:
 He starts with the clipboard hanging in his right hand, weight on his back foot, relaxed.
@@ -65,11 +65,11 @@ CAMERA: both shots are locked off. No push in, no dolly, no zoom, no handheld dr
 
 SOUND: his voice close and clear, calm and level, natural American accent. One soft paper rustle as the sheet comes up at 4.6 s. Quiet suburban ambience underneath, distant birds, a faint breeze. No music, no whoosh on the cut.
 
-RULES: exactly two shots with one hard cut at 4.6 s — no dissolve, no wipe, no third shot. Do not add captions, subtitles, text, numbers, prices, logos or watermarks anywhere, including on the clipboard, the letter, the mailbox and the houses. The letterhead band stays blank. Only the top checkbox fills; the lower two stay empty. Five fingers on every hand. He stays fully in frame in both shots. No cash, no banknotes, no coins. Do not ask questions and do not ask for a reference image.
+RULES: exactly two shots with one hard cut at 4.6 s, no dissolve, no wipe, no third shot. Do not add captions, subtitles, text, numbers, prices, logos or watermarks anywhere, including on the clipboard, the letter, the mailbox and the houses. The letterhead band stays blank. Only the top checkbox fills; the lower two stay empty. Five fingers on every hand. He stays fully in frame in both shots. No cash, no banknotes, no coins. Do not ask questions and do not ask for a reference image.
 
 ======================================================================
 
-CLIP 2 — 10 to 20 s — QUESTION TWO + QUESTION THREE — 2 shots, cut at 4.8 s
+CLIP 2: 10 to 20 s. QUESTION TWO + QUESTION THREE, 2 shots, cut at 4.8 s
 Vertical 9:16 video, 10 seconds, two shots with one hard cut.
 START FRAME: the last frame of CLIP 1.
 
@@ -79,8 +79,8 @@ SCENE: SHOT 1 is the same residential street pulled wide. On the sidewalk 6 m be
 
 THE MAN: one man, Black American, 41 years old, 1.80 m, medium-brown skin, close-cropped hair, a short trimmed beard with a few grey hairs at the chin, warm brown eyes, calm and direct, an ordinary neighbour and not a model. Navy henley shirt with the sleeves pushed to just below the elbow, no logo and no collar, mid-grey trousers, plain brown shoes. He carries the cream clipboard with the top checkbox already ticked in amber.
 
-SHOT 1 — 0.0 to 4.8 s. Wide, camera 4.2 m from him at 1.55 m height, tracking left 0.8 m across the shot at 0.17 m/s. He stands in the left third, the three silhouettes behind him in the centre.
-SHOT 2 — 4.8 to 10.0 s. Hard cut to a high three-quarter angle over the kitchen table, 35 degrees above horizontal, 1.1 m from the sheet, static.
+SHOT 1: 0.0 to 4.8 s. Wide, camera 4.2 m from him at 1.55 m height, tracking left 0.8 m across the shot at 0.17 m/s. He stands in the left third, the three silhouettes behind him in the centre.
+SHOT 2: 4.8 to 10.0 s. Hard cut to a high three-quarter angle over the kitchen table, 35 degrees above horizontal, 1.1 m from the sheet, static.
 
 ACTION AND SPEECH, matched word by word:
 0.0 s he is half turned away from camera, watching the line of silhouettes.
@@ -105,11 +105,11 @@ CAMERA: SHOT 1 tracks left at a constant 0.17 m/s. SHOT 2 is locked off. No push
 
 SOUND: his voice close and clear, calm and level, natural American accent. Light paper handling on each silhouette handoff. Pen nib on paper on each of the three strokes, and the pen set down on wood at 9.2 s. Quiet street ambience in shot 1, quiet indoor room tone in shot 2. No music, no whoosh on the cut.
 
-RULES: exactly two shots with one hard cut at 4.8 s — no dissolve, no wipe, no third shot. Do not add captions, subtitles, text, numbers, prices, currency symbols, logos or watermarks anywhere. The passed sheet stays blank. The three handwritten strokes must not resolve into readable words or into any digit — no figures on the page at any point. The silhouettes stay faceless and still except for the two handoffs. The top and middle boxes are ticked; the bottom box stays empty. Five fingers on every hand. No cash, no banknotes, no coins, no calculator. Do not ask questions and do not ask for a reference image.
+RULES: exactly two shots with one hard cut at 4.8 s, no dissolve, no wipe, no third shot. Do not add captions, subtitles, text, numbers, prices, currency symbols, logos or watermarks anywhere. The passed sheet stays blank. The three handwritten strokes must not resolve into readable words or into any digit, no figures on the page at any point. The silhouettes stay faceless and still except for the two handoffs. The top and middle boxes are ticked; the bottom box stays empty. Five fingers on every hand. No cash, no banknotes, no coins, no calculator. Do not ask questions and do not ask for a reference image.
 
 ======================================================================
 
-CLIP 3 — 20 to 30 s — THE TURN AND THE ASK — 3 shots, cuts at 2.8 s and 7.0 s
+CLIP 3: 20 to 30 s. THE TURN AND THE ASK, 3 shots, cuts at 2.8 s and 7.0 s
 Vertical 9:16 video, 10 seconds, three shots with two hard cuts.
 START FRAME: the last frame of CLIP 2.
 
@@ -119,9 +119,9 @@ SCENE: SHOT 1 is a tight insert of the cream clipboard held in both hands agains
 
 THE MAN: one man, Black American, 41 years old, 1.80 m, medium-brown skin, close-cropped hair, a short trimmed beard with a few grey hairs at the chin, warm brown eyes, calm and direct, an ordinary neighbour and not a model. Navy henley shirt with the sleeves pushed to just below the elbow, no logo and no collar, mid-grey trousers, plain brown shoes. He holds the cream clipboard with all three checkboxes ticked in amber.
 
-SHOT 1 — 0.0 to 2.8 s. Tight insert, camera 0.4 m from the clipboard, static, the clipboard filling three quarters of the frame.
-SHOT 2 — 2.8 to 7.0 s. Hard cut to a medium close-up outdoors, camera 1.4 m from him at 1.55 m height, static, his head on the centre line.
-SHOT 3 — 7.0 to 10.0 s. Hard cut to a wide, camera 4.0 m from him at 1.55 m height, static, he stands in the lower third with clear sky and house above him.
+SHOT 1: 0.0 to 2.8 s. Tight insert, camera 0.4 m from the clipboard, static, the clipboard filling three quarters of the frame.
+SHOT 2: 2.8 to 7.0 s. Hard cut to a medium close-up outdoors, camera 1.4 m from him at 1.55 m height, static, his head on the centre line.
+SHOT 3: 7.0 to 10.0 s. Hard cut to a wide, camera 4.0 m from him at 1.55 m height, static, he stands in the lower third with clear sky and house above him.
 
 ACTION AND SPEECH, matched word by word:
 0.0-1.4 s SHOT 1, no speech. The third amber tick draws itself into the bottom checkbox over 0.5 s starting at 0.5 s, completing the set of three. His thumb moves once across the edge of the board.
@@ -144,11 +144,11 @@ CAMERA: all three shots are locked off. No push in, no dolly, no zoom, no handhe
 
 SOUND: his voice close and clear, calm and level, natural American accent. A soft card-stock sound as the clipboard tilts in shot 1. Quiet suburban ambience and a soft breeze in shots 2 and 3. No music, no whoosh on the cuts.
 
-RULES: exactly three shots with hard cuts at 2.8 s and 7.0 s — no dissolves, no wipes, no fourth shot. Do not add captions, subtitles, text, numbers, prices, logos or watermarks anywhere. All three checkboxes are ticked amber by 1.0 s and stay ticked. Five fingers on every hand. He stays fully in frame in shots 2 and 3. No cash, no banknotes, no coins. Do not ask questions and do not ask for a reference image.
+RULES: exactly three shots with hard cuts at 2.8 s and 7.0 s, no dissolves, no wipes, no fourth shot. Do not add captions, subtitles, text, numbers, prices, logos or watermarks anywhere. All three checkboxes are ticked amber by 1.0 s and stay ticked. Five fingers on every hand. He stays fully in frame in shots 2 and 3. No cash, no banknotes, no coins. Do not ask questions and do not ask for a reference image.
 
 ======================================================================
 
-CAPTION CARDS — burned in your editor, not asked of Vidu
+CAPTION CARDS: burned in your editor, not asked of Vidu
 0.0-4.6    THREE QUESTIONS
 4.6-10.0   WHOSE MONEY?
 10.0-14.8  WHO ACTUALLY BUYS IT?
@@ -157,7 +157,7 @@ CAPTION CARDS — burned in your editor, not asked of Vidu
 End card over the last 2 s of clip 3: phone showing the Property Abundance form, logo,
 SEE THE MATH ON YOUR HOUSE. Shot 3 is framed wide with headroom so the card has somewhere to sit.
 
-COST — 30 s at viduq3-pro 1080p at 24 credits/sec = 720 credits, $3.60 per clean pass, before retakes.
+COST: 30 s at viduq3-pro 1080p at 24 credits/sec = 720 credits, $3.60 per clean pass, before retakes.
 
 FIX PASS
 Re-send only the broken clip, against the same start frame and the same 3 references, and change ONE

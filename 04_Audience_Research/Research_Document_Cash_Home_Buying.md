@@ -1,4 +1,4 @@
-# Research Document – Cash Home Buying
+# Research Document: Cash Home Buying
 
 **Product:** Buying houses for cash, direct from the homeowner.
 **ICP:** US homeowners who need to sell fast or as-is: inherited houses, pre-foreclosure, divorce, tired landlords, houses that need big repairs.
@@ -125,7 +125,7 @@
 |---|---|
 | I have to fix everything before I sell | Many commenters say repairs rarely pay back dollar for dollar. Some buyers take a house as-is. |
 | Listing as-is means no repair haggling | On the open market, buyers still inspect and still negotiate the price down. |
-| Selling with a realtor costs nothing up front, so it's free | Commenters list about 6% commission plus 1–2% transfer taxes, before concessions and repairs. "So that's 8% right there." |
+| Selling with a realtor costs nothing up front, so it's free | Commenters list about 6% commission plus 1-2% transfer taxes, before concessions and repairs. "So that's 8% right there." |
 | Cash means the deal can't fall through | Commenters report cash buyers backing out or cutting the price after inspection. Check the contract terms. |
 | Every cash buyer is the same | Commenters split them into direct buyers who close with their own money, and wholesalers who assign the contract. |
 | My Zestimate is what the house is worth | "The website valuation means nothing. Market value is what a willing buyer will pay." |

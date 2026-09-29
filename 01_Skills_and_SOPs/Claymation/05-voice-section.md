@@ -1,4 +1,4 @@
-# Claymation — Voice Section
+# Claymation: Voice Section
 
 **Source:** Ad Creators Lab lesson
 **Saved:** 2026-08-29
@@ -40,7 +40,7 @@ Save the audio, use it in the video.
 - 👉 Sounds like a **YouTuber shouting** → **it's wrong**
 - 👉 Sounds like a **documentary** → **you're close**
 
-This is the single clearest voice direction across all four courses. It also matches the ElevenLabs lesson in the skeleton section (*"avoid a voice that sounds too polished"*) — both are pushing away from ad-read energy, just from different directions: skeleton wants casual-real, claymation wants calm-documentary.
+This is the single clearest voice direction across all four courses. It also matches the ElevenLabs lesson in the skeleton section (*"avoid a voice that sounds too polished"*): both are pushing away from ad-read energy, just from different directions: skeleton wants casual-real, claymation wants calm-documentary.
 
 ---
 
@@ -68,17 +68,17 @@ This is the single clearest voice direction across all four courses. It also mat
 
 ## Picking for Altura
 
-Our ICP is US business owners who have usually been burned by MCAs and are wary of funding pitches. Our research doc puts them at **Level 4-5 market sophistication** — they have heard every aggressive funding ad already.
+Our ICP is US business owners who have usually been burned by MCAs and are wary of funding pitches. Our research doc puts them at **Level 4-5 market sophistication**: they have heard every aggressive funding ad already.
 
 **Best fits from the list:**
 
 | # | Why |
 |---|---|
-| **9 — Serious problem-solution** | *"calm but slightly concerned tone, clear emphasis on key words"* — this is the closest match to our 8-stage objection stack. Concerned, not hyped. |
-| **2 — Older trusted expert** | Funding is a trust purchase. A 60s reassuring voice reads as an advisor, not a salesperson. |
-| **1 — Classic documentary** | Safe default, matches the "if it sounds like a documentary you're close" rule exactly. |
+| **9: Serious problem-solution** | *"calm but slightly concerned tone, clear emphasis on key words"*: this is the closest match to our 8-stage objection stack. Concerned, not hyped. |
+| **2: Older trusted expert** | Funding is a trust purchase. A 60s reassuring voice reads as an advisor, not a salesperson. |
+| **1: Classic documentary** | Safe default, matches the "if it sounds like a documentary you're close" rule exactly. |
 
-**One adjustment to consider:** all 10 prompts specify **British**. For a US business-funding audience a British narrator may read as premium/documentary — or as foreign and off-key for a domestic financial services pitch. Worth generating one British and one American version of the same prompt and comparing before committing.
+**One adjustment to consider:** all 10 prompts specify **British**. For a US business-funding audience a British narrator may read as premium/documentary, or as foreign and off-key for a domestic financial services pitch. Worth generating one British and one American version of the same prompt and comparing before committing.
 
 **Pronunciation checks still apply:** Altura (*al-TOO-rah*), APR, 0%, pre-qualification, hard inquiry. Same as noted in the skeleton and singing lessons.
 
@@ -108,6 +108,6 @@ header: xi-api-key: <key>
 ```
 Key in memory `elevenlabs-api-key.md`.
 
-**Note:** these 10 prompts are for **voice design** (creating a custom voice), which is a different ElevenLabs feature than picking a stock voice. Voice design may need to be done in the ElevenLabs web UI rather than via the TTS endpoint — the API call above generates speech from an existing voice_id, it does not create one.
+**Note:** these 10 prompts are for **voice design** (creating a custom voice), which is a different ElevenLabs feature than picking a stock voice. Voice design may need to be done in the ElevenLabs web UI rather than via the TTS endpoint. The API call above generates speech from an existing voice_id, it does not create one.
 
 🚨 **No API call without Rafiul's explicit typed approval.**

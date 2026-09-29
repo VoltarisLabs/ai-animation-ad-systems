@@ -29,9 +29,9 @@ That answer becomes the character. Example script from the lesson:
 > but those oils clog pores and irritate your skin."*
 
 **Structure of the confession:**
-1. *"I'm [the failed solution]"* — identify
-2. *"I [do this cheap thing] to [serve my interest]"* — admit the motive
-3. *"but that [causes this harm to you]"* — the cost, in the customer's body/wallet
+1. *"I'm [the failed solution]"*: identify
+2. *"I [do this cheap thing] to [serve my interest]"*: admit the motive
+3. *"but that [causes this harm to you]"*: the cost, in the customer's body/wallet
 
 ---
 
@@ -46,7 +46,7 @@ Generate an image where the product becomes a character.
 
 **Tip: generate 4-6 variations, pick the most expressive one.**
 
-> We learned the Seedance text weakness the hard way — B-roll v1 rendered "ARP" instead of "APR." Same limitation, confirmed independently. For any character with legible packaging text, Nano Banana.
+> We learned the Seedance text weakness the hard way: B-roll v1 rendered "ARP" instead of "APR." Same limitation, confirmed independently. For any character with legible packaging text, Nano Banana.
 
 ---
 
@@ -59,7 +59,7 @@ Generate a talking avatar video from the image. The image will:
 
 **Google Veo is the best but pricier.**
 
-**Test different models — results vary.**
+**Test different models: results vary.**
 
 ### Typical testing workflow
 ```
@@ -69,7 +69,7 @@ Generate a talking avatar video from the image. The image will:
 
 ---
 
-## Why these ads work — 3 psychological triggers
+## Why these ads work: 3 psychological triggers
 
 | # | Trigger | Mechanism |
 |---|---|---|
@@ -91,7 +91,7 @@ Generate a talking avatar video from the image. The image will:
 
 ## Altura application
 
-Our research doc already did step 1 — the **"failed solutions"** section is one of its 15 parts. The talking objects write themselves:
+Our research doc already did step 1: the **"failed solutions"** section is one of its 15 parts. The talking objects write themselves:
 
 | Talking object | Its confession |
 |---|---|
@@ -100,9 +100,9 @@ Our research doc already did step 1 — the **"failed solutions"** section is on
 | **A bank loan application** | *"I'm the SBA application you started 9 months ago. I'm still pending."* |
 | **A hard-inquiry credit pull** | *"I'm the hard inquiry from the last five lenders you applied to. I dropped your score every time you tried."* |
 
-**The MCA one is the strongest.** It's the single most emotionally charged failed solution in our raw customer voice file, and the 2026 SBA rule change (SBA loans can no longer be used to pay off MCAs) means people are more trapped than ever. That's a real, current, verifiable pain — not a manufactured one.
+**The MCA one is the strongest.** It's the single most emotionally charged failed solution in our raw customer voice file, and the 2026 SBA rule change (SBA loans can no longer be used to pay off MCAs) means people are more trapped than ever. That's a real, current, verifiable pain, not a manufactured one.
 
-**Why this format fits Altura better than skeleton/crochet/singing:** those three are pattern interrupts that risk undercutting a funding brokerage's credibility. Talking objects is a pattern interrupt that is **also an education play** — and financial services buyers at Level 4-5 sophistication respond to being taught the mechanism, not to being sold. It's the closest of the four animated formats to our actual positioning.
+**Why this format fits Altura better than skeleton/crochet/singing:** those three are pattern interrupts that risk undercutting a funding brokerage's credibility. Talking objects is a pattern interrupt that is **also an education play**, and financial services buyers at Level 4-5 sophistication respond to being taught the mechanism, not to being sold. It's the closest of the four animated formats to our actual positioning.
 
 **Compliance note:** the object's confession is a claim about a competitor category. Keep every number to what our research file substantiates ($758/day, 24.99% APR are from real customer quotes), and never name a specific competitor company.
 
@@ -124,10 +124,10 @@ The lesson says Veo is best but pricey, and to test cheap-then-good. Our situati
 | Model | Status | Note |
 |---|---|---|
 | **Veo 3 Fast** | ✅ works on KIE, ~$0.30 flat | 🚫 **course-banned elsewhere** for talking segments |
-| **Seedance 2.0** | ✅ works, $0.205/sec | native audio + lipsync in one pass — this is what we used for the Altura advisor |
-| Kling | 🔴 down on KIE | — |
+| **Seedance 2.0** | ✅ works, $0.205/sec | native audio + lipsync in one pass: this is what we used for the Altura advisor |
+| Kling | 🔴 down on KIE | - |
 
-**The Veo ban needs checking against this lesson.** The G.E.M framework bans Veo 3 for talking segments (*"weird sounds, wacky animations, bad background music"*). This lesson recommends Veo for talking objects. Those may not conflict — the G.E.M ban was about human characters, and a talking object has no human face to fall into uncanny valley. But I am not going to assume it. **Ask Camilo / the Ad Reviews channel before spending on Veo here.**
+**The Veo ban needs checking against this lesson.** The G.E.M framework bans Veo 3 for talking segments (*"weird sounds, wacky animations, bad background music"*). This lesson recommends Veo for talking objects. Those may not conflict: the G.E.M ban was about human characters, and a talking object has no human face to fall into uncanny valley. But I am not going to assume it. **Ask Camilo / the Ad Reviews channel before spending on Veo here.**
 
 **Safe default:** Seedance 2.0, which already produced acceptable lipsync on our Altura advisor and needs no separate lipsync pass.
 
@@ -138,7 +138,7 @@ The lesson says Veo is best but pricey, and to test cheap-then-good. Our situati
 | Seedance 2.0 talking video | 20s | $0.205/s | $4.10 |
 | **Total** | | | **~$4.64** |
 
-Cheapest of all four animated formats — one character, one continuous take, no storyboard, no frame chaining.
+Cheapest of all four animated formats, one character, one continuous take, no storyboard, no frame chaining.
 
 🚨 **No API call without Rafiul's explicit typed approval.**
 
@@ -146,8 +146,8 @@ Cheapest of all four animated formats — one character, one continuous take, no
 
 ## ⏳ Still needed
 
-The **Object Talk GPT** instructions are private (same as Claymation GPT — OpenAI does not serve custom GPT system prompts). Two paths:
+The **Object Talk GPT** instructions are private (same as Claymation GPT: OpenAI does not serve custom GPT system prompts). Two paths:
 - **Use it directly** in the browser, paste the output here
 - Write scripts from the 3-part confession structure above, which the lesson states in full
 
-Unlike claymation, this lesson gives us enough to work without the GPT — the strategy, the structure, and a worked example are all in the lesson text.
+Unlike claymation, this lesson gives us enough to work without the GPT: the strategy, the structure, and a worked example are all in the lesson text.

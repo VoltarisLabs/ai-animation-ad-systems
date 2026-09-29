@@ -9086,7 +9086,7 @@ Location: Ontario, Canada
   [1] Yeah I will keep an eye on them! Thank you
 [0] Tenants have way too many rights in Ontario. I hear so many horror stories. Landlords should have the right to kick their ass to the street if they are one day late with rent. I also am considering renting out my home while I travel and then I read stories like this.
   [1] yeah, definitely need to be careful. I rented my place through an agent and I paid for the professional service but still get tenants like this!
-[-1] Your situation is egregious. Contact solo@solo.ca. Look at the website. Look at the stories where convictions were given. You can get help but it’s going to be a long road.
+[-1] Your situation is egregious. Contact [contact removed]. Look at the website. Look at the stories where convictions were given. You can get help but it’s going to be a long road.
   [2] Thank you for the idea! It is good to know!
 
 ------------------------------------------------------------
@@ -9653,7 +9653,7 @@ POST: Hey there. My name is Byard Duncan. I’m an investigative reporter with P
   [9] Them and the intercept and even the intercept has some fluff these days. I find their podcast is more consistently better than their articles
   [1] It’s worth encouraging people to subscribe and/or donate to pro pública, if possible. We have to preserve independent investigative journalism throughout the world and keep it out of the hands of billionaires.
 [26] Hello Byard. I love the reporting you have done here. Would you be willing to do a video interview about your findings? I'd like to create a 10 minute YouTube video discussing the article.
-  [15] Hi, Rob! Please do shoot me an email: byard.duncan@propublica.org.
+  [15] Hi, Rob! Please do shoot me an email: [contact removed].
 [16] I already knew if I'm calling any number about a business on a signpost it's a problem but this takes the cake. I love how the spokesperson always says "look, squirrel" and they go right back to business. It's about what you get caught doing. I'm definitely adding this to the list of "things I'm not doing" as I age. I wonder if there is a way to protect my assets from assholes like these, especially when one signature from a dementia based patient is all it takes for this hell to break loose.
   [1] Living will + Power of Attorney
 [60] Very interesting, I knew they were predators but had no idea they were that much of a predator
@@ -16703,7 +16703,7 @@ Anyway, I guess we’re doing some minor repairs and selling the traditional way
   [1] What did they do during the inspection 
     [1] Probably inspected it? 
 [5] Yeah, I'm not impressed. I know their business model is scammy but supposedly they are repositioning themselves and changing up to be more of a middle man/remodeler with a big push on AI to speed up and simplify their process. We were half considering selling and renting as well since we plan to move sometime in the next few years and don't love our house. I put in the app to see what they were offering since their valuations are sometimes off in your favor. The instant valuation was higher than I think we could get on the market, but I knew they'd hit us for high bogus fees to bring the net way down.  So I wanted to see how it shook out compared to the traditional route once they hit us with their "repair" deductions and fees. I did the AI assessment and then.... Crickets. The app was stuck in "finalizing offer" status for almost 2 weeks. I finally emailed them and got an immediate response that they couldn't find good comps and wouldn't be moving forward with an offer.  Which, I get. Their original assessment was too high. But just bring it down? Or send the "thanks but no thanks" out on your own. I really didn't expect anything to come of it, but I found the app and process to be very disappointing for a company that is pushing automation and ease of use.
-  [2] This just happened to me and so I came to Reddit for consolation.  After the inspection, crickets. They have replied to 0 of my emails to hello@opendoor.com, and I've been checking my spam folder ... now on day 18 I received a notice of cancellation from them.  I sent them another email now but I'm expecting no response. I think I'm also down $300 as for the HOA transfer fee.... Sigh!
+  [2] This just happened to me and so I came to Reddit for consolation.  After the inspection, crickets. They have replied to 0 of my emails to [contact removed], and I've been checking my spam folder ... now on day 18 I received a notice of cancellation from them.  I sent them another email now but I'm expecting no response. I think I'm also down $300 as for the HOA transfer fee.... Sigh!
 [3] That's frustrating but unfortunately typical of "iBuyers" like Opendoor. They use automated systems to analyze inspections and often flag things that weren't actually found by the inspector. The disconnect between what the human inspector documented and what their AI flagged is a real problem.   
 [3] A very large reduction in the middle of the process is open door strategy. Do not ask me why, but almost every AI inspection program will hallucinate foundation problems.  And ignore things with windows. It’s super freaky that they all have the same type of flaws…
 [2] Not a surprise 

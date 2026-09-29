@@ -1,4 +1,4 @@
-# Skeleton Ad Director — Install Skill & Generate Script
+# Skeleton Ad Director: Install Skill & Generate Script
 
 **Source:** Ad Creators Lab lesson
 **Saved:** 2026-08-28
@@ -50,7 +50,7 @@ Review the output for:
 - A **skeleton-style script**
 - A structure following the expected pattern (e.g. **day 1, day 2, day 3**)
 
-Read the draft carefully — does it fit the product and campaign goal?
+Read the draft carefully. Does it fit the product and campaign goal?
 
 ### 5. Request a different script style if needed (1:24)
 If the first draft isn't a good fit, ask for another version:
@@ -71,13 +71,13 @@ Each voiceover line is broken into:
 - **Product placement**
 - **On-screen text suggestions**
 
-Use it to plan shots and creative direction. Not every suggestion must be followed verbatim — it's a strong starting point.
+Use it to plan shots and creative direction. Not every suggestion must be followed verbatim: it's a strong starting point.
 
 ---
 
 ## ⚠️ Cautionary Notes
 
-- **Never treat the first generated script as final** — always review for fit and quality
+- **Never treat the first generated script as final**: always review for fit and quality
 - **Weak or incomplete source material → generic output**
 - The visual concept board is a **planning aid, not a mandatory blueprint**
 - Confirm the script aligns with **product, audience, and campaign objective** before use
@@ -106,4 +106,4 @@ Use it to plan shots and creative direction. Not every suggestion must be follow
 | B-roll | Seedance 2.0 (Kling currently down on KIE) |
 | Assembly | Local ffmpeg / Premiere |
 
-**Input we can feed it:** the Altura research doc (100+ verbatim customer quotes) or the client's objection list — both already in `Research protocole/`.
+**Input we can feed it:** the Altura research doc (100+ verbatim customer quotes) or the client's objection list, both already in `Research protocole/`.

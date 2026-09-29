@@ -1,4 +1,4 @@
-# Property Abundance — Buyer Avatars
+# Property Abundance: Buyer Avatars
 
 ## Purpose
 
@@ -20,7 +20,7 @@ This document intentionally **does not perform the deeper psychological research
 
 ---
 
-# Avatar 1 — The Overwhelmed Inheritor
+# Avatar 1: The Overwhelmed Inheritor
 
 ## Working Name
 
@@ -173,7 +173,7 @@ These are representative avatar expressions, not customer testimonials.
 
 ---
 
-# Avatar 2 — The Financially Cornered Homeowner
+# Avatar 2: The Financially Cornered Homeowner
 
 ## Working Name
 
@@ -321,7 +321,7 @@ These are representative avatar expressions, not customer testimonials.
 
 ---
 
-# Avatar 3 — The Burned-Out Landlord
+# Avatar 3: The Burned-Out Landlord
 
 ## Working Name
 
@@ -529,7 +529,7 @@ The research also identifies additional seller profiles that can be developed la
 
 ### 4. Fixer-Upper / Older Homeowner
 
-A homeowner—potentially older or retired—whose house needs significant repairs but who lacks the money, energy, or ability to complete them.
+A homeowner (potentially older or retired) whose house needs significant repairs but who lacks the money, energy, or ability to complete them.
 
 Core desire:
 
@@ -620,6 +620,6 @@ The output of that research should be layered **on top of this document**, rathe
 
 # Source
 
-**Property Abundance — Research Document: Cash Home Buying**
+**Property Abundance, Research Document: Cash Home Buying**
 
 The underlying research covers U.S. homeowners who need to sell quickly or as-is, including inherited houses, pre-foreclosure, divorce, tired landlords, and houses requiring major repairs.

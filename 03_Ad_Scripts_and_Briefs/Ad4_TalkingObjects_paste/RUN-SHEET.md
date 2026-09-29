@@ -28,9 +28,9 @@ A fail means a more specific prompt, not a bigger model.
 
 Three separate statements of the same constraint appear in every clip file:
 
-- `world.camera_side` — "The camera always lives in +Z space, in front of the phone. Never in -Z space."
-- `camera.azimuth_deg` — degrees measured **off the phone's own face**, not off the room. 0 is dead in front. The whole ad stays inside -20 to +20.
-- `facing_contract` — a full paragraph saying the face points at the lens every frame, and that if the camera moves, the phone turns with it.
+- `world.camera_side`: "The camera always lives in +Z space, in front of the phone. Never in -Z space."
+- `camera.azimuth_deg`: degrees measured **off the phone's own face**, not off the room. 0 is dead in front. The whole ad stays inside -20 to +20.
+- `facing_contract`: a full paragraph saying the face points at the lens every frame, and that if the camera moves, the phone turns with it.
 
 Clip 3 is the only one where the camera moves off-axis, and it says explicitly that the phone rotates 12 degrees to follow, so the face still points at the lens at the end.
 

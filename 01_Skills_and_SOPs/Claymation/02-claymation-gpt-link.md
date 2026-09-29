@@ -1,4 +1,4 @@
-# Claymation GPT — the ready-made custom GPT
+# Claymation GPT: the ready-made custom GPT
 
 **Saved:** 2026-08-29
 
@@ -18,8 +18,8 @@ The ChatGPT-hosted version of the claymation prompt system. Instead of following
 
 | Path | How |
 |---|---|
-| **A — Use this GPT** | Open the link in ChatGPT, describe the frame, get the image prompt |
-| **B — Build it yourself** | SOP Step 1: new project → sources → add → text input → paste the source document |
+| **A: Use this GPT** | Open the link in ChatGPT, describe the frame, get the image prompt |
+| **B: Build it yourself** | SOP Step 1: new project → sources → add → text input → paste the source document |
 
 Path A is faster. Path B is what the SOP documents, and needs the source document we still don't have.
 
@@ -27,21 +27,21 @@ Path A is faster. Path B is what the SOP documents, and needs the source documen
 
 ## ⚠️ Its instructions are not extractable
 
-Custom GPT system instructions are private by design — not served on the public page, not visible via fetch. I confirmed this: the page returns only the name.
+Custom GPT system instructions are private by design: not served on the public page, not visible via fetch. I confirmed this: the page returns only the name.
 
 **What that means for us:**
 
-- ✅ **You can use the GPT directly** in ChatGPT right now — it works, it just runs on OpenAI's side
+- ✅ **You can use the GPT directly** in ChatGPT right now: it works, it just runs on OpenAI's side
 - ❌ **We cannot turn it into a `/claymation` slash command** without the underlying instructions
-- ❌ **I should not reconstruct its style rules from guesswork** — that is the exact Rule Zero violation that got v6 rejected
+- ❌ **I should not reconstruct its style rules from guesswork**: that is the exact Rule Zero violation that got v6 rejected
 
-**To get a local `/claymation` skill**, we need the source document the SOP calls "THIS document" — the one meant to be pasted into a ChatGPT project as its source. That link lives on the Canva board.
+**To get a local `/claymation` skill**, we need the source document the SOP calls "THIS document", the one meant to be pasted into a ChatGPT project as its source. That link lives on the Canva board.
 
 ---
 
 ## Workable interim process
 
-Until the source document arrives, claymation can still be produced — just with a manual hop:
+Until the source document arrives, claymation can still be produced, just with a manual hop:
 
 ```
 1. Open Claymation GPT in ChatGPT
@@ -54,7 +54,7 @@ Until the source document arrives, claymation can still be produced — just wit
 
 Steps 1-3 happen in the browser; steps 4-5 run through our KIE fire-scripts.
 
-**Step 5 is still blocked** — Kling 3.0 returns 500 on KIE (tested 2026-08-27), and the SOP's continuous-flow mechanic depends on Kling's start/end frame feature. See `00-README-claymation-SOP.md`.
+**Step 5 is still blocked**: Kling 3.0 returns 500 on KIE (tested 2026-08-27), and the SOP's continuous-flow mechanic depends on Kling's start/end frame feature. See `00-README-claymation-SOP.md`.
 
 ---
 
@@ -68,4 +68,4 @@ When you don't know what to show for a script section:
 4. If I could only show one thing here, what would it be?
 5. What would be confusing if I showed nothing here?
 
-These are model-agnostic — they work whether the prompt is written by the GPT, by me, or by hand.
+These are model-agnostic: they work whether the prompt is written by the GPT, by me, or by hand.

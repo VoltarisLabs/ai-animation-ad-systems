@@ -10,6 +10,7 @@ The ad studio for AI-generated video and static ads: format SOPs, the copywritin
 
 | If you want to... | Go to |
 |---|---|
+| **Get a great script in one shot** | [11_Psychological_Hooks/prompts/one-shot-script.md](./11_Psychological_Hooks/prompts/one-shot-script.md) + [research-cards.md](./11_Psychological_Hooks/research-cards.md) + [claims-registry.md](./11_Psychological_Hooks/claims-registry.md) |
 | Write an ad that converts | [11_Psychological_Hooks/AD_COPY_CHECKLIST.md](./11_Psychological_Hooks/AD_COPY_CHECKLIST.md), then the [copywriting playbook](#copywriting-playbook) |
 | Produce an animated ad | [01_Skills_and_SOPs/](./01_Skills_and_SOPs) (the `00-README` in each format folder) |
 | See scripts in progress | [03_Ad_Scripts_and_Briefs/](./03_Ad_Scripts_and_Briefs) |
@@ -46,7 +47,7 @@ The ad studio for AI-generated video and static ads: format SOPs, the copywritin
 | [Talking_Objects](./01_Skills_and_SOPs/Talking_Objects) | The failed solution confesses its flaws | none | GPT-hosted |
 | [Seedance_UGC](./01_Skills_and_SOPs/Seedance_UGC) | Realistic AI UGC with Seedance 2.0 | skill file | Complete |
 
-Each folder starts with a `00-README` digest. Read that first.
+Most format folders start with a `00-README` digest; read that first. Seedance_UGC has no `00-README`: start with `Seedance_2_Skill_for_Poppy.txt` instead.
 
 ---
 
@@ -71,7 +72,7 @@ Each folder starts with a `00-README` digest. Read that first.
 1. **Never invent style rules.** Each format's skill or SOP is the authority. Substituting your own model choices or prompt wording is what produces rejected work.
 2. **No text in image or video prompts.** Captions are added in the editor, never baked into generated footage.
 3. **Reference the hero image, never the previous image.** Referencing the previous shot compounds drift.
-4. **Paste character blocks verbatim.** Paraphrasing breaks consistency — identical wording is what makes the model re-render the same character.
+4. **Paste character blocks verbatim.** Paraphrasing breaks consistency: identical wording is what makes the model re-render the same character.
 5. **Formats don't mix.** Crochet's negative prompt explicitly bans `claymation, clay texture`; the style blocks are mutually exclusive.
 6. **Verify pronunciation of brand and product names** in any generated speech, before committing to video.
 7. **Cheap model to test timing, better model for the final.** Every course lesson repeats this.
@@ -85,16 +86,16 @@ The course teaches Max Fusion / Higgs Field. We run KIE.ai instead. Substitution
 | Course tool | Ours | Cost |
 |---|---|---|
 | Seedream 4.5 / NanoBanana 2 | Nano Banana Pro | ~$0.09/image |
-| Seedance 1.5 Pro | ⚠️ unverified on KIE | — |
-| Seedance 2.0 | ✅ working — workhorse | $0.205/sec |
-| Kling 2.6 / 3.0 | 🔴 500 Internal Error (2026-08-27) | — |
+| Seedance 1.5 Pro | ⚠️ unverified on KIE | n/a |
+| Seedance 2.0 | ✅ working, workhorse | $0.205/sec |
+| Kling 2.6 / 3.0 | 🔴 500 Internal Error (2026-08-27) | n/a |
 | Veo 3 Fast | ✅ working | ~$0.30 flat |
-| ElevenLabs (via KIE) | 🔴 broken → use ElevenLabs direct API | — |
-| Suno | external subscription, not set up | — |
+| ElevenLabs (via KIE) | 🔴 broken → use ElevenLabs direct API | n/a |
+| Suno | external subscription, not set up | n/a |
 | Assembly | ffmpeg / Premiere | free |
 
 ### Open blockers
-1. **Kling down on KIE.** Claymation's continuous-flow mechanic depends on Kling 3.0's start/end frame feature. Check whether Seedance 2.0 exposes an end-frame parameter — that single answer decides whether claymation is fully producible here.
+1. **Kling down on KIE.** Claymation's continuous-flow mechanic depends on Kling 3.0's start/end frame feature. Check whether Seedance 2.0 exposes an end-frame parameter: that single answer decides whether claymation is fully producible here.
 2. **No cheap test tier.** Every SOP assumes "test on the cheap model first." Verify `seedream-4.5` and `seedance-1.5-pro` on KIE.
 3. **Two GPT-hosted formats.** Claymation and Talking Objects live in OpenAI custom GPTs whose instructions aren't extractable. Talking Objects' lesson contains enough to work without it; claymation needs the source document.
 
@@ -110,7 +111,7 @@ Three formats ship as skill files. Drop each into `.claude/skills/<name>/SKILL.m
 .claude/skills/singing/SKILL.md    <- 01_Skills_and_SOPs/Singing_Animation_Ads/song-style-ad-generator-PROMPT.txt
 ```
 
-The singing prompt ships without frontmatter — add a `name:` and `description:` block at the top before installing. Skill bodies should stay verbatim.
+The singing prompt ships without frontmatter: add a `name:` and `description:` block at the top before installing. Skill bodies should stay verbatim.
 
 ---
 

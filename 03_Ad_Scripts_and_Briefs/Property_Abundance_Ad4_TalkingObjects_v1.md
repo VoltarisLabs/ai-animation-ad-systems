@@ -1,11 +1,11 @@
-# Ad 4 – The Honest Cash Buyer, talking-objects cut (v1)
+# Ad 4 - The Honest Cash Buyer, talking-objects cut (v1)
 
 **Made:** 2026-09-23. **Brand:** Property Abundance. **Status:** script written, claims NOT filled, nothing generated.
 **Prompts:** `Property_Abundance_Ad4_TalkingObjects_PROMPTS_v1.json` and `Ad4_TalkingObjects_paste/` (five paste-ready files + run sheet).
 **Converts:** `Property_Abundance_Ad4_Honest_Cash_Buyer_Brief_v1.md` (AI talking head) into the animated
 talking-objects format.
 **Format skill:** `talking-objects-ads`. Lesson source: `01_Skills_and_SOPs/Talking_Objects/00-README-talking-objects.md`.
-**Concept:** #1 from `Cash_Home_Buying_Winning_Concepts.md` — call out the category, then show the offer math.
+**Concept:** #1 from `Cash_Home_Buying_Winning_Concepts.md`: call out the category, then show the offer math.
 **Persona:** Inherited Irene (heir living hours away).
 
 > Nothing here ships until every `[NEEDS YOUR TERM]` is replaced with a real Property Abundance fact.
@@ -27,7 +27,7 @@ Three reasons this object and not another:
 
 1. **It is the argument.** Ad 4's whole spine is "nobody shows you how that number gets made." A phone is the thing that delivered the number without paper. The object and the objection are the same object.
 2. **It needs no legible text.** A yard sign or an offer letter is a text character, and every rule in this repo says keep text out of generated footage. A phone has nothing to read. Keypad digits get explicitly banned in the prompt.
-3. **It confesses only what the viewer can verify.** It admits its own silence — which is literally true of any phone call — instead of claiming what a named competitor pays. No unprovable competitor claim, per `Cash_Home_Buying_Winning_Concepts.md` §3 "Concepts to avoid".
+3. **It confesses only what the viewer can verify.** It admits its own silence (which is literally true of any phone call) instead of claiming what a named competitor pays. No unprovable competitor claim, per `Cash_Home_Buying_Winning_Concepts.md` §3 "Concepts to avoid".
 
 ---
 
@@ -37,16 +37,16 @@ Three reasons this object and not another:
 |---|---|---|
 | 1 | "I'm [the failed solution]" | "I'm the cash offer you got on your mom's house." |
 | 2 | "I [do this cheap thing] to [serve my interest]" | "One number, no paper. Sounding sure is cheaper than showing my work." |
-| 3 | "but that [costs you this]" | "Nobody showed you how that number got made" — so she cannot tell a fair offer from a bad one. |
+| 3 | "but that [costs you this]" | "Nobody showed you how that number got made", so she cannot tell a fair offer from a bad one. |
 | Turn | Your product is the upgrade | "Property Abundance does the boring thing. They write it down." |
 
 ---
 
 ## 3. The script
 
-Four clips, one per Gemini generation. The object speaks natively in-shot — no separate voiceover track.
+Four clips, one per Gemini generation. The object speaks natively in-shot, no separate voiceover track.
 
-### Clip 1 — 0.0 to 10.0 s · identify and admit the motive
+### Clip 1: 0.0 to 10.0 s · identify and admit the motive
 
 | # | Line | Words |
 |---|---|---|
@@ -54,7 +54,7 @@ Four clips, one per Gemini generation. The object speaks natively in-shot — no
 | 2 | "I came over the phone. One number, no paper, and then quiet." | 12 |
 | 3 | "Sounding sure is cheaper than showing my work." | 8 |
 
-### Clip 2 — 10.0 to 20.0 s · the cost to her
+### Clip 2: 10.0 to 20.0 s · the cost to her
 
 | # | Line | Words |
 |---|---|---|
@@ -64,7 +64,7 @@ Four clips, one per Gemini generation. The object speaks natively in-shot — no
 
 Line 6 lands after a real 0.60 s stop. That silence is scripted, not slack.
 
-### Clip 3 — 20.0 to 30.0 s · the turn
+### Clip 3: 20.0 to 30.0 s · the turn
 
 | # | Line | Words |
 |---|---|---|
@@ -73,7 +73,7 @@ Line 6 lands after a real 0.60 s stop. That silence is scripted, not slack.
 
 The on-screen math builds under line 8. It is typed in the edit, never generated.
 
-### Clip 4 — 30.0 to 38.5 s · the close and the button
+### Clip 4: 30.0 to 38.5 s · the close and the button
 
 | # | Line | Words |
 |---|---|---|
@@ -88,7 +88,7 @@ one thing it just told you to ask for. That is the whole ad in four words.
 **Measured word count:** 113 spoken words (`wc -w`, 2026-09-23).
 **Planned runtime:** 38.5 s. **Overall pace: 176.1 wpm.**
 
-That is below ref 6's 182, the slowest of the five references. The gap is 4.60 s of deliberate silence — the
+That is below ref 6's 182, the slowest of the five references. The gap is 4.60 s of deliberate silence, the
 beat before "I'll wait" and the beat before "I don't have one". Those two silences are the format's joke.
 The talking-head cut of this same ad measured 191.7 wpm and contains no silence at all.
 
@@ -109,7 +109,7 @@ That is 18 words instead of 9, so clip 4 runs about 2.9 s longer and the ad deli
 
 ---
 
-## 4. Character bible — paste this block verbatim into every prompt
+## 4. Character bible: paste this block verbatim into every prompt
 
 Repo rule 4: paraphrasing breaks consistency. Identical wording is what makes the model re-render the same character.
 
@@ -134,15 +134,15 @@ plus one warm ceiling bulb. Dust in the air. Nobody in the room at any point.
 
 ---
 
-## 5. Production path — free route
+## 5. Production path: free route
 
 The three existing renders in this folder measure **720x1280, 24 fps, 10.005 s** (`ffprobe`, 2026-09-23),
 so the free Gemini route gives ten-second clips. Four of them cover this ad.
 
 | Step | Do | Cost |
 |---|---|---|
-| 1 | **Hero image first.** Generate the object in the Gemini app from §6. Pick the most expressive of 4–6 variations. Save as `refs/ad4_object_hero.png`. | free in the app |
-| 2 | Generate clips 1–4 from §7, one request each, **attaching the hero image every time**. Never reference the previous clip — that is what makes the character drift. | free in the app |
+| 1 | **Hero image first.** Generate the object in the Gemini app from §6. Pick the most expressive of 4-6 variations. Save as `refs/ad4_object_hero.png`. | free in the app |
+| 2 | Generate clips 1-4 from §7, one request each, **attaching the hero image every time**. Never reference the previous clip: that is what makes the character drift. | free in the app |
 | 3 | Join, add the math text, captions, end card, master. §8. | free, local |
 
 Paid alternative, only with your explicit go-ahead: Nano Banana Pro (~$0.09/image) for the hero and
@@ -164,15 +164,15 @@ model was free to reinterpret, and reinterpretation is what put the camera behin
 
 ### What the JSON adds that prose could not
 
-- **`world`** — an origin, three axes, and where the window, the wall and the camera sit in that space.
-- **`camera_convention.azimuth_deg`** — camera angle measured off *the phone's own face*, not off the room.
+- **`world`**: an origin, three axes, and where the window, the wall and the camera sit in that space.
+- **`camera_convention.azimuth_deg`**: camera angle measured off *the phone's own face*, not off the room.
   0 is dead in front. The whole ad stays between -20 and +20.
-- **`facing_contract`** — repeated in all four clips: the face points at the lens every frame, and if the
+- **`facing_contract`**: repeated in all four clips: the face points at the lens every frame, and if the
   camera moves, the phone turns with it.
-- **`failure_guards`** — each failure seen in the earlier renders, paired with the field that now prevents it.
-- **`dialogue_timeline`** — start and end second for every line, so a render can be checked against a number
+- **`failure_guards`**: each failure seen in the earlier renders, paired with the field that now prevents it.
+- **`dialogue_timeline`**: start and end second for every line, so a render can be checked against a number
   instead of a feeling.
-- **`verify_after_render`** — per clip, what to look at before generating the next one.
+- **`verify_after_render`**: per clip, what to look at before generating the next one.
 
 ## 7. Edit spec
 
@@ -182,11 +182,11 @@ model was free to reinterpret, and reinterpretation is what put the camera behin
 | Delivery | 1080x1920, 30 fps | Ad 4 brief, and the skill's fixed delivery rule. Conform with `scale=1080:1920:flags=lanczos` and `-r 30` |
 | Length | 38.5 s | Between ref 3 (32.37 s) and ref 1 (51.03 s, judged too long) |
 | Cuts | 3, one per clip join, at 10.0 / 20.0 / 30.0 | The format is one continuous character take. It does not get the 2.70 s cut rate of the talking-head cut |
-| Math build | Typed over clip 3's empty left third, one line per spoken phrase: `VALUE FIXED UP` / `− REPAIRS` / `− HOLD + RESELL`, then `= YOUR OFFER` on line 9 | Ad 4 brief shots 3–6 |
+| Math build | Typed over clip 3's empty left third, one line per spoken phrase: `VALUE FIXED UP` / `− REPAIRS` / `− HOLD + RESELL`, then `= YOUR OFFER` on line 9 | Ad 4 brief shots 3-6 |
 | Longest hold | `= YOUR OFFER` stays on screen from 30.0 s to the end card | Skill rule: the payoff sits in the static stretch |
 | Loudness | −14 LUFS integrated | Reference reel measured −14.34; refs 1, 2, 6 measured −14.2 |
 | Captions | `dynamic_captions_3click` | Ref 2 failed on thin white-on-cream text. Ours must read with sound off |
-| End card | Over clip 4's silent tail: logo + form URL | — |
+| End card | Over clip 4's silent tail: logo + form URL | - |
 
 **Known tooling constraint, measured 2026-09-23:** `ffmpeg` on this machine is built without `libfreetype`
 and without `libass`, so `drawtext` and `subtitles` do not exist. The last session rendered captions as
@@ -202,16 +202,16 @@ the lowball doubt it was trying to calm.
 
 | Slot | Needed |
 |---|---|
-| Lines 7–9 | Your real offer formula. If it is not value − repairs − carry/resell, rewrite those lines to match what you actually do. |
+| Lines 7-9 | Your real offer formula. If it is not value − repairs − carry/resell, rewrite those lines to match what you actually do. |
 | Optional swap | You will genuinely tell a seller when listing beats your offer. If not, leave it out. |
 | End card | A form URL that loads. `propertyabundanceusa.com` returned HTTP 403 on 2026-09-22. |
-| All | Meta Housing Special Ad Category status — not yet checked. |
+| All | Meta Housing Special Ad Category status, not yet checked. |
 | Format | The confession is a claim about a category. Lines 2 and 4 are true of any phone call and of any yard sign, which is why they are safe. Do not add a line about what other buyers pay. |
 
 ## 9. Deliberately not in this ad
 
 - No named competitor. No claim about what another buyer pays.
-- No dollar figures, no days-to-close, no "offer in 24 hours" — no number that is not Property Abundance's real measured fact.
+- No dollar figures, no days-to-close, no "offer in 24 hours": no number that is not Property Abundance's real measured fact.
 - No countdown, no cap, no "now or never". The research says hype reads as a scam signal.
 - No actor or character presented as a real past customer. 16 CFR 465.2 and 255.1.
 - No cash fanning, no money counting.

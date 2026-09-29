@@ -2,10 +2,10 @@
 
 **Who:** Direct-response copywriter (reports about $700M in sales from his own copy), creator of the RMBC method, runs Copy Accelerator / CA Pro.
 **Source:** his YouTube channel, youtube.com/@StefanGeorgi1 (182 videos). This file is built from full transcripts, scanned 2026-09-26.
-**Coverage so far:** 87 of 182 videos read in full. Updated as more are read; see [../transcripts/youtube-channel-scan-log.md](../transcripts/youtube-channel-scan-log.md).
+**Coverage so far:** 86 of 182 long-form videos (plus 1 short) read in full. Updated as more are read; see [../transcripts/youtube-channel-scan-log.md](../transcripts/youtube-channel-scan-log.md).
 **Core idea:** Pair curiosity with a concrete promise, make every pain and benefit specific enough to see, and write to the awareness level the audience is actually at.
 
-Video IDs below are `youtube.com/watch?v=<id>`.
+Video IDs below are `youtube.com/watch?v=<id>`. Numbers he quotes (test results, sales totals, dollar lifts) are his own claims, not independent evidence.
 
 ## 1. Frameworks
 
@@ -91,7 +91,7 @@ Ask an AI for a raw first-person entry, then have it switched to "you." Mine it 
 6. **Write to the real awareness level.** His own failed funnels (a tallow skincare product and an NAD+ offer) wrote to people who believed the category when they did not yet (`azMDRV59ZuM`).
 7. **Check the copy beat by beat.** Strip it to its bare claims in order and make sure none contradicts the one before ("zigzag copy") (`oSqDaS1k-qc`).
 8. **In commodity categories, trust, price clarity and convenience beat manufactured emotion.** Where emotion fits, carry it through a specific story, not adjectives (`oSqDaS1k-qc`).
-9. **Test the unglamorous copy too.** His checkout button test: "Checkout" beat "Submit," "Pay Now" and "Complete Purchase," the most salesy wording did worst, and the change added a reported $4.38M a year (`o-CR8lEEawU`). Native, familiar wording beats pushy wording.
+9. **Test the unglamorous copy too.** His checkout button test: "Checkout" beat "Submit," "Pay Now" and "Complete Purchase," the most salesy wording did worst, and the change added a reported $4.38M a year (his claim) (`o-CR8lEEawU`). Native, familiar wording beats pushy wording.
 10. **Model the structure of what is scaling, not its words.** Steal skeletons and psychological beats, including from unrelated niches ("translocate"), then fill them with your own truth (`oSqDaS1k-qc`, `h2NkUelrD00`).
 11. **Generate in volume, then curate.** AI hooks are a volume and judgment job. Start a fresh chat when the model gets stuck in a style rut, rather than correcting it in the same thread (`9SpnpoqoAMo`).
 12. **Be a "copy thinker."** The writer's job is now the idea, the structure and the judgment, plus fact-checking anything the AI invents (`Xz9rz7joqRU`, `MH_fU3JOP3M`).

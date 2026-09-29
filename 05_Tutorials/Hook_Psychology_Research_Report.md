@@ -9,13 +9,13 @@ Evidence labels: **STRONG** (replicated / meta-analysis) · **MIXED** (condition
 
 ---
 
-# Part A — Call notes: Ad Psychology with Howie, Part 3
+# Part A. Call notes: Ad Psychology with Howie, Part 3
 
 Source: Ad Creators Lab (Skool) → Classroom → Call Recordings → "2 September 2026" (54:21).
 Link: https://www.skool.com/adcreatorslab/classroom/6e129e06?md=52c50acc858a4097a7c3017b9dbb43a7
 Speaker: Hao Liang ("Howie"), creative strategist. Part 1 = schemas, Part 2 = identities (not pulled yet).
 Transcript: Appendix at the end of this file (Mux auto-captions, 7,416 words; some words mis-heard, e.g. "Zygrin decay" = Zeigarnik effect, "Bander and Crayon" = Bandler and Grinder).
-Slides: checked from 326 frames (1 every 10 s) across the full 54:21, plus user screenshots at 23:52 and 35:20. Deck "Ad Psychology L3 2/09/2026" in Canva, 21 slides at the start, 23 by 35:20 (slides 22–23 added live).
+Slides: checked from 326 frames (1 every 10 s) across the full 54:21, plus user screenshots at 23:52 and 35:20. Deck "Ad Psychology L3 2/09/2026" in Canva, 21 slides at the start, 23 by 35:20 (slides 22-23 added live).
 
 ### 0. The whole video, in order
 
@@ -42,17 +42,17 @@ Slides: checked from 326 frames (1 every 10 s) across the full 54:21, plus user 
 | 13:00 | Narrative transportation (Green & Brock) | Cognitive attention, emotional engagement, mental imagery |
 | 14:40 | "Cognitive load reduces scrutiny" | Open loops use up working memory, so people use shortcuts |
 | 16:00 | "Self-referencing: If an idea came internally from a person, they automatically perceive it as factual" | Why vague language persuades |
-| 16:50 – 20:30 | Loop diagram | Staggered order allowed, "don't open one and close it right away", soft CTA, ethics, needs 2 min+ |
-| 20:40 – 24:00 | Q&A, then Canva edit | Adds *PAYLOAD* between every step, adds CTA (slide 22) |
-| 24:00 – 29:50 | Q&A | 30 s ads too short; vague vs specific; 3–4 loops max; reverse close order |
-| 30:10 – 35:20 | Builds deodorant example (slide 23) | See section 5 |
-| 35:20 – 46:30 | Q&A | Close within ~1 min; copy winners' whole structure; creative strategist vs copywriter; copy is king |
-| 46:40 – 53:10 | Google image: Working Memory Model | Central executive, phonological loop, visuospatial sketchpad, episodic buffer |
-| 53:10 – 54:20 | Wrap-up | Next week: more examples |
+| 16:50 - 20:30 | Loop diagram | Staggered order allowed, "don't open one and close it right away", soft CTA, ethics, needs 2 min+ |
+| 20:40 - 24:00 | Q&A, then Canva edit | Adds *PAYLOAD* between every step, adds CTA (slide 22) |
+| 24:00 - 29:50 | Q&A | 30 s ads too short; vague vs specific; 3-4 loops max; reverse close order |
+| 30:10 - 35:20 | Builds deodorant example (slide 23) | See section 5 |
+| 35:20 - 46:30 | Q&A | Close within ~1 min; copy winners' whole structure; creative strategist vs copywriter; copy is king |
+| 46:40 - 53:10 | Google image: Working Memory Model | Central executive, phonological loop, visuospatial sketchpad, episodic buffer |
+| 53:10 - 54:20 | Wrap-up | Next week: more examples |
 
 ---
 
-### 1. Meta Model vs Milton Model (00:01:49 – 00:04:06)
+### 1. Meta Model vs Milton Model (00:01:49 - 00:04:06)
 
 - **Meta Model** (older therapy): precise, confronting questions that force specifics.
   "I am unhappy." → "Unhappy about what, specifically?"
@@ -60,10 +60,10 @@ Slides: checked from 326 frames (1 every 10 s) across the full 54:21, plus user 
   Makes the person think consciously → resistance.
 - **Milton Model** (Milton H. Erickson, codified by Bandler & Grinder): **purposely vague**. Strip the specifics so the listener fills them in from their own life.
   "You already know what's been holding you back…"
-- **Transderivational search**: the brain searches its own memories to find a match for vague input. An idea the viewer produced themselves feels far more true than one you tell them (00:04:08 – 00:04:45).
+- **Transderivational search**: the brain searches its own memories to find a match for vague input. An idea the viewer produced themselves feels far more true than one you tell them (00:04:08 - 00:04:45).
 - **Self-referencing** (00:15:54): if an idea came from inside the person, they treat it as fact.
 
-### 2. Three Milton patterns for copy (00:04:45 – 00:06:12)
+### 2. Three Milton patterns for copy (00:04:45 - 00:06:12)
 
 | Pattern | What it does | Example |
 |---|---|---|
@@ -71,10 +71,10 @@ Slides: checked from 326 frames (1 every 10 s) across the full 54:21, plus user 
 | Cause-effect | Links a true thing to a suggestion | "As you watch this, you'll start to notice…" |
 | Presupposition | Smuggles the premise past scrutiny | "Before you decide *which* size to order…" (not *whether*) |
 
-### 3. Nested loops structure (00:07:08 – 00:12:10)
+### 3. Nested loops structure (00:07:08 - 00:12:10)
 
 ```
-Open Loop A   (the hook — the reason they stopped)
+Open Loop A   (the hook: the reason they stopped)
   Open Loop B
     Open Loop C
       *PAYLOAD*  (unique mechanism, authority, emotional story, identity gap)
@@ -85,7 +85,7 @@ Close A       (closed LAST)
 ```
 
 - Loops close in **reverse order**. The hook loop (A) closes last, because by then the mechanism is explained and A is easy to pay off (00:29:14).
-- **Updated slide (edited live in Canva, 00:23:02 – 00:24:00, slide 22).** Payload is not only in the middle. He added *PAYLOAD* between every step:
+- **Updated slide (edited live in Canva, 00:23:02 - 00:24:00, slide 22).** Payload is not only in the middle. He added *PAYLOAD* between every step:
 
 ```text
 Open Loop A
@@ -105,7 +105,7 @@ CTA
   Meaning: never go from one loop line straight to the next. Each gap carries content: story, proof, emotion, mechanism.
 - Variations allowed: open A, open B, close A, open C, open D, close B… Rule: never open one and close it right away. Always close every loop (00:16:44).
 
-#### Loop order rule (user rule, 2026-09-24; matches the call at 00:16:44–00:17:08)
+#### Loop order rule (user rule, 2026-09-24; matches the call at 00:16:44-00:17:08)
 
 **Allowed: two patterns**
 
@@ -127,10 +127,10 @@ Open A → Close A → Open B → Close B → Open C → Close C
 - Never open a loop and close it on the next beat.
 
 **Staggered pattern:** save the biggest payoff (the hook's promise) for the **last** close, whatever letter it has.
-- Sweet spot **3–4 loops open, max 5** (00:28:55). Close a minor loop within about 1 minute; the hook loop can stay open to the end (00:36:10).
-- Loops ride inside a **story** — "stories within stories". The payload lands as part of the story, not as a claim (00:11:46).
+- Sweet spot **3-4 loops open, max 5** (00:28:55). Close a minor loop within about 1 minute; the hook loop can stay open to the end (00:36:10).
+- Loops ride inside a **story**: "stories within stories". The payload lands as part of the story, not as a claim (00:11:46).
 
-### 4. Why he says it works (00:08:24 – 00:16:17)
+### 4. Why he says it works (00:08:24 - 00:16:17)
 
 - **Zeigarnik effect**: unfinished questions sit in working memory.
 - **Working memory limit**: he cites ~7 items (Miller). Open loops fill it → less room for analysis → payload gets less scrutiny.
@@ -140,7 +140,7 @@ Open A → Close A → Open B → Close B → Open C → Close C
 - **Mental imagery**: use very visual language.
 - **Cognitive load reduces scrutiny**: viewer falls back on shortcuts (availability heuristic, fit into existing schemas; easy-to-understand = feels true).
 
-### 5. Worked example: "edible deodorant" (spoken 00:21:26; slide 23 built live 00:30:10 – 00:35:20)
+### 5. Worked example: "edible deodorant" (spoken 00:21:26; slide 23 built live 00:30:10 - 00:35:20)
 
 The finished slide, word for word:
 
@@ -168,7 +168,7 @@ What each line does:
 | Close C: "That's why… because bo is coming from the gut" | Answers C with the mechanism | "That's why" + real "because" |
 | Close B: "That's why the brands charge you 10 bucks" | Answers B: the villain's motive (profit) | "That's why" |
 | Close A: "This is [product]" | Answers A: the product IS the edible deodorant | Product reveal |
-| CTA | One short action | — |
+| CTA | One short action | - |
 
 Two things to copy:
 1. **Every close starts with "That's why…".** It ties the payload back to the claim the viewer is still holding. It is the cause-effect pattern from section 2.
@@ -176,14 +176,14 @@ Two things to copy:
 
 ### 6. Other rules from the Q&A
 
-- **Length**: full nested loops need ~2–2.5 min+. A 30-second ad has no time for A/B/C (00:25:08). Short ads: the hook open loop is still the key piece (00:19:52).
+- **Length**: full nested loops need ~2-2.5 min+. A 30-second ad has no time for A/B/C (00:25:08). Short ads: the hook open loop is still the key piece (00:19:52).
 - **Vague vs specific** (00:26:36): be **specific** in the hook and first lines, in the avatar's own words, to call out the right person. Go **vague** where you want each viewer to feel the emotion in their own way.
-- **Soft CTA** can work: end on "this has changed my life, I'm going to give it to all my friends" — the platform link does the clicking (00:17:30).
+- **Soft CTA** can work: end on "this has changed my life, I'm going to give it to all my friends": the platform link does the clicking (00:17:30).
 - **Modeling winners** (00:38:04): copy a mega-winner's hook structure; copying the lead only and changing the body failed for him; copying the whole structure worked.
 - **Visuals explain the mechanism** (00:43:28): same VSL went from $3K/day to $17K/day after new animations that explained the mechanism better. (His claim, not verified.)
 - Close with identity: identity discrepancy (gap between who they are and who they want to be) → product closes the gap (00:51:25).
 
-### 6a. "Open a loop in the first scene" (Q&A, 00:50:18 – 00:51:43)
+### 6a. "Open a loop in the first scene" (Q&A, 00:50:18 - 00:51:43)
 
 A viewer asked: "You would put a scene of something in the beginning of the ad that is going to… make an open loop… then have a lot of other things and then basically the person is constantly seeking for an answer that happened in the first scene."
 Howie: "Yeah… that act of trying to seek for, like trying to remember, to even remember what the question was… the mind is occupied doing that. So everything else that comes between [goes] straight to the emotional subconscious."
@@ -195,7 +195,7 @@ Scene 1: strange / unanswered moment (Open A)   ← the viewer hunts for this an
 Last scene: answer to scene 1 = product closes the identity gap (Close A) → CTA
 ```
 
-### 6b. Working Memory Model (Google image shown 00:46:40 and 00:51:55 – 00:53:09; source on screen: "The Working Memory Model (Baddeley and Hitch, 1974) – A Simple Summary | The IB Psychology Blog")
+### 6b. Working Memory Model (Google image shown 00:46:40 and 00:51:55 - 00:53:09; source on screen: "The Working Memory Model (Baddeley and Hitch, 1974) - A Simple Summary | The IB Psychology Blog")
 
 ```text
                  Central Executive
@@ -220,22 +220,22 @@ Corrections (see Part B 4f):
 
 ### 7. Accuracy notes (mine, not from the video)
 
-- "~7 items" is Miller (1956). Newer research (Cowan, 2001) puts working memory nearer **~4 chunks**. The 3–4 loop sweet spot fits that better.
+- "~7 items" is Miller (1956). Newer research (Cowan, 2001) puts working memory nearer **~4 chunks**. The 3-4 loop sweet spot fits that better.
 - The Zeigarnik effect has mixed replication results. Treat it as a craft rule, not proven science.
 - "$3.7M VSL" and "$3K → $17K/day" are the speaker's own claims. He said he did not see the $3.7M ad himself (00:21:10).
 - He says viewers "don't audit the payload". That is no licence for false claims. Every fact in the payload must still be true (FTC, and the project truth rule).
 
 ---
 
-### 8. How to use this for UGC hooks (15–60 s)
+### 8. How to use this for UGC hooks (15-60 s)
 
 Checklist for each hook:
-1. **Open loop in the first line** — the viewer must want the answer.
-2. **One Milton pattern** — unspecified noun, cause-effect, or presupposition.
+1. **Open loop in the first line**: the viewer must want the answer.
+2. **One Milton pattern**: unspecified noun, cause-effect, or presupposition.
 3. **Specific avatar call-out** in their words, then vague where emotion should land.
 4. **Juxtaposition** if the product allows it (two things that should not go together).
 5. **Close the hook loop at the end**, right before the CTA.
-6. Under 30 s: 1 loop (A only). 30–60 s: A + B. 2 min+: A + B + C nested.
+6. Under 30 s: 1 loop (A only). 30-60 s: A + B. 2 min+: A + B + C nested.
 
 Hook templates:
 - Unspecified: "Something about your house has been keeping you stuck."
@@ -247,14 +247,14 @@ Hook templates:
 
 ---
 
-# Part B — Research check
+# Part B: Research check
 
 
 ## Executive summary
 
 1. **The Milton Model and "transderivational search" have no direct scientific support** as named techniques. But several of the effects they describe *do* exist under other names: presupposition, self-generated conclusions, the Barnum effect, and fluency. Use the patterns because of that evidence, not because of NLP.
 2. **Open loops work, but for a different reason than the call said.** The Zeigarnik "unfinished things are remembered better" claim failed a 2025 meta-analysis. What holds up is the **pull to finish** (Ovsiankina effect) and **curiosity**. Curiosity activates reward areas and improves memory even for other information shown during the curious state (Gruber 2014). That second finding is the real case for putting your payload inside an open loop.
-3. **Working memory holds ~4 chunks, not 7.** Keep at most 3–4 loops open.
+3. **Working memory holds ~4 chunks, not 7.** Keep at most 3-4 loops open.
 4. **"Overload them so they don't scrutinise" is half true.** Distraction and story absorption lower counterarguing, which helps **weak** claims and **hurts strong** ones. If your claim is strong and true, let viewers think about it.
 5. **Story is the best-supported lever.** A meta-analysis of 132 effect sizes found narrative transportation raises emotion (ρ=.57) and attitudes (ρ=.44) and lowers critical thoughts (ρ=−.20).
 6. **For short-form, the key message goes in the first 3 seconds** (TikTok: 63%+ of highest-CTR videos). Curiosity must be **moderate**: vague headlines gained from more detail, and already-specific headlines lost from it (Scientific Reports 2025).
@@ -267,7 +267,7 @@ Hook templates:
 - A systematic review of NLP health interventions included 10 of 1,459 studies. 4 of 5 RCTs showed no significant difference, with high or uncertain risk of bias. Conclusion: "little evidence that NLP interventions improve health-related outcomes" (Sturt et al., 2012, *British Journal of General Practice*) [1].
 - A review of 63 studies from ISI-listed journals concluded the evidence does not support NLP's claim to an empirical base (Witkowski, 2010, *Polish Psychological Bulletin*) [2]. The split of supportive vs non-supportive studies is unverified; the abstract was blocked.
 - "Transderivational search" is an NLP term (Bandler & Grinder, 1976). Its sources are NLP practitioners only; no peer-reviewed test was found [3].
-- **What this means:** do not say "this hacks the subconscious." The individual patterns still earn their place through sections 2–4.
+- **What this means:** do not say "this hacks the subconscious." The individual patterns still earn their place through sections 2-4.
 
 ## 2. The three language patterns, checked
 
@@ -317,14 +317,14 @@ Hook templates:
 
 ### 4b. Curiosity / information gap: **STRONG (lab data)**
 - Curiosity is a felt deprivation from a perceived gap in knowledge (Loewenstein, 1994, *Psychological Bulletin*) [18].
-- Curiosity activated the caudate (a reward area). People paid tokens or waited to get answers, and remembered surprising answers better 1–2 weeks later (Kang et al., 2009, *Psychological Science*) [19].
+- Curiosity activated the caudate (a reward area). People paid tokens or waited to get answers, and remembered surprising answers better 1-2 weeks later (Kang et al., 2009, *Psychological Science*) [19].
 - During high-curiosity states, memory improved **also for unrelated material shown in the gap** (faces), immediately and a day later (Gruber, Gelman & Ranganath, 2014, *Neuron*) [20].
 - **Use:** this is the evidence behind "payload inside the loop". Open the gap, deliver the mechanism *while* it is open, and close it after. Caveat: the incidental material was faces, not ad claims.
 
 ### 4c. Working memory limit: **STRONG**
-- Miller's 7±2 was "a rough estimate and a rhetorical device"; the real limit is 3–5 chunks (~4) (Cowan, 2001, *Behavioral and Brain Sciences*) [21].
+- Miller's 7±2 was "a rough estimate and a rhetorical device"; the real limit is 3-5 chunks (~4) (Cowan, 2001, *Behavioral and Brain Sciences*) [21].
 - The model: central executive, phonological loop, visuospatial sketchpad (Baddeley & Hitch, 1974), plus the episodic buffer (Baddeley, 2000) [22]. Speech memory span ≈ what you can say in ~2 seconds (Baddeley, Thomson & Buchanan, 1975) [23].
-- **Use:** max 3–4 loops open at once. Keep spoken lines short: one idea per line.
+- **Use:** max 3-4 loops open at once. Keep spoken lines short: one idea per line.
 
 ### 4d. Mystery / delayed reveal: **MIXED, few studies**
 - "Mystery ads" (brand revealed at the end) built stronger category → brand memory links than brand-first versions, most for unfamiliar brands (Fazio, Herr & Powell, 1992) [24]. Abstract only.
@@ -356,14 +356,14 @@ Hook templates:
   - Hughes (2025) disputes whether the store exists at all.
 - **Central executive:** controls attention and has limited capacity. "No storage of its own" is textbook consensus; the primary text was not verified.
 - **Separate channels:** a visual task and a verbal task run together interfere far less than two verbal tasks (Brooks, 1968) [64].
-- **Modality effect:** narration plus pictures beats on-screen text plus pictures. Meta-analysis of 43 effects: d = 0.72 (95% CI 0.52–0.92). It is strongest when the video sets the pace, as ads do (Mousavi, Low & Sweller, 1995; Ginns, 2005) [65][66].
-- **Redundancy effect:** full on-screen text that repeats the narration **lowered** retention and transfer (Mayer, Heiser & Lonn, 2001) [67]. 2–3 **keywords** on screen improved retention without adding load (Mayer & Johnson, 2008) [68]. Signaling (highlighting key parts) helped, per a meta-analysis (Schneider et al., 2018) [69].
+- **Modality effect:** narration plus pictures beats on-screen text plus pictures. Meta-analysis of 43 effects: d = 0.72 (95% CI 0.52-0.92). It is strongest when the video sets the pace, as ads do (Mousavi, Low & Sweller, 1995; Ginns, 2005) [65][66].
+- **Redundancy effect:** full on-screen text that repeats the narration **lowered** retention and transfer (Mayer, Heiser & Lonn, 2001) [67]. 2-3 **keywords** on screen improved retention without adding load (Mayer & Johnson, 2008) [68]. Signaling (highlighting key parts) helped, per a meta-analysis (Schneider et al., 2018) [69].
 - **Sound on vs off:**
   - "85% of Facebook video is watched without sound" (Digiday, May 2016; publisher data, not Meta) [70].
   - Meta, Nov 2024: "Over 75% of Reels views on Instagram are sound on" (no method given) [71].
 - **Use for UGC:**
   1. The voice carries the words and the picture carries the proof. Two channels, so no overload.
-  2. Captions: 2–3 keywords per line, not full-sentence subtitles that repeat every word.
+  2. Captions: 2-3 keywords per line, not full-sentence subtitles that repeat every word.
   3. One spoken idea per short phrase (~2 s of speech).
   4. One focal action per shot, because the central executive can't track two new things at once.
   5. Build for sound-on, with keyword captions as the silent-viewer fallback.
@@ -395,15 +395,15 @@ Hook templates:
 ### 5c. Repetition and fluency: **STRONG**
 - Repeated statements gain believability, true or false (Hasher et al., 1977) [35]. Meta-analysis of 51 studies (Dechêne et al., 2010) [36]. Prior knowledge does not fully protect against it (Fazio et al., 2015) [37].
 - Rhyming versions of the same claim were judged more accurate (McGlone & Tofighbakhsh, 2000) [38]. Single classic study.
-- **Use:** repeat the core promise 2–3 times in different words. A rhythmic tagline helps. This also means repeating a *false* claim is dangerous, so only repeat what is true.
+- **Use:** repeat the core promise 2-3 times in different words. A rhythmic tagline helps. This also means repeating a *false* claim is dangerous, so only repeat what is true.
 
 ## 6. Short-form platform data
 
 - **TikTok (OFFICIAL):** "over 63% of all videos with the highest click-through rate (CTR) highlight their key message or product within the first 3 seconds." Same PDF: 9:16 gives ~25% higher 6-second view-through; 33% of highest-VTR ads break the fourth wall; 40% use text overlays; tracks above 120 BPM often lift VTR [39].
-- **TikTok (OFFICIAL, internal 2024–25):** creator ads got 70% higher CTR and 159% higher engagement than non-creator ads at the same CPM [40].
+- **TikTok (OFFICIAL, internal 2024-25):** creator ads got 70% higher CTR and 159% higher engagement than non-creator ads at the same CPM [40].
 - **Meta (OFFICIAL):** people recall mobile feed content "at a statistically significant rate after only 0.25 seconds" (Fors Marsh Group via Meta, 2017) [41]. Reels default to sound-on. Partnership (creator) ads averaged 5% lower cost per result and 11% higher conversion rate [42].
 - **Google ABCD (OFFICIAL):** Attention (hook), Branding (early and often), Connection, Direction. "On average, the ABCDs deliver a 30% lift in short-term sales likelihood" [43].
-- **Motion 2026 benchmarks (3P):** $1.29B Meta spend, 578,750 creatives. Top hook tactics by hit rate: Newness, Sale Announcement, Price Anchor, Urgency, Announcement … Confession, Curiosity … Bold Claim … Contrarian, Relatability, Direct Address … Authority. Top tactics hit 6–11% vs a 4–8% average; no per-tactic numbers are published [44].
+- **Motion 2026 benchmarks (3P):** $1.29B Meta spend, 578,750 creatives. Top hook tactics by hit rate: Newness, Sale Announcement, Price Anchor, Urgency, Announcement … Confession, Curiosity … Bold Claim … Contrarian, Relatability, Direct Address … Authority. Top tactics hit 6-11% vs a 4-8% average; no per-tactic numbers are published [44].
 - **Negative words (peer-reviewed):** "each additional negative word increased the click-through rate by 2.3%" (Robertson et al., 2023, *Nature Human Behaviour*, 22,743 headline tests) [45]. A robustness critique exists and was not reviewed here.
 - **Question headlines:** slightly *lowered* anticipated engagement and raised negative expectations (Center for Media Engagement, 2016, n = 2,057) [46].
 
@@ -411,22 +411,22 @@ Hook templates:
 
 - **FTC fake reviews rule (effective 21 Oct 2024):** bans testimonials that "misrepresent that they are by someone who does not exist, such as AI-generated fake reviews", or by someone with no real experience of the product [47]. An AI character saying "they bought my house in 7 days" as a *customer* is in the banned zone. Use AI characters as a clearly fictional spokesperson or narrator, never as a real seller.
 - **FTC Endorsement Guides (2023):** "virtual influencers" are covered; disclosures must be clear and conspicuous [48].
-- **Meta Special Ad Category: Housing:** age fixed at 18–65+, no gender choice, no ZIP targeting (minimum 15-mile radius), no lookalikes [49]. Whether "we buy houses" ads are formally classed as housing ads was not confirmed on Meta's help page (JS-blocked). Treat them as housing to be safe.
+- **Meta Special Ad Category: Housing:** age fixed at 18-65+, no gender choice, no ZIP targeting (minimum 15-mile radius), no lookalikes [49]. Whether "we buy houses" ads are formally classed as housing ads was not confirmed on Meta's help page (JS-blocked). Treat them as housing to be safe.
 
 ---
 
 ## Key takeaways: the hook playbook
 
-**Line 1 (0–3 s), the hook.** Key message or the gap, stated clearly. Use one of:
+**Line 1 (0-3 s), the hook.** Key message or the gap, stated clearly. Use one of:
 - **Juxtaposition:** two things that shouldn't go together. "I sold the ugliest house on my street without fixing a thing."
 - **Negative / warning:** backed by the 2.3%-per-negative-word finding. "Don't list your house until you hear this."
 - **Contrarian truth:** "Repairs before selling usually lose you money." Only if it is true for your market.
 - **Specific avatar call-out:** "If you inherited a house you don't want to deal with…"
 - **Avoid:** the question-only hook (slightly negative data), and pure riddles with no information (the 2025 data favours moderate information).
 
-**Lines 2–4, loops.**
+**Lines 2-4, loops.**
 - Under 30 s: one loop, closed right before the CTA.
-- 30–60 s: two loops.
+- 30-60 s: two loops.
 - 2 min+: A-B-C nesting, 4 open at most.
 - **Loop order (user rule):** there are two allowed patterns.
   - Nested: open A → B → C → close C → B → A.
@@ -441,7 +441,7 @@ Hook templates:
 
 **Story.** A named character, a place, one vivid visual detail. Transportation is the best-evidenced lever.
 
-**Repeat** the one true core promise 2–3 times in different words.
+**Repeat** the one true core promise 2-3 times in different words.
 
 **Close A, then a soft or direct CTA.** The platform link does the rest.
 
@@ -519,7 +519,7 @@ Hook templates:
 66. Ginns 2005 meta-analysis: https://eric.ed.gov/?id=EJ723937
 67. Mayer, Heiser & Lonn 2001: https://eric.ed.gov/?id=EJ638735
 68. Mayer & Johnson 2008: https://eric.ed.gov/?id=EJ796353
-69. Schneider et al. 2018, signaling meta-analysis (Educational Research Review 23:1–24): no URL recorded
+69. Schneider et al. 2018, signaling meta-analysis (Educational Research Review 23:1-24): no URL recorded
 70. Digiday 2016, silent Facebook video: https://digiday.com/media/silent-world-facebook-video/
 71. Meta developers blog 2024, Reels sound-on: https://developers.facebook.com/blog/post/2024/11/07/unlock-the-power-of-reel-ads/
 72. Leavitt & Christenfeld 2011: https://pubmed.ncbi.nlm.nih.gov/21841150/
@@ -537,14 +537,14 @@ Three parallel research agents used WebSearch and WebFetch (Firecrawl and Exa ar
 Some sources were read in full: Langer Table 1, Gilbert 1993, van Laer 2014, the TikTok PDF, the Meta and FTC pages, and Scientific Reports 2025. Others are abstract or search-snippet only, and are flagged above where it matters.
 
 **Gaps:**
-- No study tests "nested loops" as a whole structure; it is an inference from 4a–4c.
+- No study tests "nested loops" as a whole structure; it is an inference from 4a-4c.
 - Not verified: Zeigarnik pooled effect sizes, Witkowski percentages, Folkes 1985 results, Motion per-tactic numbers, and whether Meta formally classes "we buy houses" ads as housing ads.
 - Robertson 2023 has an unreviewed robustness critique.
 - Upworthy-archive studies carry a known randomization flaw in 22% of tests.
 
 ---
 
-# Appendix — Full call transcript (Mux auto-captions, 2 Sep 2026)
+# Appendix: Full call transcript (Mux auto-captions, 2 Sep 2026)
 
 ```text
 [00:00:00] Let's start this recording now, let me just put it all right.

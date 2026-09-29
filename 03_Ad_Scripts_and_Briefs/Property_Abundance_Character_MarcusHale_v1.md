@@ -1,4 +1,4 @@
-# Property Abundance — AI Character: "Marcus Hale"
+# Property Abundance, AI Character: "Marcus Hale"
 
 Built 2026-09-23. Framework from https://www.youtube.com/watch?v=pRtkjKD38SM
 (100x Engineers, "How To Create AI UGC Ads", 9:55), Step 1 only, adapted for
@@ -8,7 +8,7 @@ Built 2026-09-23. Framework from https://www.youtube.com/watch?v=pRtkjKD38SM
 
 ## Who he is and why
 
-**Role: the buyer-side host.** He is the face of Property Abundance — the person
+**Role: the buyer-side host.** He is the face of Property Abundance: the person
 who explains the offer. He is **not** a satisfied seller.
 
 > **Do not build a fake happy seller.** A generated person presented as a real
@@ -18,8 +18,8 @@ who explains the offer. He is **not** a satisfied seller.
 > If he ever appears to be a customer, the ad is non-compliant.
 
 **Brief he has to hit:** "A calm, straight-talking neighbor. Not a hype
-marketer." — `04_Audience_Research/Research_Document_Cash_Home_Buying.md`,
-Brand Information, "How we want to be seen".
+marketer." (`04_Audience_Research/Research_Document_Cash_Home_Buying.md`,
+Brand Information, "How we want to be seen").
 
 **Why this look:**
 
@@ -51,7 +51,7 @@ unless you turn billing on.
 
 ---
 
-## Aspect ratio — one deliberate change from the video
+## Aspect ratio: one deliberate change from the video
 
 The video hardcodes `9:16` because it is making TikTok/Reels video. You asked
 for **image ads**. Meta's image placements want:
@@ -66,7 +66,7 @@ Generate the character at **4:5** first. That is the master.
 
 ---
 
-## STEP 1 — Create the character
+## STEP 1: Create the character
 
 Paste into a **new** Gemini chat. Nothing attached. Generate 3-4 times and
 keep the best.
@@ -106,7 +106,7 @@ over 55.
 
 ---
 
-## STEP 1b — Build the reference set (this is what makes him reusable)
+## STEP 1b: Build the reference set (this is what makes him reusable)
 
 Nano Banana holds a face far better with several angles to work from.
 From the winning image, run these three as **separate follow-up prompts in
@@ -128,12 +128,12 @@ Save all four as:
 07_Assets/Characters/MarcusHale/ref_04_fullbody.png
 ```
 
-> `07_Assets/` is gitignored, so these stay local. That is fine — they are
+> `07_Assets/` is gitignored, so these stay local. That is fine: they are
 > big binaries. Keep this .md in the repo as the source of truth.
 
 ---
 
-## STEP 2 — Lock the face (Character Anchor)
+## STEP 2: Lock the face (Character Anchor)
 
 Do this **once**. The output is the asset you reuse forever.
 
@@ -151,12 +151,12 @@ just slightly weaker. Say so if a render drifts.
 
 From then on, every new ad image = new chat + attach the 4 refs + paste the
 Anchor + paste the scene. Never ask for a different shot type as a follow-up
-inside a chat that already rendered — start fresh. That is the single
+inside a chat that already rendered: start fresh. That is the single
 mistake that breaks the face.
 
 ---
 
-## STEP 3 — The "product" placement, adapted
+## STEP 3: The "product" placement, adapted
 
 The video's Step 2 is "influencer holds the product". Property Abundance has
 no physical product. The equivalent objects, in order of how well they test:
@@ -170,7 +170,7 @@ no physical product. The equivalent objects, in order of how well they test:
 
 > Never put readable numbers, a dollar figure, a timeline or a guarantee on
 > anything in frame. Every offer term in the research file is still marked
-> `PLACEHOLDER` or `TBD` — none is confirmed for Property Abundance. An image
+> `PLACEHOLDER` or `TBD`: none is confirmed for Property Abundance. An image
 > that shows a promise the business has not confirmed is an FTC Act s.5
 > problem, and it is also just wrong.
 
@@ -181,7 +181,7 @@ no physical product. The equivalent objects, in order of how well they test:
 Each is a complete scene. Attach the 4 refs, paste the Anchor, then one of
 these.
 
-**A — The street, control shot**
+**A: The street, control shot**
 ```
 Half body shot, waist up, 4:5. He stands on a quiet residential street in an
 ordinary American suburb, overcast mid-morning, houses soft and out of focus
@@ -190,7 +190,7 @@ handheld tilt. Calm closed-mouth half smile, looking straight into the lens.
 Natural realistic phone-camera look, no studio lighting, no retouching.
 ```
 
-**B — In front of the tired house**
+**B: In front of the tired house**
 ```
 Three-quarter shot, waist up, 4:5. He stands on the front walk of a tired
 single-family house, peeling paint, overgrown lawn, one shutter hanging
@@ -199,7 +199,7 @@ arm's length at eye level. Relaxed, unbothered expression, not smiling.
 Natural realistic phone-camera look, no retouching.
 ```
 
-**C — At the kitchen table**
+**C: At the kitchen table**
 ```
 Medium shot, chest up, 4:5. He sits at a plain kitchen table in a modest
 older American home, a mug and a single sheet of white paper on the table in
@@ -209,7 +209,7 @@ eye level, as if propped against something. Calm, listening expression.
 Natural realistic phone-camera look, no retouching.
 ```
 
-**D — Tight close-up (for the hook frame)**
+**D: Tight close-up (for the hook frame)**
 ```
 Tight close-up, chest up, 85mm equivalent, 4:5. Plain residential street
 heavily blurred behind him. Flat overcast light. Looking straight into the
@@ -221,7 +221,7 @@ Natural realistic phone-camera look, visible skin texture, no retouching.
 
 ## Check every render against this before you use it
 
-- [ ] Face matches `ref_03_closeup.png` — eyes, nose width, beard line, hairline
+- [ ] Face matches `ref_03_closeup.png`: eyes, nose width, beard line, hairline
 - [ ] Skin has pores and texture, is not plastic
 - [ ] No logo, no readable text, no sign, no number anywhere in frame
 - [ ] Not wearing a suit, branded polo, headset or lanyard
@@ -237,5 +237,5 @@ _Paste the ~100-word blueprint from Step 2 here once you have it. Until then
 this character is not locked and faces will drift between ads._
 
 ```
-(empty — run Step 2)
+(empty, run Step 2)
 ```

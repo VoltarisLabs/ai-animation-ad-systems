@@ -2,7 +2,7 @@
 
 **Source:** Ad Creators Lab lesson
 **Saved:** 2026-08-28
-**Covers:** Assembly step 1 — VO line list → finished voiceover file
+**Covers:** Assembly step 1 (VO line list → finished voiceover file)
 **Skill:** `skeleton-ads-SKILL.md`
 
 ---
@@ -12,7 +12,7 @@
 ### 1. Prepare the script and open ElevenLabs (0:10)
 - Copy the **finalized** script (the numbered VO line list from Stage 1)
 - Open ElevenLabs → voice generation area
-- **Confirm the script is complete before moving forward** — don't generate against a draft
+- **Confirm the script is complete before moving forward**: don't generate against a draft
 
 ### 2. Choose a voice that matches the audience (0:19)
 - Review the available voices
@@ -25,7 +25,7 @@
 If no default voice fits, use **voice design / style adjustments**. Define:
 - gender and age range
 - tone and energy level
-- delivery style — assertive, strong, casual, conversational
+- delivery style: assertive, strong, casual, conversational
 
 Test a few variations if the first result sounds too artificial or too formal.
 
@@ -37,7 +37,7 @@ Test a few variations if the first result sounds too artificial or too formal.
 ### 5. Refine the tone for realism (1:09)
 - Shift toward **casual and conversational**
 - Target: sounds like a real person speaking naturally
-- Match the content — e.g. someone casually sharing something interesting
+- Match the content, e.g. someone casually sharing something interesting
 - Regenerate until it's believable
 
 ### 6. Enhance and finalize (1:26)
@@ -57,7 +57,7 @@ Anything off → back to the generator before handing off.
 
 ## ⚠️ Cautionary notes (verbatim from the lesson)
 
-- **Do not assume the first generated voice will be the best fit** — AI voice output may require several iterations
+- **Do not assume the first generated voice will be the best fit**: AI voice output may require several iterations
 - **Always verify pronunciation of brand names, product names, and specialized terms**
 - **Avoid a voice that sounds too polished** if the content needs a casual or authentic feel
 - Make sure the voice matches the intended audience and content type
@@ -86,10 +86,10 @@ That is **not** the same brief as our talking-head ads. Skeleton ads are narrate
 The lesson's "don't be too polished" note matters here. A corporate-finance-announcer read will kill a skeleton ad. The swipe file (creatine, braces, never-cleaned-room) is all **casual guy telling you something wild**, not a brand voice.
 
 ### Candidate voices (finance/narration, already noted in memory)
-- **Brian** `nPczCjzI2devNBz1zQrb` — used on our Altura work
+- **Brian** `nPczCjzI2devNBz1zQrb`: used on our Altura work
 - Adam · Eric · Roger
 
-For skeleton the pick may differ — leaning casual-conversational over authoritative.
+For skeleton the pick may differ, leaning casual-conversational over authoritative.
 
 ---
 
@@ -104,7 +104,7 @@ header: xi-api-key: <key>
 
 Key location: memory `elevenlabs-api-key.md`.
 
-**Line-by-line, not one blob.** Generate **one file per VO line** — the skill's line list exists so each line becomes one clip. Separate files make trimming to picture trivial in Premiere; a single blob forces manual splitting.
+**Line-by-line, not one blob.** Generate **one file per VO line**: the skill's line list exists so each line becomes one clip. Separate files make trimming to picture trivial in Premiere; a single blob forces manual splitting.
 
 🚨 **No API call without Rafiul's explicit typed approval.**
 
@@ -123,4 +123,4 @@ Stage 4  video prompts → clips            (Seedance 2.0)
 Assembly: timeline, trim to VO, captions in Premiere, music, export 9:16 1080×1920
 ```
 
-The VO can be generated **in parallel with Stage 3/4** — it only depends on the Stage 1 line list, not on the images. Doing it early also catches pronunciation problems before any video credits are spent.
+The VO can be generated **in parallel with Stage 3/4**: it only depends on the Stage 1 line list, not on the images. Doing it early also catches pronunciation problems before any video credits are spent.

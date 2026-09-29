@@ -1,4 +1,4 @@
-# SOP — Generate Song-Style Ad Scripts
+# SOP: Generate Song-Style Ad Scripts
 
 **Source:** Ad Creators Lab lesson (team SOP)
 **Saved:** 2026-08-29
@@ -21,7 +21,7 @@ Collect the input document or webpage. Whatever is available:
 - website copy
 - notes with pain points, objections, solutions
 
-Must clearly describe the product and its benefits. **A simple document is fine** — it doesn't need to be highly formatted.
+Must clearly describe the product and its benefits. **A simple document is fine**: it doesn't need to be highly formatted.
 
 ### 2. Run the prompt (0:37)
 Paste the source material → Run.
@@ -82,7 +82,7 @@ Examples from the transcript: *peroxide powder* · *coconut comfort*
 
 ## ⚠️ Cautionary notes (verbatim)
 
-- **Do not skip the audience step** — genre and angle depend on who you're targeting
+- **Do not skip the audience step**: genre and angle depend on who you're targeting
 - **Make sure the awareness stage matches** the customer's familiarity with the problem and solution
 - **Review the generated lyrics for accuracy** before production
 - **Confirm the unique mechanism is represented clearly** so the ad doesn't feel generic
@@ -102,10 +102,10 @@ Examples from the transcript: *peroxide powder* · *coconut comfort*
 
 ## Notes for our setup
 
-**We already have the "reusable research document" the tips ask for** — `Research protocole/RESEARCH-DOCUMENT-Altura-2026-08-24-v2.md` has pain points, objections, misconceptions, awareness/sophistication level, and ICP language. It is exactly the Step 1 input this prompt wants, and it already answers Step 4 (target audience) and Step 6 (awareness stage), so those steps should go fast.
+**We already have the "reusable research document" the tips ask for**: `Research protocole/RESEARCH-DOCUMENT-Altura-2026-08-24-v2.md` has pain points, objections, misconceptions, awareness/sophistication level, and ICP language. It is exactly the Step 1 input this prompt wants, and it already answers Step 4 (target audience) and Step 6 (awareness stage), so those steps should go fast.
 
-**Duration mismatch to watch:** the SOP says 30s or 45s; the underlying prompt offers **15s / 30s / 60s**. Follow the prompt's options — it's the actual tool.
+**Duration mismatch to watch:** the SOP says 30s or 45s; the underlying prompt offers **15s / 30s / 60s**. Follow the prompt's options: it's the actual tool.
 
-**Step 10 is the one to not rush.** Our v6 rejection came from output that was on-format but wrong on substance. For Altura the unique mechanism is **pre-qualification with no hard inquiry** plus **0% intro-APR card options** — if those aren't in the lyrics, the song is generic and the whole thing fails the same way.
+**Step 10 is the one to not rush.** Our v6 rejection came from output that was on-format but wrong on substance. For Altura the unique mechanism is **pre-qualification with no hard inquiry** plus **0% intro-APR card options**: if those aren't in the lyrics, the song is generic and the whole thing fails the same way.
 
-**Suno is not set up.** The lyrics are free to generate, but turning them into a track needs a Suno account. Not a KIE model — separate tool, separate cost. Flag before planning a song ad into a delivery timeline.
+**Suno is not set up.** The lyrics are free to generate, but turning them into a track needs a Suno account. Not a KIE model, separate tool, separate cost. Flag before planning a song ad into a delivery timeline.

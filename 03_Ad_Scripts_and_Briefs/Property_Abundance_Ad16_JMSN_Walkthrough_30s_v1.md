@@ -49,7 +49,7 @@ Nested loops: A (the roof), B (the floor) and C (who would buy this) all open in
 | 3 | "Now this floor. You'd fix it BEFORE listing. With us you DON'T. No repairs, no commission, no closing costs." | AI UGC above the broken floor. He points down. Cutaway on "floor": broken boards. | L3 floor | 8 s |
 | 4 | "And that roof? Not your problem. YOU pick the closing date. No obligation. Tap below. Tell us about it." | AI UGC back outside. He glances up at the roof and smiles. End card. | L1 front | 8 s |
 
-Each line is 19 words, 76 words in total. At the 166.0 wpm measured on Emily's Omni clips 1–2, one line takes about 6.9 s, and the whole script takes about 27.5 s of speech. This is an estimate. JMSN's real pace is not measured yet. Each 8 s clip leaves a smile tail to trim.
+Each line is 19 words, 76 words in total. At the 166.0 wpm measured on Emily's Omni clips 1-2, one line takes about 6.9 s, and the whole script takes about 27.5 s of speech. This is an estimate. JMSN's real pace is not measured yet. Each 8 s clip leaves a smile tail to trim.
 
 **Edit** (per the merge-then-scenes rule):
 1. Merge the 4 clips.
@@ -73,7 +73,7 @@ The stock in `07_Assets/Stock_Video/` has no close-ups of an American house roof
 | Upload | 1 image: that clip's start image from the table above |
 | Cost | 105 credits per clip at Kie's list price for 8 s at 1080p. Not measured. |
 
-**The prompt is locked.** Only 3 slots change between clips: the place and action sentence, the light and room tone, and the dialogue. Lock clip 1 first. Generate it and judge it harshly. Add a rule for each problem. Only then run clips 2–4.
+**The prompt is locked.** Only 3 slots change between clips: the place and action sentence, the light and room tone, and the dialogue. Lock clip 1 first. Generate it and judge it harshly. Add a rule for each problem. Only then run clips 2-4.
 
 ---
 

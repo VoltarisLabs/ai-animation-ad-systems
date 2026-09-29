@@ -1,5 +1,5 @@
-<!-- Last reviewed 2026-09-25 -->
-# Ugc_on_Demand
+<!-- Last reviewed 2026-09-29 -->
+# AI Animation Ad Systems (Ugc_on_Demand)
 
 The UGC ad studio for **Property Abundance** (cash home buying), plus a reference library for AI ad creative. Not a code project: no build, no tests. It holds skills, prompt libraries, ad scripts, audience research, templates, characters and audio assets.
 
@@ -8,6 +8,16 @@ Since 2026-09-25 the production route for AI UGC is **Kie.ai**: Nano Banana Pro 
 Since 2026-09-21 it is a git repo, pushed to `https://github.com/VoltarisLabs/ai-animation-ad-systems` (remote `origin`, branch `main`). `.gitignore` keeps these out of the repo, and they stay local only: `07_Assets/`, `08_Software/`, `.env`, `__pycache__/`, five `.webarchive` files over GitHub's 100 MB per-file limit (the four in `01_`/`02_`/`05_` plus the root `research.webarchive`), and Emily's real reference photo with its two compare sheets (`12_AI_Characters/Emily/ref_car_selfie.jpeg`, `compare_ref_vs_v1.jpg`, `compare_ref_vs_v4.jpg`; licence unknown and the repo is **public**). Personal data is kept out too (user rule, 2026-09-26: "do not share any personal data"): `session-chat/` and `11_Psychological_Hooks/Screenshot*`. Everything else, including `13_Generated/`, was committed on 2026-09-26.
 
 **Public repo, no personal data.** Before any push, scan the files for names, local paths (`/Users/...`), personal emails, phone numbers, passwords and screenshots. Scripts find the project root relative to their own file, never by a hard-coded home path. Commits use the repo-local identity `VoltarisLabs <257142603+VoltarisLabs@users.noreply.github.com>` in UTC (`TZ=UTC`), never a personal email.
+
+## Open questions (owner decisions pending)
+
+- (a) The repo is public, but the README warns it holds verbatim Ad Creators Lab course material. Make the repo private, or remove that material?
+- (b) Unconfirmed offer terms: offer/closing speed, "we show you the math", "any condition", and whether every deal closes on the company's own funds (the "we buy it ourselves / no wholesaling" line depends on it).
+- (c) `propertyabundanceusa.com` returns HTTP 403, which blocks all ad CTAs.
+- (d) No LICENSE file on a public repo.
+- (e) Git history is ~693 MiB with a 53.6 MiB .mov tracked (`10_Video_Builds/Ad15_Emily_30s_UGC/Ad15_full_merged.mov`); LFS or a history rewrite is an owner decision.
+- (f) The root commit 3504adb carries the owner's personal email in public git history, against the repo identity rule. Fixing requires a history rewrite (git filter-repo mailmap) + force push + GitHub support purge; all 24 commit hashes change. Owner must approve before anyone attempts it.
+- (g) `03_Ad_Scripts_and_Briefs/README.md` now indexes script statuses; keep it current when adding scripts.
 
 ## Layout
 
@@ -18,17 +28,17 @@ Since 2026-09-21 it is a git repo, pushed to `https://github.com/VoltarisLabs/ai
 | `03_Ad_Scripts_and_Briefs/` | Finished and in-progress ad scripts, clip prompts, headline banks, scripting frameworks |
 | `04_Audience_Research/` | Research on cash home sellers. `Buyer_Avatar/` holds the three buyer avatars and their hook map. `Research_Document_Cash_Home_Buying.md` holds the offer terms (still PLACEHOLDER). |
 | `05_Tutorials/` | Tutorials that do not belong to one format, and the one hook psychology file |
-| `06_Canva_Ad_Templates/` | 62 numbered Canva template PDFs |
+| `06_Canva_Ad_Templates/` | 61 numbered Canva template PDFs (1-62 with 45 missing) |
 | `07_Assets/Audio/` | Sound-effects library (`Sound Effects/`) + loose music/SFX mp3s |
 | `07_Assets/Stock_Video/` | B-roll (local only). Video: 24 Pexels clips pulled through the API on 2026-09-22, plus 7 object-only clips added on 2026-09-26 (`closet_`, `house_`, `forsale_`, `roof_`, `junk_`, `contract_`, `ceiling_`; see `10_Video_Builds/Ad15_Emily_30s_UGC/SOURCES_v4.md`). |
 | `07_Assets/Reference_Ads/` | Downloaded reference ads (local only). `v2/` holds 35 cash-buyer ads + contact sheets + measurements; the write-up is `07_Assets/Reference_Ads/Reference_Videos_for_House_Buying.md` (renamed from `Cash_Home_Buying_Reference_Ads_v2.md` on 2026-09-26) |
 | `08_Software/` | Installers (Ollama.dmg) |
 | `09_Characters/` | `CHARACTER_SHEET_PROMPT_TEMPLATE.md` and the `JMSN-3D` animated character |
 | `10_Video_Builds/` | One subfolder per rendered ad: the working files (scene file, voice, timings, synth scripts, contact sheet). Ad 5 and Ad 6 still hold their final mp4s from before 2026-09-25. New finished videos go in `13_Generated/videos/`. |
-| `11_Psychological_Hooks/` | Hook scripts built with psychology (nested loops A→B→C, closes in reverse), plus the copywriting playbook (merged in from `14_` on 2026-09-26): `frameworks.md`, `triggers-index.md`, `01-copywriters/`, `02-psychology/`, `03-modern-creators/`, `prompts/` (YouTube transcript extraction prompt) and `transcripts/` (extractions go here). Its `README.md` is the index. Writing an ad starts at its `AD_COPY_CHECKLIST.md`; the psychology is in `triggers-index.md`. The hook psychology research report stays in `05_Tutorials/Hook_Psychology_Research_Report.md`. |
+| `11_Psychological_Hooks/` | Hook scripts built with psychology (nested loops A→B→C, closes in reverse), plus the copywriting playbook (merged in from `14_` on 2026-09-26): `frameworks.md`, `triggers-index.md`, `research-playbook.md`, `offer-and-mechanism.md`, `testing-and-iteration.md`, `01-copywriters/`, `02-psychology/`, `03-modern-creators/`, `prompts/` (copy-prompts.md with 11 ready-to-paste prompts, plus the transcript extraction prompt), `templates/` (including `script-and-scene-breakdown.md`) and `transcripts/` (extractions go here). Its `README.md` is the index. Writing an ad starts at its `AD_COPY_CHECKLIST.md`; the psychology is in `triggers-index.md`. The hook psychology research report stays in `05_Tutorials/Hook_Psychology_Research_Report.md`. |
 | `12_AI_Characters/` | One subfolder per realistic UGC avatar: the real reference photo with its licence, the prompts, the README and compare sheets. The avatar PNGs made up to 2026-09-25 (JMSN v1, Emily v1 and v4) are still here. New avatar images go in `13_Generated/images/`. |
-| `13_Generated/` | **Every generated image and video.** `images/` and `videos/`. Since 2026-09-25 it also holds the loose media that used to sit at the root, in `C_/` and in `videos_Free/`. Committed to git since 2026-09-26. |
-| `session-chat/` | One `.session.md` per working session. Read these first. |
+| `13_Generated/` | **Every generated image and video.** Two subfolders only: `images/` and `videos/`. The loose media that used to sit at the root moved into them on 2026-09-25 (there are no `C_/` or `videos_Free/` subfolders). Committed to git since 2026-09-26. |
+| `session-chat/` | One `.session.md` per working session. Read these first. Local-only: `session-chat/` is gitignored and not on GitHub. |
 
 ## AI UGC pipeline (Kie.ai)
 
@@ -61,7 +71,7 @@ All jobs: `POST https://api.kie.ai/api/v1/jobs/createTask`, then poll `GET https
 
 `python3 12_AI_Characters/JMSN/kie_nbp.py <prompt.txt> 13_Generated/images/<Ad>_<what>_v<n>.png <aspect> <res> <img1> [img2 ...]`
 
-It uploads the reference images, creates a `nano-banana-pro` task, polls it and downloads the PNG. It reads `KIE_API_KEY` from `.env`. There is no video script yet.
+It uploads the reference images, creates a `nano-banana-pro` task, polls it and downloads the PNG. It reads `KIE_API_KEY` from `.env`. The video runner is `12_AI_Characters/kie_omni.py` (Kie Gemini Omni, checked 2026-09-26): same upload/create/poll/download flow for `gemini-omni-video` talking clips, with upload and download retries, taking `<prompt.txt> <out.mp4> <duration> <aspect> <res> <img1> [img2 ...]`.
 
 ### Rules for Kie work
 
@@ -75,7 +85,7 @@ It uploads the reference images, creates a `nano-banana-pro` task, polls it and 
 - **Omni prompt in three parts:** scene and camera, dialogue in quotes, stacked rules ending with "one continuous take, no jump cuts". Lock it on one line, then change only the dialogue. Pad a line that falls between 4 / 6 / 8 / 10 s and cut the padding in the edit. CAPITALISE a word to stress it.
 - **Realism rules** from the `veo-realism-prompt-rules` memory apply to Omni too: amateur handheld look, no "cinematic" or "photorealistic", no printed text or screens facing the camera, simple hand actions, the full character description repeated in every clip.
 - **Compliance.** A "customer" avatar needs an on-screen AI and dramatization label (16 CFR 255.2(c)). No prices, timelines, counts or guarantees in frame while the offer terms in `04_Audience_Research/Research_Document_Cash_Home_Buying.md` are PLACEHOLDER.
-- **Hooks** use nested or staggered loops only (`loop-order-rule` memory). All hook psychology goes in the one file in `05_Tutorials/`.
+- **Hooks** use nested or staggered loops only (`loop-order-rule` memory). Hook psychology lives in `11_Psychological_Hooks/` (the playbook); the deeper research report is `05_Tutorials/Hook_Psychology_Research_Report.md`.
 
 ### Review hub (Airtable)
 
@@ -107,12 +117,12 @@ How `airtable_attach.py` works:
 
 ### Characters
 
-| Character | Folder | Who | State (2026-09-25) |
+| Character | Folder | Who | State (2026-09-29) |
 |---|---|---|---|
 | JMSN | `12_AI_Characters/JMSN/` | Male, 360 waves, thin mustache and goatee. Property Abundance's buyer (company voice). | v1 done. Gaps listed in its `README.md`. v2 (2026-09-26): 3 house-walkthrough avatar prompts in `prompt_v2_house_walkthrough.md`, not generated yet. |
-| Emily | `12_AI_Characters/Emily/` | Woman, 42. Since 2026-09-25 she is **Property Abundance's presenter (company voice)**, never a seller. `character.yaml` still says "heir who sold" and needs updating. | v1 (`Emily_car_v1.png`) rejected: too close to the reference woman. v3 prompts ready: `prompt_v3_step1_sheet.txt` (no uploads), then `prompt_v3_step2_car_selfie.txt` (3 uploads). Step 2 still has seller wording in `POSE.expression` and a moving box on the back seat; fix both before running it. |
+| Emily | `12_AI_Characters/Emily/` | Woman, 42. Since 2026-09-25 she is **Property Abundance's presenter (company voice)**, never a seller. `character.yaml` still says "heir who sold" and needs updating. | v1 (`Emily_car_v1.png`) rejected: too close to the reference woman. v4 is current: `Emily_car_v4_a.png` and `Emily_car_v4_b.png` are generated, from `prompt_v4_avatar.txt`, `prompt_v4_oneshot.txt` and `prompt_v4_oneshot_9x16.txt` (plus `faces_v4_ab.jpg` for comparison). The v3 two-step prompts (`prompt_v3_step1_sheet.txt`, `prompt_v3_step2_car_selfie.txt`) are superseded and kept for history only. |
 
-**Emily's reference image** (scene, framing and light only, never the face) is ` AI_ref.jpeg` in the project root. The filename starts with a space, so quote the path. `12_AI_Characters/Emily/ref_car_selfie.jpeg` is a byte-identical copy (same md5). It is 736 × 981 and its licence is unknown.
+**Emily's reference image** (scene, framing and light only, never the face) is `12_AI_Characters/Emily/ref_car_selfie.jpeg`. It is gitignored and local-only (not on GitHub, so it is absent from a fresh checkout). The old root copy ` AI_ref.jpeg` (filename starting with a space) no longer exists in the project root. It is 736 × 981 and its licence is unknown.
 
 `C_Sheet.jpeg` (the JMSN character sheet) is Google AI-generated (C2PA + SynthID). Use it as a face guide only, never as the base frame.
 
@@ -139,21 +149,22 @@ How `airtable_attach.py` works:
 - B-roll for AI UGC ads is **objects and places only, no other people** (user rule, 2026-09-26). The picture follows her words: closet on "closet", sign on "listing", and so on.
 - B-roll video: the Pexels API key is gone from `.env`. On 2026-09-26, with the user's go-ahead to collect from the web, clips were found through pexels.com search and pulled from the site's own download link. The script resolves the 302 redirect and streams the file with curl; loading a whole 4K file into memory got the process killed. Build: `10_Video_Builds/Ad15_Emily_30s_UGC/build_v4.py`. Convert 30/60 fps stock by keeping every source frame and re-timing it (`setpts=N/(24*TB)`); `fps=24` judders on pans. Pexels' ToS bans bulk scraping, so keep downloads to the handful a cut needs.
 - Old note (2026-09-26): Pexels' ToS bans scraping. Openverse (`license=cc0,pdm`) gives stills of at most 1024 px. The user rejected stills as "frozen", so use video. Before using a sign or paper, check it for other brokers' names, phone numbers and logos.
-- `.webarchive` files are Safari saves. Read them with Playwright or `textutil`; `curl` on the original URL usually fails (Canva returns "Unsupported client" to a default UA — a Safari UA works).
+- `.webarchive` files are Safari saves. Read them with Playwright or `textutil`; `curl` on the original URL usually fails (Canva returns "Unsupported client" to a default UA; a Safari UA works).
 - Canva boards are JS-rendered: the HTML carries no board text. Pull them with Playwright MCP + `document.body.innerText`. Browser rule: always open a **new** Safari window, never reuse the user's tab.
-- The claude.ai **Canva MCP connector is not authorized** — OAuth cannot run non-interactively. Any Canva API work is blocked until the user authorizes it.
+- The claude.ai **Canva MCP connector is not authorized**: OAuth cannot run non-interactively. Any Canva API work is blocked until the user authorizes it.
 - Several PDFs are image-only (no text layer). To read one: `sips -s format png --resampleWidth 500 file.pdf --out out.png`, then read the PNG.
-- `05_Tutorials/The_video_tutorial.html` is an empty Notion shell — it contains no lesson text.
+- `05_Tutorials/The_video_tutorial.html` is an empty Notion shell: it contains no lesson text.
 
 ## Open items
 
-- Emily v3: fix the step 2 wording, then the user runs step 1 (sheet) and step 2 (car selfie) in Kie. Each result is attached to Ad 15's row on Airtable and compared against the reference.
+- Emily v4 is current (`Emily_car_v4_a.png` / `Emily_car_v4_b.png`, prompts `prompt_v4_*`); the v3 two-step prompts are superseded. Each new result is attached to Ad 15's row on Airtable and compared against the reference.
 - JMSN v1 gaps (no visible waves, framing drift, softened goatee) and its CC BY-SA reference licence.
 - Emily's reference licence is unknown.
 - No Omni video has been made yet. Lock the first prompt on one line before scripting the rest.
 - Offer terms, confirmed by the user on 2026-09-25: buys as-is, belongings can stay, no commission, no fees or closing costs, seller picks the closing date, no obligation, and Property Abundance buys the house itself (no wholesaling). **Not confirmed:** showing the seller the offer math, and any offer or closing speed. So "we show you the math" in Ad12, Ad13 and Ad14 can't run as written. `04_Audience_Research/Research_Document_Cash_Home_Buying.md` still marks all of these PLACEHOLDER.
 - Ad 16 (JMSN house walkthrough, 30 s): `03_Ad_Scripts_and_Briefs/Property_Abundance_Ad16_JMSN_Walkthrough_30s_v1.md`. It holds the storyboard and the 4 locked Omni prompts. 76 words, 4 clips of 8 s, 474 credits at list price (not run). None of the 9 vertical refs has a walking presenter, so the walkthrough is an original format. Damage close-up b-roll still has to be found.
-- Ad 16 script v2 (replaces the v1 dialogue): `03_Ad_Scripts_and_Briefs/Property_Abundance_Ad16_JMSN_Walkthrough_Script_v2.md`. Hook "Stop getting repair quotes.", 2 nested loops, 94 words, 5 Omni clips (6/8/10/8/8 s, 525 credits at list price). Aimed at the "House Needs Everything" seller.
+- Ad 16 script v2 (history, superseded): `03_Ad_Scripts_and_Briefs/Property_Abundance_Ad16_JMSN_Walkthrough_Script_v2.md` replaced the v1 dialogue (hook "Stop getting repair quotes.", 2 nested loops, 94 words, 5 Omni clips of 6/8/10/8/8 s, 525 credits at list price, aimed at the "House Needs Everything" seller). The current version is `Property_Abundance_Ad16_JMSN_Breakdown_v3.md`; v2 is kept only as the pain-hook control.
+- Ad 16 current deliverable: `03_Ad_Scripts_and_Briefs/Property_Abundance_Ad16_JMSN_Breakdown_v3.md` (script + scene breakdown). v2 is kept as the pain-hook control.
 - Ad 15 full cut (2026-09-26): `13_Generated/videos/Ad15_final_v2.mp4`, 23.208 s. The picture comes from `10_Video_Builds/Ad15_Emily_30s_UGC/build_final_v1.py` and the sound from `build_final_v2.py` (v1 was too quiet: music 18 dB under the voice). It is clips 1 + 2 (the v4 cut) plus clip 3, which the user generated in another model after Kie Omni failed 7 times: `13_Generated/videos/Woman_recording_car_selfie_video_20260926041442.mp4`. The cut has no brand name, CTA or end card. Waiting on the user's review.
 - Latest script: `03_Ad_Scripts_and_Briefs/Property_Abundance_Ad15_Emily_30s_UGC_v2.md` (30 s, 94 words, last word at 28.42 s at 199.1 wpm). Emily speaks as Property Abundance's voice, like the 9 vertical refs in `07_Assets/Reference_Ads/`. **The user does not want AI or dramatization labels**, so an AI avatar never speaks as a seller or customer. The earlier Ad15 files (the long version and the 30 s v1) have Emily as a labelled seller and are replaced. Next step: the storyboard.
 - `propertyabundanceusa.com` still returned HTTP 403 "No application found" on 2026-09-25. Fix it before any ad sends traffic there.

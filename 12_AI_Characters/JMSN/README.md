@@ -1,4 +1,4 @@
-# JMSN — realistic UGC avatar
+# JMSN: realistic UGC avatar
 
 Built with the Kristian Jennings method: a real phone photo is the base, and one Nano Banana Pro prompt turns it into the JMSN face. The studio character sheet (`C_Sheet.jpeg`, Google AI-generated, SynthID) is used only as the face and hair guide.
 
@@ -15,7 +15,7 @@ Built with the Kristian Jennings method: a real phone photo is the base, and one
 
 - Engine: Kie.ai `nano-banana-pro`, 2K, 3:4, PNG
 - Task: `e4263b178869fc8c6f721f2b0c133a8d`, 2026-09-25
-- Cost: 18 credits (balance 4263 → 4245). Kie's price page lists $0.09 per 1K–2K image.
+- Cost: 18 credits (balance 4263 → 4245). Kie's price page lists $0.09 per 1K-2K image.
 
 ## Reference photo source
 

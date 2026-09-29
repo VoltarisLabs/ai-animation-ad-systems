@@ -26,7 +26,7 @@ Output:
 - a **character bible** for the main character
 
 The character bible keeps the character visually consistent across all images.
-**The prompt is model-agnostic** — even though the skill names a specific model, it works with any image generator.
+**The prompt is model-agnostic**: even though the skill names a specific model, it works with any image generator.
 
 ### 3. Create the FIRST character image to lock in consistency (1:37)
 - Copy the character bible → paste into your image generator
@@ -37,7 +37,7 @@ The character bible keeps the character visually consistent across all images.
 
 ### 4. Review the character, then use it as a reference (2:11)
 - Check the generated character actually matches what you want
-- Adjust before moving on — do NOT proceed on a "close enough" hero
+- Adjust before moving on: do NOT proceed on a "close enough" hero
 
 For every next scene, copy **three things**:
 1. the character bible
@@ -88,7 +88,7 @@ Once the image set is complete, image generation is finished and the process tra
 | MaxFusion + Seedream 4.5 (cheap test) | **Nano Banana Pro** on KIE | ~$0.09/image |
 | GPT-Image2 | Nano Banana Pro | ~$0.09 |
 | NanoBanana2 | **Nano Banana Pro** (same family) | ~$0.09 |
-| Higgs Field / MaxFusion MCP | **KIE API + Python fire-scripts** | — |
+| Higgs Field / MaxFusion MCP | **KIE API + Python fire-scripts** | - |
 | Image → video | **Seedance 2.0** | $0.205/sec |
 
 **Nano Banana Pro reference mechanic on KIE:**
@@ -112,7 +112,7 @@ Host the hero on catbox.moe, then pass that URL in `image_input` for **every** l
 
 1. **Hero image first.** Never generate scene images before the hero is approved.
 2. **Reference the HERO, never the previous image.** Referencing the previous shot compounds drift.
-3. **Character Bible pasted verbatim** in every prompt — not paraphrased, not shortened.
+3. **Character Bible pasted verbatim** in every prompt, not paraphrased, not shortened.
 4. **NO text in prompts.** Every image prompt ends with `no text, no captions, no words, no letters, no watermark, no UI`. Captions go in Premiere later.
 5. **Product photo as a second reference** in any shot where the product appears.
 

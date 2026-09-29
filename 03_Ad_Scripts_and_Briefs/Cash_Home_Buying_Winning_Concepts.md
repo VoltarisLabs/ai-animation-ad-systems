@@ -1,4 +1,4 @@
-# Cash Home Buying – Winning Ad Concepts
+# Cash Home Buying - Winning Ad Concepts
 
 **What this is:** the "find the winning concept" step. It looks at which competitor ad concepts are getting traction and why, then matches them to the research. Findings only. No scripts, no production.
 **Brand:** Property Abundance.

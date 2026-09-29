@@ -1,6 +1,6 @@
 # Claymation SOP
 
-**Source:** Ad Creators Lab — Canva "Claymation SOP" board
+**Source:** Ad Creators Lab, Canva "Claymation SOP" board
 **Saved:** 2026-08-29 (transcribed from screenshots; Canva pages are JS-rendered and not fetchable)
 **Canva:** https://www.canva.com/design/DAHFo1UG8aA/_zSEiFDatzhKEz8l2D7FCA/view
 
@@ -100,7 +100,7 @@ Once you get the output from ChatGPT, **copy and paste everything into Nanobanan
 
 ---
 
-## Branch A — Want continuous flow?
+## Branch A: Want continuous flow?
 
 For a video that looks like it's constantly transitioning, you **must use the start/end frame in Kling 3.0.** That means generating start AND end frames.
 
@@ -126,11 +126,11 @@ Script: *"But our body can only make so much IGF-1, that's why you can't break t
 **Clip 1:** generate **X** as start frame, **Y** as end frame. Kling set to 3 seconds. Input prompt, generate.
 **Clip 2:** use **Y** as start frame, generate **Z** as end frame. Kling set to 5 seconds. Input prompt, generate.
 
-> **The chaining is the mechanic** — each clip's end frame becomes the next clip's start frame. That's what produces continuous flow.
+> **The chaining is the mechanic**: each clip's end frame becomes the next clip's start frame. That's what produces continuous flow.
 
 ---
 
-## Branch B — Want just a clip?
+## Branch B: Want just a clip?
 
 Normal claymation clip → **all you need is a start frame.** Give it to Kling, input directions, generate.
 
@@ -142,12 +142,12 @@ Normal claymation clip → **all you need is a start frame.** Give it to Kling, 
 > **"Keep character facial consistency. No character redesign. No facial feature changes."**
 
 ### Camera directions (pick one)
-1. **Static** — stays still
-2. **Slight push-in** — camera moves towards subject (often confused with zoom in)
-3. **Slow pan left** — stationary camera that horizontally rotates to the left
+1. **Static**: stays still
+2. **Slight push-in**: camera moves towards subject (often confused with zoom in)
+3. **Slow pan left**: stationary camera that horizontally rotates to the left
 4. **Arc right**
 
-### Must include animation directions — verbatim
+### Must include animation directions (verbatim)
 > **"Ensure handmade stop-motion clay animation throughout the video. Non CGI. Non cinematic. Animation must start at the first frame. Non-disney. Non cartoon."**
 
 ### Prompt structure
@@ -172,11 +172,11 @@ Replace the `[Visual direction] [camera directions]` sections with:
 # 🚨 Two blockers for our stack
 
 ## 1. Kling 3.0 is DOWN on KIE
-This SOP is **built around Kling 3.0** — specifically its **start/end frame** feature, which is the entire mechanic behind continuous flow. Tested 2026-08-27: Kling 2.6 and 3.0 both return **500 Internal Error**, 0 credits charged.
+This SOP is **built around Kling 3.0**, specifically its **start/end frame** feature, which is the entire mechanic behind continuous flow. Tested 2026-08-27: Kling 2.6 and 3.0 both return **500 Internal Error**, 0 credits charged.
 
 **Options:**
 - Recheck whether Kling has come back on KIE
-- Check whether **Seedance 2.0 supports an end/last frame parameter** — if it does, the chaining mechanic transfers. If not, only Branch B (single clip, start frame only) is reproducible for us.
+- Check whether **Seedance 2.0 supports an end/last frame parameter**. If it does, the chaining mechanic transfers. If not, only Branch B (single clip, start frame only) is reproducible for us.
 - Use Kling through a non-KIE provider
 
 **This needs resolving before any claymation production is planned.** Branch A is the good half of the format.
@@ -195,14 +195,14 @@ The Step-1 setup pastes a linked document into a ChatGPT project as its source. 
 | Consistency method | Character Bible verbatim | Character ref + diorama framing | n/a | **"Keep character facial consistency. No character redesign. No facial feature changes."** + reference image |
 | Frames per clip | 1 | 1 or 2 (Type A/B/C) | n/a | **1 (clip) or 2 (continuous flow)** |
 | Clip length driver | VO line length | phrase | music beat | **audio section: 3-5s → 1 clip, 6-9s → 2 clips** |
-| Video model | Seedance/Kling/Veo | Seedance 1.5 Pro / Kling / Veo | — | **Kling 3.0 specifically** |
-| Resolution | 1080×1920 | — | — | **780p, audio off** |
-| Style enforcement | Style Library block | 3 universal excerpts | — | **animation directions line, verbatim** |
+| Video model | Seedance/Kling/Veo | Seedance 1.5 Pro / Kling / Veo | - | **Kling 3.0 specifically** |
+| Resolution | 1080×1920 | - | - | **780p, audio off** |
+| Style enforcement | Style Library block | 3 universal excerpts | - | **animation directions line, verbatim** |
 
 **Note the audio-first ordering.** Claymation and singing both generate audio *before* video, because audio determines clip count and length. Skeleton is the same. Only the Seedance UGC talking-head format generates speech inside the video itself.
 
 ## ⚠️ Do not mix claymation and crochet prompts
-Crochet's Universal Negative explicitly bans `claymation, clay texture` to stop knitted textures drifting into clay. The two formats' style blocks are mutually exclusive — never reuse one's excerpts on the other.
+Crochet's Universal Negative explicitly bans `claymation, clay texture` to stop knitted textures drifting into clay. The two formats' style blocks are mutually exclusive: never reuse one's excerpts on the other.
 
 ---
 

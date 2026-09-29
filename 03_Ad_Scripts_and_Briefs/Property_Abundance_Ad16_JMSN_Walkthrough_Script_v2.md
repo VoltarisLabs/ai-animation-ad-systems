@@ -1,3 +1,5 @@
+**Superseded by Property_Abundance_Ad16_JMSN_Breakdown_v3.md; kept as the pain-hook control.**
+
 # Ad 16 script v2: JMSN walkthrough, "Stop getting repair quotes"
 
 **Replaces** the dialogue in `Property_Abundance_Ad16_JMSN_Walkthrough_30s_v1.md`. The v1 locked Omni prompt structure and the avatar images stay the same. Only the dialogue, the clip-to-image mapping and the durations change.
@@ -11,7 +13,7 @@
 **Built with:**
 - `kristian_jennings_ai_ugc_workflow`: storyboard layout, hooks first, the avatar who has solved the problem, capitalised stress words, 4/6/8/10 s durations.
 - `reel_direction_2`: the format, the language gate and one redefined term.
-- `05_Tutorials/Hook_Psychology_Research_Report.md`: two loops for a 30–60 s ad, payload between every step, every close starts with "That's why", brand on the last close.
+- `05_Tutorials/Hook_Psychology_Research_Report.md`: two loops for a 30-60 s ad, payload between every step, every close starts with "That's why", brand on the last close.
 - `loop-order-rule`: nested A-B, closed B-A.
 - The Hook Map rubric and its three gates (situation, predator, truth).
 
@@ -30,7 +32,7 @@ Measured from all 44 refs: 35 in `07_Assets/Reference_Ads/v2/` (transcripts) and
 
 ## Hooks (Open A), pick one per cut
 
-Scores use the Hook Map rubric (5 axes, 0–2 each, under 7 = rewrite). They are my judgement, not measured.
+Scores use the Hook Map rubric (5 axes, 0-2 each, under 7 = rewrite). They are my judgement, not measured.
 
 | # | Type | Hook | Score | Close A line to match |
 |---|---|---|---|---|
@@ -66,7 +68,7 @@ A hook test re-makes clip 1 and clip 4: 84 + 105 = 189 credits per extra hook, a
 - **LESSON:** stop getting quotes. It is something she can do today.
 - **HOOK 2** (Reframe): echoes the diagnosis.
 
-**Loops:** Open A → payload → Open B → payload → Close B → payload → Close A → Hook 2 → CTA. There are 2 loops, the count the report gives for 30–60 s. A payload follows every loop line, and no loop opens and closes back to back.
+**Loops:** Open A → payload → Open B → payload → Close B → payload → Close A → Hook 2 → CTA. There are 2 loops, the count the report gives for 30-60 s. A payload follows every loop line, and no loop opens and closes back to back.
 
 **Claims:** the only claims are ones the user confirmed on 2026-09-25: as-is, no fees, no obligation. The line "our offer is lower than a fixed-up sale" is the same self-incrimination line the user approved for Ad 15 ("Cash offers usually come in LOWER than listing. OURS too."). The script has no numbers, no speed claims and no competitor names.
 
@@ -76,7 +78,7 @@ A hook test re-makes clip 1 and clip 4: 84 + 105 = 189 credits per extra hook, a
 
 | Check | Result |
 |---|---|
-| Words | 94 (the 8 Ads rule allows 65–95) |
+| Words | 94 (the 8 Ads rule allows 65-95) |
 | Length | 33.98 s at 166.0 wpm (Emily's measured Omni pace); 28.61 s at 197.1 wpm (the 9 vertical refs' median). Estimates. |
 | Em dashes / banned phrases | 0 / 0 |
 | Reading grade | 1.7 (Flesch-Kincaid, regex syllable estimate). 21 sentences, 4.6 words each on average. |

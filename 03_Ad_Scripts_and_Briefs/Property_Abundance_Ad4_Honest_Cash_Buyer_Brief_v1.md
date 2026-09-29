@@ -1,7 +1,7 @@
-# Ad 4 – The Honest Cash Buyer (Brief v1)
+# Ad 4 - The Honest Cash Buyer (Brief v1)
 
 **Made:** 2026-09-23. **Brand:** Property Abundance. **Status:** script locked, claims NOT filled.
-**Concept:** #1 from `Cash_Home_Buying_Winning_Concepts.md` — call out the category, then show the offer math on screen.
+**Concept:** #1 from `Cash_Home_Buying_Winning_Concepts.md`: call out the category, then show the offer math on screen.
 **Persona:** Inherited Irene (heir far away).
 **Format:** AI talking head, founder selfie, 9:16.
 **Hook source:** Dream Catchers row 15, family `contrarian`, score 70 (`pick_hook.py`, 2026-09-23).
@@ -11,7 +11,7 @@
 
 ---
 
-## Step 5 – The five boxes
+## Step 5 - The five boxes
 
 | Box | Answer |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Step 6 – The script
+## Step 6 - The script
 
 **Hook, chosen structure (verbatim shape kept):**
 > Everyone tells you to (insert action) but nobody actually tells you how to do it. Here is a # second step by step tutorial that you can save.
@@ -41,7 +41,7 @@
 | 7 | "Subtract what it costs us to hold it and resell it." | Math line 3. |
 | 8 | "What's left is your offer. That's the whole formula." | Math payoff. |
 | 9 | "Sometimes that number beats listing it. Sometimes it doesn't." | The trust line. |
-| 10 | "We'll tell you which one you're looking at." | **COMMITMENT — only keep if you will actually do this.** |
+| 10 | "We'll tell you which one you're looking at." | **COMMITMENT: only keep if you will actually do this.** |
 | 11 | "If you're hours away and tired of driving back for stupid stuff, that's worth knowing." | Irene's own words, from the research quote. |
 | 12 | "[NEEDS YOUR TERM: form URL]. Tell us about the house, and we'll walk you through the worksheet." | CTA. Form must return HTTP 200 before spend. |
 
@@ -58,34 +58,34 @@ Every measured ad in this category runs 182 wpm or faster, so 72 words over 36 s
 
 ---
 
-## Step 7 – Shot brief
+## Step 7 - Shot brief
 
 Target **36 s**, 12 shots, matching ref 3's shot count (12 shots, 32.37 s, 2.70 s average).
 
 | Shot | Time | Line | On screen | What we see |
 |---|---|---|---|---|
-| 1 | 0.0–8.9 | 1, 2, 3 | Caption only | **NO CUT.** Founder holds frame, selfie, talking straight to camera. Mirrors the reference reel's 8.93 s static open. |
-| 2 | 8.9–11.6 | 4 | "OUR FORMULA" | Cut in tighter on the same face. |
-| 3 | 11.6–14.3 | 5 | `VALUE FIXED UP` | Text builds, line 1 of 4. |
-| 4 | 14.3–17.0 | 6 | `− REPAIR COST` | Text builds, line 2. |
-| 5 | 17.0–19.7 | 7 | `− HOLD + RESELL` | Text builds, line 3. |
-| 6 | 19.7–24.0 | 8 | `= YOUR OFFER` | **Hold 4.3 s.** The payoff sits here. All four lines on screen at once. |
-| 7 | 24.0–26.7 | 9 | "SOMETIMES LISTING WINS" | Back to face. |
-| 8 | 26.7–29.4 | 10 | — | Face. |
-| 9 | 29.4–32.1 | 11 | — | B-roll: a porch, a locked front door, a long drive. No cash, no money fanning. |
-| 10 | 32.1–34.0 | 12a | Form URL | Back to face. |
-| 11 | 34.0–35.2 | 12b | Form URL | Form on screen. |
-| 12 | 35.2–36.0 | — | Logo + URL | End card. |
+| 1 | 0.0-8.9 | 1, 2, 3 | Caption only | **NO CUT.** Founder holds frame, selfie, talking straight to camera. Mirrors the reference reel's 8.93 s static open. |
+| 2 | 8.9-11.6 | 4 | "OUR FORMULA" | Cut in tighter on the same face. |
+| 3 | 11.6-14.3 | 5 | `VALUE FIXED UP` | Text builds, line 1 of 4. |
+| 4 | 14.3-17.0 | 6 | `− REPAIR COST` | Text builds, line 2. |
+| 5 | 17.0-19.7 | 7 | `− HOLD + RESELL` | Text builds, line 3. |
+| 6 | 19.7-24.0 | 8 | `= YOUR OFFER` | **Hold 4.3 s.** The payoff sits here. All four lines on screen at once. |
+| 7 | 24.0-26.7 | 9 | "SOMETIMES LISTING WINS" | Back to face. |
+| 8 | 26.7-29.4 | 10 | - | Face. |
+| 9 | 29.4-32.1 | 11 | - | B-roll: a porch, a locked front door, a long drive. No cash, no money fanning. |
+| 10 | 32.1-34.0 | 12a | Form URL | Back to face. |
+| 11 | 34.0-35.2 | 12b | Form URL | Form on screen. |
+| 12 | 35.2-36.0 | - | Logo + URL | End card. |
 
 ---
 
-## Step 8 – Generation (free route)
+## Step 8 - Generation (free route)
 
-1. `character_anchor_gemini` — lock the founder's face first. One anchor image, reused for every shot. Without this the face drifts between clips and the ad reads as AI.
+1. `character_anchor_gemini`: lock the founder's face first. One anchor image, reused for every shot. Without this the face drifts between clips and the ad reads as AI.
 2. Gemini/Veo for the clips. Three `gemini_generated_video_*.mp4` already render in this folder, so the route works.
-3. Shots 3–6 are text-on-screen, built in the edit. Do not generate them.
+3. Shots 3-6 are text-on-screen, built in the edit. Do not generate them.
 
-## Step 9 – Edit spec (measured, not guessed)
+## Step 9 - Edit spec (measured, not guessed)
 
 | Setting | Value | Where it came from |
 |---|---|---|
@@ -101,10 +101,10 @@ Target **36 s**, 12 shots, matching ref 3's shot count (12 shots, 32.37 s, 2.70 
 
 | Slot | Needed |
 |---|---|
-| Line 5–8 | Your real offer formula. If it is not value − repairs − carry/resell, rewrite those four lines to match what you actually do. |
+| Line 5-8 | Your real offer formula. If it is not value − repairs − carry/resell, rewrite those four lines to match what you actually do. |
 | Line 10 | You will genuinely tell a seller when listing beats your offer. If not, cut lines 9 and 10. |
 | Line 12 | A form URL that loads. `propertyabundanceusa.com` returned HTTP 403 on 2026-09-22. |
-| All | Meta Housing Special Ad Category status — not yet checked. |
+| All | Meta Housing Special Ad Category status, not yet checked. |
 
 ## Deliberately not in this ad
 

@@ -1,12 +1,12 @@
-# AI Animation — Skeleton Ads
+# AI Animation: Skeleton Ads
 
 **Skill:** `skeleton-ads-SKILL.md` (Ad Creators Lab, saved 2026-08-28)
 
 **Lessons:**
-- `01-skeleton-ad-director-lesson.md` — install skill, generate script (Stage 1)
-- `02-script-to-consistent-ai-images.md` — script → consistent images (Stage 2 → 3)
-- `03-image-prompts-to-video-clips.md` — images → video clips + automation (Stage 4)
-- `04-elevenlabs-voiceover.md` — VO line list → finished voiceover (assembly step 1)
+- `01-skeleton-ad-director-lesson.md`: install skill, generate script (Stage 1)
+- `02-script-to-consistent-ai-images.md`: script → consistent images (Stage 2 → 3)
+- `03-image-prompts-to-video-clips.md`: images → video clips + automation (Stage 4)
+- `04-elevenlabs-voiceover.md`: VO line list → finished voiceover (assembly step 1)
 
 **Slash command:** `/skeleton` (installed at `.claude/skills/skeleton/`)
 
@@ -14,7 +14,7 @@
 
 ## What this format is
 
-A **30–60s vertical (9:16) video** where a recurring **literal 3D cartoon skeleton** lives out an escalating second-person journey, narrated by one voiceover:
+A **30-60s vertical (9:16) video** where a recurring **literal 3D cartoon skeleton** lives out an escalating second-person journey, narrated by one voiceover:
 
 > *"What happens if you ___? Day 1… Day 30… Day 365…"*
 
@@ -26,10 +26,10 @@ Borrowed from viral "What happens if you ___?" YouTube Shorts. Completely differ
 
 | Stage | Input | Output |
 |---|---|---|
-| **1 — Script** | Product website / research doc / objection list | Angle + skeleton script + numbered VO line list |
-| **2 — Visual Concept Board** | Approved script pasted back | Style + theme + per-line shot grid |
-| **3 — Image Prompts** | Chosen concepts | Character Bible + hero image + one prompt per shot |
-| **4 — Video Prompts** | "Images are done" | One image-to-video prompt per VO line + assembly checklist |
+| **1: Script** | Product website / research doc / objection list | Angle + skeleton script + numbered VO line list |
+| **2: Visual Concept Board** | Approved script pasted back | Style + theme + per-line shot grid |
+| **3: Image Prompts** | Chosen concepts | Character Bible + hero image + one prompt per shot |
+| **4: Video Prompts** | "Images are done" | One image-to-video prompt per VO line + assembly checklist |
 
 **Never skip stages.** Each ends with a hand-off telling you exactly what to bring back.
 
@@ -39,14 +39,14 @@ Borrowed from viral "What happens if you ___?" YouTube Shorts. Completely differ
 
 | | Mechanic | What it means |
 |---|---|---|
-| **A** | **Curiosity-gap hook** | *"What would happen if you ___?"* — a question the brain needs closed |
+| **A** | **Curiosity-gap hook** | *"What would happen if you ___?"*, a question the brain needs closed |
 | **B** | **Escalating progression spine** | Time (Day 1 → 30 → 365) · Quantity (1 → 15 → 42) · Stage (1 → 5) |
 | **C** | **Visceral concrete specifics** | One physical sensory image per beat, never an abstract claim |
 | **D** | **A payoff** | Triumph (transformed, crowned) OR catastrophe (system failure) |
 
 ---
 
-## Angle selection — diagnose the product first
+## Angle selection: diagnose the product first
 
 | If the product… | Angle | Spine | Payoff |
 |---|---|---|---|
@@ -73,7 +73,7 @@ Borrowed from viral "What happens if you ___?" YouTube Shorts. Completely differ
 
 ---
 
-## The "turn" — most important move
+## The "turn": most important move
 
 Don't bolt the product on at the end. Build tension first, then pivot on a hinge line:
 > *"Then you find [product]."* / *"Everything changes the day you [use product]."*
@@ -89,16 +89,16 @@ The product must feel like **the answer to the loop you opened**, not an ad brea
 | **1. Bare-Bones Cinematic** ⭐ default | Origin/scenario + transformation ads |
 | 2. Dressed Skeleton | Wearable, fashion, lifestyle, identity products |
 | 3. X-Ray with Organs | Health, body, biology, supplement, medical |
-| 4. Cute Cartoon Mascot | Playful/fun brands only — never silently default here |
+| 4. Cute Cartoon Mascot | Playful/fun brands only, never silently default here |
 
 **Style guide image:** [drive.google.com/file/d/1cB8Od47Wc3ssdaZQylnyLBoFX_MD0gwF/view](https://drive.google.com/file/d/1cB8Od47Wc3ssdaZQylnyLBoFX_MD0gwF/view)
 
 ---
 
-## Character consistency — the whole game
+## Character consistency: the whole game
 
-1. **Locked text** — paste the Character Bible block into every prompt word-for-word
-2. **Hero reference image** — generate image 1 first, it's the source of truth
+1. **Locked text**: paste the Character Bible block into every prompt word-for-word
+2. **Hero reference image**: generate image 1 first, it's the source of truth
 3. **Reference the HERO, never the previous image** (stops drift)
 
 | Tool | Mechanic |
@@ -119,7 +119,7 @@ End every image prompt with:
 no text, no captions, no words, no letters, no watermark, no UI
 ```
 
-Caption ideas from the Stage 2 board are **editor notes** — added later in Premiere, never baked into generated footage.
+Caption ideas from the Stage 2 board are **editor notes**: added later in Premiere, never baked into generated footage.
 
 ---
 
@@ -140,8 +140,8 @@ Caption ideas from the Stage 2 board are **editor notes** — added later in Pre
 1. Voiceover from the VO line list in **ElevenLabs** (one calm dramatic narrator)
 2. Generate each clip from its still; clip ≈ length of its VO line
 3. Timeline in order, trim each to land with its VO line
-4. *(Optional)* captions added **in the editor** — bold white sans, centered lower-third, thin dark outline, 2–3 words karaoke style
-5. Background music — tense/curious under the build, lift at payoff, duck under VO
+4. *(Optional)* captions added **in the editor**: bold white sans, centered lower-third, thin dark outline, 2-3 words karaoke style
+5. Background music, tense/curious under the build, lift at payoff, duck under VO
 6. Export **9:16, 1080×1920**
 
 ---
@@ -156,4 +156,4 @@ Caption ideas from the Stage 2 board are **editor notes** — added later in Pre
 | Character | Pinterest ref → @Image1 | Locked Character Bible + hero image |
 | Best for | Credibility, advisor trust | Scroll-stopping, viral reach |
 
-**Possible Altura angle:** *Cost-of-inaction / Time* — *"What happens if you never fix your business credit?"* Day 1 → Day 90 → Day 365, catastrophe payoff, turn on the pre-qualification. Our research doc already has the visceral raw material (*"$0 by 10 AM"*, *"$758 daily drain"*, *"14 months to clear"*).
+**Possible Altura angle:** *Cost-of-inaction / Time*: *"What happens if you never fix your business credit?"* Day 1 → Day 90 → Day 365, catastrophe payoff, turn on the pre-qualification. Our research doc already has the visceral raw material (*"$0 by 10 AM"*, *"$758 daily drain"*, *"14 months to clear"*).

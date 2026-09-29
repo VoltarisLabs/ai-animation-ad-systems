@@ -1,6 +1,6 @@
-# AI Character Sheet — Master Prompt Template
+# AI Character Sheet: Master Prompt Template
 
-Written 2026-09-23. Experimental. Expect the team to change fields — every
+Written 2026-09-23. Experimental. Expect the team to change fields: every
 changeable thing lives in the FIELD BLOCK below, so a rejection is a field edit, not a rewrite.
 
 Use: "make the character, use the template" → fill the FIELD BLOCK → paste PROMPT A into a new
@@ -49,7 +49,7 @@ Rules for filling it:
 
 ---
 
-## 2. PROMPT A — create the character
+## 2. PROMPT A: create the character
 
 New Gemini chat. Nothing attached. Generate 3-4 times, keep the best.
 
@@ -77,7 +77,7 @@ headset or lanyard · any readable text, logo or sign · studio rim light · fac
 
 ---
 
-## 3. PROMPT B — the reference set (4 images, this is what makes him reusable)
+## 3. PROMPT B: the reference set (4 images, this is what makes him reusable)
 
 From the winning image, run each as a separate follow-up **in the same chat**, attaching the
 winner each time. One angle per message.
@@ -91,7 +91,7 @@ winner each time. One angle per message.
    Full body, standing, hands relaxed at the sides, same background, {{aspect_ratio}}.
 ```
 
-Save as (07_Assets/ is gitignored — binaries stay local, this .md stays in the repo):
+Save as (07_Assets/ is gitignored: binaries stay local, this .md stays in the repo):
 
 ```
 07_Assets/Characters/{{character_name}}/ref_01_master.png
@@ -102,7 +102,7 @@ Save as (07_Assets/ is gitignored — binaries stay local, this .md stays in the
 
 ---
 
-## 4. PROMPT C — lock the face (run once per character)
+## 4. PROMPT C: lock the face (run once per character)
 
 Per `~/.claude/skills/character_anchor_gemini/SKILL.md` (Vivek Kathait, 3-chat workflow).
 
@@ -136,7 +136,7 @@ that term is confirmed by the business in writing.
 
 ---
 
-## 6. QC — check every render before use
+## 6. QC: check every render before use
 
 - [ ] Face matches `ref_03_closeup.png`: eye shape, nose width, hairline, beard line
 - [ ] `{{distinguishing_mark}}` is present and in the same place
@@ -155,5 +155,5 @@ Paste the ~100-word blueprint from section 4 here. Until it is filled, the chara
 locked and faces will drift between ads.
 
 ```
-(empty — run section 4)
+(empty, run section 4)
 ```
