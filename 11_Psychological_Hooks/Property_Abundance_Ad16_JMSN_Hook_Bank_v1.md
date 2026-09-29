@@ -167,8 +167,8 @@ In each hook, A, B and C all open within the first 9-11 s, with a payload betwee
 | **Open B** | "And yes, there's a catch." |
 | payload | "Cabinets hanging. Junk everywhere." |
 | **Open C** | "It's not the catch you're thinking." |
-| payload | "You're thinking hidden fees. Or a middleman who flips your contract." |
-| **Close C** | "That's why I'll say it plain. No fees. No commission. No middleman. We're the buyer." |
+| payload | "You're thinking hidden fees. Or a middleman who flips your contract." [blocked: direct-buyer claim, see claims-registry.md] |
+| **Close C** | "That's why I'll say it plain. No fees. No commission. No middleman. We're the buyer." [blocked: direct-buyer claim, see claims-registry.md] |
 | payload | "As-is means you fix NOTHING. Every repair in here becomes OURS." |
 | **Close B** | "That's why there IS a catch. Our offer is LOWER than a fixed-up sale." |
 | payload | "You pick the closing date. And you can still say no." |
@@ -203,7 +203,7 @@ In each hook, A, B and C all open within the first 9-11 s, with a payload betwee
 | **Open C** | "And the clean-out isn't step one." |
 | payload | "Look at this roof. Old furniture everywhere. We buy it as-is." |
 | **Close C** | "That's why the clean-out isn't a step at all. Leave ALL of it." |
-| payload | "No fees. No commission. We're the buyer." |
+| payload | "No fees. No commission. We're the buyer." [blocked: direct-buyer claim, see claims-registry.md] |
 | **Close B** | "That's why that room can stay exactly how it is." |
 | payload | "YOU pick the closing date." |
 | **Close A** | "That's why you don't touch anything. Property Abundance." |
@@ -220,7 +220,7 @@ In each hook, A, B and C all open within the first 9-11 s, with a payload betwee
 | **Open C** | "And I'll say the part you're scared of." |
 | payload | "As-is means you fix NOTHING. Leave the furniture." |
 | **Close C** | "That's why I'll say it. Our offer is LOWER than a fixed-up sale." |
-| payload | "We're the buyer. No middleman. No fees. No commission." |
+| payload | "We're the buyer. No middleman. No fees. No commission." [blocked: direct-buyer claim, see claims-registry.md] |
 | **Close B** | "That's why the somebody is us. Not you." |
 | payload | "YOU pick the closing date." |
 | **Close A** | "That's why that sound isn't your problem anymore. Property Abundance." |
@@ -248,6 +248,8 @@ In each hook, A, B and C all open within the first 9-11 s, with a payload betwee
 
 ## v3.1: The Catch, Open C rewritten (2026-09-26)
 
+**[DO NOT RUN] This script claims we are the direct buyer and attacks contract assignment. Sep 29 meeting notes describe assignment as our core model; see claims-registry.md. Blocked until the owner rules.**
+
 **Why the old C failed:** "It's not the catch you're thinking" opened no new question. It was a follow-up to B ("there's a catch"), so the viewer learned nothing. A nested C has to be a new question that breaks a belief, like Howie's "your BO doesn't come from your skin".
 
 **New C:** "But first, some cash buyers never actually buy your house."
@@ -267,7 +269,7 @@ In each hook, A, B and C all open within the first 9-11 s, with a payload betwee
 | payload | "Junk everywhere." | Kitchen, junk |
 | **Open C** | "But first, some cash buyers never actually buy your house." | Face, leans in |
 | payload | "They lock it under contract. Then sell that contract to someone else." | Face (no printed paper on screen) |
-| **Close C** | "That's why I'll say it plain. We're the buyer. No fees. No commission." | Face |
+| **Close C** | "That's why I'll say it plain. We're the buyer. No fees. No commission." [blocked: direct-buyer claim, see claims-registry.md] | Face |
 | payload | "As-is means you fix NOTHING. Every repair in here becomes OURS." | Floor shot, roof shot |
 | **Close B** | "That's why there IS a catch. Our offer is LOWER than a fixed-up sale." | Face, no cutaway |
 | payload | "You pick the closing date. And you can still say no." | Front walk |

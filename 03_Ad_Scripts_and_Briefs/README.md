@@ -6,6 +6,7 @@ Grouped by ad number. CURRENT files are the ones to work from.
 |---|---|---|---|
 | Property_Abundance_Ad16_JMSN_Breakdown_v3.md | 16 | JMSN breakdown script | CURRENT (the Ad 16 deliverable) |
 | Property_Abundance_Ad17_Claymation_Hammer_v2.md | 17 | Claymation | CURRENT. Script and scene breakdown; blocked on Kling 3.0 on Kie (or run as skeleton/crochet) |
+| Property_Abundance_Ad18_Emily_VSL90_v1.md | 18 | 90s UGC mini-VSL | CURRENT. Judge-panel winner; first asset for the Sep 29 VSL pivot; includes presenter A/B plan |
 | Property_Abundance_Ad16_JMSN_Walkthrough_Script_v2.md | 16 | Walkthrough script | Superseded by v3; kept as the pain-hook control |
 | Property_Abundance_Ad16_JMSN_Walkthrough_30s_v1.md | 16 | 30s walkthrough | Superseded; its locked Omni prompt structure is still referenced by v3 |
 | Property_Abundance_Ad15_Emily_30s_UGC_v2.md | 15 | 30s UGC script | Current Ad 15 script |

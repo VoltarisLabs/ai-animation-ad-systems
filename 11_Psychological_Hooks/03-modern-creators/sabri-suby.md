@@ -230,7 +230,7 @@ Use only terms you can confirm. No numbers, speed claims or scarcity you can't b
 - **Many hook banks lean negative** ("Stop / Don't" commands). By his rule, test benefit-led versions head to head. For example, "Sell it with the furniture still in it" against "Stop cleaning it out."
 - **Halo Strategy fixes a common gap:** research that never reaches the lines. Paste sellers' exact Reddit and forum words into the hook and the pain section, unedited.
 - **Name the alternatives they already considered** (listing with an agent, fixing it first, doing nothing) and contrast them with confirmed facts only: no commission, no repairs, belongings can stay, they pick the date.
-- **Godfather Offer, honest version.** Rationale: we buy the house ourselves. Value: everything they no longer have to do. Guarantee: no obligation to accept. Scarcity: none, so leave it out.
+- **Godfather Offer, honest version.** Rationale: state truthfully how the company makes money (see claims-registry.md; direct-buyer wording is currently blocked). Value: everything they no longer have to do. Guarantee: no obligation to accept. Scarcity: none, so leave it out.
 - **Look native.** A calm person on a phone camera, on a personal-looking page. No broker-style graphics.
 - **Soft CTA:** "Learn More," or "See what we'd offer. No obligation." That is also the most literally accurate wording.
 - **Short and direct for searchers** (red ocean). **Story and explanation for heirs** who haven't started looking yet (blue ocean).

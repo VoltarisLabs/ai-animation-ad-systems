@@ -1,0 +1,125 @@
+# Ad 18: Emily 90s mini-VSL, "The Closet"
+
+**Status: CURRENT. Winner of a 3-draft judge panel (2026-09-29).** Written one-shot by the system in [11_Psychological_Hooks/prompts/one-shot-script.md](../11_Psychological_Hooks/prompts/one-shot-script.md) from the Emily card and the claims registry, then scored by two independent judges (conversion craft 38/40, trust and compliance 37/40; the Fran draft was disqualified on an implied no-renegotiation claim, the Marcus draft scored 36/36).
+
+**Why this exists:** the Sep 29 strategy call (Howie): pivot to 1:30+ emotional mini-VSLs that contrast the seller's pain with the confirmed terms. This is the first test asset.
+
+**Judge grafts to apply in production:**
+- Add one benefit-led hook variant to the test set: "She sold the house without opening that closet." (pain-led original stays as control.)
+- Steal from the Marcus draft if this wins and we scale: the options map that names doors that are not ours (lender call, HUD-approved counselor, listing), the strongest trust device of the panel.
+- Steal from the Fran draft: the dignity line "that is old houses, not a character flaw."
+- Trust judge watch item: keep the catch line ("Truth? Cash offers usually come in lower than listing. Ours too.") intact and always paired with its close ("That's why lower isn't everything.").
+
+**Creative A/B (the Sep 29 presenter test):** same script, two shoots: (A) high-energy polished presenter, (B) relatable average neighbor. Research prediction: B wins for this avatar (predator-alert audience, presenter must match the viewer's world). Do not run "lustful" framing in a housing ad (Special Ad Category).
+
+**Claims:** registry-clean. No direct-buyer lines (blocked pending the wholesaling ruling), no numbers, no speed, no urgency.
+
+---
+
+# Emily the Heir, 90s UGC narrator mini-VSL for Meta Reels: script and scene breakdown
+
+## Part A. Research card (internal only, never on screen)
+
+| Field | Content |
+|---|---|
+| Audience + moment | Adult child who inherited a parent's house hours away, in the months when grief and estate paperwork overlap: taxes, insurance and upkeep running on a house she does not want, family unable to agree what to do with it. [R] |
+| Awareness level | Problem-aware, solution-skeptical. She knows cash buyers exist and already believes they pay below market; the hook's job is disarming, not education. [I] |
+| Bullseye desire | "I just wanted it SOLD." / "just want to be done with it." The deal shape she would take: cash, as-is, she sets the date and the condition, "cut out all the bullshit." [R] |
+| Top pain (their words) | "I live six hours away from the house I inherited and I'm getting tired of driving back for stupid stuff." / "I'm worried about being sad and grieving at the same time I will have to deal with all of their logistics and bills and money." / "My sibling doesn't want to put any money into it but refuses to consider a cash offer." [R] |
+| Top fear or objection | "Am I getting ripped off because I just want this house gone?" Underneath: "Is my exhaustion being priced in against me?" Evidence she has read: an heir offered $78k on a house realtors valued near $190k. Deepest fear: family blame for letting the home go too cheap. [R/I] |
+| What she already tried and why it failed | Listing with a realtor: priced high to win the listing, then cut repeatedly. Renting: "another thing on my plate." Fixing it first: no money, time or energy, and big renovations rarely pay back. Doing nothing: "A vacant house is a problem that can lead to bigger problems." [R] |
+| Unspoken sentence | "I want this house gone, and I feel guilty for wanting that." She is buying permission to be done: absolution, not persuasion. [I] |
+| Scenes (dimensionalized) | 1. Her kitchen counter, hours from the property: the forwarded tax bill on top of her regular mail. 2. The parent's bedroom closet: clothes still on hangers, flat-packed boxes leaning unopened against the wall. 3. The interstate at dusk, the long drive back, gas receipts in the cupholder, for one broken gutter. 4. The family group text: her photo of the repair estimate, the sibling's one-word "no" underneath. 5. The vacant house at night from the street: every window dark, lit porches on both sides. [R] |
+| Confirmed claims used in this ad | Buys as-is; belongings can stay, no clean-out ("Don't clean it out yet." / "Take what matters. Leave the rest."); no commissions, no fees, no closing costs; seller picks the closing date; no obligation ("No obligation. Show your family."); the approved self-incrimination "Truth? Cash offers usually come in lower than listing. Ours too." with its close "That's why lower isn't everything." All from claims-registry.md Section 1, owner-confirmed 2026-09-25. |
+| Banned in this ad | Universal banned list (top dollar, best price, we pay more than anyone, distressed, desperate, motivated seller, act now, limited time, hassle-free, we care about you, countdowns). Plus, hard-blocked for this ad: "we're the buyer" / "we buy it ourselves" / "no middleman" / "not wholesalers"; any speed or timeline claim; any number; any urgency or scarcity; "we show you the math"; "any condition"; "you are / you have" plus a personal attribute; any card quote on screen or in voice; sympathy theatre; price-led opening. |
+
+## Part B. Script breakdown
+
+| # | Beat | Spoken line | Job of this line | Source | Trigger |
+|---|---|---|---|---|---|
+| 1 | Open A (hook) | "Her mom's coats still hang in that closet. She can't open it." | Stop the scroll mid-scene inside her trigger moment; the right heir recognizes it in under a second | Card scene 2 + trigger "she opens the closet with the parent's clothes still in it" | Story open, dimensionalization |
+| 2 | Payload | "The house sits hours from her front door. The tax bill finds her kitchen counter anyway." | Make the distance and the running costs a picture | Card scene 1 + pain "I live six hours away... driving back for stupid stuff" | Dimensionalization |
+| 3 | Payload | "Every few weekends, another long drive back for another small repair." | Stack the recurring drain without a single number | Card scene 3 + pain quote | Dimensionalization |
+| 4 | Payload | "Some nights she thinks the quiet part: she wants this house gone. And feels guilty the second she thinks it." | Say the unspoken sentence out loud; the emotional core of the ad | Card unspoken sentence "I want this house gone, and I feel guilty for wanting that" | Unspoken sentence |
+| 5 | Open B | "Her real fear: the moment a buyer hears gone, the offer drops." | Voice her top objection before she scrolls away with it | Card top fear "Am I getting ripped off because I just want this house gone?" | Objection said aloud |
+| 6 | Payload | "So she tries the long way instead. Listing means repairs first, then showings, then watching the asking price slide." | Name alternative one and why it fails her | Card: realtor prices high then cuts repeatedly; fixing it first fails | Contrast |
+| 7 | Payload | "Renting means managing tenants from hours away. Waiting means a dark house on a street of lit porches." | Name alternatives two and three and why they fail | Card: "another thing on my plate"; "a vacant house is a problem"; scene 5 | Contrast |
+| 8 | Payload | "And the family group text? A photo of the repair estimate, and one word back. No." | Close every exit; set up the family-blame shield the CTA pays off | Card scene 4 + sibling pain quote | Dimensionalization |
+| 9 | Open C (turn to viewer) | "If a house like that is sitting in your weekends right now, here's what nobody says. It doesn't have to be cleaned out first." | Turn the story back to the viewer by situation, never attribute; break the belief that the clean-out comes first | Template 13 turn rule; registry: belongings can stay | Belief break, task subtraction |
+| 10 | Payload (the catch) | "Truth? Cash offers usually come in lower than listing. Ours too." | The damaging admission, before any terms; the fastest credibility purchase available | Registry Section 1, approved wording, owner-confirmed 2026-09-25 | Damaging admission |
+| 11 | Payload (terms as relief) | "But the house is bought as-is. No commissions, no fees, no closing costs. And you pick the closing date." | Stack the confirmed terms as relief, after the catch | Registry Section 1: as-is; no commissions, no fees, no closing costs; seller picks the closing date | Risk reversal |
+| 12 | Close C | "That's why you don't clean it out." | Close the belief break with the approved wording | Registry Section 1 approved variant | Consistency |
+| 13 | Payload | "Take what matters. Leave the rest." | Absolution in six words; belongings can stay | Registry Section 1 approved variant | Relief, absolution |
+| 14 | Close B | "That's why lower isn't everything." | Close the objection with the admission's mandatory close | Registry Section 1: the admission never runs without this close | Consistency |
+| 15 | Payload | "A listed sale takes repairs, clean-out, commission, and closing costs off the top first." | Ground "lower isn't everything" in the allowed general-terms comparison, no numbers | Registry ride-along rule: the comparison may be described in general terms | Contrast |
+| 16 | Close A | "That's why Property Abundance buys the house as-is, closet and all. Being done is allowed." | Pay off the hook's closet, land the brand exactly once, hand her permission to be done | Registry: buys as-is, belongings stay; card lever 1, absolution | Consistency, absolution |
+| 17 | CTA | "Tap Learn More. No obligation. Show your family." | Smallest honest next step, soft; the line she can hand her siblings | Registry approved wording "No obligation. Show your family."; card lever 4, family-blame shield | Zero-price first step |
+
+Loop order: Open A -> Payload -> Payload -> Payload -> Open B -> Payload -> Payload -> Payload -> Open C -> Payload (catch) -> Payload (terms) -> Close C -> Payload -> Close B -> Payload -> Close A -> CTA.
+
+Word count and length: 233 spoken words at 2.5 words per second = about 93 seconds. Within ten percent of the 90-second target and inside the 220 to 235 word budget.
+
+Hook variants (same body for all three; only line 1 and the Close A line swap):
+
+| # | Family | Hook (spoken, 12 words or fewer) | On-screen text | First-frame visual | Close A line |
+|---|---|---|---|---|---|
+| MAIN | Pain / story open mid-scene | "Her mom's coats still hang in that closet. She can't open it." | The closet stays shut | Closet door half open, coats on hangers, flat boxes against the wall, morning light | "That's why Property Abundance buys the house as-is, closet and all. Being done is allowed." |
+| VARIANT | Benefit-led (result) | "Inherited a house hours away? It can sell just as it sits." | Sells just as it sits | Exterior of an older house, untouched, warm morning light | "That's why Property Abundance buys it just as it sits, closet and all. Being done is allowed." |
+| VARIANT | Curiosity plus benefit | "Nobody tells families this: the house doesn't have to be cleaned out." | No clean-out needed | Hallway of flat-packed moving boxes still leaning unassembled against a wall | "That's why Property Abundance buys it as-is, nothing cleaned out first. Being done is allowed." |
+
+## Part C. Scene breakdown
+
+| Scene | Time | Spoken over it | Shot / framing | On screen (subject + action) | B-roll insert (lands on which word) | On-screen text | Sound | Source image / generation note |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 0:00-0:05 | Line 1 | B-roll only, slow push-in, vertical 9:16 | Closet door half open, a woman's coats on wooden hangers, flat cardboard boxes leaning unassembled against the wall | None: the hook scene is the shot | The closet stays shut | Room tone, low piano, VO starts on frame one | Interior bedroom closet, door half open, older woman's coats on wooden hangers, flat unassembled cardboard boxes against the wall, soft morning window light, handheld phone framing. No text anywhere in frame |
+| 2 | 0:05-0:11 | Line 2 | Presenter to camera, phone-shot, kitchen, natural light | Presenter speaking, calm, seated at a kitchen counter | Plain envelope on top of a stack of mail on a counter (lands on "tax bill") | Hours from the house | Music low under VO | Presenter footage is filmed. Insert: plain unmarked envelope on a mail stack on a wooden kitchen counter, shallow depth of field, no legible text on any mail |
+| 3 | 0:11-0:16 | Line 3 | B-roll, windshield POV | Interstate at dusk through a windshield, gas receipts curled in the cupholder | Highway at dusk (lands on "drive") | Another drive back | Road hum under music | Dusk interstate seen through a car windshield from the driver's seat, headlights coming on, crumpled receipts in the center console cupholder, handheld feel. No signage legible |
+| 4 | 0:16-0:24 | Line 4 | Presenter close, quieter; hold the face for the guilt sentence | Presenter, slower delivery, small pause after "gone" | A hand resting on a closed closet door handle (lands on "quiet part") | She wants it gone / then: And feels guilty | Music thins to almost nothing | Insert: a woman's hand resting still on a closed closet door handle, hallway light, close framing. No text in frame |
+| 5 | 0:24-0:28 | Line 5 | Presenter close-up, slow push-in, no cutaway | Presenter, direct to lens | None | Will gone cost her? | A beat of silence before the line | Filmed presenter only |
+| 6 | 0:28-0:36 | Line 6 | B-roll pair, quick cuts | A ladder against a porch; strangers touring a living room | Ladder against porch (lands on "repairs"); couple touring with an agent (lands on "showings") | List, fix, drop, repeat | Music returns, restless | Shot one: extension ladder leaning on an older home's porch roof, tools at its base. Shot two: an unfamiliar couple in coats walking through an older living room while an agent gestures, seen from the hallway. No text in either frame |
+| 7 | 0:36-0:43 | Line 7 | B-roll pair | A phone buzzing face-down; a dark house between lit porches | Phone face-down buzzing on a desk (lands on "tenants"); night street, one dark house (lands on "dark") | A dark empty house | Low night ambience | Shot one: smartphone face-down on a desk, screen glow leaking at the edges. Shot two: residential street at night, one house fully dark between two houses with lit porches, static wide. No text in frame |
+| 8 | 0:43-0:50 | Line 8 | B-roll, over-shoulder | A phone held in hand, group-chat glow, screen angled away and defocused; a printed estimate face-down on the table edge | Phone in hand, screen defocused (lands on "group text") | One word back: no | Single soft notification tone, then quiet | Over-shoulder shot of a hand holding a phone, screen angled away from camera and fully defocused so nothing is readable, warm lamp light, a face-down printed page on the table. No legible text anywhere |
+| 9 | 0:50-0:59 | Line 9 | Presenter to camera, steps slightly closer, warmer; this is the turn to the viewer | Presenter, open posture | Flat-packed boxes still flat against a wall (lands on "cleaned out") | No clean-out first | Music warms slightly | Insert: flat unassembled cardboard boxes leaning against a bedroom wall, morning light. No text in frame |
+| 10 | 0:59-1:04 | Line 10, the catch | Presenter face, static framing, steady, no cutaway | Presenter holds the lens through the whole admission | None: the catch stays on the face | Cash offers run lower | Music drops out | Filmed presenter only, locked framing |
+| 11 | 1:04-1:11 | Line 11 | Presenter continues | Presenter, small nod on "as-is" | Exterior of an older house, unchanged, morning light (lands on "as-is") | No commissions, no fees / then: You pick the date | Music returns, soft and resolved | Insert: modest older single-family house exterior, unchanged and unstaged, soft morning light, static. No signage, no text |
+| 12 | 1:11-1:14 | Line 12 | B-roll | The closet door now open, light across the coats | Closet open (lands on "clean it out") | Don't clean it out yet | Piano motif from scene 1 returns | Same closet as scene 1, door now fully open, morning light across the hanging coats, one assembled box on the bed. No text in frame |
+| 13 | 1:14-1:17 | Line 13 | B-roll, close | Hands lift one framed photo from a shelf and leave the rest | Hands lifting the frame (lands on "matters") | Take what matters | Quiet | Close shot of two hands gently lifting a single framed photograph from a shelf of objects, leaving everything else in place, warm light. Frame contents indistinct, no readable text or recognizable faces |
+| 14 | 1:17-1:19 | Line 14 | Presenter face, steady | Presenter, calm | None | Lower isn't everything | Quiet | Filmed presenter only |
+| 15 | 1:19-1:24 | Line 15 | B-roll | An open toolbox and paint rollers in an empty room | Toolbox in empty room (lands on "repairs") | What a listing costs | Music holds low | Open toolbox and paint rollers on a drop cloth in an empty older room, daylight. No text in frame |
+| 16 | 1:24-1:30 | Line 16 | Presenter warm, final look; then insert | Presenter; then a hand closes the closet door gently, unhurried | Hand closing the closet door softly (lands on "closet") | Property Abundance buys as-is / then: Being done is allowed | Music resolves | Insert: the same closet door being closed slowly and gently by a woman's hand, calm, no hurry. No text in frame |
+| 17 | 1:30-1:33 | Line 17 | End card | CTA as text, logo small, all inside the Reels safe zone | None | Tap Learn More / No obligation | Spoken CTA over resolving music | Editor-built end card: text and small logo added in the editor, kept clear of the top fourteen percent, bottom thirty-five percent and six percent side margins. Nothing generated |
+
+Build rules honored: visual, spoken line and hook text all land inside the first two seconds; something changes every one to three seconds via cut, insert or text pop; every b-roll insert shows the noun being spoken and its column names the word; text pops echo in three to five words, sentence case, no periods; the catch stays on the presenter's face with the music down; all text is added in the editor, never inside a generation prompt; end card holds the last seconds with the CTA spoken and written.
+
+## Part D. Checks
+
+| Check | Result |
+|---|---|
+| Kill check: announces itself | Pass, all three hooks. No greeting, no self-introduction, no "today I tried" |
+| Kill check: blind curiosity | Pass. The curiosity variant carries its benefit (no clean-out) in the same breath |
+| Kill check: mechanism given away | Pass. The curiosity variant states one confirmed term as bait, and the body still holds the catch, the terms stack and the reframe; nothing is solvable without the click |
+| Kill check: accuses the reader | Pass. Third-person story throughout; the turn names a situation ("a house like that in your weekends"), never the person |
+| Kill check: copyable | Pass with note. MAIN is anchored in researched scenes a competitor would not guess; the benefit variant is the most generic of the three and is carried by the body's admission, which competitors do not copy |
+| Kill check: broken promise | Pass. The closet opens and closes the ad; "just as it sits" pays off in lines 11 and 16; "cleaned out" pays off in lines 9, 12 and 13 |
+| Kill check: closes in the ad | Pass. Soft CTA, sells the click only, no closing language, no urgency |
+| 7-point score, MAIN | Useful 3, Urgent 3, Unique 4, Ultra-specific 4, New 3, Easy 3, Safe 4 = 24 of 28. Keep |
+| 7-point score, benefit variant | Useful 4, Urgent 2, Unique 3, Ultra-specific 3, New 3, Easy 4, Safe 4 = 23 of 28. Keep |
+| 7-point score, curiosity variant | Useful 4, Urgent 2, Unique 3, Ultra-specific 3, New 4, Easy 4, Safe 3 = 23 of 28. Keep |
+| Beat-by-beat (ordered claims) | 1. A closet in an inherited house still holds a parent's clothes. 2. The house is hours from where she lives. 3. Its tax bill reaches her anyway. 4. She keeps driving back for small repairs. 5. She wants the house gone and feels guilty about it. 6. She fears wanting out will be priced against her. 7. Listing means repairs, showings and price cuts. 8. Renting means managing tenants from far away. 9. A vacant house left waiting becomes a risk. 10. The family will not fund repairs. 11. The house does not have to be cleaned out to sell. 12. Cash offers, ours included, usually come in lower than listing. 13. It is bought as-is with no commissions, no fees, no closing costs. 14. The seller picks the closing date. 15. Belongings can stay: take what matters, leave the rest. 16. A listed sale takes repairs, clean-out, commission and closing costs off the top. 17. Property Abundance buys as-is, contents and all. 18. The next step is a tap, with no obligation. Nothing contradicts, repeats or wanders |
+| Claims traced | Line 9, 12, 13: belongings can stay, no clean-out (registry Section 1, approved wordings). Line 10 and 14: the approved self-incrimination with its mandatory close, run together (Section 1 ride-along rule). Line 11 and 16: buys as-is; no commissions, no fees, no closing costs; seller picks the closing date (Section 1). Line 15: general-terms comparison explicitly allowed by the Section 1 ride-along rule, no numbers attached. Line 17: "No obligation. Show your family." (Section 1). Every other line is scene and story from the research card, asserting no offer term. Banned list untouched: no buyer-identity claims, no speed, no numbers in voice or on screen, no urgency, no "we show you the math", no "any condition" |
+| Quotes on screen | None. Every card quote was transformed into a scene; nothing from Part A appears on screen, in captions or as testimonial |
+| Personal attributes | No "you are" or "you have" plus an attribute anywhere. Call-outs name situations only. Meta Special Ad Category safe |
+| Emotional temperature | Quiet, low, permission-giving, grief-adjacent calm; the landing page's first screen must match this register, with no urgency and the same absolution language |
+| Sound-off test | Pops in order: The closet stays shut / Hours from the house / Another drive back / She wants it gone / And feels guilty / Will gone cost her? / List, fix, drop, repeat / A dark empty house / One word back: no / No clean-out first / Cash offers run lower / No commissions, no fees / You pick the date / Don't clean it out yet / Take what matters / Lower isn't everything / What a listing costs / Property Abundance buys as-is / Being done is allowed / Tap Learn More / No obligation. Muted, they carry promise, objection, catch, terms, brand and step |
+| Inputs chosen | None left blank by the brief. Format rendered as talking-head UGC narrator with b-roll inserts, the natural fit for a story-selling VSL with a company-voice presenter |
+| Confirm before running | propertyabundanceusa.com still returned HTTP 403 at the registry's last check. Every CTA points there, so this ad is production-ready but must not launch until the page loads. No claim in this script needs new confirmation |
+
+## Creative A/B note: one script, two presenters
+
+Shoot the identical script, edit and b-roll twice, changing only the presenter treatment.
+
+Version A, high-energy polished presenter: groomed on-camera talent, studio-adjacent lighting, confident projection, brand-video pacing. This arm operationalizes the meeting's "aggressive, polished creative" hypothesis.
+
+Version B, relatable average neighbor: an ordinary-looking person Emily's age or close to it, phone-shot in a real kitchen, natural light, flat calm delivery with a downward inflection and a pause after the catch line.
+
+Prediction: B wins for this avatar. The research basis, in order of weight: the short-form doctrine says a phone-shot real person in natural light usually beats polished brand video, and says to test both; the story-selling VSL rule says to cast someone who looks like the audience, and that a downward, unhurried inflection reads as authority while polish reads as rehearsal; Emily is solution-skeptical and predator-gated, so high energy and gloss pattern-match the "we buy houses" closer she is already braced for, while sympathy theatre and hype are her named hook killers; and the ad's one trust-critical moment, the admission at the catch, lands harder from a face that has nothing to sell. If the impulsive-audience creative hypothesis from the meeting still wants a test, run it on a different avatar and angle; this grief-adjacent story is the wrong vehicle for it, and version A already gives the polished arm a fair reading here.
