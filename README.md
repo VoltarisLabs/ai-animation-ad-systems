@@ -46,6 +46,7 @@ The ad studio for AI-generated video and static ads: format SOPs, the copywritin
 | [Claymation](./01_Skills_and_SOPs/Claymation) | Clay stop-motion | none | GPT-hosted, see below |
 | [Talking_Objects](./01_Skills_and_SOPs/Talking_Objects) | The failed solution confesses its flaws | none | GPT-hosted |
 | [Seedance_UGC](./01_Skills_and_SOPs/Seedance_UGC) | Realistic AI UGC with Seedance 2.0 | skill file | Complete |
+| [Flow_Animated_Story_Ads](./01_Skills_and_SOPs/Flow_Animated_Story_Ads) | Stylised story ads (claymation, game look) from Google Flow + a local ffmpeg edit | skill folder (SKILL.md) | Complete |
 
 Most format folders start with a `00-README` digest; read that first. Seedance_UGC has no `00-README`: start with `Seedance_2_Skill_for_Poppy.txt` instead.
 
@@ -104,12 +105,13 @@ The course teaches Max Fusion / Higgs Field. We run KIE.ai instead. Substitution
 
 ## Installing the skills
 
-Three formats ship as skill files. Drop each into `.claude/skills/<name>/SKILL.md`:
+Three formats ship as skill files. Drop each into `.claude/skills/<name>/SKILL.md`; the Flow story-ad skill is a whole folder:
 
 ```
 .claude/skills/skeleton/SKILL.md   <- 01_Skills_and_SOPs/Skeleton_Ads/002-skeleton-ads.md
 .claude/skills/crochet/SKILL.md    <- 01_Skills_and_SOPs/Crochet_Ad_Visuals/Skill.md
 .claude/skills/singing/SKILL.md    <- 01_Skills_and_SOPs/Singing_Animation_Ads/song-style-ad-generator-PROMPT.txt
+.claude/skills/flow-animated-story-ads/  <- 01_Skills_and_SOPs/Flow_Animated_Story_Ads/ (whole folder: SKILL.md, references/, scripts/)
 ```
 
 The singing prompt ships without frontmatter: add a `name:` and `description:` block at the top before installing. Skill bodies should stay verbatim.
