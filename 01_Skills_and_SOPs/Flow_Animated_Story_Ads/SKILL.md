@@ -5,7 +5,9 @@ description: End-to-end pipeline for Property Abundance animated story video ads
 
 # Flow animated story ads
 
-Turn an ad idea into a finished 30-45 s vertical ad: script, then reference images, then Flow clips, then voice, then a local edit, then QA. The person runs Flow and ElevenLabs themselves; Claude writes every prompt and does the whole edit and QA locally. The same pipeline made the claymation "Put the hammer down" ad and the GTA-style "Stress Meter" ad.
+Turn an ad idea into a finished 30-45 s vertical ad: script, then reference images, then Flow clips, then voice, then a local edit, then QA. The person runs Flow and ElevenLabs themselves; Claude writes every prompt and does the whole edit and QA locally. The same pipeline made the claymation "Put the hammer down" ad and the GTA-style "Stress Meter" and "Stop the Drain" ads.
+
+Two slash commands start it in a given look: `/claymation` (clay stop-motion, card-reel edit) and `/gta-style` (game loading-screen look, HUD edit). Their skill files are in `slash_commands/`; the repo README shows how to install them. Each one reads this file and these references.
 
 Read the parts you need:
 
@@ -18,7 +20,7 @@ Read the parts you need:
 | Screen layout, fonts, colours, caption styles | `references/layout-and-style.md` |
 | QA and launch gate | `references/qa-and-launch.md` |
 | Things that went wrong and the fix | `references/lessons-learned.md` |
-| Worked examples | `references/examples/gta-stress-meter.md`, `references/examples/claymation-hammer.md` |
+| Worked examples | `references/examples/gta-stress-meter.md`, `references/examples/gta-stop-the-drain.md`, `references/examples/claymation-hammer.md` |
 
 ## How to work with the person
 
