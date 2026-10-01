@@ -78,6 +78,10 @@ Sound: drip, a wet crack, a big water splash. He does not speak. No dialogue, no
 | A mission-marker light gaining arrows or icons | "a tall cylinder of soft golden-yellow light... a plain glow, no symbols" |
 | Handshakes (merged hands; also a claims problem) | avoid; see the claims rules |
 | Death or grief words ("late mother", funeral, urn, casket) get the prompt blocked | imply it: an inherited house, a keepsake box, old photos seen from the back, dated furniture; never name a death |
+| A face that starts to look like a famous person | change the face description (face shape, beard) and add "must not resemble any real person or celebrity"; attach the new image from then on |
+| Envelopes and mail come back with stamp squares, postmarks or address lines | "envelopes completely blank: no stamp square, postmark, letterhead, lines or print"; paint out what slips through |
+| Ingredients to Video loses the character's face or skin tone, or the house | see section 7: edit an approved frame, then Frames to Video |
+| An object made to vanish comes back a second later | keep the clean part and make the next clip from its last clean frame |
 
 ## 4. Stills (Nano Banana Pro)
 
@@ -100,3 +104,21 @@ The edit cut it into two shots: swing and blast (punch-in, shake and a 2-frame f
 ## 6. Checking a clip
 
 For each new clip: `bash scripts/contact_sheet.sh src/c1_splash.mp4 4` (a timestamped sheet, 4 frames a second), a zoomed strip around the key moment if needed, and `python scripts/words.py src/c1_splash.mp4` (it reads the clip's audio itself) to catch speech. Whisper also hallucinates "Thank you for watching!" on breeze noise; that is not speech. Note the source second of each beat (impact, head drop, nod, sweep, glance back): the builder anchors those to voice words.
+
+Also check, before the clip goes into the edit:
+- **The first second, face by face.** Crop the face every 3 frames over the first 1.5 s; one hook opened on a different-looking man who morphed into the character at 1.2 s.
+- **Mouths in silent beats.** Crop the mouth every few frames wherever the narrator is silent; one close had the character talking with no sound.
+- **Things that come back.** After a vanish or a clear, scan the rest of the clip for the object returning.
+- **Baked-in overlays.** One clip had white grid lines over its first 4.5 s; measure where they end and use only the clean part.
+
+## 7. Frames to Video from an edited still
+
+When a shot must match an earlier one (same man, same house, same spot) and Ingredients to Video keeps drifting, edit a frame you already approved in Nano Banana Pro, then animate the edit with Frames to Video (first frame only, no end frame). In the second game-look ad, Ingredients gave a different man and the wrong house for the sunset close; this route fixed both in one try. The edit prompt pattern:
+
+```
+Edit the attached image. Keep everything else exactly the same: the same man (same face, same skin tone, <hair, glasses, clothes>), the same pose, the same house, the same <props>, the same camera angle and framing, and the same <style words>. Change only two things: 1) <first change>. 2) <second change>. No text, letters, numbers, logos, signs, stamps, house numbers, notices, money or other people.
+```
+
+Then the Frames to Video prompt starts "Continue from this frame, single shot, no cuts: same <setting>, same framing; static camera. Same man, same face and skin tone, ..." and gives the beats.
+
+Make it easy to attach the right file: copy it into the person's downloads folder with an obvious name (`FIRST_FRAME_empty_table.png`), give the full path, and ask them to check the first-frame thumbnail before generating. Check the result's first frame against that file. A frame exported from an earlier clip scores SSIM above about 0.9 when it was used (0.93 in Stop the Drain). A Nano Banana still scores only about 0.74-0.76 even when it was used, because Veo reframes it, and a wrong still of the same room scored 0.72; so for a still, compare the two frames side by side for the details you changed.

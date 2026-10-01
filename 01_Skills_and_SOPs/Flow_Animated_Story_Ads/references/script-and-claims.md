@@ -60,6 +60,13 @@ Present options as a table the team can read at a glance:
 
 Recommend one and say why in one or two lines. Remember the team lead's direction (for example "GTA style", "bonus cash hook"), and say plainly when a direction needs the owner's OK.
 
-## 5. Changing lines later
+## 5. Team briefs, finished team scripts and news hooks
+
+- **A finished script from the team** ("use the script I sent"): keep the team's wording in the script file, list every line the registry does not confirm as NOT CLEARED at the top of it, with the owner decision each one needs and a safe swap, and record voice and clips with the swaps until the owner clears each line (the registry blocks production of a script that holds an unconfirmed claim; a cut recorded with the team's wording anyway is a draft that cannot launch) (the "Stop the Drain" example flags back taxes, taxes paid at closing and "See the number").
+- **A brief that asks for an unconfirmed promise** ("the best way to sell is with a guaranteed offer"): write it as asked if the team insists, mark the line, and give the swap ("a cash offer" / "Ask for a cash offer. No obligation."). "Guaranteed" promises at least one unconfirmed term (an offer for everyone, or no price drop at closing); "best way" is a banned superlative.
+- **News hooks** (mortgage rates, inflation, oil, a war): no figure in voice or on screen, market rates included (registry Section 5, item 4): mark a number NOT CLEARED and give the swap without it ("Rates jumped."). Check what the line says against a dated primary source (the weekly mortgage survey) and write the date into the script file. Economy and foreign-policy topics can put a housing ad into Meta's social-issue review (authorization and a "paid for by" disclaimer) on top of the Special Ad Category; flag it and give the swap ("Rates jumped. Loans got pricier."). Never show war imagery.
+- When the team will read the options, give them in the chat as tables they can paste, and keep company names out of the notes too (say "the ad platform", "the national weekly average").
+
+## 6. Changing lines later
 
 When a line changes, check what depends on it: the admission line needs its close; removing "catch" language means Open C changes too; a new offer wording changes the end card and the objective text. Re-record the whole voice rather than splicing single lines when the voice settings or reader change.

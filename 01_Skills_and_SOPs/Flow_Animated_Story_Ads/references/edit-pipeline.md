@@ -32,14 +32,14 @@ Setup: FFmpeg 7.0 or newer with libass (older builds: replace `-/filter_complex 
 - Snap every cut to the 24 fps grid (`q(t) = round(t*24)/24`) and cut each segment to an exact frame count (`trim=end_frame=n`). Unsnapped cuts round up a frame each and the pictures drift behind the words (seen as the previous line lingering over the new shot).
 - Pick the source window by anchoring a moment in the clip to a word: `(src_t, ad_t)` → `ss = src_t - (ad_t - t0)`. Examples: head drop at 5.0 s on "fix it all"; paper sweep at 1.3 s on "No need"; glance back at 5.25 s just before "Empty".
 - `CLIP_LEN` holds each clip's real length (Flow returns 8 or 10 s); `tpad=stop_mode=clone` covers a clip that runs short and the frame count trims the rest.
-- Stills: centred push-in 100→107%: prescale 4x with lanczos, `crop` to 4x frame, then `zoompan=z='1+0.07*on/N':x='(iw-iw/zoom)/2':y='(ih-ih/zoom)/2':d=1`. 2x still shimmers on thick outlines; anchoring at the top-left drifts.
+- Stills: centred push-in 100→107%: prescale 4x with lanczos, `crop` to 4x frame, then `zoompan=z='1+0.07*on/N':x='(iw-iw/zoom)/2':y='(ih-ih/zoom)/2':d=1`. 2x still shimmers on thick outlines; anchoring at the top-left drifts. `zoompan` rounds to whole pixels, so slow pushes still twitch on fine line art: the `perspective` filter in section 8 is smoother.
 - Comic freeze frame (on the hook payoff): grab the frame, boost colour, thin ink edges from `FIND_EDGES`, light halftone dots only in deep shadows, white panel border with a black rule. Hold it static (a push-in crops the border unevenly). A heavy version turned his face black: keep the effect light.
 - Punch-in with shake and a 2-frame flash on an impact: `scale` to 1.1x, `crop` with a decaying `sin` offset after the impact time, `eq=brightness=0.18:enable='between(t,T,T+0.08)'`.
 - Keep the character facing away or wide while the narrator says a company line ("Ours too"): a face-on punch-in made him read as the speaker.
 
 ## 3. On-screen text: one ASS file
 
-Put every text and HUD element in one ASS file, rendered once with `ass=...:fontsdir=...` after the concat (and after any PNG overlay). Useful patterns:
+Put every text and HUD element in one ASS file, rendered once with `ass=...:fontsdir=...` after the concat. `build_hud_ad.py` overlays the minimap PNG first and puts the ASS on top; the second game-look ad puts the minimap after the ASS instead (section 8), so banners and the pause dim don't grey it. Useful patterns:
 
 - Pop-in: `\fscx150\fscy150\t(0,120,\fscx100\fscy100)`; slam: add `\frz-4`.
 - Vector stars: an ASS drawing (`\p1`) of a 10-point star path, positioned with `\an5\pos(x,y)` so scaling grows from the centre (with `\an7` the star slides diagonally). Unlit slot: `\1a&HFF&` with an outline. Pop-off: white, `\t(0,400,\fscx260\fscy260\alpha&HFF&)`.
@@ -87,3 +87,24 @@ Windows paths inside filter arguments need the drive colon escaped: `ass='E\:/pa
 ## 7. Only a finished mp4?
 
 Rebuilding from the source project (voice file + clips) is the supported path; ask for it first. For captions or HUD on a finished file only: `python scripts/words.py in.mp4 work/vo_words.json`, write `work/caps.ass` from a builder's ASS header and event helpers, then `ffmpeg -i in.mp4 -vf "ass='work/caps.ass':fontsdir='fonts'" -c:v libx264 -crf 18 -c:a copy out.mp4`.
+
+## 8. Techniques from the second game-look ad
+
+These came out of "Stop the Drain" (`references/examples/gta-stop-the-drain.md`); port them into a copy of `build_hud_ad.py` as needed.
+
+- **Sub-pixel push-in.** Instead of `zoompan`, crop with `perspective` (no pre-scale needed; `in` is the frame number counted from 1, `nf` the frame count, `cx`/`cy` the zoom centre as fractions):
+  ```python
+  Z = f"({z0}+({z1}-{z0})*(in-1)/{max(nf - 1, 1)})"
+  L, T = f"((W-W/{Z})*{cx})", f"((H-H/{Z})*{cy})"
+  f"perspective=x0='{L}':y0='{T}':x1='({L}+W/{Z})':y1='{T}':x2='{L}':y2='({T}+H/{Z})':x3='({L}+W/{Z})':y3='({T}+H/{Z})':interpolation=cubic:eval=frame"
+  ```
+- **Still-to-clip pairs share one push.** Concat the still and the clip it turns into, then apply one push to the pair, so the cut doesn't snap back to 100%. Use the clip's own first frame as the still (`select=eq(n\,0)`), not the Nano Banana original: Veo reframes slightly (SSIM 0.92 with a centre crop, 0.67-0.78 otherwise).
+- **Cross-faded join.** Two clips that share a frame but differ in sharpness: run the second clip XF longer and use `xfade=transition=fade:duration=0.25:offset=<first clip length in seconds - 0.25>` (XF = 6 frames = 6/24 = 0.25 s; xfade takes seconds, not frames). Skip a static lead-in on the second clip.
+- **Partial slow motion.** Split the clip into three trims by frame: real speed where the motion is fast, `setpts=k*PTS,minterpolate=fps=24:mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1` only on the calm stretch, real speed again; `k` gets 3% spare so the source outlasts the shot. Slow that stretch's audio the same amount with two `atempo` stages (each stage goes down to 0.5).
+- **Minimap above the captions.** `ass=...` first, then `overlay` the minimap PNG, so banners and dims don't grey half of it.
+- **Time skip.** A short dip to black as an ASS rectangle on layer 0 (under subtitles and HUD), `\fad(70,200)`, around the cut.
+- **Pause look.** A full-frame black rectangle at `\1a&H70&` (ASS alpha is transparency: about 56% opaque) plus `hue=s=0.35:enable='between(t,a,b)'` on the video, one PAUSED title above the face, the HUD meter still moving on top.
+- **Segmented meter.** Twelve drawn rectangles with one ASS event per segment state (green, a white 0.10 s flash, red, then cleared or gold), a red minus bar popping up off each drained segment (a drawing, never a digit), a red flash on the plate, and one white shine sweep for the gold lock.
+- **Morphing face in a clip's first second.** Play those frames as a tight crop of the setting (`crop=640:1138:0:250` then scale back to 1080x1920) and cut to the full frame after the morph.
+- **Choosing a hold frame.** Measure frame-to-frame difference in the head area; hold where the motion has settled and the mouth is closed, not mid-turn.
+- **Measure sound attacks.** Some effect files have a quiet pre-blip before the real hit; align on the main attack.

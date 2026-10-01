@@ -24,16 +24,17 @@ Manual checks (the script does not do these):
 | Visual | text over faces, safe zones, legibility on a phone, overlapping elements, AI glitches (hands, drift, garbled text), freeze and stills quality |
 | Compliance | every spoken and on-screen word against the registry's Section 5 checklist, company name, game names/logos, weapons/police/crime, platform-UI lookalikes (a bare row of stars reads as a rating: keep the STRESS label), testimonial framing, Meta housing-ad risks |
 
-Typical confirmed findings: an effect with a long silent lead-in landing late; a jingle over the punchline; a zero-length subtitle; a banner carried a few frames into the next shot; the minimap on a face; the company admission playing over a face-on close-up.
+Typical confirmed findings: an effect with a long silent lead-in landing late; a jingle over the punchline; a zero-length subtitle; a banner carried a few frames into the next shot; the minimap on a face; the company admission playing over a face-on close-up. From the second game-look ad: a face that morphs in the hook's first second; the character mouthing words with no voice; menu options on a PAUSE screen (Meta's "non-existent functionality" rule); juddering slow motion; push-ins that twitch; a jump cut between two takes of the same room; a HUD label that implies a value claim.
 
-Fix, re-render, re-run the automated checks, and look at the frames that changed.
+Fix, re-render, re-run the automated checks, and look at the frames that changed. Then run `scripts/qa_workflow.js` once more on the fixed render (to make it shorter, copy the script and delete the compliance entry from `LENSES` when no spoken or on-screen words changed): fixes cause side effects, such as a hold frame landing mid head-turn or a moved title covering the eyes.
 
 ## 3. Launch gate (say it at every delivery)
 
 - Landing page works (registry Section 6: `propertyabundanceusa.com` returned 403; no ad sends traffic until fixed).
 - Every claim is in registry Section 1; unconfirmed ones (bonus cash, speed, "any condition") wait for the owner.
 - The owner has seen any made-up homeowner character.
-- Written consent for any cloned voice and a licence for any third-party sound effects are filed next to the ad (`PERMISSIONS.md`).
+- Written consent for any cloned voice and a licence for any third-party sound effects are filed next to the ad (`PERMISSIONS.md`), naming this ad (consent for an earlier ad does not carry over), with each cue listed and music (a mission jingle) covered as music.
+- No market number (a mortgage rate) in voice or on screen (registry Section 5, item 4); a news-hook line ("Rates jumped") was re-checked against its dated source on launch day.
 - Music added at upload from the platform's commercial library.
 
 Deliver: final mp4 in the ads folder with a plain name, plus 3-6 short lines on what changed and what still blocks launch.
