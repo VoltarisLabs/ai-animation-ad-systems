@@ -23,7 +23,7 @@ Since 2026-09-21 it is a git repo, pushed to `https://github.com/VoltarisLabs/ai
 
 | Folder | What lives here |
 |---|---|
-| `01_Skills_and_SOPs/` | One subfolder per ad format. Each holds the skill or SOP file **plus** its related tutorials and prompt PDFs: `Skeleton_Ads/`, `Claymation/`, `Crochet_Ad_Visuals/`, `Seedance_UGC/`, `Singing_Animation_Ads/`, `Talking_Objects/`, `Flow_Animated_Story_Ads/` (skill folder: Flow + local ffmpeg story ads) |
+| `01_Skills_and_SOPs/` | One subfolder per ad format. Each holds the skill or SOP file **plus** its related tutorials and prompt PDFs: `Skeleton_Ads/`, `Claymation/`, `Crochet_Ad_Visuals/`, `Seedance_UGC/`, `Singing_Animation_Ads/`, `Talking_Objects/`, `Flow_Animated_Story_Ads/` (skill folder: Flow + local ffmpeg story ads; its `slash_commands/` holds the `/claymation` and `/gta-style` skills, installed as the README shows) |
 | `02_Prompt_Libraries/` | Cross-format prompt banks (Ad Creator's Lab, POPPY, SORA 2 Pro hooks) |
 | `03_Ad_Scripts_and_Briefs/` | Finished and in-progress ad scripts, clip prompts, headline banks, scripting frameworks |
 | `04_Audience_Research/` | Research on cash home sellers. `Buyer_Avatar/` holds the three buyer avatars and their hook map. `Research_Document_Cash_Home_Buying.md` holds the offer terms (still PLACEHOLDER). |

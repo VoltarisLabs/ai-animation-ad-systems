@@ -13,6 +13,7 @@ The ad studio for AI-generated video and static ads: format SOPs, the copywritin
 | **Get a great script in one shot** | [11_Psychological_Hooks/prompts/one-shot-script.md](./11_Psychological_Hooks/prompts/one-shot-script.md) + [research-cards.md](./11_Psychological_Hooks/research-cards.md) + [claims-registry.md](./11_Psychological_Hooks/claims-registry.md) |
 | Write an ad that converts | [11_Psychological_Hooks/AD_COPY_CHECKLIST.md](./11_Psychological_Hooks/AD_COPY_CHECKLIST.md), then the [copywriting playbook](#copywriting-playbook) |
 | Produce an animated ad | [01_Skills_and_SOPs/](./01_Skills_and_SOPs) (the `00-README` in each format folder) |
+| Make a claymation or game-look ("GTA style") story ad | `/claymation` or `/gta-style` ([install them](#installing-the-skills)); the pipeline is in [Flow_Animated_Story_Ads](./01_Skills_and_SOPs/Flow_Animated_Story_Ads) |
 | See scripts in progress | [03_Ad_Scripts_and_Briefs/](./03_Ad_Scripts_and_Briefs) |
 | Understand the buyer | [04_Audience_Research/](./04_Audience_Research) |
 
@@ -43,18 +44,18 @@ The ad studio for AI-generated video and static ads: format SOPs, the copywritin
 | [Skeleton_Ads](./01_Skills_and_SOPs/Skeleton_Ads) | 3D cartoon skeleton, narrated escalating journey | `/skeleton` | Complete |
 | [Crochet_Ad_Visuals](./01_Skills_and_SOPs/Crochet_Ad_Visuals) | Knitted stop-motion diorama | `/crochet` | Complete |
 | [Singing_Animation_Ads](./01_Skills_and_SOPs/Singing_Animation_Ads) | Song-style micro music video | `/singing` | Complete |
-| [Claymation](./01_Skills_and_SOPs/Claymation) | Clay stop-motion | none | GPT-hosted, see below |
+| [Claymation](./01_Skills_and_SOPs/Claymation) | Clay stop-motion | none (Flow route: `/claymation`) | GPT-hosted, see below |
 | [Talking_Objects](./01_Skills_and_SOPs/Talking_Objects) | The failed solution confesses its flaws | none | GPT-hosted |
 | [Seedance_UGC](./01_Skills_and_SOPs/Seedance_UGC) | Realistic AI UGC with Seedance 2.0 | skill file | Complete |
-| [Flow_Animated_Story_Ads](./01_Skills_and_SOPs/Flow_Animated_Story_Ads) | Stylised story ads (claymation, game look) from Google Flow + a local ffmpeg edit | skill folder (SKILL.md) | Complete |
+| [Flow_Animated_Story_Ads](./01_Skills_and_SOPs/Flow_Animated_Story_Ads) | Stylised story ads from Google Flow + a local ffmpeg edit: claymation (card-reel edit) or game look (HUD edit) | `/claymation`, `/gta-style` | Complete |
 
-Most format folders start with a `00-README` digest; read that first. Seedance_UGC has no `00-README`: start with `Seedance_2_Skill_for_Poppy.txt` instead.
+Most format folders start with a `00-README` digest; read that first. Two don't: Seedance_UGC (start with `Seedance_2_Skill_for_Poppy.txt`) and Flow_Animated_Story_Ads (start with its `SKILL.md`, or use `/claymation` / `/gta-style`).
 
 ---
 
 ## Picking a format
 
-| | Skeleton | Crochet | Singing | Claymation | Talking Objects |
+| | Skeleton | Crochet | Singing | Claymation (GPT SOP) | Talking Objects |
 |---|---|---|---|---|---|
 | **Core mechanic** | curiosity hook + escalating spine | phrase → 5 visual options | lyrics carry the angle | scene chaining | "I'm the failed solution" |
 | **Consistency method** | Character Bible verbatim + hero ref | character ref + diorama framing | n/a | facial-consistency line + ref | one character, one take |
@@ -97,24 +98,35 @@ The course teaches Max Fusion / Higgs Field. We run KIE.ai instead. Substitution
 | Assembly | ffmpeg / Premiere | free |
 
 ### Open blockers
-1. **Kling down on KIE.** Claymation's continuous-flow mechanic depends on Kling 3.0's start/end frame feature. Check whether Seedance 2.0 exposes an end-frame parameter: that single answer decides whether claymation is fully producible here.
+1. **Kling down on KIE.** The GPT-hosted Claymation format's continuous-flow mechanic depends on Kling 3.0's start/end frame feature. Check whether Seedance 2.0 exposes an end-frame parameter: that single answer decides whether that format is fully producible here. (The Flow route, `/claymation`, does not need Kling.)
 2. **No cheap test tier.** Every SOP assumes "test on the cheap model first." Verify `seedream-4.5` and `seedance-1.5-pro` on KIE.
-3. **Two GPT-hosted formats.** Claymation and Talking Objects live in OpenAI custom GPTs whose instructions aren't extractable. Talking Objects' lesson contains enough to work without it; claymation needs the source document.
+3. **Two GPT-hosted formats.** Claymation and Talking Objects live in OpenAI custom GPTs whose instructions aren't extractable. Talking Objects' lesson contains enough to work without it; the GPT Claymation format needs the source document; the Flow route (`/claymation`) does not.
 
 ---
 
 ## Installing the skills
 
-Three formats ship as skill files. Drop each into `.claude/skills/<name>/SKILL.md`; the Flow story-ad skill is a whole folder:
+Five slash commands ship as skill files. Drop each into `.claude/skills/<name>/SKILL.md` (the folder name becomes the command):
 
 ```
-.claude/skills/skeleton/SKILL.md   <- 01_Skills_and_SOPs/Skeleton_Ads/002-skeleton-ads.md
-.claude/skills/crochet/SKILL.md    <- 01_Skills_and_SOPs/Crochet_Ad_Visuals/Skill.md
-.claude/skills/singing/SKILL.md    <- 01_Skills_and_SOPs/Singing_Animation_Ads/song-style-ad-generator-PROMPT.txt
-.claude/skills/flow-animated-story-ads/  <- 01_Skills_and_SOPs/Flow_Animated_Story_Ads/ (whole folder: SKILL.md, references/, scripts/)
+.claude/skills/skeleton/SKILL.md    <- 01_Skills_and_SOPs/Skeleton_Ads/002-skeleton-ads.md
+.claude/skills/crochet/SKILL.md     <- 01_Skills_and_SOPs/Crochet_Ad_Visuals/Skill.md
+.claude/skills/singing/SKILL.md     <- 01_Skills_and_SOPs/Singing_Animation_Ads/song-style-ad-generator-PROMPT.txt
+.claude/skills/claymation/SKILL.md  <- 01_Skills_and_SOPs/Flow_Animated_Story_Ads/slash_commands/claymation/SKILL.md
+.claude/skills/gta-style/SKILL.md   <- 01_Skills_and_SOPs/Flow_Animated_Story_Ads/slash_commands/gta-style/SKILL.md
 ```
 
 The singing prompt ships without frontmatter: add a `name:` and `description:` block at the top before installing. Skill bodies should stay verbatim.
+
+`/claymation` and `/gta-style` are the two front doors to the Flow story-ad pipeline. Both read the shared skill in `01_Skills_and_SOPs/Flow_Animated_Story_Ads/` (its `SKILL.md`, `references/` and `scripts/`) straight from the repo, so copy only the two command folders, then start Claude Code from the repo root. From the repo root:
+
+```bash
+mkdir -p .claude/skills
+cp -r 01_Skills_and_SOPs/Flow_Animated_Story_Ads/slash_commands/claymation .claude/skills/
+cp -r 01_Skills_and_SOPs/Flow_Animated_Story_Ads/slash_commands/gta-style .claude/skills/
+```
+
+Then type `/claymation` or `/gta-style`, optionally followed by an idea, a team brief or a finished script (for example `/gta-style a homeowner stuck on a loading screen of repairs`). If Claude Code was already running when `.claude/skills/` was created, type `/reload-skills` (or restart Claude Code) and the commands will show in the `/` menu. `.claude/` is in `.gitignore`, so each person installs locally, and the copies don't update with the repo: after a `git pull` that changes `slash_commands/`, run the two `cp` lines again. The shared `SKILL.md`, `references/` and `scripts/` are read straight from the repo and need nothing.
 
 ---
 
