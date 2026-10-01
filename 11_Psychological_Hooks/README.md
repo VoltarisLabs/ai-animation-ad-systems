@@ -8,6 +8,7 @@ For a production-ready script in one pass: paste [prompts/one-shot-script.md](pr
 ## How to use it (in order)
 1. **Research** ([research-playbook.md](research-playbook.md)): paste the market's exact words, map their awareness level, dimensionalize the pain, pick one bullseye desire, and check the second click.
 2. **Offer** ([offer-and-mechanism.md](offer-and-mechanism.md)): the mechanism in three questions, an honest offer stack, the catch said first, a low-friction first ask, the funnel shape.
+   - **Angle and strategy** ([PERSUASIVE_SCRIPTING_PLAYBOOK.md](PERSUASIVE_SCRIPTING_PLAYBOOK.md)): the villain angle (false belief → villain → mechanism → fix, decoded from the Lem ad), the test plan, how to read the data, the next-script review that ends every script, and how the Ad Creators Lab course makes the video and voice look and sound real.
 3. **Write** ([AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md)): write 20 hooks across different types from [hook-formulas.md](hook-formulas.md), run kill checks and the 7-point score, keep 3-5, then pick a structure from [templates/video-scripts.md](templates/video-scripts.md). **Deliver it as a [script and scene breakdown](templates/script-and-scene-breakdown.md).**
 4. **Test** ([testing-and-iteration.md](testing-and-iteration.md)): hook first, hook rate, 7-day data, funnel triage, retarget by objection, log winners in [swipe-file.md](swipe-file.md).
 5. **Speed up with AI** ([prompts/copy-prompts.md](prompts/copy-prompts.md)): research miner, Objection Obliterator, hook generator, copy chief, pre-mortem, teardown.
@@ -32,6 +33,7 @@ From the Georgi and Suby channel scans, confirmed across dozens of videos:
 | [research-cards.md](research-cards.md) | Pre-filled research cards for all 5 seller avatars |
 | **[AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md)** | **Start here. The routine every ad script goes through.** |
 | [research-playbook.md](research-playbook.md) | Get the market's exact words into the lines: worksheet, awareness gap, dimensionalization, second-click check |
+| [PERSUASIVE_SCRIPTING_PLAYBOOK.md](PERSUASIVE_SCRIPTING_PLAYBOOK.md) | The loop: angle engine, five Property Abundance angles, test plan, reading Meta data, diagnose → next test, the next-script review, video and voice realism, the feedback log |
 | [offer-and-mechanism.md](offer-and-mechanism.md) | Mechanism (why it works), honest offer stack, radical transparency, funnel shape, follow-up |
 | [testing-and-iteration.md](testing-and-iteration.md) | Volume and curation, kill checks, test order, reading results, the AI workflow, teardown order |
 | [templates/](templates/) | **[script-and-scene-breakdown.md](templates/script-and-scene-breakdown.md): the deliverable every ad ships as (research card, script breakdown, scene breakdown, checks).** Plus 13 short-form video templates (`video-scripts.md`), static and carousel templates (`static-ads.md`) |
