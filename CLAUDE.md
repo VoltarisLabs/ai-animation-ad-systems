@@ -27,7 +27,7 @@ Since 2026-09-21 it is a git repo, pushed to `https://github.com/VoltarisLabs/ai
 | `02_Prompt_Libraries/` | Cross-format prompt banks (Ad Creator's Lab, POPPY, SORA 2 Pro hooks) |
 | `03_Ad_Scripts_and_Briefs/` | Finished and in-progress ad scripts, clip prompts, headline banks, scripting frameworks |
 | `04_Audience_Research/` | Research on cash home sellers. `Buyer_Avatar/` holds the three buyer avatars and their hook map. `Research_Document_Cash_Home_Buying.md` holds the offer terms (still PLACEHOLDER). |
-| `05_Tutorials/` | Tutorials that do not belong to one format, and the one hook psychology file |
+| `05_Tutorials/` | Tutorials that do not belong to one format, and the one hook psychology file. `Meta_Campaign_Setup_Punch1.md` (2026-10-02): how to build the first Meta test campaign (1 campaign, 1 broad ad set, one concept per ad), the "Creative Testing" column preset, and the Housing / Leads changes; paraphrased from two Ad Creators Lab media-buying lessons, which stay local. |
 | `06_Canva_Ad_Templates/` | 61 numbered Canva template PDFs (1-62 with 45 missing) |
 | `07_Assets/Audio/` | Sound-effects library (`Sound Effects/`) + loose music/SFX mp3s |
 | `07_Assets/Stock_Video/` | B-roll (local only). Video: 24 Pexels clips pulled through the API on 2026-09-22, plus 7 object-only clips added on 2026-09-26 (`closet_`, `house_`, `forsale_`, `roof_`, `junk_`, `contract_`, `ceiling_`; see `10_Video_Builds/Ad15_Emily_30s_UGC/SOURCES_v4.md`). |

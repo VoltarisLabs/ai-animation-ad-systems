@@ -25,7 +25,7 @@ The ad studio for AI-generated video and static ads: format SOPs, the copywritin
 | [02_Prompt_Libraries/](./02_Prompt_Libraries) | Cross-format prompt banks |
 | [03_Ad_Scripts_and_Briefs/](./03_Ad_Scripts_and_Briefs) | Finished and in-progress scripts, clip prompts, headline banks |
 | [04_Audience_Research/](./04_Audience_Research) | Buyer avatars, hook map, market research |
-| [05_Tutorials/](./05_Tutorials) | Hook psychology research report and cross-format tutorials |
+| [05_Tutorials/](./05_Tutorials) | Hook psychology research report, cross-format tutorials, and the Meta campaign setup guide |
 | [06_Canva_Ad_Templates/](./06_Canva_Ad_Templates) | Numbered Canva template PDFs |
 | [09_Characters/](./09_Characters) | Character sheet prompt template and the animated JMSN-3D character |
 | [10_Video_Builds/](./10_Video_Builds) | Working files for each rendered ad |
