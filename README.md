@@ -12,7 +12,7 @@ The ad studio for AI-generated video and static ads: format SOPs, the copywritin
 |---|---|
 | **Get a great script in one shot** | [11_Psychological_Hooks/prompts/one-shot-script.md](./11_Psychological_Hooks/prompts/one-shot-script.md) + [research-cards.md](./11_Psychological_Hooks/research-cards.md) + [claims-registry.md](./11_Psychological_Hooks/claims-registry.md) |
 | Write an ad that converts | [11_Psychological_Hooks/AD_COPY_CHECKLIST.md](./11_Psychological_Hooks/AD_COPY_CHECKLIST.md), then the [copywriting playbook](#copywriting-playbook) |
-| Make any script sell | [11_Psychological_Hooks/sell-the-destination.md](./11_Psychological_Hooks/sell-the-destination.md): 90% on the customer's life after, 10% on how it works |
+| Make any script sell | [11_Psychological_Hooks/sell-the-destination.md](./11_Psychological_Hooks/sell-the-destination.md): their life after and the easy steps to get there, not how the offer works |
 | Produce an animated ad | [01_Skills_and_SOPs/](./01_Skills_and_SOPs) (the `00-README` in each format folder) |
 | Make a claymation or game-look ("GTA style") story ad | `/claymation` or `/gta-style` ([install them](#installing-the-skills)); the pipeline is in [Flow_Animated_Story_Ads](./01_Skills_and_SOPs/Flow_Animated_Story_Ads) |
 | See scripts in progress | [03_Ad_Scripts_and_Briefs/](./03_Ad_Scripts_and_Briefs) |
@@ -79,7 +79,7 @@ Most format folders start with a `00-README` digest; read that first. Two don't:
 5. **Formats don't mix.** Crochet's negative prompt explicitly bans `claymation, clay texture`; the style blocks are mutually exclusive.
 6. **Verify pronunciation of brand and product names** in any generated speech, before committing to video.
 7. **Cheap model to test timing, better model for the final.** Every course lesson repeats this.
-8. **Sell the destination, not the plane.** Every script, every format, spends about 90% of its time on the customer's life after and about 10% on how it works: the mechanism gets one line, every feature line gets a picture of life after, and the last image is their next chapter. Tag lines PAIN / PLANE / DESTINATION before handing a script over. Full rule: [sell-the-destination.md](./11_Psychological_Hooks/sell-the-destination.md). The [claims registry](./11_Psychological_Hooks/claims-registry.md) still decides the wording.
+8. **Sell the destination, not the plane.** Every script, every format, with no exceptions. Tag every line and shot PAIN / PLANE / PATH / DESTINATION: the offer mechanics get one line (PLANE 10% or less), the customer's own easy steps get 1-3 beats (PATH), and their life after gets 35% or more of a cold ad, about 30% of a hot one (DESTINATION). One concrete scene, told through a character; the last image is their next chapter. The research behind it (process vs. outcome simulation, progression vs. before/after ads, construal level) and the pre-ship check: [sell-the-destination.md](./11_Psychological_Hooks/sell-the-destination.md). The [claims registry](./11_Psychological_Hooks/claims-registry.md) still decides the wording.
 
 ---
 

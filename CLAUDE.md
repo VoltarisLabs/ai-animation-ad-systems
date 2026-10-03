@@ -9,6 +9,10 @@ Since 2026-09-21 it is a git repo, pushed to `https://github.com/VoltarisLabs/ai
 
 **Public repo, no personal data.** Before any push, scan the files for names, local paths (`/Users/...`), personal emails, phone numbers, passwords and screenshots. Scripts find the project root relative to their own file, never by a hard-coded home path. Commits use the repo-local identity `VoltarisLabs <257142603+VoltarisLabs@users.noreply.github.com>` in UTC (`TZ=UTC`), never a personal email.
 
+## Every script: sell the destination
+
+Any time anyone asks for a script, hook, rewrite or script options, in any format (including the course skills for skeleton, crochet and singing, whose bodies stay verbatim: apply this on top), write and check it with `11_Psychological_Hooks/sell-the-destination.md` before handing it over. In short: tag every line and shot PAIN / PLANE / PATH / DESTINATION; offer mechanics get one line (PLANE 10% or less); show the customer's own easy steps in 1-3 beats (PATH); spend 35% or more on their life after for a cold ad, about 30% for a hot one (DESTINATION); one concrete scene, told through a character; the last image before the end card is their next chapter. The claims registry still decides the words. Show the tag split in the hand-off.
+
 ## Open questions (owner decisions pending)
 
 - (a) The repo is public, but the README warns it holds verbatim Ad Creators Lab course material. Make the repo private, or remove that material?
@@ -46,7 +50,7 @@ The method is the `kristian_jennings_ai_ugc_workflow` skill. Read its `SKILL.md`
 
 | Step | Skill | Kie model | Output goes to |
 |---|---|---|---|
-| 1. Script and hooks | `reel_direction_2`, `hook-engine`, `humanizer` + `05_Tutorials/Hook_Psychology_Research_Report.md`. Every script must pass `11_Psychological_Hooks/AD_COPY_CHECKLIST.md` before voice or video, and follow `11_Psychological_Hooks/sell-the-destination.md` (90% the customer's life after, 10% how it works). | none | `03_Ad_Scripts_and_Briefs/` or `11_Psychological_Hooks/` |
+| 1. Script and hooks | `reel_direction_2`, `hook-engine`, `humanizer` + `05_Tutorials/Hook_Psychology_Research_Report.md`. Every script must pass `11_Psychological_Hooks/AD_COPY_CHECKLIST.md` before voice or video, and pass the `11_Psychological_Hooks/sell-the-destination.md` check (PAIN / PLANE / PATH / DESTINATION tags and budgets). | none | `03_Ad_Scripts_and_Briefs/` or `11_Psychological_Hooks/` |
 | 2. Storyboard | Kristian: script lines left, visual right, "AI UGC" where the face shows | none | `03_Ad_Scripts_and_Briefs/` |
 | 3. Reference frame | Kristian step 1: a real frame from real phone footage | none | `12_AI_Characters/<Name>/ref_*` |
 | 4. Avatar image | Kristian step 2 + `nano_banana_photo_formula` or `json-prompting` | `nano-banana-pro` | `13_Generated/images/` (prompts stay in `12_AI_Characters/<Name>/`) |

@@ -12,7 +12,8 @@ Product/offer:        [what you sell]
 Audience:             [who, in one specific situation]
 Their #1 pain:        [in their words]
 Their #1 want:        [the result, in their words]
-Their life after:     [the scene once it's solved: where they are, what they're doing]
+Their easy path:      [1-3 steps they take, from their side: asks, carries one box out, circles a date]
+Their life after:     [the scene once it's solved: where they are, who with, what they're doing]
 Their #1 worry:       [the reason they won't buy]
 Awareness level:      [Unaware / Problem / Solution / Product / Most aware]
 Proof we have:        [numbers, reviews, results, credentials]
@@ -90,11 +91,14 @@ Every line has one job: get the next line read (Sugarman).
 - [ ] Frame the cost of waiting as a **loss**, only when accurate.
 - [ ] Pick the structure by awareness: see [frameworks.md](frameworks.md).
 
-## Step 5b. Sell the destination, not the plane (90/10)
-Full rule: [sell-the-destination.md](sell-the-destination.md) (Tracy). People buy the change in their life, not how it works.
-- [ ] Tag each line PAIN / PLANE / DESTINATION. PLANE (process, terms, company, features) is no more than about 15% of the words; DESTINATION is at least about 40%.
-- [ ] The mechanism is said once, in one line.
-- [ ] Every feature line has a picture of their life after next to it.
+## Step 5b. Sell the destination, not the plane
+Full rule, research and examples: [sell-the-destination.md](sell-the-destination.md). People buy progress in their own life, not how the offer works, and they believe it when they can see the easy steps that get them there.
+- [ ] Tag every spoken line and every shot: **PAIN**, **PLANE** (how the company or offer works), **PATH** (the customer's own easy steps, from their side) or **DESTINATION** (their life after).
+- [ ] PLANE is 10% or less of the words, said once.
+- [ ] One to three PATH beats. Never a long process: a seller who wants it simple reads steps as effort.
+- [ ] DESTINATION is 35% or more for a cold ad, about 30% for a hot one (deciding now, retargeting); hot ads move the difference to PATH.
+- [ ] The destination is one concrete scene (a person, a place, an action), never an abstract word and never "imagine..." over a vague outcome.
+- [ ] Told through a character in third person; the narrator says it while the screen shows it.
 - [ ] The last image before the end card is their next chapter, not just the problem ending.
 
 ## Step 6. CTA: the smallest possible step

@@ -41,7 +41,7 @@ The team's structure. Each Open raises one concrete question; the Closes pay the
 
 Aim for 85-115 spoken words (30-40 s). Plain words a 12-year-old follows.
 
-**Sell the destination, not the plane** (`11_Psychological_Hooks/sell-the-destination.md`): the Main carries the mechanism in one line, and every Close pairs its approved line with a picture of the homeowner's life after (door locked one last time, a calm table, a new area on the map). End on their next chapter, not just MISSION COMPLETE. Tag lines PAIN / PLANE / DESTINATION before handing over: PLANE at most about 15% of the words, DESTINATION at least about 40%.
+**Sell the destination, not the plane** (`11_Psychological_Hooks/sell-the-destination.md`, applies to every script): the Main carries the mechanism in one line; one to three PATH beats show the homeowner's own easy steps (carries out one box, circles a date, locks the door one last time); every Close pairs its approved line with a picture of their life after; the last shot before the end card is their next chapter (NEW AREA UNLOCKED, not just MISSION COMPLETE). Tag every line and shot PAIN / PLANE / PATH / DESTINATION before handing over: PLANE 10% or less of the words, DESTINATION 35% or more cold, about 30% hot.
 
 ## 3. Hooks that worked
 

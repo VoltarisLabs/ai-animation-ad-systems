@@ -2,7 +2,7 @@
 
 The deliverable that research turns into. Every ad ships as **one file with four parts**: the research card, the script breakdown, the scene breakdown, and the checks. The writer fills in Parts A to C. Production works only from Part C.
 
-Research method: [../research-playbook.md](../research-playbook.md). Structures: [video-scripts.md](video-scripts.md). Hooks: [../hook-formulas.md](../hook-formulas.md). Rules: [../AD_COPY_CHECKLIST.md](../AD_COPY_CHECKLIST.md).
+Research method: [../research-playbook.md](../research-playbook.md). Structures: [video-scripts.md](video-scripts.md). Hooks: [../hook-formulas.md](../hook-formulas.md). Rules: [../AD_COPY_CHECKLIST.md](../AD_COPY_CHECKLIST.md). Every script follows [../sell-the-destination.md](../sell-the-destination.md).
 
 Worked example (real estate): `03_Ad_Scripts_and_Briefs/Property_Abundance_Ad16_JMSN_Breakdown_v3.md`.
 
@@ -20,6 +20,8 @@ Top fear / objection:          "..."
 What they already tried:       [alternative] -> why it fails them
 Unspoken sentence:     [what they think and won't say]
 Scenes (dimensionalized):      1. ...  2. ...  3. ...
+Easy path (1-3 steps):         [what they do, from their side]
+Life after (one scene):        [person, place, action]
 Confirmed claims we may use:   [only verified terms]
 Banned in this ad:     [numbers, speed, scarcity, unconfirmed terms...]
 ```
@@ -27,20 +29,21 @@ Banned in this ad:     [numbers, speed, scarcity, unconfirmed terms...]
 ## Part B. Script breakdown
 One row per spoken line. Every line needs a **job** and a **source**. If you can't name the research quote or rule a line comes from, cut it.
 
-| # | Beat | Spoken line | Job of this line | Source (research quote or rule) | Trigger |
-|---|---|---|---|---|---|
-| 1 | Hook (Open A) | | Stop the scroll, promise a benefit | | Curiosity + benefit |
-| 2 | Payload | | Make the pain a scene they can picture | | Dimensionalization |
-| 3 | Open B | | Say their objection out loud | | Unspoken sentence |
-| 4 | Payload | | Name the alternative they considered, and why it fails | | Contrast |
-| 5 | Close B | | Answer the objection honestly, catch first | | Damaging admission |
-| 6 | Payload | | The confirmed terms, as relief | | Risk reversal |
-| 7 | Close A | | Pay off the hook, reveal the brand | | Consistency |
-| 8 | CTA | | Smallest honest next step | | Zero-price first step |
+| # | Beat | Spoken line | Job of this line | Source (research quote or rule) | Trigger | Tag |
+|---|---|---|---|---|---|---|
+| 1 | Hook (Open A) | | Stop the scroll, promise a benefit | | Curiosity + benefit | PAIN |
+| 2 | Payload | | Make the pain a scene they can picture | | Dimensionalization | PAIN |
+| 3 | Open B | | Say their objection out loud | | Unspoken sentence | PAIN |
+| 4 | Payload | | Name the alternative they considered, and why it fails | | Contrast | PAIN |
+| 5 | Close B | | Answer the objection honestly, catch first | | Damaging admission | PLANE |
+| 6 | Payload | | The confirmed terms, as relief | | Risk reversal | DESTINATION |
+| 7 | Close A | | Pay off the hook, reveal the brand | | Consistency | DESTINATION |
+| 8 | CTA | | Smallest honest next step | | Zero-price first step | PATH |
 
 Below the table, list:
 - **Hook variants:** 3 or more, each from a different family, with the matching Close A line for each. At least one benefit-led and one pain-led.
 - **Word count and length:** about 2.5 words per second, or the measured pace of the voice or avatar.
+- **Tag split:** percent of words per tag (PAIN / PLANE / PATH / DESTINATION). The tags in the example rows are a starting point; set them by what each line really does.
 
 ## Part C. Scene breakdown
 One row per shot. This is what production builds from. Every cut should land on a word.
@@ -65,3 +68,4 @@ One row per shot. This is what production builds from. Every cut should land on 
 - [ ] Every claim is on the confirmed list. No quote from Part A appears on screen.
 - [ ] Emotional temperature matches the landing page or first reply.
 - [ ] Sound-off test: the text alone tells the story.
+- [ ] Sell the destination ([../sell-the-destination.md](../sell-the-destination.md)): PLANE 10% or less, 1-3 PATH beats, DESTINATION 35%+ cold / ~30% hot, last shot = their next chapter.

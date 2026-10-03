@@ -25,7 +25,7 @@ From the Georgi and Suby channel scans, confirmed across dozens of videos:
 8. **A strong, honest offer beats a clever argument.** Say the catch first.
 9. **Keep the same promise and emotional temperature** from ad to page to first reply.
 10. **Volume, then judgment.** Write 20 hooks, kill most, test the hook first, and log why winners won.
-11. **Sell the destination, not the plane** (Tracy). 90% on their life after, 10% on how it works ([sell-the-destination.md](sell-the-destination.md)).
+11. **Sell the destination, not the plane** (Levitt, Tracy; research in [sell-the-destination.md](sell-the-destination.md)). Spend the time on their life after and the 1-3 easy steps they take to get there; the offer mechanics get one line.
 
 ## Structure
 | Path | Contents |
@@ -33,7 +33,7 @@ From the Georgi and Suby channel scans, confirmed across dozens of videos:
 | [claims-registry.md](claims-registry.md) | **The single source of truth for claims: confirmed wording, contradicted / do-not-use, not confirmed, banned, and the before-any-script-ships check.** Every script defers to it |
 | [research-cards.md](research-cards.md) | Pre-filled research cards for all 5 seller avatars |
 | **[AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md)** | **Start here. The routine every ad script goes through.** |
-| **[sell-the-destination.md](sell-the-destination.md)** | **The 90/10 rule every script follows: spend the time on the customer's life after, not on how it works. Budget, feature-to-destination table, pre-ship check.** |
+| **[sell-the-destination.md](sell-the-destination.md)** | **Every script follows it: four tags (PAIN / PLANE / PATH / DESTINATION), budgets for cold and hot ads, the research behind it, the pre-ship check.** |
 | [research-playbook.md](research-playbook.md) | Get the market's exact words into the lines: worksheet, awareness gap, dimensionalization, second-click check |
 | [PERSUASIVE_SCRIPTING_PLAYBOOK.md](PERSUASIVE_SCRIPTING_PLAYBOOK.md) | The loop: angle engine, five Property Abundance angles, test plan, reading Meta data, diagnose → next test, the next-script review, video and voice realism, the feedback log |
 | [offer-and-mechanism.md](offer-and-mechanism.md) | Mechanism (why it works), honest offer stack, radical transparency, funnel shape, follow-up |

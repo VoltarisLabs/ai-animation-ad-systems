@@ -1,6 +1,6 @@
 # One-Shot Script Prompt
 
-One paste, one reply, one shippable ad. The mega-prompt below turns an avatar's research card plus the claims registry into the complete Parts A to D deliverable from [../templates/script-and-scene-breakdown.md](../templates/script-and-scene-breakdown.md) in a single message, with the kill checks, the 7-point score, the beat-by-beat pass and the sound-off test already run inside the model before you see anything. It compresses this whole folder: the short-form and safe-zone rules ([../templates/video-scripts.md](../templates/video-scripts.md)), the hook families ([../hook-formulas.md](../hook-formulas.md)), the checks ([../testing-and-iteration.md](../testing-and-iteration.md), [../AD_COPY_CHECKLIST.md](../AD_COPY_CHECKLIST.md)), catch-first offers ([../offer-and-mechanism.md](../offer-and-mechanism.md)) and dimensionalization ([../research-playbook.md](../research-playbook.md)). The target output looks like the worked example `03_Ad_Scripts_and_Briefs/Property_Abundance_Ad16_JMSN_Breakdown_v3.md`. The prompt is self-contained because the chat cannot read this repo; when a rule changes in a source file, change it here too.
+One paste, one reply, one shippable ad. The mega-prompt below turns an avatar's research card plus the claims registry into the complete Parts A to D deliverable from [../templates/script-and-scene-breakdown.md](../templates/script-and-scene-breakdown.md) in a single message, with the kill checks, the 7-point score, the beat-by-beat pass and the sound-off test already run inside the model before you see anything. It compresses this whole folder: the short-form and safe-zone rules ([../templates/video-scripts.md](../templates/video-scripts.md)), the hook families ([../hook-formulas.md](../hook-formulas.md)), the checks ([../testing-and-iteration.md](../testing-and-iteration.md), [../AD_COPY_CHECKLIST.md](../AD_COPY_CHECKLIST.md)), catch-first offers ([../offer-and-mechanism.md](../offer-and-mechanism.md)), dimensionalization ([../research-playbook.md](../research-playbook.md)) and sell-the-destination ([../sell-the-destination.md](../sell-the-destination.md)). The target output looks like the worked example `03_Ad_Scripts_and_Briefs/Property_Abundance_Ad16_JMSN_Breakdown_v3.md`. The prompt is self-contained because the chat cannot read this repo; when a rule changes in a source file, change it here too.
 
 ## Part 1. How to run it
 
@@ -17,8 +17,9 @@ Then the ship check, five lines, one minute:
 - S3. Visual, spoken line and hook text all land by 2 seconds, and the Part C text pops alone tell the story.
 - S4. No card quote appears on screen, in captions, or voiced as a testimonial.
 - S5. The word count fits the length field at the stated pace, within about 10 percent.
+- S6. Part D shows the PAIN / PLANE / PATH / DESTINATION split within budget, and the last shot before the end card is the customer's next chapter.
 
-S1-S5 all pass: ship. Any fail: reply with the failing check's number plus fix and re-output Parts A to D.
+S1-S6 all pass: ship. Any fail: reply with the failing check's number plus fix and re-output Parts A to D.
 
 ## Part 2. The mega-prompt
 
@@ -103,6 +104,25 @@ month to an empty house). Test each line: can the viewer picture a place, an obj
 a moment? Category words (stress, hassle, overwhelmed, expensive) fail; rewrite until
 every pain is a picture. These scenes become Part C's shot list.
 
+STEP 3b. Sell the destination, not the plane. People buy progress in their own
+life, not how the offer works, and believe it when they can see the easy steps that
+get them there. Tag every Part B line and every Part C shot with one of:
+- PAIN: the problem in their life, told through a character.
+- PLANE: how the company or offer works. One line at most, 10 percent or less of the
+  words.
+- PATH: the customer's own easy steps, from their side (asks for the offer, carries
+  out the one box that matters, circles a date, locks the door one last time). One to
+  three beats, never a long process.
+- DESTINATION: their life after, as one concrete scene (a person, a place, an action:
+  a new porch, family visiting, a calm table). Never an abstract word (freedom, peace
+  of mind) and never "imagine" over a vague outcome. 35 percent or more for an
+  Unaware or Problem-aware avatar, about 30 percent for Product-aware or Most aware
+  (the difference goes to PATH).
+Every confirmed term gets a PATH or DESTINATION picture in Part C. The narrator says
+the destination while the screen shows it. The last shot before the end card shows
+their next chapter, not just the problem ending. Path and destination pictures add no
+claim the registry lacks: no money amounts, no speed, no timeline.
+
 STEP 4. Hooks. The process is the checklist's write-20-keep-3 rule, run inside the
 model: draft 20 hook candidates internally across the families, score them, and
 surface only the best three (MAIN, CONTROL, WILDCARD), each scoring 20 or more out
@@ -139,8 +159,8 @@ budget = Length in seconds x pace. At 2.5 wps: 15 s is about 37 words, 30 s is 7
 words, state the computed seconds, and land within 10 percent of the Length input.
 Cut payloads to fit, never the catch.
 
-SELF-CHECK. Before answering, run all four gates on the draft. If any gate fails,
-rewrite and re-run all four gates from the top. Repeat until every gate passes. Show
+SELF-CHECK. Before answering, run all five gates on the draft. If any gate fails,
+rewrite and re-run all five gates from the top. Repeat until every gate passes. Show
 only the final passing version; never mention drafts, failures or this loop.
 
 GATE 1, kill checks. Run all seven, by name, on each of the three hooks. One yes
@@ -177,6 +197,11 @@ GATE 3, beat-by-beat. List every claim in the script in order, one plain stateme
 per line. A line that contradicts, repeats or wanders from the one before is a fail:
 fix the script, relist, recheck.
 
+GATE 5, destination. Using the STEP 3b tags: PLANE is 10 percent or less of the
+words and said once; one to three PATH beats; DESTINATION meets its budget; the last
+shot before the end card is the next chapter. A fail means rewrite, then re-run all
+gates.
+
 GATE 4, sound-off. Read only Part C's on-screen text pops, in order. Alone they must
 tell the whole story: promise, objection, catch, terms, brand, step. If they do not,
 rewrite the pops until they do.
@@ -194,7 +219,7 @@ objection; What they already tried and why it failed; Unspoken sentence; Scenes
 
 ## Part B. Script breakdown
 A table, one row per spoken line: | # | Beat | Spoken line | Job of this line |
-Source | Trigger |. Beat names: Open A, Payload, Open B, Open C, Close C, Close B,
+Source | Trigger | Tag |. Tag is PAIN, PLANE, PATH or DESTINATION (STEP 3b). Beat names: Open A, Payload, Open B, Open C, Close C, Close B,
 Close A, CTA, as used. Source names the exact card field or registry claim the line
 comes from; a line you cannot source gets cut before output. Trigger names the lever:
 curiosity + benefit, dimensionalization, unspoken sentence, contrast, damaging
@@ -222,7 +247,8 @@ pass or the fix applied); 7-point score for each of the three hooks with all sev
 numbers shown; Beat-by-beat (the ordered claim list); Claims (each traced to its
 registry line; banned list, CONTRADICTED and NOT CONFIRMED all untouched); Quotes on
 screen (confirm none); Emotional temperature (one line naming the register, for the
-landing page to match); Sound-off (the text pops in order, telling the story); any
+landing page to match); Sound-off (the text pops in order, telling the story); Destination (the PAIN / PLANE
+/ PATH / DESTINATION word split in percent, the path beats, the closing shot); any
 blank input you chose yourself; any enum substitution; any "avatar-critical claim
 blocked" flag; any line flagged "confirm before running".
 ```
