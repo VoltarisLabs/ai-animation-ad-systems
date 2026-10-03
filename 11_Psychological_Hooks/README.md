@@ -13,7 +13,7 @@ For a production-ready script in one pass: paste [prompts/one-shot-script.md](pr
 4. **Test** ([testing-and-iteration.md](testing-and-iteration.md)): hook first, hook rate, 7-day data, funnel triage, retarget by objection, log winners in [swipe-file.md](swipe-file.md).
 5. **Speed up with AI** ([prompts/copy-prompts.md](prompts/copy-prompts.md)): research miner, Objection Obliterator, hook generator, copy chief, pre-mortem, teardown.
 
-## The 10 rules that matter most
+## The 11 rules that matter most
 From the Georgi and Suby channel scans, confirmed across dozens of videos:
 1. **The ad sells the click, not the product.** The page, text or call does the selling.
 2. **Their exact words beat yours.** Paste them; don't paraphrase.
@@ -25,6 +25,7 @@ From the Georgi and Suby channel scans, confirmed across dozens of videos:
 8. **A strong, honest offer beats a clever argument.** Say the catch first.
 9. **Keep the same promise and emotional temperature** from ad to page to first reply.
 10. **Volume, then judgment.** Write 20 hooks, kill most, test the hook first, and log why winners won.
+11. **Sell the destination, not the plane** (Tracy). 90% on their life after, 10% on how it works ([sell-the-destination.md](sell-the-destination.md)).
 
 ## Structure
 | Path | Contents |
@@ -32,6 +33,7 @@ From the Georgi and Suby channel scans, confirmed across dozens of videos:
 | [claims-registry.md](claims-registry.md) | **The single source of truth for claims: confirmed wording, contradicted / do-not-use, not confirmed, banned, and the before-any-script-ships check.** Every script defers to it |
 | [research-cards.md](research-cards.md) | Pre-filled research cards for all 5 seller avatars |
 | **[AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md)** | **Start here. The routine every ad script goes through.** |
+| **[sell-the-destination.md](sell-the-destination.md)** | **The 90/10 rule every script follows: spend the time on the customer's life after, not on how it works. Budget, feature-to-destination table, pre-ship check.** |
 | [research-playbook.md](research-playbook.md) | Get the market's exact words into the lines: worksheet, awareness gap, dimensionalization, second-click check |
 | [PERSUASIVE_SCRIPTING_PLAYBOOK.md](PERSUASIVE_SCRIPTING_PLAYBOOK.md) | The loop: angle engine, five Property Abundance angles, test plan, reading Meta data, diagnose → next test, the next-script review, video and voice realism, the feedback log |
 | [offer-and-mechanism.md](offer-and-mechanism.md) | Mechanism (why it works), honest offer stack, radical transparency, funnel shape, follow-up |

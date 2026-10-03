@@ -12,6 +12,7 @@ Product/offer:        [what you sell]
 Audience:             [who, in one specific situation]
 Their #1 pain:        [in their words]
 Their #1 want:        [the result, in their words]
+Their life after:     [the scene once it's solved: where they are, what they're doing]
 Their #1 worry:       [the reason they won't buy]
 Awareness level:      [Unaware / Problem / Solution / Product / Most aware]
 Proof we have:        [numbers, reviews, results, credentials]
@@ -88,6 +89,13 @@ Every line has one job: get the next line read (Sugarman).
 - [ ] Proof **similar to the reader**: same role, same city, same problem.
 - [ ] Frame the cost of waiting as a **loss**, only when accurate.
 - [ ] Pick the structure by awareness: see [frameworks.md](frameworks.md).
+
+## Step 5b. Sell the destination, not the plane (90/10)
+Full rule: [sell-the-destination.md](sell-the-destination.md) (Tracy). People buy the change in their life, not how it works.
+- [ ] Tag each line PAIN / PLANE / DESTINATION. PLANE (process, terms, company, features) is no more than about 15% of the words; DESTINATION is at least about 40%.
+- [ ] The mechanism is said once, in one line.
+- [ ] Every feature line has a picture of their life after next to it.
+- [ ] The last image before the end card is their next chapter, not just the problem ending.
 
 ## Step 6. CTA: the smallest possible step
 - [ ] Never send paid traffic to a homepage. Use one page, one CTA, matched to the ad (Sabri).
