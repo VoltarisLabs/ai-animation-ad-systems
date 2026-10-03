@@ -12,6 +12,7 @@ The ad studio for AI-generated video and static ads: format SOPs, the copywritin
 |---|---|
 | **Get a great script in one shot** | [11_Psychological_Hooks/prompts/one-shot-script.md](./11_Psychological_Hooks/prompts/one-shot-script.md) + [research-cards.md](./11_Psychological_Hooks/research-cards.md) + [claims-registry.md](./11_Psychological_Hooks/claims-registry.md) |
 | Write an ad that converts | [11_Psychological_Hooks/AD_COPY_CHECKLIST.md](./11_Psychological_Hooks/AD_COPY_CHECKLIST.md), then the [copywriting playbook](#copywriting-playbook) |
+| Make any script sell | [11_Psychological_Hooks/sell-the-destination.md](./11_Psychological_Hooks/sell-the-destination.md): 90% on the customer's life after, 10% on how it works |
 | Produce an animated ad | [01_Skills_and_SOPs/](./01_Skills_and_SOPs) (the `00-README` in each format folder) |
 | Make a claymation or game-look ("GTA style") story ad | `/claymation` or `/gta-style` ([install them](#installing-the-skills)); the pipeline is in [Flow_Animated_Story_Ads](./01_Skills_and_SOPs/Flow_Animated_Story_Ads) |
 | See scripts in progress | [03_Ad_Scripts_and_Briefs/](./03_Ad_Scripts_and_Briefs) |
@@ -78,6 +79,7 @@ Most format folders start with a `00-README` digest; read that first. Two don't:
 5. **Formats don't mix.** Crochet's negative prompt explicitly bans `claymation, clay texture`; the style blocks are mutually exclusive.
 6. **Verify pronunciation of brand and product names** in any generated speech, before committing to video.
 7. **Cheap model to test timing, better model for the final.** Every course lesson repeats this.
+8. **Sell the destination, not the plane.** Every script, every format, spends about 90% of its time on the customer's life after and about 10% on how it works: the mechanism gets one line, every feature line gets a picture of life after, and the last image is their next chapter. Tag lines PAIN / PLANE / DESTINATION before handing a script over. Full rule: [sell-the-destination.md](./11_Psychological_Hooks/sell-the-destination.md). The [claims registry](./11_Psychological_Hooks/claims-registry.md) still decides the wording.
 
 ---
 
@@ -143,7 +145,7 @@ Every model call costs real money. Nothing in this repo should be run against a 
 **Use it in this order:**
 1. [research-playbook.md](./11_Psychological_Hooks/research-playbook.md): get the market's exact words, their awareness level and the one desire to aim at.
 2. [offer-and-mechanism.md](./11_Psychological_Hooks/offer-and-mechanism.md): why it works, an honest offer, the catch said first, the funnel shape.
-3. [AD_COPY_CHECKLIST.md](./11_Psychological_Hooks/AD_COPY_CHECKLIST.md): the routine every script passes, using [hook-formulas.md](./11_Psychological_Hooks/hook-formulas.md) (70 hooks + 11 fascination types), [templates/](./11_Psychological_Hooks/templates) (13 video templates + statics) and [copy-banks.md](./11_Psychological_Hooks/copy-banks.md).
+3. [AD_COPY_CHECKLIST.md](./11_Psychological_Hooks/AD_COPY_CHECKLIST.md): the routine every script passes, using [hook-formulas.md](./11_Psychological_Hooks/hook-formulas.md) (70 hooks + 11 fascination types), [templates/](./11_Psychological_Hooks/templates) (13 video templates + statics) and [copy-banks.md](./11_Psychological_Hooks/copy-banks.md). Step 5b is the [sell-the-destination](./11_Psychological_Hooks/sell-the-destination.md) check.
 4. [testing-and-iteration.md](./11_Psychological_Hooks/testing-and-iteration.md): kill checks, test order, hook rate, funnel triage, the AI workflow.
 5. [prompts/copy-prompts.md](./11_Psychological_Hooks/prompts/copy-prompts.md): ready-to-paste prompts for each step.
 
