@@ -15,6 +15,7 @@ The ad studio for AI-generated video and static ads: format SOPs, the copywritin
 | Make any script sell | [11_Psychological_Hooks/sell-the-destination.md](./11_Psychological_Hooks/sell-the-destination.md): their life after and the easy steps to get there, not how the offer works |
 | Produce an animated ad | [01_Skills_and_SOPs/](./01_Skills_and_SOPs) (the `00-README` in each format folder) |
 | Make a claymation or game-look ("GTA style") story ad | `/claymation` or `/gta-style` ([install them](#installing-the-skills)); the pipeline is in [Flow_Animated_Story_Ads](./01_Skills_and_SOPs/Flow_Animated_Story_Ads) |
+| Remake a video you saw on Instagram, X, TikTok or YouTube | `/remake <link>` ([install it](#installing-the-skills)): shot-by-shot breakdown, why it works, and the prompts to rebuild it. See [Remake_Any_Video](./01_Skills_and_SOPs/Remake_Any_Video) |
 | See scripts in progress | [03_Ad_Scripts_and_Briefs/](./03_Ad_Scripts_and_Briefs) |
 | Understand the buyer | [04_Audience_Research/](./04_Audience_Research) |
 
@@ -49,6 +50,7 @@ The ad studio for AI-generated video and static ads: format SOPs, the copywritin
 | [Talking_Objects](./01_Skills_and_SOPs/Talking_Objects) | The failed solution confesses its flaws | none | GPT-hosted |
 | [Seedance_UGC](./01_Skills_and_SOPs/Seedance_UGC) | Realistic AI UGC with Seedance 2.0 | skill file | Complete |
 | [Flow_Animated_Story_Ads](./01_Skills_and_SOPs/Flow_Animated_Story_Ads) | Stylised story ads from Google Flow + a local ffmpeg edit: claymation (card-reel edit) or game look (HUD edit) | `/claymation`, `/gta-style` | Complete |
+| [Remake_Any_Video](./01_Skills_and_SOPs/Remake_Any_Video) | Any video from a link: downloads it, Gemini watches it, then a shot list and remake recipe routed to the right format | `/remake` | Complete |
 
 Most format folders start with a `00-README` digest; read that first. Two don't: Seedance_UGC (start with `Seedance_2_Skill_for_Poppy.txt`) and Flow_Animated_Story_Ads (start with its `SKILL.md`, or use `/claymation` / `/gta-style`).
 
@@ -108,7 +110,7 @@ The course teaches Max Fusion / Higgs Field. We run KIE.ai instead. Substitution
 
 ## Installing the skills
 
-Five slash commands ship as skill files. Drop each into `.claude/skills/<name>/SKILL.md` (the folder name becomes the command):
+Six slash commands ship as skill files. Drop each into `.claude/skills/<name>/SKILL.md` (the folder name becomes the command):
 
 ```
 .claude/skills/skeleton/SKILL.md    <- 01_Skills_and_SOPs/Skeleton_Ads/002-skeleton-ads.md
@@ -116,7 +118,10 @@ Five slash commands ship as skill files. Drop each into `.claude/skills/<name>/S
 .claude/skills/singing/SKILL.md     <- 01_Skills_and_SOPs/Singing_Animation_Ads/song-style-ad-generator-PROMPT.txt
 .claude/skills/claymation/SKILL.md  <- 01_Skills_and_SOPs/Flow_Animated_Story_Ads/slash_commands/claymation/SKILL.md
 .claude/skills/gta-style/SKILL.md   <- 01_Skills_and_SOPs/Flow_Animated_Story_Ads/slash_commands/gta-style/SKILL.md
+.claude/skills/remake/              <- 01_Skills_and_SOPs/Remake_Any_Video/remake/   (whole folder: it has a scripts/ dir)
 ```
+
+`/remake` needs `yt-dlp`, `pip install requests pillow imageio-ffmpeg` and a `GEMINI_API_KEY`; the rest of its setup is in its `SKILL.md`. Install it per user (`cp -r 01_Skills_and_SOPs/Remake_Any_Video/remake ~/.claude/skills/`) so it works from any folder.
 
 The singing prompt ships without frontmatter: add a `name:` and `description:` block at the top before installing. Skill bodies should stay verbatim.
 
