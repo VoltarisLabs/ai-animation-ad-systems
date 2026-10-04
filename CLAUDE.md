@@ -1,5 +1,5 @@
 <!-- Last reviewed 2026-09-29 -->
-# AI Animation Ad Systems (Ugc_on_Demand)
+# AI Ad Lab (Ugc_on_Demand)
 
 The UGC ad studio for **Property Abundance** (cash home buying), plus a reference library for AI ad creative. Not a code project: no build, no tests. It holds skills, prompt libraries, ad scripts, audience research, templates, characters and audio assets.
 
