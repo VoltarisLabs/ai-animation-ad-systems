@@ -104,6 +104,17 @@ month to an empty house). Test each line: can the viewer picture a place, an obj
 a moment? Category words (stress, hassle, overwhelmed, expensive) fail; rewrite until
 every pain is a picture. These scenes become Part C's shot list.
 
+STEP 3a. Sell fear: open on the landscape (owner rule, 2026-10-09: we sell fear
+always). Open A is 1 to 3 true, sourced facts about how life or the market has
+changed, taken only from the fact bank in 11_Psychological_Hooks/sell-fear.md (paste
+it in with the registry), each with a source card on screen. No forecasts, no
+invented deadlines, no numbers about the business. Then zoom to one third-person
+character living inside those facts and show what waiting costs her with things on
+screen, never adjectives, never "you are" or "you have". Fear only moves people when
+the way out looks easy and works, so PATH and DESTINATION stay. Close by turning the
+landscape on the viewer's own house ("What year was your house built?"), then the
+approved Ask.
+
 STEP 3b. Sell the destination, not the plane. People buy progress in their own
 life, not how the offer works, and believe it when they can see the easy steps that
 get them there. Tag every Part B line and every Part C shot with one of:
@@ -115,9 +126,10 @@ get them there. Tag every Part B line and every Part C shot with one of:
   three beats, never a long process.
 - DESTINATION: their life after, as one concrete scene (a person, a place, an action:
   a new porch, family visiting, a calm table). Never an abstract word (freedom, peace
-  of mind) and never "imagine" over a vague outcome. 35 percent or more for an
-  Unaware or Problem-aware avatar, about 30 percent for Product-aware or Most aware
-  (the difference goes to PATH).
+  of mind) and never "imagine" over a vague outcome. 25 percent or more for
+  every avatar. PAIN (the landscape plus her fear) is 40 to 50 percent for Unaware
+  or Problem-aware, about 35 percent for Product-aware or Most aware (the difference
+  goes to PATH). PATH is 20 percent or more.
 Every confirmed term gets a PATH or DESTINATION picture in Part C. The narrator says
 the destination while the screen shows it. The last shot before the end card shows
 their next chapter, not just the problem ending. Path and destination pictures add no
