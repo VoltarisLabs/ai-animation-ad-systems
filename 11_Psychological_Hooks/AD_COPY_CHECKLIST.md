@@ -91,12 +91,20 @@ Every line has one job: get the next line read (Sugarman).
 - [ ] Frame the cost of waiting as a **loss**, only when accurate.
 - [ ] Pick the structure by awareness: see [frameworks.md](frameworks.md).
 
+## Step 5a. Sell fear: open on the landscape
+Full rule, research, fact bank and worked example: [sell-fear.md](sell-fear.md). Owner rule, 2026-10-09: we sell fear, always.
+- [ ] Open A is 1-3 true facts about how life or the market has changed, taken from the fact bank, each with a source card on screen. Motion in the first second.
+- [ ] No forecasts, no invented deadlines, no numbers about the business.
+- [ ] The fear lands on one third-person character; what waiting costs her is shown with things on screen. No "you are" or "you have".
+- [ ] PAIN (landscape plus her fear) is 40-50% of a cold ad, about 35% of a hot one.
+- [ ] The way out stays: PATH 20% or more (easy, one-time steps), DESTINATION 25% or more (proof it worked).
+
 ## Step 5b. Sell the destination, not the plane
 Full rule, research and examples: [sell-the-destination.md](sell-the-destination.md). People buy progress in their own life, not how the offer works, and they believe it when they can see the easy steps that get them there.
 - [ ] Tag every spoken line and every shot: **PAIN**, **PLANE** (how the company or offer works), **PATH** (the customer's own easy steps, from their side) or **DESTINATION** (their life after).
 - [ ] PLANE is 10% or less of the words, said once.
 - [ ] One to three PATH beats. Never a long process: a seller who wants it simple reads steps as effort.
-- [ ] DESTINATION is 35% or more for a cold ad, about 30% for a hot one (deciding now, retargeting); hot ads move the difference to PATH.
+- [ ] DESTINATION is 25% or more, cold or hot (fear-first budget, Step 5a); hot ads move PAIN down to about 35% and the difference to PATH.
 - [ ] The destination is one concrete scene (a person, a place, an action), never an abstract word and never "imagine..." over a vague outcome.
 - [ ] Told through a character in third person; the narrator says it while the screen shows it.
 - [ ] The last image before the end card is their next chapter, not just the problem ending.

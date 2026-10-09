@@ -41,7 +41,9 @@ The team's structure. Each Open raises one concrete question; the Closes pay the
 
 Aim for 85-115 spoken words (30-40 s). Plain words a 12-year-old follows.
 
-**Sell the destination, not the plane** (`11_Psychological_Hooks/sell-the-destination.md`, applies to every script): the Main carries the mechanism in one line; one to three PATH beats show the homeowner's own easy steps (carries out one box, circles a date, locks the door one last time); every Close pairs its approved line with a picture of their life after; the last shot before the end card is their next chapter (NEW AREA UNLOCKED, not just MISSION COMPLETE). Tag every line and shot PAIN / PLANE / PATH / DESTINATION before handing over: PLANE 10% or less of the words, DESTINATION 35% or more cold, about 30% hot.
+**Sell fear, open on the landscape** (`11_Psychological_Hooks/sell-fear.md`, owner rule 2026-10-09, applies to every script): Open A is 1-3 true, sourced facts about how life or the market has changed (from the fact bank, source card on screen, no forecasts), Open B lands the fear on the homeowner, Open C is what waiting costs her. PAIN is 40-50% of a cold ad.
+
+**Sell the destination, not the plane** (`11_Psychological_Hooks/sell-the-destination.md`, applies to every script): the Main carries the mechanism in one line; one to three PATH beats show the homeowner's own easy steps (carries out one box, circles a date, locks the door one last time); every Close pairs its approved line with a picture of their life after; the last shot before the end card is their next chapter (NEW AREA UNLOCKED, not just MISSION COMPLETE). Tag every line and shot PAIN / PLANE / PATH / DESTINATION before handing over: PLANE 10% or less of the words, PATH 20% or more, DESTINATION 25% or more.
 
 ## 3. Hooks that worked
 

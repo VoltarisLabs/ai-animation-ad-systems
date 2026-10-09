@@ -2,6 +2,8 @@
 
 Applies to every script in this repo, every format: skeleton, crochet, singing, claymation, talking objects, UGC, game-look (`/gta-style`), statics. The [claims registry](claims-registry.md) still wins over everything here: this file decides what a script spends its time on, the registry decides which words are allowed.
 
+**Fear opens, the destination closes (owner rule, 2026-10-09: "we sell fear always").** Every ad opens on the landscape and sells fear: [sell-fear.md](sell-fear.md). This file still decides how the ad ends. The fear-first budget below replaces the earlier one (destination was 35%+ cold).
+
 ## The idea
 
 People don't buy a product, a company or a process. They buy progress in their own life. Theodore Levitt: nobody wants a quarter-inch drill, they want a quarter-inch hole. Clayton Christensen turned that into Jobs to Be Done: customers "hire" a product to make progress.
@@ -24,7 +26,7 @@ The idea holds, with one correction that changes how we write: **an ad that show
 
 | Tag | What it is | Rule |
 |---|---|---|
-| **PAIN** | The problem in their life, told through a character | Earns the scroll |
+| **PAIN** | The landscape (true, sourced facts about how life and the market have changed) and the fear it puts into one character's life | Earns the scroll. 40-50% of a cold ad ([sell-fear.md](sell-fear.md)) |
 | **PLANE** | How the company works: offer mechanics, the company, features, process described from our side | One line, or none |
 | **PATH** | The customer's own easy steps, from their side: asks for the offer, carries out the one box that matters, circles a date, locks the door one last time | 1 to 3 short beats, never a long process |
 | **DESTINATION** | Their life after: where they are, who they're with, what they get to do next | The payoff. One concrete scene |
@@ -33,8 +35,8 @@ The idea holds, with one correction that changes how we write: **an ad that show
 
 | Ad | PAIN | PLANE | PATH | DESTINATION |
 |---|---|---|---|---|
-| Cold, unaware | ~35% | 10% or less | ~20% | 35% or more |
-| Hot: deciding now (a listing that's sat, a seller who already clicked, retargeting) | ~30% | 10% or less | ~30% | ~30% |
+| Cold, unaware | 40-50% | 10% or less | 20% or more | 25% or more |
+| Hot: deciding now (a listing that's sat, a seller who already clicked, retargeting) | ~35% | 10% or less | ~30% | 25% or more |
 
 ## How it shows up in a script
 
@@ -66,7 +68,7 @@ The idea holds, with one correction that changes how we write: **an ad that show
 - [ ] Every spoken line and every "What we see" cell is tagged PAIN, PLANE, PATH or DESTINATION.
 - [ ] PLANE is 10% or less of the spoken words and said once.
 - [ ] One to three PATH beats, all from the customer's side.
-- [ ] DESTINATION meets the budget for the audience (35%+ cold, ~30% hot).
+- [ ] DESTINATION meets the fear-first budget: 25% or more, cold or hot ([sell-fear.md](sell-fear.md)).
 - [ ] The destination is one concrete scene (person, place, action), not an abstract word.
 - [ ] The last image before the end card is their next chapter.
 - [ ] Told through a character, in third person.
