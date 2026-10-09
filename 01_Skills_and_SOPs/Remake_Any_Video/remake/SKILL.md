@@ -55,7 +55,7 @@ Keep it tight. Don't paste the whole breakdown; the user can open it.
 
    Group repeated shot types (40 interview shots are one template with variations, not 40 prompts). Don't generate shots that stay on screen under ~1s: use the still with a push-in in the edit. Generated clips have a 4s minimum, so a 0.5s shot wastes 3.5s of paid video.
 5. **Cost to rebuild**: stills × per-image price + clips × seconds × per-second price, using the Ad engine cost table. Say it's an estimate.
-6. **The script for their offer**: if the user named a product, rewrite the script for it, tagging each line PAIN / PLANE / PATH / DESTINATION (sell the destination: PLANE ≤ 10%, DESTINATION ≥ 35% cold). If they didn't, finish by asking what product or offer the remake should sell.
+6. **The script for their offer**: if the user named a product, rewrite the script for it: open on the landscape with fear (`11_Psychological_Hooks/sell-fear.md`: 1-3 sourced facts with source cards, the fear on one third-person character), and tag each line PAIN / PLANE / PATH / DESTINATION (cold: PAIN 40-50%, PLANE ≤ 10%, PATH ≥ 20%, DESTINATION ≥ 25%). If they didn't, finish by asking what product or offer the remake should sell.
 
 ### Pick the route
 
