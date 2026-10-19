@@ -1,4 +1,4 @@
-# AI Animation Ad Systems
+# AI Ads Package
 
 The ad studio for AI-generated video and static ads: format SOPs, the copywriting playbook, ad scripts, audience research, characters and finished renders. The production stack is Kie.ai + ElevenLabs + ffmpeg.
 

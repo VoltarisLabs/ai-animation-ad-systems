@@ -5,7 +5,7 @@
 `11_Psychological_Hooks/claims-registry.md` in this repo is the source of truth and it changes (on 2026-09-29 the "we buy it ourselves" family was frozen). Fetch it fresh before writing a line. From outside a checkout:
 
 ```bash
-gh api repos/VoltarisLabs/ai-animation-ad-systems/contents/11_Psychological_Hooks/claims-registry.md \
+gh api repos/VoltarisLabs/ai-ads-package/contents/11_Psychological_Hooks/claims-registry.md \
   -H "Accept: application/vnd.github.raw" > claims-registry.md
 ```
 
