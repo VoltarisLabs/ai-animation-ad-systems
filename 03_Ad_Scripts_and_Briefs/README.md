@@ -4,6 +4,8 @@ Grouped by ad number. CURRENT files are the ones to work from.
 
 | File | Ad | Format | Status |
 |---|---|---|---|
+| Property_Abundance_Ad29_GameLook_FearFirst_3Hooks_v1.md | 29 | Game-look, fear-first | CURRENT. Three landscape-hook variants of the campaign winner (Irene toll road, vid 4 GTA, Oct 7 campaign); tagged, registry-checked, untested; waits on owner character review and the landing page |
+| Property_Abundance_Ad28_Breakout_LongForm_v3.md | 28 | Long-form Meta primary text (Carol, the Breakout) | CURRENT. Two long-form primary texts plus headlines and descriptions for the Breakout video; fear-first, tagged; untested |
 | Property_Abundance_Ad16_JMSN_Breakdown_v3.md | 16 | JMSN breakdown script | CURRENT (the Ad 16 deliverable) |
 | Property_Abundance_Ad17_Claymation_Hammer_v2.md | 17 | Claymation | CURRENT. Script and scene breakdown; blocked on Kling 3.0 on Kie (or run as skeleton/crochet) |
 | Property_Abundance_Ad18_Emily_VSL90_v1.md | 18 | 90s UGC mini-VSL | CURRENT. Judge-panel winner; first asset for the Sep 29 VSL pivot; includes presenter A/B plan |

@@ -11,6 +11,7 @@ Go where people complain at length, and in private: long, emotional comments, no
 
 | Source | How to search | What to grab |
 |---|---|---|
+| **Reddit Answers** (reddit.com/answers): the first stop for every product | Ask 10-17 prompts about the situation in the buyer's own words, each ending "Quote real comments." Start broad ("Why do people [do X] instead of [the default]?"), then one prompt each per pain, per objection, per alternative they tried, per regret. Open every thread it cites and copy the whole thread. Save it all to `04_Audience_Research/<Product>_RAW.txt` in the layout of `Cash_Home_Buying_RAW.txt` (prompt, the answer, then the full threads). | The answer gives the map (themes, which subreddits); the threads give the words. The Sep 22 cash-home-buying pull was 17 prompts and 170 threads. |
 | Reddit, Quora, niche forums | `site:reddit.com "[situation]"`, or a forum-only filter such as the "Discussions" Chrome extension Sabri names | Long comments that vent, confess or ask for help |
 | Facebook groups | Big groups for the situation (heirs, landlords, new parents, founders) | Posts that begin "Has anyone else..." |
 | Reviews: yours and competitors' | 1-2 star reviews (what failed), 4-5 star reviews (what they hoped for) | Loves, hates, worries |
@@ -18,6 +19,8 @@ Go where people complain at length, and in private: long, emotional comments, no
 | YouTube and TikTok comments on viral videos about the problem | Sort by top comments | The one-line version people upvote |
 
 **Rule: paste, don't paraphrase.** Put the exact words in the worksheet, typos and all. The moment you "clean them up," the punch is gone.
+
+**Reddit Answers protocol.** It is a logged-in web tool with no API, so it runs in a normal browser, not a script. One RAW file per product. The research document (`04_Audience_Research/Research_Document_<Product>.md`) is distilled from the RAW file under the use rules at the top of `Research_Document_Cash_Home_Buying.md`: internal only, no commenter's words in an ad, no commenter's number treated as a market fact, off-ICP posts left out. Past about 50 cited threads, pull the thread text with a scraper (an Apify Reddit actor against the cited URLs) instead of by hand; the prompts and answers still come from Reddit Answers.
 
 ## 2. The worksheet (one per audience)
 ```

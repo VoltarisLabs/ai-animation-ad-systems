@@ -6,6 +6,7 @@ One paste, one reply, one shippable ad. The mega-prompt below turns an avatar's 
 
 Run steps:
 
+0. Owner environment only: before opening the chat, ask the active NotebookLM notebook (`notebooklm-mcp` → `ask_question`, id `sales-video-ads`) 2-3 questions scoped to the avatar and offer, and paste the answers after the avatar's card as a "From NotebookLM" block (3-5 bullets). The registry still decides every claim.
 1. Open a fresh LLM chat (never a used thread). Paste the whole mega-prompt below, then the avatar's card from [../research-cards.md](../research-cards.md), then the whole of [../claims-registry.md](../claims-registry.md).
 2. Fill the six INPUT fields at the top of the prompt: avatar, format, length in seconds, platform, lead hook family, voice or character.
 3. Send. The reply is the full Parts A to D breakdown, ready for production. The first output should be shippable; back-and-forth is the exception, not the workflow.

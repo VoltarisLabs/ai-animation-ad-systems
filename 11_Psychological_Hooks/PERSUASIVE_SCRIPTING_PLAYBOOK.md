@@ -461,7 +461,7 @@ Gathered from the session files, script files and memory on 2026-10-01: 30 feedb
 ### Log (append one row per review or result)
 | Date | Ad / version | From (user / J / data) | Feedback or result (exact words or numbers) | What it means | Rule for the next script |
 |---|---|---|---|---|---|
-| | | | | | |
+| 2026-10-14 | Oct 7 campaign: 10 ads (4 game-look, 2 claymation, 1 human UGC, 2 3D cutaway, 1 duplicate), CBO, Housing category, optimizing for CompleteRegistration | data (Ads Manager, 30 days) | $222.12 spend, 2,550 impressions, CPM ~$87, 57 link clicks (CTR ~2.2%), 32 landing page views, 0 registrations. Best cost per link click: the Irene toll-road game-look cut, $1.27 at 4.99% CTR on ~$24. Worst: the human UGC cut, $7.02 at 1.53% CTR on $64 (29% of spend). Hook and hold rates not yet pulled. | Game-look story ads out-click human UGC in this account. The conversion event has never fired, so no ad can be judged on leads, and CBO fed the weakest ad. Three live cuts carry unconfirmed registry claims (clay 1 "we buy it ourselves", clay 2 "bonus cash", gta 2 back taxes / "see the number"). | Round 2 = three landscape-hook variants on the game-look winner (Ad29). Pull Hook Rate and Hold Rate (Creative Testing preset) before cutting ads. Fix the event on the real destination page or switch the ad set to an Instant Form with the Lead event. Pause the three cuts with unconfirmed claims until the owner rules. |
 
 ---
 

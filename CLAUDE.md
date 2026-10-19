@@ -9,6 +9,10 @@ Since 2026-09-21 it is a git repo, pushed to `https://github.com/VoltarisLabs/ai
 
 **Public repo, no personal data.** Before any push, scan the files for names, local paths (`/Users/...`), personal emails, phone numbers, passwords and screenshots. Scripts find the project root relative to their own file, never by a hard-coded home path. Commits use the repo-local identity `VoltarisLabs <257142603+VoltarisLabs@users.noreply.github.com>` in UTC (`TZ=UTC`), never a personal email.
 
+## Every script: ask the research notebook first (owner environment)
+
+In the owner's environment a NotebookLM MCP server (`notebooklm-mcp`) holds the research notebook "Mastering High-Conversion Sales Videos with Visual Results" (library id `sales-video-ads`, the active default). Any time anyone asks for a script, hook, rewrite or script options, in any format: before the first line, 2-3 `ask_question` calls scoped to this ad's audience, offer and proof, then a "From NotebookLM" block (3-5 bullets, each tied to the line it shaped) above the script. The notebook feeds the rules; the claims registry and the sell-the-destination budgets still decide. A fresh checkout without that server skips the step and says so in one line.
+
 ## Every script: sell the destination
 
 Any time anyone asks for a script, hook, rewrite or script options, in any format (including the course skills for skeleton, crochet and singing, whose bodies stay verbatim: apply this on top), write and check it with `11_Psychological_Hooks/sell-the-destination.md` before handing it over. In short: tag every line and shot PAIN / PLANE / PATH / DESTINATION; offer mechanics get one line (PLANE 10% or less); show the customer's own easy steps in 1-3 beats (PATH); spend 35% or more on their life after for a cold ad, about 30% for a hot one (DESTINATION); one concrete scene, told through a character; the last image before the end card is their next chapter. The claims registry still decides the words. Show the tag split in the hand-off.

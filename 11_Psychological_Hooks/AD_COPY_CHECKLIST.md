@@ -20,6 +20,9 @@ Proof we have:        [numbers, reviews, results, credentials]
 Offer + first step:   [the smallest yes]
 ```
 
+## Step 0a. Ask the research notebook (owner environment, 1 minute)
+Where the `notebooklm-mcp` server is available: 2-3 `ask_question` calls to the active notebook ("Mastering High-Conversion Sales Videos with Visual Results", id `sales-video-ads`), using the brief above as the scope. Keep the answers as a "From NotebookLM" block, 3-5 bullets, above the script; each bullet names the line it shaped. Without the server, note that in one line and go on.
+
 ## Step 1. Pick who, and how aware they are
 - **Hungry audience first.** Target people already in the situation and already looking. The audience matters more than the wording (Halbert).
 - **Match everything to awareness** (Schwartz, UPSYD). This is the master table; other files link here.
