@@ -1,0 +1,128 @@
+PROPERTY ABUNDANCE – AD 17 "THEY LEFT" – GEMINI (VEO) VIDEO PLAN v1
+Tool: Gemini web (Veo). 6 clips of about 8 seconds: 3 with JMSN talking (T1-T3) and 3 of the house with no people (B1-B3).
+Gemini makes one video per request: send T1, wait, check it, then the next one.
+Claude cuts the clips together into about 21 seconds with jump cuts, like the Seedance cut (final v1).
+Where you can, attach the same photo of him to T1, T2 and T3: 13_Generated/images/Ad17_JMSN_ref_face_crop.png.
+If Gemini refuses with a photo attached, send the prompt as text only.
+
+============================================================
+PART 1 – THE SCRIPT (he says every word on camera)
+============================================================
+T1  "The tenant left. Now YOU can too. House is sitting empty. Same mortgage, EVERY month. So what's the move?"
+T2  "Patch THAT and bet on the NEXT tenant? Fix it, list it, pay commission? Or sell it AS IT IS."
+T3  "Our offer's LOWER than a fixed-up sale. NO commission, NO fees. They left. That's how YOU leave. TAP below."
+Cutaways laid over his voice in the edit:
+  B1 over "House is sitting empty."
+  B2 over "Fix it, list it, pay commission?"
+  B3 over "NO commission, NO fees."
+
+============================================================
+PART 2 – GEMINI PROMPTS (send one at a time)
+============================================================
+
+---------------- T1 of 3 (talking, porch) ----------------
+Vertical 9:16 video, 8 seconds. Real footage filmed on an iPhone by a second person holding it in one hand, not a movie.
+
+CAMERA AND LOOK: iPhone 1x main camera, almost everything in focus, auto-exposure with the sky slightly blown out, small natural hand shake the whole time, no smooth gliding moves, no zoom. Colors natural and a little flat, like an unedited phone video, slight grain in the shadows. One hard, low late-afternoon sun from one side, hard-edged shadows. Not cinematic, not glossy, no film look, no soft glow. The person filming is never seen.
+
+CHARACTER: a Black American man about 28 with a long slim face, warm medium-brown skin, very short dark hair with a fade and faint 360 waves, a thin mustache and a light goatee, dark brown eyes and a slim build. He wears an open grey, black and cream buffalo-check flannel overshirt over a heather-grey crew-neck t-shirt, olive-green cargo pants and white low-top sneakers with a green side stripe, a thin silver chain, a plain black smartwatch on his left wrist with its screen dark, a small black clip-on mic on the left front edge of the overshirt, and one small white earbud in his left ear only. Real skin: visible pores, uneven tone, a few small dark marks on his forehead, a little shine. He is a local house buyer talking straight to a landlord who is watching.
+
+PLACE: the front of a small, worn single-storey rental house that has sat empty since the tenant moved out. A cracked concrete path with weeds, a patchy overgrown lawn, a low wooden porch with grey worn boards and peeling paint on the posts. Two tied black trash bags slump against the wall left of the door; a wooden chair lies on its side with one leg broken off. The screen door hangs open with torn mesh; the front door stands wide open onto a dim, empty room.
+
+SHOT 1 (0 to 2.5 seconds): Wide shot from low on the path, the phone at knee height looking up at him standing in the open doorway, head to sneakers in frame. He says "The tenant left." and points back over his shoulder into the house with his right thumb, then "Now YOU can too." and turns that hand to point at the lens.
+SHOT 2 (2.5 to 8 seconds): Hard cut. Medium close-up straight on at eye level, mid-chest to just above his head, in the doorway. He says "House is sitting empty. Same mortgage, EVERY month." with a slightly weary weight on "EVERY", then "So what's the move?" as a real question, eyebrows up, a small shrug. Then he holds eye contact, silent, until the end.
+
+VOICE (the same in every clip): a real young Black American man in his late twenties, recorded close on the clip-on mic. Warm, mid-low and relaxed, with a little natural texture; he sounds like he is talking to one person, not reading. Small audible breaths between sentences, slight vocal fry at the end of some sentences, natural short pauses, and a pace that speeds up and slows down with the meaning. Never flat, never robotic, never a narrator, radio or announcer voice. Words in CAPITALS get clear extra stress at normal volume; they are ordinary words, never spelled out.
+
+LIP SYNC: his mouth matches every word exactly; lips close fully on m, b and p; natural blinks and small head movements.
+
+SOUND: his voice close and clear, plus open air with a little wind. No music, no other voices, no subtitles.
+
+REAL-WORLD RULES: He says only the words in quotes, each once, in order, and finishes about half a second before the end. Every object stays exactly where it is; nothing morphs, appears or disappears. No readable words, numbers, logos, captions or subtitles anywhere. No other people.
+
+---------------- T2 of 3 (talking, living room) – revised after T1, 2026-09-27 ----------------
+NEW VIDEO – PART 2 OF 3. This is a different clip from the video you just made. Do not repeat, remake, extend or continue the previous video. Different place (inside the house, the living room), different camera angles, different words. Nothing from the porch or the front of the house appears. He does NOT say "The tenant left", "Now you can too", "House is sitting empty", "Same mortgage, every month" or "So what's the move". He says only the new line below.
+The man is the same man as in the photo already uploaded in this chat and in the previous clip: same face, same hair, same outfit, same earbud and clip-on mic.
+
+Vertical 9:16 video, 8 seconds. Real footage filmed on an iPhone by a second person holding it in one hand, not a movie.
+
+CAMERA AND LOOK: iPhone 1x main camera, almost everything in focus, auto-exposure with the window slightly blown out, small natural hand shake the whole time, no smooth gliding moves, no zoom. Colors natural and a little flat, like an unedited phone video, slight grain in the shadows. The same low late-afternoon sun as the previous clip, now coming through a dirty living-room window: hard bright stripes across the floor and the wall, every lamp off. Not cinematic, not glossy, no film look, no soft glow. The person filming is never seen.
+
+CHARACTER: a Black American man about 28 with a long slim face, warm medium-brown skin, very short dark hair with a fade and faint 360 waves, a thin mustache and a light goatee, dark brown eyes and a slim build. He wears an open grey, black and cream buffalo-check flannel overshirt over a heather-grey crew-neck t-shirt, olive-green cargo pants and white low-top sneakers, a plain black smartwatch on his left wrist, a small black clip-on mic on the left front edge of the overshirt, and one small white earbud in his left ear only. Real skin: visible pores, uneven tone, a little shine. He is a local house buyer talking straight to a landlord who is watching.
+
+PLACE: the living room inside the same empty rental house. A fist-size hole with crumbly, torn edges in the off-white drywall at head height, a little white drywall dust on the floor below it. Scuffed walls with dark marks, one patch painted a slightly different white. The carpet is torn out: bare, stained plywood subfloor with the old tack strip along the walls. One tied black trash bag against the far wall. Old white blinds hang crooked in the window. The room is clearly neglected and empty.
+
+SHOT 1 (0 to about 4.5 seconds): Over-the-shoulder medium shot from just behind his right shoulder, the hole sharp in the left third of the frame. He points at the hole with his left index finger, not covering it, and says, a little sceptical, "Patch THAT and bet on the NEXT tenant?" On "NEXT" he turns his head back and looks into the lens. Then, in a tired listing rhythm: "Fix it, list it, pay commission?"
+SHOT 2 (about 4.5 seconds to the end): Hard cut. Medium three-quarter shot at eye level, waist to just above his head, the wall with the hole beside him. Hands down, he looks straight into the lens and says, lighter, like the easy answer: "Or sell it AS IT IS." Six plain, separate words: or, sell, it, as, it, is. His mouth opens wide on "as", his tongue taps the "t" of "it", and he ends on the "z" of "is". Never "as is", never spelled out. A small, easy smile, then silent eye contact until the end.
+
+THE ONLY WORDS IN THIS CLIP (said once, in this order): "Patch THAT and bet on the NEXT tenant? Fix it, list it, pay commission? Or sell it AS IT IS."
+
+VOICE (the same voice as the previous clip): a real young Black American man in his late twenties, recorded close on the clip-on mic. Warm, mid-low and relaxed, with a little natural texture; he sounds like he is talking to one person, not reading. Small audible breaths between sentences, slight vocal fry at the end of some sentences, natural short pauses, and a pace that speeds up and slows down with the meaning. Never flat, never robotic, never a narrator, radio or announcer voice. Words in CAPITALS get clear extra stress at normal volume; they are ordinary words, never spelled out.
+
+LIP SYNC: his mouth matches every word exactly; lips close fully on m, b and p ("bet", "pay", "commission"); natural blinks and small head movements.
+
+SOUND: his voice close and clear, plus the quiet room tone and light echo of an empty house. No music, no other voices, no subtitles.
+
+REAL-WORLD RULES: He says only the words above, each once, in order, and finishes about half a second before the end. Every object stays exactly where it is; nothing morphs, appears or disappears; the hole does not grow or change. No readable words, numbers, logos, captions or subtitles anywhere. No other people.
+
+---------------- T3 of 3 (talking, bedroom) ----------------
+Vertical 9:16 video, 8 seconds. Real footage filmed on an iPhone by a second person holding it in one hand, not a movie.
+
+CAMERA AND LOOK: iPhone 1x main camera, almost everything in focus, auto-exposure with the window slightly blown out, small natural hand shake the whole time, no smooth gliding moves, no zoom. Colors natural and a little flat, like an unedited phone video, slight grain in the shadows. One hard, low late-afternoon sun through a dirty window with no curtains, a hard bright patch on the carpet and wall, every lamp off. Not cinematic, not glossy, no film look, no soft glow. The person filming is never seen.
+
+CHARACTER: a Black American man about 28 with a long slim face, warm medium-brown skin, very short dark hair with a fade and faint 360 waves, a thin mustache and a light goatee, dark brown eyes and a slim build. He wears an open grey, black and cream buffalo-check flannel overshirt over a heather-grey crew-neck t-shirt, olive-green cargo pants and white low-top sneakers with a green side stripe, a thin silver chain, a plain black smartwatch on his left wrist with its screen dark, a small black clip-on mic on the left front edge of the overshirt, and one small white earbud in his left ear only. Real skin: visible pores, uneven tone, a few small dark marks on his forehead, a little shine. He is a local house buyer talking straight to a landlord who is watching.
+
+PLACE: the back bedroom of the same empty rental house, no furniture. A large brown water-stain ring on the low white ceiling around a sagging patch, paint peeling high on the wall below it. Stained beige carpet pulled up in one corner showing the tack strip. An empty closet with its sliding door off its track, one tied black trash bag in a corner.
+
+SHOT 1 (0 to 4 seconds): Close shot of his face at eye level, head and shoulders, his face in the right third, the brown ceiling stain above and behind him. Honest and straight, with a small nod on "LOWER", he says "Our offer's LOWER than a fixed-up sale." Then, firm and confident: "NO commission, NO fees."
+SHOT 2 (4 to 8 seconds): Hard cut. Medium shot at eye level, waist to just above his head, in the middle of the trashed bedroom. A relaxed half-smile grows as he says "They left. That's how YOU leave." with one small nod on "YOU leave", then, friendly, "TAP below." as he points down with his right index finger toward the bottom of the frame, lowers the hand and holds eye contact with a small smile until the end.
+
+VOICE (the same in every clip): a real young Black American man in his late twenties, recorded close on the clip-on mic. Warm, mid-low and relaxed, with a little natural texture; he sounds like he is talking to one person, not reading. Small audible breaths between sentences, slight vocal fry at the end of some sentences, natural short pauses, and a pace that speeds up and slows down with the meaning. Never flat, never robotic, never a narrator, radio or announcer voice. Words in CAPITALS get clear extra stress at normal volume; they are ordinary words, never spelled out.
+
+LIP SYNC: his mouth matches every word exactly; lips close fully on m, b and p ("commission", "below", "tap"); natural blinks and small head movements.
+
+SOUND: his voice close and clear, plus the quiet room tone and light echo of an empty house. No music, no other voices, no subtitles.
+
+REAL-WORLD RULES: He says only the words in quotes, each once, in order, and finishes about half a second before the end. Every object stays exactly where it is; nothing morphs, appears or disappears; no water drips. No readable words, numbers, logos, captions or subtitles anywhere. No other people.
+
+---------------- B1 (no people: front room) ----------------
+Vertical 9:16 video, 8 seconds. Real footage filmed on an iPhone held in one hand, not a movie. iPhone 1x main camera, almost everything in focus, auto-exposure with the doorway blown out, small natural hand shake, colors natural and a little flat, slight grain in the shadows. Not cinematic, not glossy, no film look.
+ONE SHOT: filmed from just inside the front door of an empty rental house at eye level, the phone panning slowly and a little unevenly from left to right across the empty front room: stained, matted beige carpet, bare scuffed off-white walls with dark marks, grime around the light switch, one tied black trash bag in a corner, and dust hanging in a hard beam of low late-afternoon sun from the open doorway.
+RULES: no people, no hands, no one speaks. Every object stays exactly where it is; nothing morphs, appears or disappears. No readable words, logos, captions or subtitles.
+SOUND: quiet room tone of an empty house, faint birds outside. No music.
+
+---------------- B2 (no people: the hole) – revised 2026-09-27 ----------------
+NEW VIDEO – a different clip from every video before it in this chat. Do not repeat, remake or continue any previous video. No person appears in this clip and no one speaks: do not use the man from the uploaded photo.
+Vertical 9:16 video, 8 seconds. Real footage filmed on an iPhone held in one hand, not a movie. iPhone 1x main camera, almost everything in focus, auto-exposure, small natural hand shake, colors natural and a little flat, slight grain in the shadows. Not cinematic, not glossy, no film look.
+ONE SHOT: inside the same empty rental house, a close-up of a fist-size hole in off-white drywall, filmed from about half a metre away, the phone drifting slowly downward: the jagged torn paper edges and crumbled white gypsum, the dark hollow inside the wall, then a little drift of white drywall dust on the bare, stained plywood subfloor below, crossed by a hard stripe of low late-afternoon sun from the window.
+RULES: no people, no hands, no one speaks. The hole does not grow or change; nothing morphs, appears or disappears. No readable words, logos, captions or subtitles.
+SOUND: quiet room tone of an empty house. No music.
+
+---------------- B3 (no people: the ceiling) ----------------
+Vertical 9:16 video, 8 seconds. Real footage filmed on an iPhone held in one hand, not a movie. iPhone 1x main camera, almost everything in focus, auto-exposure with the window blown out, small natural hand shake, colors natural and a little flat, slight grain in the shadows. Not cinematic, not glossy, no film look.
+ONE SHOT: looking up at the low white ceiling of an empty bedroom: a large brown water-stain ring with darker edges around a sagging, swollen patch with a hairline crack, and paint peeling high on the wall below it. The phone tilts down slowly and a little unevenly to a dirty window with low late-afternoon sun coming through.
+RULES: no people, no hands, no one speaks. No water drips; the stain does not grow or change; nothing morphs, appears or disappears. No readable words, logos, captions or subtitles.
+SOUND: quiet room tone of an empty house. No music.
+
+============================================================
+PART 3 – CHECK EACH CLIP BEFORE YOU KEEP IT
+============================================================
+Regenerate the clip if any of these happen:
+[ ] He adds, repeats or skips a word, or says "as is" instead of "as it is" (T2)
+[ ] His lips are off from the words, especially on "as it is"
+[ ] The voice sounds like a narrator, a robot or a different age from T1
+[ ] Music, subtitles, captions or any readable or garbled text appear
+[ ] His face, hair, outfit, chain, watch, mic or earbud change between clips
+[ ] Skin looks smooth, waxy or airbrushed; light looks glowy and golden like a movie
+[ ] Any object jumps, slides, appears or changes; the hole or the stain changes
+[ ] Another person, or the hand, shadow or reflection of the person filming, appears
+If his face drifts between T1, T2 and T3: take a screenshot of his best frame from T1 and attach it to T2 and T3.
+Gemini picks the voice fresh for every clip. If the voices of T1-T3 differ, regenerate the odd one out. Claude can measure the pitch of each clip to show which one is off.
+
+============================================================
+PART 4 – CLAUDE ASSEMBLES THE CUT
+============================================================
+1. Trim T1-T3 at sentence breaks and join them, cutting the pauses, like final v1 (about 21 s).
+2. Lay B1, B2 and B3 over the lines in PART 1, 1.5 to 2.5 s each. His voice runs straight across the cuts.
+3. Word check with whisper against PART 1; every word once, "as it is" heard as three words.
+4. Loudness to -16 LUFS, 1080x1920, 24 fps, saved in 13_Generated/videos/Ad17_final_v10_veo.mp4.

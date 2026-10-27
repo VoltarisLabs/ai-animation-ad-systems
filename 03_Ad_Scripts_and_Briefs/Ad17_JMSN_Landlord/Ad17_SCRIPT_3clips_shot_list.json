@@ -1,0 +1,509 @@
+{
+  "ad": "Ad17 - JMSN Trashed Rental Walkthrough - Now You Can Too",
+  "version": "shot script v4 Seedance sync: 3 takes of 8 s, Seedance 2.0 720p, filmed by a camera operator (2026-09-27). Take 3 cut to 19 words (proposed; user reply 'yeah', explicit confirmation requested before take 3). Nothing generated for the video.",
+  "character": "13_Generated/images/Ad16_JMSN_character_sheet_B_CHOSEN.png (source of the 2 reference crops)",
+  "format": {
+    "aspect": "9:16",
+    "resolution": "720p (Seedance 2.0 output; upscale or deliver at 720x1280)",
+    "fps": 24,
+    "duration_s_estimate": 21.94,
+    "timing_basis": "0.365 s per word = midpoint of Ad 16's measured Omni pace (0.351-0.380 s/word); Seedance's own pace is not measured yet. 20.44 s of speech + 1.5 s end-card hold. At 197.1 wpm the 56 words take 17.05 s. Retime to the real takes."
+  },
+  "audience": {
+    "persona": "3, Burned-Out Landlord (research doc)",
+    "moment": "tenant finally out, rental trashed (hole, junk, ceiling leak), house empty, mortgage still due every month",
+    "awareness": "Solution-aware, Stage 4 sophistication"
+  },
+  "why_2_loops": "About 23 s. The psychology report puts 30-60 s at 2 loops and under 30 s at 1; Howie (00:25:08) says a 30 s ad has no time for A, B and C. Two loops per the brief and the Ad 16 precedent.",
+  "loop_sequence": [
+    "OPEN A",
+    "payload",
+    "OPEN B",
+    "payload",
+    "CLOSE B",
+    "payload",
+    "CLOSE A",
+    "CTA"
+  ],
+  "research": {
+    "cuts_per_10s_talking_head_70s_or_less": 2.97,
+    "first_cut_s": 2.92,
+    "median_shot_s": 2.83,
+    "punch_in_scale_median": 1.315,
+    "source": "competitor cut analysis of 44 Meta ads, 2026-09-26 (as recorded in the Ad 16 shot list)",
+    "vertical_refs_rechecked_2026_09_27": {
+      "bright_future_16s": "51 words, 212.8 wpm, buyer standing at a run-down porch, one take",
+      "clever_offers_16s": "50 words, 197.1 wpm",
+      "housecashin_16s": "49 words, 182.4 wpm",
+      "quick_close_62s": "196 words, 190.6 wpm",
+      "method": "faster-whisper small + 1 fps contact sheets"
+    }
+  },
+  "rules": [
+    "3 Omni clips (8 / 8 / 10 s), one continuous take each; merge them, then cut in the edit",
+    "cuts only at sentence starts, about 3 per 10 s (user rule ugc-edit-merge-then-scenes, 2026-09-26); cut inside the measured silence before the sentence",
+    "text pops change the screen every 1-3 s between cuts",
+    "loop lines on his face; payload that names a thing on object b-roll; the trust line (shot 7) never cuts away",
+    "object b-roll: objects and places only, no people or hands, matched to the words",
+    "no words inside any AI image or video prompt; all text goes on in the editor",
+    "the brand name is never spoken (user's Ad 16 call, 2026-09-27: no company name in clip 3); logo on the end card only"
+  ],
+  "cuts": {
+    "count": 7,
+    "per_10s": 3.19,
+    "at_s": [
+      2.555,
+      5.475,
+      6.935,
+      9.855,
+      12.045,
+      13.505,
+      19.71
+    ],
+    "rule": "about 3 cuts per 10 s, at sentence boundaries only, never mid-sentence (user rule ugc-edit-merge-then-scenes, 2026-09-26)",
+    "spare_not_planned": "contract_7841865 on 'No commission, no fees.' would add 2 cuts and break the trust shot"
+  },
+  "timeline": [
+    {
+      "shot": 1,
+      "in": 0.0,
+      "out": 2.555,
+      "loop": "OPEN A",
+      "words": "The tenant left. Now YOU can too.",
+      "type": "A-roll",
+      "source": "take1 (L1 porch and open front door)",
+      "camera": {
+        "pov": "handheld phone held by a camera operator a few steps away",
+        "movement": "slight natural hand shake, no gimbal float",
+        "angle": "low, phone at knee height about 4 m away on the front path",
+        "framing": "WIDE, full body, the trashed porch and house around him",
+        "action": "stands in the open doorway for the whole take (does not step onto the porch); thumb points back into the house on 'left', then at the lens on 'YOU'"
+      },
+      "text": [
+        {
+          "at": 0.0,
+          "text": "Tenant left, you can too"
+        }
+      ]
+    },
+    {
+      "shot": 2,
+      "in": 2.555,
+      "out": 5.475,
+      "loop": "payload",
+      "words": "House is sitting empty. Same mortgage, every month.",
+      "type": "object b-roll (cutaway), cut at sentence start 'House'",
+      "source": "stock house_32116905, from 3 s in (a car passes at 1.0-2.5 s)",
+      "camera": {
+        "framing": "wide, house under a tree",
+        "movement": "slow drift"
+      },
+      "text": [
+        {
+          "at": 2.555,
+          "text": "House sitting empty"
+        },
+        {
+          "at": 4.015,
+          "text": "Same mortgage every month"
+        }
+      ],
+      "note": "under this b-roll the take-1 operator moves in to medium (hidden)"
+    },
+    {
+      "shot": 3,
+      "in": 5.475,
+      "out": 6.935,
+      "loop": "OPEN B",
+      "words": "So what's the move?",
+      "type": "A-roll, cut at sentence start 'So'",
+      "source": "take1",
+      "camera": {
+        "pov": "handheld phone held by a camera operator a few steps away",
+        "movement": "slight natural hand shake, no gimbal float",
+        "angle": "eye level",
+        "framing": "MEDIUM, waist-up in the doorway",
+        "action": "small shrug"
+      },
+      "text": [
+        {
+          "at": 5.475,
+          "text": "What's the move?"
+        }
+      ]
+    },
+    {
+      "shot": 4,
+      "in": 6.935,
+      "out": 9.855,
+      "loop": "payload",
+      "words": "Patch THAT and bet on the NEXT tenant?",
+      "type": "A-roll, new setup (take boundary)",
+      "source": "take2 (L2 living room, hole in the drywall)",
+      "camera": {
+        "pov": "handheld phone held by a camera operator a few steps away",
+        "movement": "slight natural hand shake, no gimbal float",
+        "angle": "his shoulder height",
+        "framing": "OVER-THE-SHOULDER MEDIUM from behind his right shoulder; the hole sharp in the left third",
+        "action": "points at the hole on 'THAT', turns his head to the lens on 'NEXT'"
+      },
+      "text": [
+        {
+          "at": 6.935,
+          "text": "Patch it?"
+        },
+        {
+          "at": 8.76,
+          "text": "Next tenant?"
+        }
+      ]
+    },
+    {
+      "shot": 5,
+      "in": 9.855,
+      "out": 12.045,
+      "loop": "payload",
+      "words": "Fix it, list it, pay commission?",
+      "type": "object b-roll (cutaway), cut at sentence start 'Fix'",
+      "source": "stock forsale_7578271",
+      "camera": {
+        "framing": "FOR SALE sign on a lawn, garage behind",
+        "movement": "push-in"
+      },
+      "text": [
+        {
+          "at": 9.855,
+          "text": "Fix it? List it? Commission?"
+        }
+      ],
+      "note": "sign reads only FOR SALE; 720x1280. Under it, on 'Fix it', he turns to face the lens and the operator takes one step back (no orbit)"
+    },
+    {
+      "shot": 6,
+      "in": 12.045,
+      "out": 13.505,
+      "loop": "CLOSE B",
+      "words": "Or sell it AS-IS.",
+      "type": "A-roll, cut at sentence start 'Or'",
+      "source": "take2",
+      "camera": {
+        "pov": "handheld phone held by a camera operator a few steps away",
+        "movement": "slight natural hand shake, no gimbal float",
+        "angle": "eye level",
+        "framing": "MEDIUM, front, the wall and hole behind him",
+        "action": "hand down, facing the lens"
+      },
+      "text": [
+        {
+          "at": 12.045,
+          "text": "Or sell it as-is"
+        }
+      ]
+    },
+    {
+      "shot": 7,
+      "in": 13.505,
+      "out": 19.71,
+      "loop": "payload + CLOSE A",
+      "words": "Our offer's LOWER than a fixed-up sale. No commission, no fees. They left. That's how YOU leave.",
+      "type": "A-roll, new setup (take boundary), NO cutaway (trust line + close)",
+      "source": "take3 (L3 back bedroom, ceiling leak)",
+      "camera": {
+        "pov": "handheld phone held by a camera operator a few steps away",
+        "movement": "slight natural hand shake, no gimbal float",
+        "angle": "eye level",
+        "framing": "CLOSE-UP, face in the right third, the stain above and behind his head; on 'They left' the operator steps back 2 paces to MEDIUM-WIDE, revealing the room",
+        "action": "stands still; one small nod on 'YOU leave'"
+      },
+      "text": [
+        {
+          "at": 13.505,
+          "text": "Lower than a fixed-up sale"
+        },
+        {
+          "at": 16.06,
+          "text": "No commission, no fees"
+        },
+        {
+          "at": 17.52,
+          "text": "Your turn to leave"
+        }
+      ],
+      "note": "7a close-up 13.505-17.52 s, 7b pull-back 17.52-19.71 s; if the pull-back fails, hard-cut 7b to a second wider L3 take (4-6 s = 164-246 credits)"
+    },
+    {
+      "shot": 8,
+      "in": 19.71,
+      "out": 21.94,
+      "loop": "CTA",
+      "words": "Tap below.",
+      "type": "end card, cut at sentence start 'Tap'",
+      "source": "spoken at the end of take 3; end card goes over it in the edit",
+      "camera": {
+        "framing": "full-frame graphic"
+      },
+      "text": [
+        {
+          "at": 19.71,
+          "text": "Ask for my offer / No obligation (two lines)"
+        }
+      ]
+    }
+  ],
+  "clips": [
+    {
+      "clip": 1,
+      "take": "take1_porch",
+      "location": "L1 porch and open front door",
+      "duration_s": 8,
+      "words": 19,
+      "credits": 328,
+      "dialogue": "The tenant left. Now YOU can too. House is sitting empty. Same mortgage, every month. So what's the move?",
+      "stress": [
+        "YOU"
+      ],
+      "speech_estimate_s": [
+        6.67,
+        7.22
+      ],
+      "prompt": "10_Video_Builds/Ad17_JMSN_Landlord/Ad17_seedance_prompt_take1_porch.txt",
+      "note": "run alone first: word-diff, measure Seedance's pace and creditsConsumed before takes 2 and 3"
+    },
+    {
+      "clip": 2,
+      "take": "take2_wall_hole",
+      "location": "L2 living room, hole in the drywall",
+      "duration_s": 8,
+      "words": 18,
+      "credits": 328,
+      "dialogue": "Patch THAT and bet on the NEXT tenant? Fix it, list it, pay commission? Or sell it AS-IS.",
+      "stress": [
+        "THAT",
+        "NEXT",
+        "AS-IS"
+      ],
+      "speech_estimate_s": [
+        6.32,
+        6.84
+      ],
+      "prompt": "10_Video_Builds/Ad17_JMSN_Landlord/Ad17_seedance_prompt_take2_wall_hole.txt",
+      "note": "no orbit: on 'Fix it' he turns to the lens and the operator takes one step back"
+    },
+    {
+      "clip": 3,
+      "take": "take3_bedroom",
+      "location": "L3 back bedroom, ceiling leak",
+      "duration_s": 8,
+      "words": 19,
+      "credits": 328,
+      "dialogue": "Our offer's LOWER than a fixed-up sale. No commission, no fees. They left. That's how YOU leave. Tap below.",
+      "stress": [
+        "LOWER",
+        "YOU"
+      ],
+      "speech_estimate_s": [
+        6.67,
+        7.22
+      ],
+      "prompt": "10_Video_Builds/Ad17_JMSN_Landlord/Ad17_seedance_prompt_take3_bedroom.txt",
+      "status": "proposed; user reply 'yeah', explicit confirmation requested before take 3; the offer line ('Our offer's LOWER than a fixed-up sale') needs the same explicit yes (not on the CLAUDE.md confirmed list)",
+      "note": "cut from 23 words at 10 s: 'But you pay' and 'too' dropped to fit 8 s"
+    }
+  ],
+  "hook_variants": [
+    {
+      "id": "H1",
+      "main": true,
+      "family": "curiosity + benefit, two-beat finality (#47)",
+      "lead": "benefit (bold root, §4b)",
+      "hook": "The tenant left. Now YOU can too.",
+      "close_a": "They left. That's how YOU leave.",
+      "text": "Tenant left, you can too",
+      "score_28": 21,
+      "copyable_check": "borderline",
+      "clip1_words": 19,
+      "clip3_words": 19
+    },
+    {
+      "id": "H2",
+      "family": "gross reveal -> relief (#50, #6)",
+      "lead": "pain",
+      "hook": "What the tenant broke? Not YOURS to fix.",
+      "close_a": "So what they broke? Not YOURS.",
+      "text": "Not yours to fix",
+      "score_28": 21,
+      "copyable_check": "borderline",
+      "clip1_words": 20,
+      "clip3_words": 19,
+      "note": "clip 1 at the 20-word limit; word-diff for a dropped Open B"
+    },
+    {
+      "id": "H3",
+      "family": "common mistake / don't do X until (#19, #53)",
+      "lead": "benefit (surface want)",
+      "hook": "Before the contractor, get the AS-IS number.",
+      "close_a": "So get the as-is number FIRST.",
+      "text": "Before the contractor",
+      "score_28": 22,
+      "copyable_check": "borderline",
+      "clip1_words": 19,
+      "clip3_words": 19,
+      "note": "top scorer; challenger, not main, because it is written from the surface want, not the root desire"
+    },
+    {
+      "id": "H4",
+      "family": "binding statement / permission (#49, Hook Map lever 6)",
+      "lead": "benefit (soft root, §4b)",
+      "hook": "Walking away from THIS isn't giving up.",
+      "close_a": "That's walking away, not giving up.",
+      "text": "Walking away isn't quitting",
+      "score_28": 21,
+      "copyable_check": "borderline",
+      "clip1_words": 19,
+      "clip3_words": 19
+    }
+  ],
+  "hook_variant_cost_credits": {
+    "per_variant": 656,
+    "why": "re-makes take 1 and take 3 (2 x 328)"
+  },
+  "cost_list_price_credits": {
+    "takes": 984,
+    "usd_takes": 4.92,
+    "per_take": 328,
+    "basis": "41 credits/s x 8 s, Kie pricing page as read in the session file; audio surcharge not confirmed",
+    "already_spent": 36,
+    "already_spent_on": "2 v3 selfie scene images (L1, L2), superseded and not used",
+    "note": "list price; nothing run for the video"
+  },
+  "flags": [
+    "take 3 line and the offer claim 'Our offer's LOWER than a fixed-up sale': proposed; user reply 'yeah', explicit confirmation requested before take 3; the claim is not on the CLAUDE.md confirmed list (used in Ad 16 final + Ad 15 v2 approved script)",
+    "Meta Housing Special Ad Category must be set when the campaign is created; it limits targeting (project rule: Property_Abundance_UGC_Set_ReelDirection_v1.md, 'Before any of this runs' item 5)",
+    "'Same mortgage, every month.' keep (review: situation, not person); fallback 'The bills don't stop.' only on a Meta rejection; never caption 'YOUR MORTGAGE'",
+    "'We buy it ourselves' removed in v2; the file conflict (CLAUDE.md confirmed vs research doc PLACEHOLDER) still needs one reconfirmation for later ads",
+    "tenant leftovers in L1/L2 are picture only; no line or text promises the owner can leave the tenant's things",
+    "second click FAILS (measured 2026-09-27): http 403, https certificate error, name search shows only the UK training company; blocker for spend"
+  ],
+  "stress_words": "CAPITALS = extra stress in Omni (Kristian technique), spoken at normal volume. If a word comes out shouted, lowercase it; if flat, capitalise it.",
+  "breakdown": "03_Ad_Scripts_and_Briefs/Ad17_JMSN_Landlord/Ad17_BREAKDOWN_v4.md",
+  "departures": [
+    "brand name never spoken; logo on the end card only (user's Ad 16 call, 2026-09-27: 'no company name in clip 3'; session log checkpoint 29)",
+    "Close A echoes the hook instead of a different hook type (reel_direction_2); the template's Close A pays off the hook",
+    "no ILLUSTRATE diagnostic line or redefined term (reel_direction_2); H3 carries the diagnostic line",
+    "Short-form rule 11 'who it's from in about 2 s' is missed because the brand is not spoken (user's Ad 16 call); optional small logo from 0 s is for the user to decide"
+  ],
+  "changes_v2": [
+    "cut plan 10 -> 7 cuts, all at sentence starts (2.99 per 10 s); unsourced 3-4.5 target removed",
+    "trust line split: 'We buy it ourselves.' cut; Ad 16 final wording 'Our offer's LOWER than a fixed-up sale.' (claim to confirm)",
+    "Close A 'They left. That's how YOU leave too.' ties the payoff to the mechanism",
+    "'House sits empty.' -> 'House is sitting empty.' (clip 1: 18 -> 19 words)",
+    "end card ASK FOR MY OFFER · NO OBLIGATION (Step 6: says what the tap does, no new claim)",
+    "prompt and image paths synced with the files on disk"
+  ],
+  "template": {
+    "picked": "#5 Us vs. Them (templates/video-scripts.md)",
+    "framework": "BAB spine (Solution-aware row) + Us vs. Them contrast (category-aware / Stage 4)",
+    "rejected": {
+      "#7 Objection-buster": "needs a real customer quote and a '#1 thing we hear' claim",
+      "#11 Rival's promise, destroyed": "first-person 'they told me' story pulls JMSN into the seller role; needs proof",
+      "#12 Honest exposé": "30-45 s with a test beat; no room at 60 words",
+      "#2 UGC testimonial": "customer voice on an AI avatar",
+      "#4 Demo": "no confirmed process to demo (offer math not confirmed)"
+    },
+    "gap": "the template's [Proof] slot is empty: no proof exists yet"
+  },
+  "mechanism": {
+    "problem": "the fix-first trap: every usual way out of a trashed rental runs through fixing it first, while the mortgage keeps coming",
+    "solution": "the as-is exit: sell it as-is to a buyer who takes it as it stands, so there is no fix-first step",
+    "spoken_as": "Or sell it AS-IS."
+  },
+  "funnel": {
+    "primary": "direct: ad -> page with mechanism and proof -> 'Ask for my offer', no obligation",
+    "test_3": "two-step with a no-contact landlord side-by-side guide (not written yet)",
+    "first_reply": "teaches the as-is process with confirmed terms; no speed claim in the ad"
+  },
+  "second_click_2026_09_27": {
+    "http": "403 'No application found'",
+    "https": "certificate error: CloudFlare Origin Certificate presented to browsers",
+    "search_top10": "UK training company (propertyabundance.info, Trustpilot, Facebook, Instagram, UK Companies House) + a D&B listing; no US cash-buyer result",
+    "verdict": "FAIL, blocker for spend"
+  },
+  "text_rules": {
+    "style": "text pops in sentence case, no periods, 3-5 words each (video-scripts.md On-screen text rules); captions stay in the user's dynamic-captions style",
+    "safe_zone_1080x1920": "keep y 0-268 and y 1248-1920 and 65 px each side clear (Reels: top 14 %, bottom 35 %, 6 % sides); pops in the upper band (about y 290-520), captions in the lower band (about y 1000-1240), both off the face"
+  },
+  "hook_reserve": {
+    "hook": "Not a repair problem. An EXIT problem.",
+    "close_a": "So take the EXIT.",
+    "score_28": 20,
+    "note": "v2's H3, outscored by the new H3"
+  },
+  "hooks_scored": {
+    "count": 20,
+    "kept": [
+      "#1 H1 21",
+      "#16 H2 21",
+      "#6 H3 22",
+      "#14 H4 21"
+    ],
+    "reserve": [
+      "#3 20"
+    ],
+    "source": "Ad17_BREAKDOWN_v3.md, Step 3a"
+  },
+  "test_plan": [
+    "hook first: H1 vs H2 (benefit vs pain), then add H3 and H4; body identical except each variant's Close A",
+    "then angle (finality vs number), then CTA (direct vs two-step guide, once it exists), then format (AI UGC vs static)",
+    "read hook rate (3-s views / impressions), 7-day rolling, at least 3 tests, judge on cost per qualified lead and closed deals",
+    "log the winner in 11_Psychological_Hooks/swipe-file.md only after results exist"
+  ],
+  "changes_v3": [
+    "dialogue unchanged; every line re-derived and kept (copy chief pass)",
+    "20 hooks scored (was 10); new H3 (22) and H4 (soft root angle); v2 H3 moved to reserve",
+    "template #5 Us vs. Them picked and justified",
+    "text pops: sentence case, no periods, 'Your turn to leave' echo, end card split into two lines",
+    "Reels safe-zone placement added",
+    "second click measured live: FAIL",
+    "funnel, follow-ups, test plan, AI passes added in the breakdown"
+  ],
+  "generation": {
+    "model": "bytedance/seedance-2 (Seedance 2.0)",
+    "resolution": "720p",
+    "aspect_ratio": "9:16",
+    "duration_s": 8,
+    "generate_audio": true,
+    "reference_image_urls": [
+      "13_Generated/images/Ad17_JMSN_ref_face_crop.png (428x886)",
+      "13_Generated/images/Ad17_JMSN_ref_body_crop.png (430x946)"
+    ],
+    "first_frame": "none (reference mode)",
+    "light": "low late-afternoon sun with hard shadows; lamps off; auto exposure",
+    "script": "12_AI_Characters/kie_seedance.py"
+  },
+  "superseded": {
+    "omni_prompts": [
+      "10_Video_Builds/Ad17_JMSN_Landlord/Ad17_video_prompt_clip1_front_door.txt",
+      "10_Video_Builds/Ad17_JMSN_Landlord/Ad17_video_prompt_clip2_wall_hole.txt",
+      "10_Video_Builds/Ad17_JMSN_Landlord/Ad17_video_prompt_clip3_ceiling_leak.txt"
+    ],
+    "image_prompts": [
+      "10_Video_Builds/Ad17_JMSN_Landlord/Ad17_image_prompt_L1_front_door.txt",
+      "10_Video_Builds/Ad17_JMSN_Landlord/Ad17_image_prompt_L2_wall_hole.txt",
+      "10_Video_Builds/Ad17_JMSN_Landlord/Ad17_image_prompt_L3_ceiling_leak.txt"
+    ],
+    "images": [
+      "13_Generated/images/Ad17_JMSN_L1_front_door_v1.png",
+      "13_Generated/images/Ad17_JMSN_L2_wall_hole_v1.png"
+    ],
+    "why": "Seedance reference mode uses 2 cropped reference images and no first frame; the v3 selfie scene images are not used",
+    "spent_credits": 36,
+    "spent_basis": "logs/Ad17_L1_v1.log and logs/Ad17_L2_v1.log: creditsConsumed 18.0 each"
+  },
+  "changes_v4_seedance": [
+    "model Seedance 2.0, 720p, 3 x 8 s = 24 s, 328 credits a take, 984 total",
+    "take 3 cut from 23 to 19 words ('But you pay' and 'too' dropped); total 56 words",
+    "operator camera framing replaces the selfie framing in every shot; take 1 stays in the doorway; take 2 has no orbit",
+    "2 reference crops, no first frame; Omni prompts and v3 scene images marked superseded; 36 credits already spent on them",
+    "timeline retimed: 7 cuts in about 21.9 s = 3.19 per 10 s"
+  ]
+}

@@ -68,4 +68,5 @@ One row per shot. This is what production builds from. Every cut should land on 
 - [ ] Every claim is on the confirmed list. No quote from Part A appears on screen.
 - [ ] Emotional temperature matches the landing page or first reply.
 - [ ] Sound-off test: the text alone tells the story.
-- [ ] Sell the destination ([../sell-the-destination.md](../sell-the-destination.md)): PLANE 10% or less, 1-3 PATH beats, DESTINATION 35%+ cold / ~30% hot, last shot = their next chapter.
+- [ ] Sell fear ([../sell-fear.md](../sell-fear.md)): opens on 1-3 sourced landscape facts with source cards, fear lands on one third-person character, PAIN 40-50% cold / ~35% hot.
+- [ ] Sell the destination ([../sell-the-destination.md](../sell-the-destination.md)): PLANE 10% or less, 1-3 PATH beats (20%+), DESTINATION 25%+, last shot = their next chapter.

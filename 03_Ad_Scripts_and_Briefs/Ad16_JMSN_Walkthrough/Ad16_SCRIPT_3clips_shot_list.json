@@ -1,0 +1,247 @@
+{
+  "ad": "Ad16 - JMSN House Walkthrough - The Catch",
+  "version": "shot script v3: clips 1-2 of 8 s, clip 3 of 10 s (2026-09-27)",
+  "character": "13_Generated/images/Ad16_JMSN_character_sheet_B_CHOSEN.png",
+  "format": {
+    "aspect": "9:16",
+    "resolution": "1080x1920",
+    "fps": 24,
+    "duration_s_estimate": 23.5,
+    "timing_basis": "176 wpm, Emily's clip 1 raw pace measured with the fast-pace rule; retime to the real clips"
+  },
+  "why_2_loops": "About 24 s: the psychology report says under 30 s = 1 loop, 30-60 s = 2 loops, and Howie (00:25:08) says a 30 s ad has no time for A, B and C. So the wholesaler line is payload inside loop B, not its own loop.",
+  "research": {
+    "cuts_per_10s_talking_head_70s_or_less": 2.97,
+    "first_cut_s": 2.92,
+    "median_shot_s": 2.83,
+    "punch_in_scale_median": 1.315,
+    "source": "competitor cut analysis of 44 Meta ads, 2026-09-26"
+  },
+  "rules": [
+    "3 Omni clips of 8 s, one continuous take each; every cut is made in the edit",
+    "loop lines on his face; payload on object b-roll or a punch-in; the trust line never cuts away",
+    "object b-roll: objects and places only, matched to the words",
+    "the voice runs unbroken under every cut"
+  ],
+  "cuts": {
+    "count": 10,
+    "per_10s": 4.26
+  },
+  "timeline": [
+    {
+      "shot": 1,
+      "in": 0.0,
+      "out": 2.39,
+      "loop": "OPEN A",
+      "words": "I'd buy this house EXACTLY like this.",
+      "type": "A-roll",
+      "source": "clip1 (L1 front walk)",
+      "camera": {
+        "pov": "selfie, iPhone front camera at arm's length",
+        "lens": "front-camera wide, about 24 mm equivalent",
+        "movement": "handheld micro-shake",
+        "angle": "slightly below eye level",
+        "framing": "medium close-up, off-centre, the sagging house behind him",
+        "action": "walks slowly along the front walk, glances back at the roof on 'exactly like this'"
+      },
+      "text": "I'D BUY IT LIKE THIS (top third)"
+    },
+    {
+      "shot": 2,
+      "in": 2.39,
+      "out": 3.41,
+      "loop": "payload",
+      "words": "HOLES and all.",
+      "type": "object b-roll (cutaway)",
+      "source": "stock roof_11629980",
+      "camera": {
+        "framing": "close-up of the damaged roof",
+        "movement": "slow drift"
+      },
+      "text": "HOLES AND ALL"
+    },
+    {
+      "shot": 3,
+      "in": 3.41,
+      "out": 5.11,
+      "loop": "OPEN B",
+      "words": "And yes, there's a CATCH.",
+      "type": "A-roll, punch-in 131% (edit)",
+      "source": "clip1",
+      "camera": {
+        "pov": "selfie, iPhone front camera at arm's length",
+        "lens": "front-camera wide, about 24 mm equivalent",
+        "movement": "handheld micro-shake",
+        "framing": "close-up: the same take cropped to 131% (measured median punch-in)",
+        "action": "stops walking, eyes on the lens"
+      },
+      "text": "THERE'S A CATCH"
+    },
+    {
+      "shot": 4,
+      "in": 5.11,
+      "out": 5.79,
+      "loop": "payload",
+      "words": "Broken furniture.",
+      "type": "object b-roll",
+      "source": "NEEDS CLIP: broken furniture, no people",
+      "camera": {
+        "framing": "medium close-up",
+        "movement": "slow drift"
+      },
+      "text": "BROKEN FURNITURE"
+    },
+    {
+      "shot": 5,
+      "in": 5.79,
+      "out": 6.47,
+      "loop": "payload",
+      "words": "Old beds.",
+      "type": "object b-roll",
+      "source": "NEEDS CLIP: old or broken bed, no people",
+      "camera": {
+        "framing": "medium shot",
+        "movement": "slow drift"
+      },
+      "text": "OLD BEDS"
+    },
+    {
+      "shot": 6,
+      "in": 6.47,
+      "out": 7.16,
+      "loop": "payload",
+      "words": "Full closets.",
+      "type": "object b-roll",
+      "source": "stock closet_8844337",
+      "camera": {
+        "framing": "medium close-up",
+        "movement": "tracking"
+      },
+      "text": "FULL CLOSETS"
+    },
+    {
+      "shot": 7,
+      "in": 7.16,
+      "out": 9.89,
+      "loop": "payload",
+      "words": "Some cash buyers NEVER even buy your house.",
+      "type": "A-roll, new setup (new room)",
+      "source": "clip2 (L2 kitchen)",
+      "camera": {
+        "pov": "selfie, iPhone front camera at arm's length",
+        "lens": "front-camera wide, about 24 mm equivalent",
+        "movement": "handheld micro-shake",
+        "angle": "eye level",
+        "framing": "medium close-up, hanging cabinet door behind his shoulder",
+        "action": "leans closer to the lens"
+      },
+      "text": "SOME NEVER BUY IT"
+    },
+    {
+      "shot": 8,
+      "in": 9.89,
+      "out": 11.25,
+      "loop": "payload",
+      "words": "They sell your contract.",
+      "type": "object b-roll (cutaway)",
+      "source": "stock contract_7841865",
+      "camera": {
+        "framing": "top-down close-up",
+        "movement": "slow drift"
+      },
+      "text": "THEY SELL YOUR CONTRACT"
+    },
+    {
+      "shot": 9,
+      "in": 11.25,
+      "out": 14.66,
+      "loop": "payload",
+      "words": "WE'RE the buyer. No fees. No commission.",
+      "type": "A-roll, punch-in 131% (edit)",
+      "source": "clip2",
+      "camera": {
+        "pov": "selfie, iPhone front camera at arm's length",
+        "lens": "front-camera wide, about 24 mm equivalent",
+        "movement": "handheld micro-shake",
+        "framing": "close-up: same take cropped to 131%",
+        "action": "small nod on 'We're the buyer'"
+      },
+      "text": "WE'RE THE BUYER",
+      "note": "Omni dropped 'You fix NOTHING.' from clip 2 (19 of 22 words, silence 7.224-8.0 s), so the line moved to the start of clip 3."
+    },
+    {
+      "shot": 10,
+      "in": 14.66,
+      "out": 21.48,
+      "loop": "payload + CLOSE B + CLOSE A",
+      "words": "You fix NOTHING. That's the CATCH: our offer's LOWER than a fixed-up sale. That's why I'd buy it EXACTLY like this.",
+      "type": "A-roll, new setup, NO cutaway (trust line)",
+      "source": "clip3 (L3 broken floor)",
+      "camera": {
+        "pov": "selfie, iPhone front camera at arm's length",
+        "lens": "front-camera wide, about 24 mm equivalent",
+        "movement": "handheld micro-shake",
+        "angle": "high angle, phone above his head tilted down",
+        "framing": "face in the upper third, broken boards in the lower part",
+        "action": "stands still on solid floor, small nod on 'EXACTLY like this'"
+      },
+      "text": "OUR OFFER IS LOWER",
+      "note": "no company name spoken in clip 3 (user, 2026-09-27)"
+    },
+    {
+      "shot": 11,
+      "in": 21.48,
+      "out": 23.5,
+      "loop": "CTA",
+      "words": "Tap below.",
+      "type": "end card",
+      "source": "spoken at the end of clip 3; end card (logo + arrow down to the Learn More button) goes over it in the edit",
+      "camera": {
+        "framing": "full-frame graphic"
+      },
+      "text": "LEARN MORE"
+    }
+  ],
+  "clips": [
+    {
+      "clip": 1,
+      "image": "L1 front walk",
+      "duration_s": 8,
+      "words": 21,
+      "credits": 105,
+      "prompt": "10_Video_Builds/Ad16_JMSN_Walkthrough/Ad16_video_prompt_clip1_front_walk.txt"
+    },
+    {
+      "clip": 2,
+      "image": "L2 kitchen",
+      "duration_s": 8,
+      "words": 19,
+      "credits": 105,
+      "prompt": "10_Video_Builds/Ad16_JMSN_Walkthrough/Ad16_video_prompt_clip2_kitchen.txt",
+      "note": "generated 2026-09-27; 'You fix NOTHING.' was dropped and moved to clip 3"
+    },
+    {
+      "clip": 3,
+      "image": "L3 broken floor v2 (13_Generated/images/Ad16_JMSN_scene3_broken_floor_v2.png)",
+      "duration_s": 10,
+      "words": 23,
+      "credits": 126,
+      "prompt": "10_Video_Builds/Ad16_JMSN_Walkthrough/Ad16_video_prompt_clip3_broken_floor.txt",
+      "note": "10 s because 23 words need about 8.1-8.7 s at the measured pace of clips 1 and 2 (0.351 and 0.380 s per word); the edit cuts the tail after the last word. No company name spoken (user, 2026-09-27)."
+    }
+  ],
+  "dropped_from_107_word_version": [
+    "loop C as its own loop (the wholesaler point stays as payload)",
+    "You pick the closing date. And you can still say no.",
+    "Every repair in here becomes OURS.",
+    "CTA shortened from 'Tap below to learn more' to 'Tap below.' + LEARN MORE on the end card",
+    "the 3 new-angle character shots (CB1/CB4/CB5)"
+  ],
+  "cost_list_price_credits": {
+    "scene_images": 54,
+    "clips": 336,
+    "total": 390,
+    "note": "plan at list price; the measured spend is in the Airtable Notes"
+  },
+  "stress_words": "CAPITALS = extra stress in Omni (Kristian technique), spoken at normal volume. If a word comes out shouted, lowercase it; if flat, capitalise it."
+}

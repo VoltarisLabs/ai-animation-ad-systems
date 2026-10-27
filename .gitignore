@@ -32,7 +32,21 @@ research.webarchive
 
 # Personal data — never on the public repo
 session-chat/
+*.session.md
 11_Psychological_Hooks/Screenshot*
+Screenshot*
 
-
+# Skills stay local (owner rule, 2026-10-28): the skills used or picked up.
+# Files already on GitHub stay tracked; new ones are not added.
 .claude
+01_Skills_and_SOPs/
+SKILL.md
+ZackD_SKILL.md
+ZackD_README.md
+skills-lock.json
+
+12_AI_Characters/Ava/ref_2.jpg
+
+# Ad 20 v38 music work files (96 MB): the Wavecont track pulled from a YouTube re-upload (CC BY-SA 4.0, credit
+# required) and its stems. Kept local.
+10_Video_Builds/Ad20_Ava_Heir/v38_work/

@@ -1,0 +1,544 @@
+{
+  "ad": "Ad16 - JMSN House Walkthrough - The Catch",
+  "version": "shot script v1, 2026-09-27",
+  "character": "13_Generated/images/Ad16_JMSN_character_sheet_B_CHOSEN.png (the user's pick)",
+  "format": {
+    "aspect": "9:16",
+    "resolution": "1080x1920",
+    "fps": 24,
+    "duration_s_estimate": 40.01,
+    "timing_basis": "speech at 166.0 wpm (Emily's measured pace in her edit). Retime every shot to the real clips."
+  },
+  "research": {
+    "competitor_cut_analysis": {
+      "source": "44 Meta Ad Library video ads, measured 2026-09-26 (session-chat/2026-09-25_emily-character-kie.session.md)",
+      "talking_head_70s_or_shorter": {
+        "ads": 23,
+        "cuts_per_10s": 2.97,
+        "median_shot_s": 2.83,
+        "first_cut_s": 2.92
+      },
+      "all_talking_head": {
+        "ads": 29,
+        "cuts_per_10s": 3.22,
+        "median_shot_s": 2.36,
+        "first_cut_s": 2.865
+      },
+      "punch_in_scale": {
+        "median": 1.315,
+        "iqr": [
+          1.21,
+          1.37
+        ]
+      },
+      "punch_out_scale_median": 0.76,
+      "cut_type_shares": {
+        "b_roll_cutaway": 0.751,
+        "jump_cut": 0.23,
+        "new_setup": 0.105,
+        "punch_in": 0.058,
+        "punch_out": 0.046
+      },
+      "closest_niche": "The Mobile Home Guys: 0-4 cuts per ad, handheld selfie walk-and-talk single takes"
+    },
+    "vertical_refs_scene_detect": {
+      "method": "ffmpeg scene detect at 0.3, 2026-09-27; undercounts b-roll with similar colour and dissolves",
+      "housecashin": {
+        "cuts": 8,
+        "first_cut_s": 1.27
+      },
+      "ref6_betterpath": {
+        "cuts": 10,
+        "first_cut_s": 0.04
+      },
+      "clever_offers": {
+        "cuts": 5,
+        "first_cut_s": 2.73
+      }
+    },
+    "attention": [
+      "Meta: feed content is recalled after 0.25 s, so the first frame must already show him and the house",
+      "TikTok: 63%+ of highest-CTR videos land the key message in the first 3 s",
+      "one focal action per shot (working-memory limit)",
+      "2-3 keyword captions help recall; full subtitles that repeat the voice hurt it (Mayer)"
+    ],
+    "sources_file": "05_Tutorials/Hook_Psychology_Research_Report.md (Part B 4f and 6)"
+  },
+  "rules": [
+    "Omni makes one continuous take per clip: every cut is made in the edit",
+    "a new camera angle of him (from behind, from the side) needs its own generation: a start image, then a short Omni clip with no dialogue",
+    "loop lines (OPEN / CLOSE) on his face; payload on b-roll; the trust line (CLOSE B) never cuts away",
+    "object b-roll shows objects and places only, no other people, and matches the words",
+    "punch-in = crop the same take to 131% on a key phrase",
+    "the voice runs unbroken under every cut"
+  ],
+  "cuts": {
+    "count": 17,
+    "per_10s": 4.25,
+    "note": "above the measured median of 2.97 because of the 3-shot furniture/bed/closet burst the user asked for"
+  },
+  "timeline": [
+    {
+      "out": 1.4,
+      "loop": "OPEN A",
+      "words": "I'd buy this house",
+      "type": "A-roll",
+      "source": "clip1 (L1 front walk)",
+      "camera": {
+        "pov": "selfie, iPhone front camera held at arm's length",
+        "lens": "front-camera wide (about 24 mm equivalent), slight wide-angle distortion",
+        "movement": "handheld, natural micro-shake",
+        "angle": "slightly below eye level",
+        "framing": "medium close-up, off-centre, house behind him",
+        "action": "walks slowly along the cracked front walk, house sliding past behind him"
+      },
+      "caption": "I'D BUY IT LIKE THIS (top third, hook text)",
+      "shot": 1,
+      "in": 0.0
+    },
+    {
+      "out": 2.53,
+      "loop": "OPEN A",
+      "words": "exactly like this.",
+      "type": "character b-roll (new angle)",
+      "source": "CB1",
+      "camera": {
+        "pov": "third person, iPhone rear camera held by a friend",
+        "lens": "main camera, natural perspective",
+        "movement": "handheld, natural shake",
+        "angle": "chest height, from behind",
+        "framing": "medium-wide: his back from the knees up, the sagging house filling the top half",
+        "action": "follows him up the walk toward the front door; he glances up at the roof"
+      },
+      "caption": "(hook text stays)",
+      "shot": 2,
+      "in": 1.4
+    },
+    {
+      "out": 3.61,
+      "loop": "payload",
+      "words": "Holes and all.",
+      "type": "object b-roll",
+      "source": "stock roof_11629980 (collapsed roof; a US house roof close-up would fit better)",
+      "camera": {
+        "pov": "stock",
+        "framing": "close-up of the damaged roof",
+        "movement": "slow handheld drift"
+      },
+      "caption": "HOLES AND ALL",
+      "shot": 3,
+      "in": 2.53
+    },
+    {
+      "out": 5.42,
+      "loop": "OPEN B",
+      "words": "And yes, there's a catch.",
+      "type": "A-roll",
+      "source": "clip1 (L1 front walk)",
+      "camera": {
+        "pov": "selfie, iPhone front camera held at arm's length",
+        "lens": "front-camera wide (about 24 mm equivalent), slight wide-angle distortion",
+        "movement": "handheld, natural micro-shake",
+        "angle": "eye level",
+        "framing": "close-up, face nearer the lens, small smile",
+        "action": "stops walking, looks straight into the lens"
+      },
+      "caption": "THERE'S A CATCH",
+      "shot": 4,
+      "in": 3.61
+    },
+    {
+      "out": 6.14,
+      "loop": "payload",
+      "words": "Broken furniture.",
+      "type": "object b-roll",
+      "source": "NEEDS CLIP: broken furniture, no people",
+      "camera": {
+        "pov": "stock",
+        "framing": "medium close-up",
+        "movement": "slow push or drift"
+      },
+      "caption": "BROKEN FURNITURE",
+      "shot": 5,
+      "in": 5.42
+    },
+    {
+      "out": 6.86,
+      "loop": "payload",
+      "words": "Old beds.",
+      "type": "object b-roll",
+      "source": "NEEDS CLIP: old or broken bed, no people",
+      "camera": {
+        "pov": "stock",
+        "framing": "medium shot",
+        "movement": "slow drift"
+      },
+      "caption": "OLD BEDS",
+      "shot": 6,
+      "in": 6.14
+    },
+    {
+      "out": 7.59,
+      "loop": "payload",
+      "words": "Full closets.",
+      "type": "object b-roll",
+      "source": "stock closet_8844337 (rack packed with clothes)",
+      "camera": {
+        "pov": "stock",
+        "framing": "medium close-up",
+        "movement": "tracking"
+      },
+      "caption": "FULL CLOSETS",
+      "shot": 7,
+      "in": 6.86
+    },
+    {
+      "out": 11.2,
+      "loop": "OPEN C",
+      "words": "But first, some cash buyers never actually buy your house.",
+      "type": "A-roll, new setup (new room)",
+      "source": "clip2 (L2 kitchen)",
+      "camera": {
+        "pov": "selfie, iPhone front camera held at arm's length",
+        "lens": "front-camera wide (about 24 mm equivalent), slight wide-angle distortion",
+        "movement": "handheld, natural micro-shake",
+        "angle": "eye level",
+        "framing": "medium close-up, off-centre, hanging cabinet door behind one shoulder",
+        "action": "leans a little closer to the lens on 'But first'"
+      },
+      "caption": "SOME NEVER BUY IT",
+      "shot": 8,
+      "in": 7.59
+    },
+    {
+      "out": 13.2,
+      "loop": "payload",
+      "words": "They lock it under contract.",
+      "type": "object b-roll",
+      "source": "stock contract_7841865 (contract and pens, no people)",
+      "camera": {
+        "pov": "stock",
+        "framing": "top-down close-up",
+        "movement": "slow drift"
+      },
+      "caption": "UNDER CONTRACT",
+      "shot": 9,
+      "in": 11.2
+    },
+    {
+      "out": 15.54,
+      "loop": "payload",
+      "words": "Then sell that contract to someone else.",
+      "type": "object b-roll",
+      "source": "stock forsale_7578271 (plain FOR SALE sign, no broker name)",
+      "camera": {
+        "pov": "stock",
+        "framing": "medium shot of the sign",
+        "movement": "slow drift"
+      },
+      "caption": "SOLD TO SOMEONE ELSE",
+      "shot": 10,
+      "in": 13.2
+    },
+    {
+      "out": 17.6,
+      "loop": "CLOSE C",
+      "words": "That's why I'll say it plain.",
+      "type": "A-roll",
+      "source": "clip3 (L2 kitchen)",
+      "camera": {
+        "pov": "selfie, iPhone front camera held at arm's length",
+        "lens": "front-camera wide (about 24 mm equivalent), slight wide-angle distortion",
+        "movement": "handheld, natural micro-shake",
+        "angle": "eye level",
+        "framing": "medium close-up",
+        "action": "steady eye contact"
+      },
+      "caption": "I'LL SAY IT PLAIN",
+      "shot": 11,
+      "in": 15.54
+    },
+    {
+      "out": 20.24,
+      "loop": "CLOSE C",
+      "words": "We're the buyer. No fees. No commission.",
+      "type": "punch-in 131% (edit, same take)",
+      "source": "clip3 (L2 kitchen)",
+      "camera": {
+        "pov": "same take, cropped in the edit",
+        "framing": "close-up (scale 1.31, the measured median punch-in)",
+        "movement": "none added"
+      },
+      "caption": "WE'RE THE BUYER",
+      "shot": 12,
+      "in": 17.6
+    },
+    {
+      "out": 22.2,
+      "loop": "payload",
+      "words": "As-is means you fix NOTHING.",
+      "type": "object b-roll",
+      "source": "stock ceiling_4882745 from 8.5 s (gutted ceiling, no people)",
+      "camera": {
+        "pov": "stock",
+        "framing": "wide of the damaged ceiling",
+        "movement": "slow drift"
+      },
+      "caption": "YOU FIX NOTHING",
+      "shot": 13,
+      "in": 20.24
+    },
+    {
+      "out": 24.22,
+      "loop": "payload",
+      "words": "Every repair in here becomes OURS.",
+      "type": "character b-roll (new angle)",
+      "source": "CB4",
+      "camera": {
+        "pov": "third person, iPhone rear camera held by a friend",
+        "lens": "main camera, natural perspective",
+        "movement": "handheld, natural shake",
+        "angle": "eye level, from the side",
+        "framing": "medium shot, the water stain and hanging cabinet door in frame",
+        "action": "he looks up at the ceiling stain and gives a small nod; he does not speak"
+      },
+      "caption": "EVERY REPAIR = OURS",
+      "shot": 14,
+      "in": 22.2
+    },
+    {
+      "out": 29.28,
+      "loop": "CLOSE B",
+      "words": "That's why there IS a catch. Our offer is LOWER than a fixed-up sale.",
+      "type": "A-roll, new setup (trust line, no cutaway)",
+      "source": "clip4 (L3 broken floor)",
+      "camera": {
+        "pov": "selfie, iPhone front camera held at arm's length",
+        "lens": "front-camera wide (about 24 mm equivalent), slight wide-angle distortion",
+        "movement": "handheld, natural micro-shake",
+        "angle": "high angle, phone above his head tilted down",
+        "framing": "face in the upper third, broken boards in the lower part",
+        "action": "stands still on solid floor, eyes on the lens"
+      },
+      "caption": "OUR OFFER IS LOWER",
+      "shot": 15,
+      "in": 24.22
+    },
+    {
+      "out": 33.26,
+      "loop": "payload",
+      "words": "You pick the closing date. And you can still say no.",
+      "type": "character b-roll (new angle)",
+      "source": "CB5",
+      "camera": {
+        "pov": "third person, iPhone rear camera held by a friend",
+        "lens": "main camera, natural perspective",
+        "movement": "handheld, natural shake",
+        "angle": "eye level, from inside the house, behind him",
+        "framing": "medium-wide: he walks out through the open front door onto the porch",
+        "action": "walks out into overcast daylight; the camera follows two steps and stops at the door"
+      },
+      "caption": "YOU PICK THE DATE",
+      "shot": 16,
+      "in": 29.28
+    },
+    {
+      "out": 36.87,
+      "loop": "CLOSE A",
+      "words": "That's why I'd buy it exactly like this. Property Abundance.",
+      "type": "A-roll, back outside",
+      "source": "clip5 (L1 front walk)",
+      "camera": {
+        "pov": "selfie, iPhone front camera held at arm's length",
+        "lens": "front-camera wide (about 24 mm equivalent), slight wide-angle distortion",
+        "movement": "handheld, natural micro-shake",
+        "angle": "slightly below eye level",
+        "framing": "medium close-up, house behind him",
+        "action": "stands still, smiles, small nod on 'Property Abundance'"
+      },
+      "caption": "PROPERTY ABUNDANCE",
+      "shot": 17,
+      "in": 33.26
+    },
+    {
+      "out": 40.01,
+      "loop": "CTA",
+      "words": "Tap below to learn more.",
+      "type": "end card",
+      "source": "edit: logo + arrow down to the Learn More button",
+      "camera": {
+        "pov": "graphic",
+        "framing": "full frame",
+        "movement": "none"
+      },
+      "caption": "LEARN MORE",
+      "shot": 18,
+      "in": 36.87
+    }
+  ],
+  "character_broll": [
+    {
+      "id": "CB1",
+      "used_in_shot": 2,
+      "needs_first": "L1 front-walk scene image (so the house matches)",
+      "omni_duration_s": 4,
+      "omni_credits": 63,
+      "image_credits": 18,
+      "start_image_prompt": {
+        "TASK": "New photo of the SAME man from image 1, seen from behind, walking up the front walk toward the house in image 2.",
+        "INPUTS": {
+          "image_1": "character sheet B: copy his face, hair (very short, faint 360 waves), build, outfit and accessories exactly",
+          "image_2": "image_2: the L1 front-walk scene image. Copy the house, the sagging roof, the blue tarp, the lawn and the street exactly.",
+          "image_3": "car selfie v2 B: copy only its real phone-photo skin texture, grain and natural light"
+        },
+        "CAMERA": {
+          "device": "iPhone rear camera held by a friend walking about 2 m behind him",
+          "height": "chest height",
+          "framing": "medium-wide: his back from the knees up in the lower half, the house filling the upper half",
+          "focus": "deep focus"
+        },
+        "SUBJECT": {
+          "pose": "mid-stride on the cracked concrete walk toward the front door, head tilted slightly up toward the sagging roof",
+          "outfit": "the open grey, black and cream buffalo-check flannel overshirt over a heather-grey t-shirt, olive cargo pants, white low-top sneakers, the thin silver chain, one white earbud in his left ear only and the small black clip-on mic on the overshirt"
+        },
+        "LIGHT": "flat overcast daylight, grey sky with detail, not pure white",
+        "STYLE": "a real, unedited iPhone photo: sensor grain, flat colour, deep focus, slight softness",
+        "STRICTLY_EXCLUDED": [
+          "NO smooth plastic skin, NO beauty filter",
+          "NO other people",
+          "NO text, signs, house numbers, logos or watermark",
+          "NO earbud in the right ear",
+          "NO navy quarter-zip, NO hoodie, NO hat"
+        ],
+        "OUTPUT": "9:16 vertical"
+      },
+      "omni_prompt": "Handheld UGC iPhone video filmed from behind by a friend walking about two metres behind the man. Use the uploaded image as the first frame: the same man, the same outfit, the same house. He walks slowly up the cracked front walk toward the front door and glances up at the sagging roof. The camera follows at walking pace with natural hand shake; it never cuts and never zooms. Audio: his footsteps on concrete, light wind, distant birds. Rules: one continuous take, no jump cuts. He does not speak. The house stays exactly as it is: no damage appears, grows, moves or disappears. His face, hair, outfit and accessories stay exactly as in the image (one earbud, left ear only). No other people. No text, signs, logos or watermark. No music."
+    },
+    {
+      "id": "CB4",
+      "used_in_shot": 14,
+      "needs_first": "L2 kitchen scene image (so the kitchen matches)",
+      "omni_duration_s": 4,
+      "omni_credits": 63,
+      "image_credits": 18,
+      "start_image_prompt": {
+        "TASK": "New photo of the SAME man from image 1, standing in the kitchen from image 2, seen from the side, looking up at a brown water stain on the ceiling.",
+        "INPUTS": {
+          "image_1": "character sheet B: copy his face, hair (very short, faint 360 waves), build, outfit and accessories exactly",
+          "image_2": "image_2: the L2 kitchen scene image. Copy the kitchen exactly: the cabinet door hanging off its hinge, the peeling countertop, the stained floor. Add a brown water stain on the ceiling above him.",
+          "image_3": "car selfie v2 B: copy only its real phone-photo skin texture, grain and natural light"
+        },
+        "CAMERA": {
+          "device": "iPhone rear camera held by a friend standing in the kitchen doorway",
+          "height": "eye level",
+          "framing": "medium shot from his left side, the stain and the hanging cabinet door both in frame",
+          "focus": "deep focus"
+        },
+        "SUBJECT": {
+          "pose": "standing still, chin raised, eyes on the ceiling stain, relaxed, hands at his sides",
+          "outfit": "the open grey, black and cream buffalo-check flannel overshirt over a heather-grey t-shirt, olive cargo pants, white low-top sneakers, the thin silver chain, one white earbud in his left ear only and the small black clip-on mic on the overshirt"
+        },
+        "LIGHT": "grey window daylight mixed with one bare warm ceiling bulb",
+        "STYLE": "a real, unedited iPhone photo: sensor grain, flat colour, deep focus, slight softness",
+        "STRICTLY_EXCLUDED": [
+          "NO smooth plastic skin, NO beauty filter",
+          "NO other people",
+          "NO text, signs, house numbers, logos or watermark",
+          "NO earbud in the right ear",
+          "NO navy quarter-zip, NO hoodie, NO hat"
+        ],
+        "OUTPUT": "9:16 vertical"
+      },
+      "omni_prompt": "Handheld UGC iPhone video filmed by a friend standing in the kitchen doorway. Use the uploaded image as the first frame: the same man, the same outfit, the same kitchen. He looks up at the water stain on the ceiling for a moment, then gives a small, calm nod and lowers his eyes. The camera stays where it is with natural hand shake; it never cuts and never zooms. Audio: the quiet hollow room tone of an empty house. Rules: one continuous take, no jump cuts. He does not speak. The house stays exactly as it is: no damage appears, grows, moves or disappears. His face, hair, outfit and accessories stay exactly as in the image (one earbud, left ear only). No other people. No text, signs, logos or watermark. No music."
+    },
+    {
+      "id": "CB5",
+      "used_in_shot": 16,
+      "needs_first": "L1 front-walk scene image (so the porch and street match)",
+      "omni_duration_s": 6,
+      "omni_credits": 84,
+      "image_credits": 18,
+      "start_image_prompt": {
+        "TASK": "New photo of the SAME man from image 1, seen from behind inside the old house, stepping out through the open front door onto the porch of the house in image 2.",
+        "INPUTS": {
+          "image_1": "character sheet B: copy his face, hair (very short, faint 360 waves), build, outfit and accessories exactly",
+          "image_2": "image_2: the L1 front-walk scene image. The porch, the lawn and the street seen through the door must match it.",
+          "image_3": "car selfie v2 B: copy only its real phone-photo skin texture, grain and natural light"
+        },
+        "CAMERA": {
+          "device": "iPhone rear camera held by a friend inside the house, about 2 m behind him",
+          "height": "chest height",
+          "framing": "medium-wide: the dim hallway around the edges, the bright open doorway in the middle with him in it",
+          "focus": "deep focus"
+        },
+        "SUBJECT": {
+          "pose": "mid-step through the open front door, one foot on the porch",
+          "outfit": "the open grey, black and cream buffalo-check flannel overshirt over a heather-grey t-shirt, olive cargo pants, white low-top sneakers, the thin silver chain, one white earbud in his left ear only and the small black clip-on mic on the overshirt"
+        },
+        "LIGHT": "dim interior, overcast daylight outside; the outside keeps detail and is not blown out to white",
+        "STYLE": "a real, unedited iPhone photo: sensor grain, flat colour, deep focus, slight softness",
+        "STRICTLY_EXCLUDED": [
+          "NO smooth plastic skin, NO beauty filter",
+          "NO other people",
+          "NO text, signs, house numbers, logos or watermark",
+          "NO earbud in the right ear",
+          "NO navy quarter-zip, NO hoodie, NO hat"
+        ],
+        "OUTPUT": "9:16 vertical"
+      },
+      "omni_prompt": "Handheld UGC iPhone video filmed by a friend inside the house, about two metres behind the man. Use the uploaded image as the first frame: the same man, the same outfit, the same house. He walks out through the open front door onto the porch into the overcast daylight. The camera follows him two steps and stops at the doorway, with natural hand shake; it never cuts and never zooms. Audio: footsteps on old floorboards, then on the porch, light wind outside. Rules: one continuous take, no jump cuts. He does not speak. The house stays exactly as it is: no damage appears, grows, moves or disappears. His face, hair, outfit and accessories stay exactly as in the image (one earbud, left ear only). No other people. No text, signs, logos or watermark. No music."
+    }
+  ],
+  "a_roll_clips": [
+    {
+      "clip": 1,
+      "image": "L1 front walk",
+      "duration_s": 8,
+      "credits": 105,
+      "prompt": "10_Video_Builds/Ad16_JMSN_Walkthrough/old/OLD_5clip_plan_OLD_5clip_plan_clip1_prompt.txt"
+    },
+    {
+      "clip": 2,
+      "image": "L2 kitchen",
+      "duration_s": 8,
+      "credits": 105,
+      "prompt": "10_Video_Builds/Ad16_JMSN_Walkthrough/old/OLD_5clip_plan_OLD_5clip_plan_clip2_prompt.txt"
+    },
+    {
+      "clip": 3,
+      "image": "L2 kitchen",
+      "duration_s": 10,
+      "credits": 126,
+      "prompt": "10_Video_Builds/Ad16_JMSN_Walkthrough/old/OLD_5clip_plan_OLD_5clip_plan_clip3_prompt.txt"
+    },
+    {
+      "clip": 4,
+      "image": "L3 broken floor",
+      "duration_s": 10,
+      "credits": 126,
+      "prompt": "10_Video_Builds/Ad16_JMSN_Walkthrough/old/OLD_5clip_plan_OLD_5clip_plan_clip4_prompt.txt"
+    },
+    {
+      "clip": 5,
+      "image": "L1 front walk",
+      "duration_s": 6,
+      "credits": 84,
+      "prompt": "10_Video_Builds/Ad16_JMSN_Walkthrough/old/OLD_5clip_plan_OLD_5clip_plan_clip5_prompt.txt"
+    }
+  ],
+  "generation_order": [
+    "1. 3 scene images L1/L2/L3 (54 credits)",
+    "2. 3 character b-roll start images CB1/CB4/CB5, using the scene images (54 credits)",
+    "3. Omni A-roll clip 1 first, lock the prompt, then clips 2-5 (546 credits)",
+    "4. Omni character b-roll CB1/CB4/CB5 (210 credits)",
+    "5. find the 2 missing stock clips (free)",
+    "6. edit to this timeline, retimed to the real clips"
+  ],
+  "cost_remaining_credits_list_price": {
+    "scene_images": 54,
+    "cb_start_images": 54,
+    "a_roll_clips": 546,
+    "cb_clips": 210,
+    "total": 864
+  }
+}

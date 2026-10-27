@@ -13,19 +13,20 @@ For a production-ready script in one pass: paste [prompts/one-shot-script.md](pr
 4. **Test** ([testing-and-iteration.md](testing-and-iteration.md)): hook first, hook rate, 7-day data, funnel triage, retarget by objection, log winners in [swipe-file.md](swipe-file.md).
 5. **Speed up with AI** ([prompts/copy-prompts.md](prompts/copy-prompts.md)): research miner, Objection Obliterator, hook generator, copy chief, pre-mortem, teardown.
 
-## The 11 rules that matter most
+## The 12 rules that matter most
 From the Georgi and Suby channel scans, confirmed across dozens of videos:
 1. **The ad sells the click, not the product.** The page, text or call does the selling.
 2. **Their exact words beat yours.** Paste them; don't paraphrase.
 3. **Dimensionalize.** Every pain and benefit is a scene they can picture.
 4. **Curiosity only works with a specific benefit attached.**
-5. **Test benefit-led hooks against pain-led ones.** Most teams only write pain.
+5. **Test benefit-led hooks against pain-led ones.** Most teams only write pain. *Owner rule 2026-10-09 overrides this: hooks are fear-led ([sell-fear.md](sell-fear.md)); test fear angles against each other.*
 6. **Open on their situation,** never on you or your company.
 7. **Look native.** If it looks like an ad, it's dead.
 8. **A strong, honest offer beats a clever argument.** Say the catch first.
 9. **Keep the same promise and emotional temperature** from ad to page to first reply.
 10. **Volume, then judgment.** Write 20 hooks, kill most, test the hook first, and log why winners won.
 11. **Sell the destination, not the plane** (Levitt, Tracy; research in [sell-the-destination.md](sell-the-destination.md)). Spend the time on their life after and the 1-3 easy steps they take to get there; the offer mechanics get one line.
+12. **Sell fear, open on the landscape** (owner rule 2026-10-09; research and fact bank in [sell-fear.md](sell-fear.md)). Open on true, sourced facts about how life and the market have changed, land the fear on one character, then show the easy way out.
 
 ## Structure
 | Path | Contents |
@@ -33,6 +34,7 @@ From the Georgi and Suby channel scans, confirmed across dozens of videos:
 | [claims-registry.md](claims-registry.md) | **The single source of truth for claims: confirmed wording, contradicted / do-not-use, not confirmed, banned, and the before-any-script-ships check.** Every script defers to it |
 | [research-cards.md](research-cards.md) | Pre-filled research cards for all 5 seller avatars |
 | **[AD_COPY_CHECKLIST.md](AD_COPY_CHECKLIST.md)** | **Start here. The routine every ad script goes through.** |
+| **[sell-fear.md](sell-fear.md)** | **Every ad opens with it: the landscape open, the fear-first budget, the research, the real-estate fact bank, a worked example, the pre-ship check.** |
 | **[sell-the-destination.md](sell-the-destination.md)** | **Every script follows it: four tags (PAIN / PLANE / PATH / DESTINATION), budgets for cold and hot ads, the research behind it, the pre-ship check.** |
 | [research-playbook.md](research-playbook.md) | Get the market's exact words into the lines: worksheet, awareness gap, dimensionalization, second-click check |
 | [PERSUASIVE_SCRIPTING_PLAYBOOK.md](PERSUASIVE_SCRIPTING_PLAYBOOK.md) | The loop: angle engine, five Property Abundance angles, test plan, reading Meta data, diagnose → next test, the next-script review, video and voice realism, the feedback log |
